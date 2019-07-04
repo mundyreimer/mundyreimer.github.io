@@ -12,8 +12,8 @@ menu_settings:
   menu_items:
     - title: 'writing'
       url: '/'
-    - title: 'topics'
-      url: '/topics'
+    - title: 'archive'
+      url: '/archive'
     - title: 'projects'
       url: '/projects/'
     - title: 'resources'
