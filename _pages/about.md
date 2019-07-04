@@ -34,7 +34,7 @@ An academic at heart, I'm in my natural element when discussing fascinating and 
 
 I particularly enjoy philosophy and science-fiction, but my interests are quite broad.  In fact, if I were to make up a fictional profession / identity that I'd love to have, it would be a metaphoritician (like a mathematician-linguist-physicist-artist hybrid), who will happily steal concepts, metaphors, and jargon from one field and apply them to another in interdiscplinary fashion to see how well they fit and when they break :)
 
-Moar srsly (haha), I'm currently an MS student studying ~~computational clairvoyance~~, uh I mean data science & machine learning :)  Basically just your friendly k-nearest neighborhood data scientist.  Oh, and I also have a former background in neuroscience & cellular biology, but have dabbled quite a bit in both computer science and philosophy.  [See here](https://mundyreimer.github.io/project/project1-old) for more.  
+Moar srsly, I'm currently an MS student studying ~~computational clairvoyance~~, err I mean data science & machine learning :)  Basically just your friendly k-nearest neighborhood data scientist.  Oh, and I also have a former background in neuroscience & cellular biology, and have also dabbled quite a bit in both computer science and philosophy.  [See here](https://mundyreimer.github.io/project/project1-old) for more.  
 
 ---
 
