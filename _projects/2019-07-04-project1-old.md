@@ -6,6 +6,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ---
 
 A hodge-podge of former stuff that I've been involved in...
+
 *(I mainly use this to connect all the disparate stuff on the interwebs to one central location)*
 
 ## computational neuroscience
