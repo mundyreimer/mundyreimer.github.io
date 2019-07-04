@@ -13,7 +13,7 @@ menu_settings:
     - title: 'latest'
       url: '/'
     - title: 'archive'
-      url: '/archive/'
+      url: '/archive'
     - title: 'projects'
       url: '/projects/'
     - title: 'resources'
