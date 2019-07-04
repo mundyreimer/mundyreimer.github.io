@@ -7,6 +7,10 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
+*I use this page as a personal notebook of curated content and thus try to update as often as I can, so feel free to check back regularly if interested*
+
+---
+
 ## tools
 
 [spaced-repetition flashcards](https://www.brainscape.com/profiles/3408543)
@@ -46,4 +50,3 @@ A list of books + reviews that I've read.  I *love* recommendations (both non-fi
 
 ---
 
-*I use this page as a personal notebook of curated content and thus try to update as often as I can, so feel free to check back regularly if interested*
