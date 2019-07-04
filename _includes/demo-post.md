@@ -82,9 +82,8 @@ We've packed this theme with powerful features to show off your work. Why not pu
 
 
 ----------------------------------------------
-
-
 From other 2018-06-30-demo-post.md file:
+----------------------------------------------
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
