@@ -35,7 +35,7 @@ When I need to write a report or paper using LaTeX to get the proper math symbol
 
 [vimium](https://vimium.github.io/)
 
-A Google Chrome extension that gives you keyboard shortcuts for navigating your browser, giving you the "control in the spirit of the Vim editor".  You can stick to your regular ol' Chrome shortcuts to open+close tabs, go back+forward through a page, etc, but I found the most useful feature of this was the simple pressing down with both my index fingers to automatically assign a 'letter' to each clickable link in the browser window, allowing me to mostly forgo the use of my mouse when browsing.  It's customizable too, but just make sure that if you like using shortcuts for your jupyter notebook experience that you also adjust the settings so that these new Vimium shortcuts are site-specific and do not conflict.  
+A Google Chrome extension that gives you keyboard shortcuts for navigating your browser, giving you "control in the spirit of the Vim editor".  You can stick to your regular ol' Chrome shortcuts to open+close tabs, go back+forward through a page, etc, but I found the most useful feature of this was the simple pressing down with both my index fingers to automatically assign a 'letter' to each clickable link in the browser window, allowing me to mostly forgo the use of my mouse when browsing.  It's customizable too, but just make sure that if you like using shortcuts for your jupyter notebook experience that you also adjust the settings so that these new Vimium shortcuts are site-specific and do not conflict.  
 
 [better-onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=en)
 
