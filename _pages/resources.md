@@ -53,9 +53,9 @@ Some articles I've written or read on Medium.
 
 A list of books + reviews that I've read.  I *love* recommendations (both non-fiction + fiction), so if you think I'd like something definitely hit me up!
 
-**tutorials**
+[how to make your own personal blog / site](https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a)
 
-  How to make your own personal blog / site.  For this site I use a combination of [Jekyll](https://jekyllrb.com/) for working with my HTML + Markdown, and [GitHub pages](https://pages.github.com/) for *free* hosting.  Since my daily work has more to do with scientific computing, web-based programming was completely new to me.  I highly recommend first starting with a [free Jekyll template](https://jekyllthemes.io/) and messing around with it from there.  Newbie-friendly + free :)
+For this site I use a combination of [Jekyll](https://jekyllrb.com/) for working with my HTML + Markdown, and [GitHub pages](https://pages.github.com/) for *free* hosting.  Since my daily work has more to do with scientific computing, web-based programming was completely new to me.  I highly recommend first starting with a [free Jekyll template](https://jekyllthemes.io/) and messing around with it from there.  Newbie-friendly + free :)
 
 
 ---
