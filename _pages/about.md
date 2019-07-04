@@ -30,6 +30,12 @@ Some of the things I enjoy thinking about:
 
 ### me
 
+An academic at heart, I'm in my natural element when discussing fascinating and novel ideas.  The fastest way to catch my interest is through a book, so if you have bibliophilic tendencies as well, I more than welcome hearing about the latest thing you've read!
+
+I particularly enjoy philosophy and science-fiction, but my interests are quite broad.  In fact, if I were to make up a fictional profession / identity that I'd love to have, it would be a metaphoritician (like a mathematician-linguist-physicist-artist hybrid), who will happily steal concepts, metaphors, and jargon from one field and apply them to another in interdiscplinary fashion to see how well they fit and when they break :)
+
+Moar srsly, I'm currently an MS student studying data science & machine learning.  My former background is in neuroscience & cellular biology, but I've also dabbled quite a bit in both computer science and philosophy.  [See here](https://mundyreimer.github.io/project/project1-old) for more.  
+
 ---
 
 

@@ -57,6 +57,5 @@ A list of books + reviews that I've read.  I *love* recommendations (both non-fi
 
 For this site I use a combination of [Jekyll](https://jekyllrb.com/) for working with my HTML + Markdown, and [GitHub pages](https://pages.github.com/) for *free* hosting.  Since my daily work has more to do with scientific computing, web-based programming was completely new to me.  I highly recommend first starting with a [free Jekyll template](https://jekyllthemes.io/) and messing around with it from there.  Newbie-friendly + free :)
 
-
 ---
 
