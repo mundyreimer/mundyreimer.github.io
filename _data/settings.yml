@@ -10,10 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'latest'
+    - title: 'writing'
       url: '/'
-    - title: 'archive'
-      url: '/archive'
+    - title: 'topics'
+      url: '/topics'
     - title: 'projects'
       url: '/projects/'
     - title: 'resources'
