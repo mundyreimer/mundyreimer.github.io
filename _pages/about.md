@@ -2,7 +2,7 @@
 title: about
 subtitle: 
 description: 
-featured_image: /Users/mundyreimer/mundyreimer.github.io/images/profilepics/me_abhaya.jpg
+featured_image: /images/profilepics/me_abhaya.jpg
 ---
 
 ## purpose
