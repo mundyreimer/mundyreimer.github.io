@@ -33,6 +33,14 @@ If you would like to share your notebooks online I recommend a combination of [n
 
 When I need to write a report or paper using LaTeX to get the proper math symbol type-setting, I often find myself forgetting the proper syntax for how to write certain algebraic manipulations or mathematical symbols.  Instead of always having to look the correct syntax up, I can take a quick screenshot of my digital textbook, wikipedia page, etc that I'm currently looking at using this handy 'snipping' tool assigned to a hotkey, which then automatically converts the image to the corresponding LaTeX syntax.  Super useful!
 
+[vimium](https://vimium.github.io/)
+
+A Google Chrome extension that gives you keyboard shortcuts for navigating your browser, giving you the "control in the spirit of the Vim editor".  You can stick to your regular ol' Chrome shortcuts to open+close tabs, go back+forward through a page, etc, but I found the most useful feature of this was the simple pressing down with both my index fingers to automatically assign a 'letter' to each clickable link in the browser window, allowing me to mostly forgo the use of my mouse when browsing.  It's customizable too, but just make sure that if you like using shortcuts for your jupyter notebook experience that you also adjust the settings so that these new Vimium shortcuts are site-specific and do not conflict.  
+
+[better-onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=en)
+
+Like many others, I am the type of person to constantly open up new tabs whenever I research a particular subject or just casually browse the web.  To keep your tabs neat and tidy (and help prevent your pc from slowing down due to too many open tabs), this browser extension allows you to temporarily tuck away those tabs into lists with one easy click from which you can restore later.  You can also organize these lists for future reference.  
+
 ---
 
 ### material
