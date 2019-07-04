@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ---
 
-## tools
+### tools
 
 [spaced-repetition flashcards](https://www.brainscape.com/profiles/3408543)
 
@@ -19,7 +19,7 @@ Flashcards I made to review various topics using the [spaced-repetition software
 
 ---
 
-## tech
+### tech
 
 [project jupyter](https://jupyter.org/install)
 
@@ -31,7 +31,7 @@ If you would like to share your notebooks online I recommend a combination of [n
 
 ---
 
-## material
+### material
 
 [medium articles](https://medium.com/@mundyreimer)
 

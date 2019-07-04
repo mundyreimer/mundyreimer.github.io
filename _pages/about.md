@@ -5,13 +5,13 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-## purpose
+### purpose
 
 Just a playful compilation of my seemingly eclectic thoughts, interests, & works :)  
 
 ---
 
-## interests
+### interests
 
 Some of the things I enjoy thinking about:
 
@@ -30,7 +30,7 @@ Some of the things I enjoy thinking about:
 
 ---
 
-## me
+### me
 
 ---
 
