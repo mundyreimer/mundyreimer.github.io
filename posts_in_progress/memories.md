@@ -1,0 +1,7 @@
+For reasons I'm sure many other people share, I've always found it incredibly difficult writing for others, but rather easy when I'm just writing for myself and my innate love of words.  As such, I hope to use this page to not only curate some content that I find interesting, but also to help against my struggle against the ravages of time and memory decay.  
+
+I've found that over the years if I don't actively use some piece of knowledge, my nature of endless reading and consumption makes recalling certain concepts and ideas rather difficult over time.  To help combat this, I've discovered that the act of summarizing, synthesizing, and writing about a topic not only helps ingrain my knowledge for better recall, but also allows me to create these little *cheatsheets* of articles that I can look back on to review my ideas, especially if I would like to see the evolution of my thoughts and opinions.  
+
+Additionally, like many others I use the written word as a tool to clarify my own thought processes and force myself to explictly lay down my logic for review to help prevent my very own act of tricking myself into believing multiple competing lines of logic at once.
+
+It is a neat side-effect of this internal justification that I end up creating something that hopefully others might perhaps find interesting or useful without much personal anxiety spent deliberating about others judging me or my work.   

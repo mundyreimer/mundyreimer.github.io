@@ -7,22 +7,34 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
+## purpose
+
+Just a playful compilation of my seemingly eclectic thoughts, interests, & works :)  
+
+---
+
 ## interests
 
 Some of the things I enjoy thinking about:
 
-* Theories of Abiogenesis and Self-Organizing Systems
+* Theories of Abiogenesis + Self-Organizing Systems
 * Formal Theories of Consciousness
-* Evolutionary mechanisms played across multiple hierarchical levels and space/time spans
+* Evolutionary mechanisms across multiple spatial/temporal levels
 * Non-classical logical systems
+* Interpreting logical systems through geometric lens
 * Geometric interpretations of music
-* Constructed languages, alternative mathematical & musical notational systems, & the Sapir-Whorfian Hypothesis
+* Alternative mathematical & musical notational systems
+* The Sapir-Whorfian Hypothesis
+* Constructed languages
 * History of languages & etymologies of words
-* Constructing fictional / alternative societies, ecologies, and physics for world-building
-* Mining science fiction for technological inspiration, ethical dilemmas, and societal consequences
+* World-building alternative societies, ecologies, & physics
+* Mining science fiction for technological inspiration, ethical dilemmas, & societal consequences
+
+---
 
 ## me
 
+---
 
 ## cv
 
