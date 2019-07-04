@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Mundy Reimer
+  site_tagline: 
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,12 +12,15 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
+    - title: 'Archive'
+      url: '/archive/'
     - title: 'Projects'
+      url: '/projects/'
+    - title: 'Resources'
       url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+
 
 grid_settings:
   grid_spacing: 10
