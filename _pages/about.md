@@ -2,7 +2,7 @@
 title: about
 subtitle: 
 description: 
-featured_image: /images/profilepic/me-abhaya.jpg
+featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ## purpose
