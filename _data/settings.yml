@@ -10,15 +10,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'latest'
       url: '/'
-    - title: 'Archive'
+    - title: 'archive'
       url: '/archive/'
-    - title: 'Projects'
+    - title: 'projects'
       url: '/projects/'
-    - title: 'Resources'
+    - title: 'resources'
       url: '/projects/'
-    - title: 'About'
+    - title: 'about'
       url: '/about'
 
 
