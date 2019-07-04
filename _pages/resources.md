@@ -5,8 +5,6 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 *I use this as a personal notebook of curated content and thus try to update as often as I can, so feel free to check back regularly if interested*
 
 ---

@@ -2,10 +2,8 @@
 title: about
 subtitle: 
 description: 
-featured_image: 
+featured_image: /Users/mundyreimer/mundyreimer.github.io/images/profilepics/me_abhaya.jpg
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 ## purpose
 
