@@ -34,5 +34,5 @@ Some of the things I enjoy thinking about:
 
 ---
 
-## cv
+
 
