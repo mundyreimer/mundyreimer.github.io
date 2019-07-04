@@ -9,9 +9,9 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ## tools
 
-[spaced-repetition flashcards](https://www.brainscape.com/p/212G3-LH-6LO5O)
+[spaced-repetition flashcards](https://www.brainscape.com/profiles/3408543)
 
-Flashcards I made to review various topics using the [spaced-repetition software (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition#Software) called [Brainscape](https://en.wikipedia.org/wiki/Brainscape).  I try to make it a habit to create new cards whenever studying something new or coming across something interesting I've read online or in a book.  I use 2x daily for 10 minutes each, once after waking up and another right before bed.  Able to be used on phone, tablet, or pc.  Feel free to copy + edit for your own use.  See my post for more on memory hacking.  
+Flashcards I made to review various topics using the [spaced-repetition software (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition#Software) called [Brainscape](https://www.brainscape.com/i/212G3).  I try to make it a habit to create new cards whenever studying something new or coming across something interesting I've read online or in a book.  I use 2x daily for 10 minutes each, once after waking up and another right before bed.  Able to be used on phone, tablet, or pc.  Feel free to copy + edit for your own use.  See my post for more on memory hacking.  
 (includes review of beginning & intermediate Python syntax + concepts, Bash/Linux shell commands, Markdown, SQL, basic Machine Learning, basic Deep Learning, Linear Algebra, Statistics, Calculus, and various niche topics I like to study or read about)
 
 ---
