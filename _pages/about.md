@@ -19,7 +19,7 @@ Some of the things I enjoy thinking about:
 
 * Theories of Abiogenesis + Self-Organizing Systems
 * Formal Theories of Consciousness
-* Evolutionary mechanisms across multiple spatial/temporal levels
+* Evolution across multiple spatial/temporal levels
 * Non-classical logical systems
 * Interpreting logical systems through geometric lens
 * Geometric interpretations of music
