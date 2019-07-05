@@ -51,6 +51,6 @@ Learned common molecular biology and genetics techniques while studying the role
 
 ## behavioral neuroscience
 
-As part of the [UCLA Comparative Cognition Lab](https://pigeonrat.psych.ucla.edu/) directed by Dr. Aaron Blaisdell, I learned about reward probability and behavioral variability by building my own operant conditioning chamber ("Skinner box"), [feeding rats cocoa puffs](https://escholarship.org/uc/item/2182x9bc), and [teaching pigeons video games](https://pigeonrat.psych.ucla.edu/pigeons/) :)
+As part of the [UCLA Comparative Cognition Lab](https://pigeonrat.psych.ucla.edu/) directed by Dr. Aaron Blaisdell, I learned about reward probability and behavioral variability by building my own operant conditioning chamber ("[Skinner box](https://en.wikipedia.org/wiki/Operant_conditioning_chamber"), [feeding rats cocoa puffs](https://escholarship.org/uc/item/2182x9bc), and [teaching pigeons video games](https://pigeonrat.psych.ucla.edu/pigeons/) :)
 
 ---
