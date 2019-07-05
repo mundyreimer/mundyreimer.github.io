@@ -31,7 +31,7 @@ Some of the things I enjoy thinking about:
 
 ### me
 
-An academic at heart, I'm in my natural element when discussing neat and novel ideas.  The fastest way to catch my interest is through a book, so if you have bibliophilic tendencies I more than welcome hearing about the latest thing you've read!
+An academic at heart, I'm in my natural element when discussing neat and novel ideas.  The fastest way to catch my interest is through a book, so if you have bibliophilic tendencies, I more than welcome hearing about the latest thing you've read!
 
 I particularly enjoy philosophy and science-fiction, but generally my interests can be quite broad.  In fact, if I were to make up a fictional profession / identity that I'd love to have, I would call myself a 'metaphoratician' (like a mathematician-linguist-physicist-artist hybrid), who will happily steal concepts, metaphors, and jargon from one field and apply them to another in interdiscplinary fashion. Seeing how well metaphors fit, stretch, and break when transferred from one domain to the next is what definitely sparks joy for me ~*
 
