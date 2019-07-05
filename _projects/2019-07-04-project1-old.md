@@ -45,7 +45,7 @@ Studied the evolution of neurotoxin proteins in Agelenopsis aperta (the desert g
 
 ## genetics
 
-Learned common molecular biology and genetics techniques while studying the role of the agamous transcription factor and wuschel gene in floral stem cell maintenance of the Arabidopsis thaliana (mustard plant) in [Dr. Xuemei Chen](https://iigb.ucr.edu/xchen/)'s lab under the excellent guidance of Rae Yumul.  
+Learned common molecular biology and genetics techniques while studying the role of the agamous transcription factor & wuschel gene in floral stem cell maintenance of the Arabidopsis thaliana (mustard plant) in [Dr. Xuemei Chen](https://iigb.ucr.edu/xchen/)'s lab under the excellent guidance of Rae Yumul.  
 
 ---
 
