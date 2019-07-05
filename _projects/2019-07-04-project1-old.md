@@ -9,6 +9,8 @@ A hodge-podge of former stuff that I've been involved in...
 
 *(I mainly use this to connect all the disparate stuff on the interwebs to one central location)*
 
+---
+
 ## computational neuroscience
 
 [Built and ran simulations](https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis) of a spiking neural network modeled with endocannabinoid retrograde signaling, GABA-mediated inhibitory, and excitatory Glutamate pathways found in the medial prefrontal cortex of mice.  Attempted to investigate the changes in synaptic activity and firing patterns associated with cannabis use, brain development, and psychosis.  This was done at the Hungarian Academy of Science as part of the Theoretical Neuroscience and Complex Systems group ran by Dr. Péter Érdi and mentored by both Dr. Zoltán Somogyvári and Mihály Bányai.  
