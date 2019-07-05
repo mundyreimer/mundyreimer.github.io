@@ -21,7 +21,7 @@ I also took part in the separate [BSCS program](http://www.bscs-us.org/) studyin
 
 ## electrophysiology 
 
-Researched endocannabinoid signaling mechanisms through recording and analyzing the electrical activity of populations of neurons in the brain slices of mice as part of the Korzus lab and mentored by the excellent Jonny Lovelace.  Also [wrote a paper](https://books.google.com/books/about/Computational_Model_of_Induced_Alteratio.html?id=SjZlswEACAAJ) and did my undergraduate honors thesis that is now preserved in the school library's cold dark basement.
+Researched endocannabinoid signaling mechanisms through recording and analyzing the electrical activity of populations of neurons in the brain slices of mice as part of the Korzus lab under the excellent mentorship of Dr. Jonny Lovelace.  Also [wrote a paper](https://books.google.com/books/about/Computational_Model_of_Induced_Alteratio.html?id=SjZlswEACAAJ) and did my undergraduate honors thesis that is now preserved in the school library's cold dark basement.
 
 ---
 
