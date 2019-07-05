@@ -27,7 +27,7 @@ Researched endocannabinoid signaling mechanisms through recording and analyzing 
 
 ## neural networks
 
-Gave talks about the mathematics of neural nets and tapped into the collective hive-mind of people writing proofs.  These [Pacific Summer Unsolved Math Seminars](https://sites.google.com/site/fullertoncollegemathevents/) are ran by [Dr. Dana Clahane](http://staffwww.fullcoll.edu/dclahane/index.html), a kind-hearted and inspiring guy who works on cultivating the mathematical curiosity in the surrounding Fullerton, CA community.  He hosts talks given by both students, colleagues, and professional mathematicians.  He also heads the local community college Putnam exam math training on a volunteer basis.     
+Gave talks about the mathematics of neural nets and tapped into the collective hive-mind of people writing proofs.  These [Pacific Summer Unsolved Math Seminars](https://sites.google.com/site/fullertoncollegemathevents/) are ran by [Dr. Dana Clahane](http://staffwww.fullcoll.edu/dclahane/index.html), a kind-hearted and inspiring mathematician who works on cultivating the mathematical curiosity in the surrounding Fullerton, CA community.  He hosts talks given by both students, colleagues, and professional mathematicians.  He also heads the local community college Putnam exam math training on a volunteer basis.     
 
 ---
 
