@@ -158,7 +158,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: <meta name="google-site-verification" content="zV-1CW6_6FjXuPycl5hTN1zcbPrLwtjlsWNldOFVHvY" />
+  analytics_code: '<meta name="google-site-verification" content="zV-1CW6_6FjXuPycl5hTN1zcbPrLwtjlsWNldOFVHvY" />'
   custom_styles: ""
   header_js: ""
   footer_js: ""
