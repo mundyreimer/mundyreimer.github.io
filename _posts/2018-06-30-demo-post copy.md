@@ -1,11 +1,10 @@
 ---
 title: 'Demo Post 2'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: 
 excerpt: This is a test post.
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
 ## test title
 
