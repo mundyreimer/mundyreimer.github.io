@@ -13,7 +13,7 @@ Just a playful compilation of my seemingly eclectic thoughts, interests, & works
 
 Some of the things I enjoy thinking about:
 
-* Theories of Abiogenesis
+* Theories of Abiogenesis + the Origin(s) of Life
 * Self-Organizing Systems + Biological Complexity Theory
 * Formal Theories of Consciousness
 * Evolution across multiple spatial/temporal levels
