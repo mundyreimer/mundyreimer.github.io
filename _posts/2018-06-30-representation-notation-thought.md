@@ -5,7 +5,7 @@ featured_image:
 excerpt: Compilation of resources featuring the interplay of mathematics, language, and notation
 ---
 *Updated: 2019-08-23*  
-*Topics: [Mathematics], [Computer Science], [Linguistics], [Philosophy], [Cognitive Science](https://mundyreimer.github.io/archive)*  
+*Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Speculative*
 
 ## Resources & Thoughts
