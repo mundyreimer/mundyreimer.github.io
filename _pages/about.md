@@ -20,7 +20,7 @@ Some of the things I enjoy thinking about:
 * Non-classical logical systems
 * Interpreting logical systems through a geometric lens
 * Geometric interpretations of music
-* Alternative mathematical & musical notational systems
+* [Alternative mathematical & musical notational systems](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [Constructed languages](https://mundyreimer.github.io/blog/representation-notation-thought)
 * History of languages & etymologies of words
