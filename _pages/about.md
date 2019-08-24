@@ -21,7 +21,7 @@ Some of the things I enjoy thinking about:
 * Interpreting logical systems through a geometric lens
 * Geometric interpretations of music
 * Alternative mathematical & musical notational systems
-* The Sapir-Whorfian Hypothesis
+* [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
 * Constructed languages
 * History of languages & etymologies of words
 * World-building alternative ecologies, biologies, & psychologies
