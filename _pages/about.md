@@ -22,7 +22,7 @@ Some of the things I enjoy thinking about:
 * Geometric interpretations of music
 * Alternative mathematical & musical notational systems
 * [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
-* Constructed languages
+* [Constructed languages](https://mundyreimer.github.io/blog/representation-notation-thought)
 * History of languages & etymologies of words
 * World-building alternative ecologies, biologies, & psychologies
 * Mining science fiction for technological inspiration, ethical dilemmas, & societal consequences
