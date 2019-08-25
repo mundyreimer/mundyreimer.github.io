@@ -37,7 +37,7 @@ I particularly enjoy philosophy and science-fiction, but generally my interests 
 
 More srsly, I'm currently an MS student studying ~~computational clairvoyance~~ data science & machine learning.  So basically just your friendly k-nearest neighborhood data scientist :)  Oh, and I also have a [former background in neuroscience](https://mundyreimer.github.io/project/project1-old), dabbling quite a bit in both computer science and philosophy as well.  
 
-I'm also active [volunteering and coordinating events](https://pybay.com/team/) in the local SF Python Community, in addition to founding + formerly running the *East Bay [Deep Learning in PyTorch study group](https://www.facebook.com/groups/BayAreaPyTorchers/about/)* as part of the [Facebook & Udacity Scholarship Challenge](https://www.udacity.com/facebook-pytorch-scholarship) so if you're in the area, say *hi* :)
+I'm also active [volunteering and coordinating events](https://pybay.com/team/) in the local SF Python Community, in addition to founding + formerly running the *East Bay [Deep Learning in PyTorch study group](https://www.facebook.com/groups/BayAreaPyTorchers/about/)* as part of the [Facebook & Udacity Scholarship Challenge](https://www.udacity.com/facebook-pytorch-scholarship), so if you're in the area, say *hi* :)
 
 [See here](https://mundyreimer.github.io/project/project1-old) and [here](https://www.linkedin.com/in/mundyreimer) for more.  
 
