@@ -91,7 +91,7 @@ Instead, the questions / concepts that I do think are interesting to think about
 
     (I can easily think up various *rocking/teetering* type stamp devices that could make writing rather quick, while still being rather weird but logical in its design, for example, imagine writing not with a pen, but holding and rolling a ball-shaped stamp or a reverse-crescent/moon shaped stamp underneath one's palms/fingertips. How about a stamp in the shape of something like the Hungarian Gömböc and its various iterations?)  
 
-Another project designed by DeBlock featuring an attempt at a Universal Logographic Physics-based language can be [found here](http://www.dscript.org/uscript.pdf) called DScript.  I particularly like this conlanger's symbol for 2D, 3D, and 4D, etc.  His use of set-theoretic-like bracketing might also be of use for alternative conscripts that I'm personally entertaining, although there is also something to be said about doing away with this foundational notion altogether and switching to something similar to the category-theoretic diagrams in the aforementioned Graphical Linear Algebra link.
+Another project designed by DeBlock featuring an attempt at a Universal Logographic Physics-based language can be [found here](http://www.dscript.org/uscript.pdf) called *DScript*.  I particularly like this conlanger's symbol for 2D, 3D, and 4D, etc.  His use of set-theoretic-like bracketing might also be of use for alternative conscripts that I'm personally entertaining, although there is also something to be said about doing away with this foundational notion altogether and switching to something similar to the category-theoretic diagrams in the aforementioned Graphical Linear Algebra link.
 
 -----
 
