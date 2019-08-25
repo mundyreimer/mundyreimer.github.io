@@ -91,21 +91,67 @@ Instead, the questions / concepts that I do think are interesting to think about
 
     (I can easily think up various *rocking/teetering* type stamp devices that could make writing rather quick, while still being rather weird but logical in its design, for example, imagine writing not with a pen, but holding and rolling a ball-shaped stamp or a reverse-crescent/moon shaped stamp underneath one's palms/fingertips. How about a stamp in the shape of something like the Hungarian Gömböc and its various iterations?)  
 
------
-
-* []
+Another project designed by DeBlock featuring an attempt at a Universal Logographic Physics-based language can be [found here](http://www.dscript.org/uscript.pdf) called DScript.  I particularly like this conlanger's symbol for 2D, 3D, and 4D, etc.  His use of set-theoretic-like bracketing might also be of use for alternative conscripts that I'm personally entertaining, although there is also something to be said about doing away with this foundational notion altogether and switching to something similar to the category-theoretic diagrams in the aforementioned Graphical Linear Algebra link.
 
 -----
 
-* []
+* [Notation & Thought Compilation](https://github.com/hypotext/notation) by Katherine Ye
+
+Katherine seems to have similar shared interests and she's put together an excellent compilation of various notational systems and how they may influence the ways people think.  I highly recommend checking out her thoughts and [talks](https://youtu.be/Wahc9Ocka1g).
 
 -----
 
-* []
+* [3Blue1Brown & Triangle of Power](https://youtu.be/sULa9Lc4pck)
+
+Intuitive notation developed for linking together the concepts of logarithms, exponents, and roots explained by 3Blue1Brown.  I do like the mention of the new 'O-plus' operation that might need to be introduced as this might possibly indicate that some ways of thinking might indeed be more/less conducive depending upon the notation we use, and thus suggesting that we might be possibly ignoring some pretty low-hanging conceptual fruit due to something as simple as having the wrong notation at hand for it.    
+
+It also might be wise to link to an article from *The Reference Frame* arguing for [why the Triangle of Power notation might be misguided](https://motls.blogspot.com/2016/07/why-triangle-notation-for-powers-is.html).  Good points against the new notation are made in here as well.  
 
 -----
 
-* []
+* [Hangul](https://www.quora.com/Its-said-written-language-was-invented-three-or-four-times-How-does-Korean-Hangul-fit-in-to-this)
+
+The Korean script, *Hangul*, is a featural writing system, which means the shapes of the symbols are not random/arbitrary but rather they encode phonological / physical movements you make with parts of your mouth (for example the placement of your tongue matching what the symbol looks like). I call this concept *embodiment* or making language aligned much more closely to our intuition, body, and gut-level feeling of meaning, which might make  things easy to learn, pick up, or decipher if you are an foreigner / alien with respect to the language (or even a linguist in the far far future trying to piece together fragments of culture from our language). 
+
+Now imagine taking that *embodied* aspect, but now applying it such that we update our mathematical symbols to become a lot more intuitive, easy to learn, easy to pick up after years of non-use, etc. Designing our numbers + algebraic symbols such that they actually *look like* how we would physically compute the equation and shuffle around the bits of meaning.
+
+Taking it a step further, what if we even transcend our algebraic symbol shuffling so that instead it just becomes a language of *graphs, networks, circuits, diagrams, and pictures*, such that mathematical reasoning becomes as intuitive as looking at for instance a plumbing layout and immediately knowing the consequences of some blocking of water in a pipe from just a glance. In essence, computing and reasoning with intuitive pictures instead of 'dry' symbols. How might this change our relationship with maths and possibly make certain thoughts about difficult-to-reason concepts like higher dimensions as intuitive as counting on one's fingers? Would this possibly induce the creation of new branches of mathematics and physics? 
+
+*"Writing was invented three/four times, and the alphabet was invented only once. Korean is the crown jewel of the alphabet world, but it wasn’t a separate instance of the invention of writing, nor an exception to the sole invention of the alphabet.*
+
+*Plenty of people have invented their own writing systems before - chances are you’ve at least tried to create your own cryptic system of doodles. These wouldn’t be considered separate inventions of the system of writing. Similarly, if you created an alphabet, well, you’ve based it on previous alphabetic systems, so your system isn’t an original idea.*
+
+*Hangul, then, is unextraordinary: it wasn’t a new invention of writing, nor even an independent creation of the alphabet. To say its invention was at all uninteresting, though, would be a gross injustice to its creation.*
+
+*King Sejong, better known as Sejong the Great, lived in a time when scholars and few others could read - something that upset Sejong, especially since he wanted to spread Confucianism to a population primarily illiterate in the 15th century.*
+
+*The solution, he decided, would be to create an entirely new writing system. It would have to be easy to learn, easy to read and write, and, out of tradition-required necessity, derived in some way from Chinese.*
+
+*The researchers Sejong sent out were led by Sin Suk-ju, who spoke - along with Korean, Chinese, and Japanese - the language of an empire that had only a few centuries earlier conquered China and Korea (as well as roughly half the entire continent of Eurasia): Mongolian.*
+
+*After several trips, Sin returned with bad news and good news. The bad news was that there was apparently no way to conform Chinese orthography to Sejong’s wishes; the good news was that they’d come across the perfect system: the alphabet.*
+
+*There were few alphabets in east Asia at the time: hanzi dominated, in varying forms and under different names across many different language families; Japanese supplemented the kanji with its kana syllabaries. Assorted Brahmic abugidas had come from India with the spread of Buddhism, but that was about it.*
+
+*The idea of the alphabet was perfect for Sejong’s dream: while not the most efficient system in terms of space, alphabetic systems use fewer characters than syllabaries, and certainly fewer than logographic systems. One character for each individual sound? Perfect! It wouldn’t be based on Chinese, but that was a small price to pay for the ease the alphabet offered.*
+
+*Hangul was based on Asian alphabets in idea, but not form, which turned out to be one of its stronger points. The basic consonants were based on the mouth shape used to make it: ㄱ is “g”, because you lift the back of your tongue to the back of your mouth to make it; ㄴ is “n”, because you lift the tip of your tongue to the front of your mouth; ㅅ, “s”, is made by putting your tongue at the front of your mouth and “hissing” air through it.*
+
+*Want their voiceless forms? No problem! Add another stroke to ㄱ (“g”) for ㅋ (“k”), another stroke to ㄷ (“d”) for ㅌ (“t”), and another stroke to ㅈ (“j”) for ㅊ (“ch”). Want to lengthen the consonant? All you have to do is double it: ㄲ (“kk”), ㄸ (“tt”), ㅃ (“pp”).*
+
+*Sejong named it the Hunminjeongeum, the “right sounds for teaching the people”.*
+
+*King Sejong, for all his authority and his system’s practicality, didn’t see the alphabet catch on before his death from diabetes in 1450. Tradition’s grasp on the society was so great that it wasn’t until 1896, over four hundred years later, that the first newspaper was published in it.*
+
+*It would take two world wars, Japanese suppression of the language, and a division of the country before Kim Il-Sung declared it the official script of North Korea, banning hanja in 1949. A new name had been given to it: 한글 han geul, literally “great script”.*
+
+*South Korea held out with its hanja (now in serious decline) for a few decades longer, but in the 1990s, after five and a half centuries, Sejong’s Hangul became the official alphabet."*
+
+-----
+
+* [*Words* podcast by Radiolab](https://www.wnycstudios.org/story/91725-words)
+
+Relevant podcast regarding the nature of language and how we internally organize the structure of our world with words.  Features a 27-year old guy who comes to learn the very first words in his entire life.  Incredibly fascinating story told in the brilliant narrative style of Radiolab.
 
 -----
 
