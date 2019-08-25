@@ -22,9 +22,9 @@ Another way of viewing this is to interpret notation as one's UI of sorts, where
 
 It might be prudent to first link to the somewhat opposing perspective from Gwern, in which he talks about the *Existence of Powerful Natural Languages* and how the quest to find them is doomed from the start because languages gain power inherently from specialization. 
 
-    "Designed formal notations & distinct vocabularies are often employed in STEM fields, and these specialized languages are credited with greatly enhancing research & communication.
+*"Designed formal notations & distinct vocabularies are often employed in STEM fields, and these specialized languages are credited with greatly enhancing research & communication.*
 
-    Many philosophers and other thinkers have attempted to create more generally-applicable designed languages for use outside of specific technical fields to enhance human thinking, but the empirical track record is poor and no such designed language has demonstrated substantial improvements to human cognition such as resisting cognitive biases or logical fallacies. I suggest that the success of specialized languages in fields is inherently due to encoding large amounts of previously-discovered information specific to those fields, and this explains their inability to boost human cognition across a wide variety of domains."
+*Many philosophers and other thinkers have attempted to create more generally-applicable designed languages for use outside of specific technical fields to enhance human thinking, but the empirical track record is poor and no such designed language has demonstrated substantial improvements to human cognition such as resisting cognitive biases or logical fallacies. I suggest that the success of specialized languages in fields is inherently due to encoding large amounts of previously-discovered information specific to those fields, and this explains their inability to boost human cognition across a wide variety of domains."*
 
 -----
 
@@ -45,22 +45,24 @@ See my extended ~~rant~~ argument[^longnote] for the acceptance and adoption of 
 
 The aforementioned article and the above paper by Iverson that it is inspired by gives a brief run down of notation invented throughout history.  Iverson's paper is given in the context of the history and design of APL.
 
-> Kenneth Iverson was a mathematician who is most famous for designing APL. This was the name of his programming language, and it cleverly stood for “A Programming Language.” The language is unique—unlike almost any other language—and contains many powerful and interesting ideas. He won the 1979 Turing Award for this and related work.
-> 
-> Today I want to talk about notation in mathematics and theory, and how notation can play a role in our thinking.
->
-> When I was a junior faculty member at Yale University, in the early 1970’s, APL was the language we used in our beginning programming class. The reason we used this language was simple: Alan Perlis, the leader of the department, loved the language. I was never completely sure why Alan loved it, but he did. And so we used it to teach our beginning students how to program.
-Iverson had created his language first as a notation for describing complex digital systems. The notation was so powerful that even a complex object like a processor could be written in his language in relatively few lines of code: the lines might be close to unreadable, but they were few. Later the language was implemented and had a small but strong set of believers. Clearly, Alan was one of them who once said:
->
-> > A language that doesn’t affect the way you think about programming, is not worth knowing.
+*"Kenneth Iverson was a mathematician who is most famous for designing APL. This was the name of his programming language, and it cleverly stood for “A Programming Language.” The language is unique—unlike almost any other language—and contains many powerful and interesting ideas. He won the 1979 Turing Award for this and related work.*
+ 
+*Today I want to talk about notation in mathematics and theory, and how notation can play a role in our thinking.*
 
-> The importance of nomenclature, notation, and language as tools of thought has long been recognized. In chemistry and in botany, for example, the establishment of systems of nomenclature by Lavoisier and Linnaeus did much to stimulate and to channel later investigation. Concerning language, George Boole in his Laws of Thought asserted “That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.”
->
-> Mathematical notation provides perhaps the best-known and best-developed example of language used consciously as a tool of thought. Recognition of the important role of notation in mathematics is clear from the quotations from mathematicians given in Cajori’s A History of Mathematical Notations. They are well worth reading in full, but the following excerpts suggest the tone:
-> 
-> > By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.  —A.N. Whitehead
-> 
-> > The quantity of meaning compressed into small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid.  —Charles Babbage
+*When I was a junior faculty member at Yale University, in the early 1970’s, APL was the language we used in our beginning programming class. The reason we used this language was simple: Alan Perlis, the leader of the department, loved the language. I was never completely sure why Alan loved it, but he did. And so we used it to teach our beginning students how to program.*
+
+*Iverson had created his language first as a notation for describing complex digital systems. The notation was so powerful that even a complex object like a processor could be written in his language in relatively few lines of code: the lines might be close to unreadable, but they were few. Later the language was implemented and had a small but strong set of believers. Clearly, Alan was one of them who once said:*
+
+*A language that doesn’t affect the way you think about programming, is not worth knowing.*
+
+*The importance of nomenclature, notation, and language as tools of thought has long been recognized. In chemistry and in botany, for example, the establishment of systems of nomenclature by Lavoisier and Linnaeus did much to stimulate and to channel later investigation. Concerning language, George Boole in his Laws of Thought asserted 'That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth "generally admitted.'*
+
+*Mathematical notation provides perhaps the best-known and best-developed example of language used consciously as a tool of thought. Recognition of the important role of notation in mathematics is clear from the quotations from mathematicians given in Cajori’s A History of Mathematical Notations. They are well worth reading in full, but the following excerpts suggest the tone:*
+
+*"By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race."  
+—A.N. Whitehead*
+
+*"The quantity of meaning compressed into small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid."  —Charles Babbage"*
 
 -----
 
