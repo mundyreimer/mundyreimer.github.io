@@ -181,6 +181,6 @@ Relevant podcast regarding the nature of language and how we internally organize
 
     Now obviously there are downsides to this using our Hindu-Arabic derived characters for our numbers (for example, 0 and 8 are symmetrical when flipped), but it's this kind of thinking that I'd like to propose in re-designing our math symbolic manipulation system to become more aligned with our visual intuitions.
 
-[^3]: Oscar Tay, M.A. in Linguistics, *Quora* reply to the question *"[It's said written language was invented three or four times. How does Korean Hangul fit in to this?](https://qr.ae/TWy7DP)
+[^3]: Oscar Tay, M.A. in Linguistics, *Quora* reply to the question *"[It's said written language was invented three or four times. How does Korean Hangul fit in to this?](https://qr.ae/TWy7DP)*
 
 -----
