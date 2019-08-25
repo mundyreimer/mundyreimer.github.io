@@ -149,13 +149,9 @@ Taking it a step further, what if we even transcend our algebraic symbol shuffli
 
 -----
 
-* [*Words* podcast by Radiolab](https://www.wnycstudios.org/story/91725-words)
+* [*Words* by Radiolab](https://www.wnycstudios.org/story/91725-words)
 
 Relevant podcast regarding the nature of language and how we internally organize the structure of our world with words.  Features a 27-year old guy who comes to learn the very first words in his entire life.  Incredibly fascinating story told in the brilliant narrative style of Radiolab.
-
------
-
-* []
 
 -----
 
