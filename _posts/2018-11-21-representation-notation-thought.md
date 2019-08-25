@@ -22,7 +22,9 @@ Another way of viewing this is to interpret notation as one's UI of sorts, where
 
 It might be prudent to first link to the somewhat opposing perspective from Gwern, in which he talks about the *Existence of Powerful Natural Languages* and how the quest to find them is doomed from the start because languages gain power inherently from specialization. 
 
-   > Designed formal notations & distinct vocabularies are often employed in STEM fields, and 
+   >>> Designed formal notations & distinct vocabularies are often employed in STEM fields, and
+   
+    
    > these specialized languages are credited with greatly enhancing research & communication. 
    
    Many philosophers and other thinkers have attempted to create more generally-applicable designed languages for use outside of specific technical fields to enhance human thinking, but the empirical track record is poor and no such designed language has demonstrated substantial improvements to human cognition such as resisting cognitive biases or logical fallacies. I suggest that the success of specialized languages in fields is inherently due to encoding large amounts of previously-discovered information specific to those fields, and this explains their inability to boost human cognition across a wide variety of domains.
@@ -42,7 +44,7 @@ See my extended ~~rant~~ argument[^longnote] for the acceptance and adoption of 
 -----
 
 * [Notation and Thinking](https://rjlipton.wordpress.com/2010/11/30/notation-and-thinking/) by rjlipton  
-[Notation as a Tool of Thought](https://drive.google.com/file/d/10O2VotO3ssRHerVkUvgMq0jeBgaH0kCz/view?usp=sharing) by Kenneth Iverson  
+* [Notation as a Tool of Thought](https://drive.google.com/file/d/10O2VotO3ssRHerVkUvgMq0jeBgaH0kCz/view?usp=sharing) by Kenneth Iverson  
 
 The aforementioned article and the above paper by Iverson that it is inspired by gives a brief run down of notation invented throughout history.  Iverson's paper is given in the context of the history and design of APL.
 
