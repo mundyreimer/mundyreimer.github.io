@@ -109,7 +109,6 @@ Instead, the questions / concepts that I do think are interesting to think about
 -----
 
 #### footnotes
------
 
 [^longnote]: So these last couple of years got me thinking when was the last time I actually *felt* math, and *created* it like how one would create art or music. When did I last *play* with it. And for me, that was Geometry (and much much later Graph Theory). It might be because evolution and natural selection have biased us in favor of being predominately visual creatures, but I felt the closest affinity to mathematics when I could actually visualize and *see* things happening. Languages, grammar, and symbols are flippin' hard to learn, but pictures, heck, those are actually easy and fun.
 
