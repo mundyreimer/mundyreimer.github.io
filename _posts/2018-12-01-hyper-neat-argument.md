@@ -19,7 +19,7 @@ The following is a distillation of an argument found in this *Nautilus* Article:
 
 3) The reason we believe the universe is structured is due to the fact that a scientist *acts like a sieve* and focuses only on those phenomena that are predictable.  
 
-    *"It is almost a tautology: Science predicts predictable phenomena"*
+*"It is almost a tautology: Science predicts predictable phenomena"*
 
 4) Scientists stick to studying only those phenomena that possess symmetry, since if there are symmetries then there exists conservation laws and constants (roughly [Noether's Theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem)). We see structure because we are only selecting a subset of phenomena to study, namely those that have structure.
 
