@@ -1,6 +1,6 @@
 ---
 title: 'Representation, Notation, & Thought'
-date: 2018-11-21 00:00:00
+date: 2018-12-10 00:00:00
 featured_image: 
 excerpt: Compilation of resources featuring the interplay of mathematics, language, and notation
 ---
