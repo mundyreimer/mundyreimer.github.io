@@ -22,7 +22,7 @@ Another way of viewing this is to interpret notation as one's UI of sorts, where
 
 It might be prudent to first link to the somewhat opposing perspective from Gwern, in which he talks about the *Existence of Powerful Natural Languages* and how the quest to find them is doomed from the start because languages gain power inherently from specialization. 
 
-> > Designed formal notations & distinct vocabularies are often employed in STEM fields, and these specialized languages are credited with greatly enhancing research & communication. Many philosophers and other thinkers have attempted to create more generally-applicable designed languages for use outside of specific technical fields to enhance human thinking, but the empirical track record is poor and no such designed language has demonstrated substantial improvements to human cognition such as resisting cognitive biases or logical fallacies. I suggest that the success of specialized languages in fields is inherently due to encoding large amounts of previously-discovered information specific to those fields, and this explains their inability to boost human cognition across a wide variety of domains.
+   > Designed formal notations & distinct vocabularies are often employed in STEM fields, and these specialized languages are credited with greatly enhancing research & communication. Many philosophers and other thinkers have attempted to create more generally-applicable designed languages for use outside of specific technical fields to enhance human thinking, but the empirical track record is poor and no such designed language has demonstrated substantial improvements to human cognition such as resisting cognitive biases or logical fallacies. I suggest that the success of specialized languages in fields is inherently due to encoding large amounts of previously-discovered information specific to those fields, and this explains their inability to boost human cognition across a wide variety of domains.
 
 -----
 
@@ -74,15 +74,15 @@ Now you might not think much of his one-to-one mapping of these circular picture
 
 Instead, the questions / concepts that I do think are interesting to think about are:  
 
-- How would *any* resulting alphabet, abjad, abugida, syllabary, or logographic system then develop?   
+* How would *any* resulting alphabet, abjad, abugida, syllabary, or logographic system then develop?   
 
-- Would writing like this for years on end somehow influence the way you think, or make certain thoughts more likely to occur? ...Similar to how the Roman numeral system (I, II, IV, X, etc) being a non-positional numeral system made certain arithmetical calculations rather difficult and time/memory consuming compared to our current day Hindu-Arabic system (1,2,3,4,…)  
+* Would writing like this for years on end somehow influence the way you think, or make certain thoughts more likely to occur? ...Similar to how the Roman numeral system (I, II, IV, X, etc) being a non-positional numeral system made certain arithmetical calculations rather difficult and time/memory consuming compared to our current day Hindu-Arabic system (1,2,3,4,…)  
 
-- This system is both rotational and mirror symmetry invariant (and if you are clever enough, it can be scale-invariant as well). What this means is that whatever way you look at it, either backwards, through a mirror, upside down, etc, the character is still the same if you apply the same rules to make it (ex - draw clockwise, change pivot, draw counterclockwise, change pivot, cross lines, etc). Could we harness this symmetry to solve some problems in our own current writing systems? (ex - dyslexia?)[^2]  
+* This system is both rotational and mirror symmetry invariant (and if you are clever enough, it can be scale-invariant as well). What this means is that whatever way you look at it, either backwards, through a mirror, upside down, etc, the character is still the same if you apply the same rules to make it (ex - draw clockwise, change pivot, draw counterclockwise, change pivot, cross lines, etc). Could we harness this symmetry to solve some problems in our own current writing systems? (ex - dyslexia?)[^2]  
 
-- Instead of naively mapping circular symbols to the English alphabet like in Deblock's paper, could we rather map a logical system to these circular symbols such that the linguistic system overlaps with built-in expressions of mathematics like unit circle concepts, sin waves for music / physics of waves-type phenomena, modular arithmetic, clock/time representations (yay for sexagesimal/base-60 and duodecimal/base-12 number systems of which I am a huge fan!!), recursive algorithms, or other geometric concepts? ...in essence, harnessing the natural symmetry of the tool to intuitively express other physical and mental concepts that invoke symmetry?  
+* Instead of naively mapping circular symbols to the English alphabet like in Deblock's paper, could we rather map a logical system to these circular symbols such that the linguistic system overlaps with built-in expressions of mathematics like unit circle concepts, sin waves for music / physics of waves-type phenomena, modular arithmetic, clock/time representations (yay for sexagesimal/base-60 and duodecimal/base-12 number systems of which I am a huge fan!!), recursive algorithms, or other geometric concepts? ...in essence, harnessing the natural symmetry of the tool to intuitively express other physical and mental concepts that invoke symmetry?  
 
-- Could we now imagine different mechanical writing tools and constructs and how their various geometries might have influenced our writing systems if they happened to have been chosen in our past?  
+* Could we now imagine different mechanical writing tools and constructs and how their various geometries might have influenced our writing systems if they happened to have been chosen in our past?  
 
 (I can easily think up various *rocking/teetering* type stamp devices that could make writing rather quick, while still being rather weird but logical in its design, for example, imagine writing not with a pen, but holding and rolling a ball-shaped stamp or a reverse-crescent/moon shaped stamp underneath one's palms/fingertips. How about a stamp in the shape of something like the Hungarian Gömböc and its various iterations?)  
 
@@ -133,6 +133,6 @@ Instead, the questions / concepts that I do think are interesting to think about
 
 [^2]: Did you know that "as late as the 19th century, some writers suggested that negative numbers should be written as positive numbers flipped horizontally"?  See [The Guardian review](https://www.theguardian.com/science/alexs-adventures-in-numberland/2014/may/21/notation-history-mathematical-symbols-joseph-mazur?) of the book *Enlightening Symbols: A Short History of Mathematical Notation and its Hidden Powers* by Joseph Mazur. 
 
-Now obviously there are downsides to this using our Hindu-Arabic derived characters for our numbers (for example, 0 and 8 are symmetrical when flipped), but it's this kind of thinking that I'd like to propose in re-designing our math symbolic manipulation system to become more aligned with our visual intuitions.
+    Now obviously there are downsides to this using our Hindu-Arabic derived characters for our numbers (for example, 0 and 8 are symmetrical when flipped), but it's this kind of thinking that I'd like to propose in re-designing our math symbolic manipulation system to become more aligned with our visual intuitions.
 
 -----
