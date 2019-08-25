@@ -30,7 +30,7 @@ It might be prudent to first link to the somewhat opposing perspective from Gwer
 
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/2016/08/26/30-the-essence-of-graphical-linear-algebra/)  
 
-[Index of Entire Article Series](https://graphicallinearalgebra.net)  
+[Index of Series](https://graphicallinearalgebra.net)  
 
 This series of blog posts was fun & interesting.  The author creatively recasts Linear Algebra into a graphically-based _circuit-like_ or _string-diagram_ language.  It might get a tad polemic when talking about the history of math and the Bourbakian movement towards abstraction, but either way, I thought his work might harness our native visual processing wetware and intuition a bit more.
 
@@ -43,7 +43,7 @@ See my extended ~~rant~~ argument[^longnote] for the acceptance and adoption of 
 * [Notation and Thinking](https://rjlipton.wordpress.com/2010/11/30/notation-and-thinking/) by rjlipton  
 * [Notation as a Tool of Thought](https://drive.google.com/file/d/10O2VotO3ssRHerVkUvgMq0jeBgaH0kCz/view?usp=sharing) by Kenneth Iverson  
 
-The aforementioned article and the above paper by Iverson that it is inspired by gives a brief run down of notation invented throughout history.  Iverson's paper is given in the context of the history and design of APL.
+The aforementioned article gives a brief run down of notation invented throughout history.  Iverson's paper is given in the context of the history and design of APL.
 
 *"Kenneth Iverson was a mathematician who is most famous for designing APL. This was the name of his programming language, and it cleverly stood for “A Programming Language.” The language is unique—unlike almost any other language—and contains many powerful and interesting ideas. He won the 1979 Turing Award for this and related work.*
  
@@ -55,14 +55,15 @@ The aforementioned article and the above paper by Iverson that it is inspired by
 
 *A language that doesn’t affect the way you think about programming, is not worth knowing.*
 
-*The importance of nomenclature, notation, and language as tools of thought has long been recognized. In chemistry and in botany, for example, the establishment of systems of nomenclature by Lavoisier and Linnaeus did much to stimulate and to channel later investigation. Concerning language, George Boole in his Laws of Thought asserted 'That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth "generally admitted.'*
+*The importance of nomenclature, notation, and language as tools of thought has long been recognized. In chemistry and in botany, for example, the establishment of systems of nomenclature by Lavoisier and Linnaeus did much to stimulate and to channel later investigation. Concerning language, George Boole in his Laws of Thought asserted 'That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth "generally admitted."'*
 
 *Mathematical notation provides perhaps the best-known and best-developed example of language used consciously as a tool of thought. Recognition of the important role of notation in mathematics is clear from the quotations from mathematicians given in Cajori’s A History of Mathematical Notations. They are well worth reading in full, but the following excerpts suggest the tone:*
 
-*"By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race."  
+*"By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race."   
 —A.N. Whitehead*
 
-*"The quantity of meaning compressed into small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid."  —Charles Babbage"*
+*"The quantity of meaning compressed into small space by algebraic signs, is another circumstance that facilitates the reasonings we are accustomed to carry on by their aid."    
+—Charles Babbage"*
 
 -----
 
@@ -78,17 +79,17 @@ Now you might not think much of his one-to-one mapping of these circular picture
 
 Instead, the questions / concepts that I do think are interesting to think about are:  
 
-* How would *any* resulting alphabet, abjad, abugida, syllabary, or logographic system then develop?   
+1. How would *any* resulting alphabet, abjad, abugida, syllabary, or logographic system then develop?   
 
-* Would writing like this for years on end somehow influence the way you think, or make certain thoughts more likely to occur? ...Similar to how the Roman numeral system (I, II, IV, X, etc) being a non-positional numeral system made certain arithmetical calculations rather difficult and time/memory consuming compared to our current day Hindu-Arabic system (1,2,3,4,…)  
+2. Would writing like this for years on end somehow influence the way you think, or make certain thoughts more likely to occur? ...Similar to how the Roman numeral system (I, II, IV, X, etc) being a non-positional numeral system made certain arithmetical calculations rather difficult and time/memory consuming compared to our current day Hindu-Arabic system (1,2,3,4,…)  
 
-* This system is both rotational and mirror symmetry invariant (and if you are clever enough, it can be scale-invariant as well). What this means is that whatever way you look at it, either backwards, through a mirror, upside down, etc, the character is still the same if you apply the same rules to make it (ex - draw clockwise, change pivot, draw counterclockwise, change pivot, cross lines, etc). Could we harness this symmetry to solve some problems in our own current writing systems? (ex - dyslexia?)[^2]  
+3. This system is both rotational and mirror symmetry invariant (and if you are clever enough, it can be scale-invariant as well). What this means is that whatever way you look at it, either backwards, through a mirror, upside down, etc, the character is still the same if you apply the same rules to make it (ex - draw clockwise, change pivot, draw counterclockwise, change pivot, cross lines, etc). Could we harness this symmetry to solve some problems in our own current writing systems? (ex - dyslexia?)[^2]  
 
-* Instead of naively mapping circular symbols to the English alphabet like in Deblock's paper, could we rather map a logical system to these circular symbols such that the linguistic system overlaps with built-in expressions of mathematics like unit circle concepts, sin waves for music / physics of waves-type phenomena, modular arithmetic, clock/time representations (yay for sexagesimal/base-60 and duodecimal/base-12 number systems of which I am a huge fan!!), recursive algorithms, or other geometric concepts? ...in essence, harnessing the natural symmetry of the tool to intuitively express other physical and mental concepts that invoke symmetry?  
+4. Instead of naively mapping circular symbols to the English alphabet like in Deblock's paper, could we rather map a logical system to these circular symbols such that the linguistic system overlaps with built-in expressions of mathematics like unit circle concepts, sin waves for music / physics of waves-type phenomena, modular arithmetic, clock/time representations (yay for sexagesimal/base-60 and duodecimal/base-12 number systems of which I am a huge fan!!), recursive algorithms, or other geometric concepts? ...in essence, harnessing the natural symmetry of the tool to intuitively express other physical and mental concepts that invoke symmetry?  
 
-* Could we now imagine different mechanical writing tools and constructs and how their various geometries might have influenced our writing systems if they happened to have been chosen in our past?  
+5. Could we now imagine different mechanical writing tools and constructs and how their various geometries might have influenced our writing systems if they happened to have been chosen in our past?  
 
-(I can easily think up various *rocking/teetering* type stamp devices that could make writing rather quick, while still being rather weird but logical in its design, for example, imagine writing not with a pen, but holding and rolling a ball-shaped stamp or a reverse-crescent/moon shaped stamp underneath one's palms/fingertips. How about a stamp in the shape of something like the Hungarian Gömböc and its various iterations?)  
+    (I can easily think up various *rocking/teetering* type stamp devices that could make writing rather quick, while still being rather weird but logical in its design, for example, imagine writing not with a pen, but holding and rolling a ball-shaped stamp or a reverse-crescent/moon shaped stamp underneath one's palms/fingertips. How about a stamp in the shape of something like the Hungarian Gömböc and its various iterations?)  
 
 -----
 
