@@ -145,7 +145,7 @@ Taking it a step further, what if we even transcend our algebraic symbol shuffli
 
 *It would take two world wars, Japanese suppression of the language, and a division of the country before Kim Il-Sung declared it the official script of North Korea, banning hanja in 1949. A new name had been given to it: 한글 han geul, literally “great script”.*
 
-*South Korea held out with its hanja (now in serious decline) for a few decades longer, but in the 1990s, after five and a half centuries, Sejong’s Hangul became the official alphabet."*
+*South Korea held out with its hanja (now in serious decline) for a few decades longer, but in the 1990s, after five and a half centuries, Sejong’s Hangul became the official alphabet."*[^3] 
 
 -----
 
@@ -180,5 +180,7 @@ Relevant podcast regarding the nature of language and how we internally organize
 [^2]: Did you know that "as late as the 19th century, some writers suggested that negative numbers should be written as positive numbers flipped horizontally"?  See [The Guardian review](https://www.theguardian.com/science/alexs-adventures-in-numberland/2014/may/21/notation-history-mathematical-symbols-joseph-mazur?) of the book *Enlightening Symbols: A Short History of Mathematical Notation and its Hidden Powers* by Joseph Mazur. 
 
     Now obviously there are downsides to this using our Hindu-Arabic derived characters for our numbers (for example, 0 and 8 are symmetrical when flipped), but it's this kind of thinking that I'd like to propose in re-designing our math symbolic manipulation system to become more aligned with our visual intuitions.
+
+[^3]: Oscar Tay, M.A. in Linguistics, *Quora* reply to the question *"[It's said written language was invented three or four times. How does Korean Hangul fit in to this?](https://qr.ae/TWy7DP)
 
 -----
