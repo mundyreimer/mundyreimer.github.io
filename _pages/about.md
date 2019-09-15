@@ -35,7 +35,7 @@ Some of the things I enjoy thinking about:
 ### hobbies
 
 * Amateur botany w/ a pteridomanic disposition
-* Making terrariums, Bonsai, & going on nature hikes
+* Making terrariums, bonsai, & going on nature hikes
 * Playing badminton!
 * Learning new instruments + making electronic music
 * Recreational mathematics
