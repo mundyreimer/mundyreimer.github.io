@@ -37,7 +37,7 @@ When I need to write a report or paper using LaTeX to get the proper math symbol
 
 One of the most handy browser extensions I've used is [Unpaywall](https://unpaywall.org/products/extension).  If you ever come across a paper that happens to be behind a paywall, this plugin will automatically show a little green tab that pops up showing an open-access version if it is available.
 
-To get around online newspaper / magazine paywalls or monthly free-article limits like _The Washington Post_, _The New Yorker_, _The Wall Street Journal_, etc, I recommend taking a look at [this list of hacks here](https://medium.com/paywall-hacks/how-to-bypass-virtually-every-news-paywall-705602c4c2ce).  Alternatively, you can use your _Page Inspector_ by right-clicking on a page and learn how to disable JavaScript (furthermore, you can find any number of browser extensions that allow you to toggle on+off JS).  
+To get around online newspaper / magazine paywalls or monthly free-article limits like those found in the _The Washington Post_, _The New Yorker_, _The Wall Street Journal_, etc, I recommend taking a look at [this list of hacks here](https://medium.com/paywall-hacks/how-to-bypass-virtually-every-news-paywall-705602c4c2ce).  Alternatively, you can use your _Page Inspector_ by right-clicking on a page and learn how to disable JavaScript (furthermore, you can find any number of browser extensions that allow you to toggle on+off JS).  
 
 For free versions of textbooks and fiction, you could take a look at [Library Genesis](https://libgen.is/) (If the current link is dead just google it).  There are also other things like *Sci-Hub* (which can be googled) that some people are against and don't recommend...
 
