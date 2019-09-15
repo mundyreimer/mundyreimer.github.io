@@ -17,6 +17,8 @@ Some of the things I enjoy thinking about:
 * Self-Organizing Systems + Biological Complexity Theory
 * Formal Theories of Consciousness
 * Evolution across multiple spatial/temporal levels
+* Applying Graph-theoretic ideas to every nail in sight
+* The above applies to Information Theory as well ;)
 * Non-classical logical systems
 * Interpreting logical systems through a geometric lens
 * Geometric interpretations of music
@@ -24,8 +26,19 @@ Some of the things I enjoy thinking about:
 * [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [Constructed languages](https://mundyreimer.github.io/blog/representation-notation-thought)
 * History of languages & etymologies of words
+* History & Philosophy of Science and the Foundations of Math
 * World-building alternative ecologies, biologies, & psychologies
 * Mining science fiction for technological inspiration, ethical dilemmas, & societal consequences
+
+---
+
+### hobbies
+
+* Amateur botany w/ a pteridomanic disposition
+* Making terrariums, Bonsai, & going on nature hikes
+* Playing badminton!
+* Learning new instruments + making electronic music
+* Recreational mathematics
 
 ---
 
