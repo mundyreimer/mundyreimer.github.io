@@ -41,11 +41,11 @@ To get around online newspaper / magazine paywalls or monthly free-article limit
 
 For free versions of textbooks and fiction, you could take a look at [Library Genesis](https://libgen.is/) (If the current link is dead just google it).  There are also other things like *Sci-Hub* (which can be googled) that some people are against and don't recommend...
 
-[better-onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=en)
+[too many tabs?](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=en)
 
-Like so many others, I am the type of person to constantly open up new tabs in my browser whenever I research a particular subject or just casually browse the web.  To keep your tabs neat and tidy (and help prevent your pc from slowing down due to too many open tabs), this browser extension allows you to temporarily tuck away those tabs into lists with one easy click from which you can restore later.  You can also organize these lists for future reference. 
+Like so many others, I am the type of person to constantly open up new tabs in my browser whenever I research a particular subject or just casually browse the web.  To keep your tabs neat and tidy (and help prevent your pc from slowing down due to too many open tabs), this ***better-onetab*** browser extension allows you to temporarily tuck away those tabs into lists with one easy click from which you can restore later.  You can also organize these lists for future reference. 
 
-[vimium](https://vimium.github.io/)
+[navigating your browser w/ vimium](https://vimium.github.io/)
 
 A Google Chrome extension that gives you keyboard shortcuts for navigating your browser, giving you "control in the spirit of the Vim editor".  You can stick to your regular ol' Chrome shortcuts to open+close tabs, go back+forward through a page, etc, but I found the most useful feature of this was the simple pressing down with both my index fingers to automatically assign a 'letter' to each clickable link in the browser window, allowing me to mostly forgo the use of my mouse / trackpad when browsing.  It's customizable too, but just make sure that if you like using shortcuts for your jupyter notebook experience that you also adjust the settings so that these new Vimium shortcuts are site-specific and do not conflict.  
 
@@ -57,13 +57,13 @@ As far as I know, the above is the ideal *search engine* with respect to not cre
 
 [Brave](https://brave.com/features/)
 
-I personally use multiple different browsers, but one of my favorites that was recently brought to my attention is *Brave*.  Many neat features are listed in the above link, but the one that stands out is the integrated toggling of [*Tor* mode](https://brave.com/tor-tabs-beta/) for better privacy protection.
+I personally use multiple different *web browsers*, but one of my favorites that was recently brought to my attention is *Brave*.  Many neat features are listed in the above link, but the one that stands out is the integrated toggling of [*Tor* mode](https://brave.com/tor-tabs-beta/) for better privacy protection.
 
 [Tails OS](https://tails.boum.org/)
 
 Tails is a version of the Linux operating system that can start on almost any computer from a *USB drive*.  Because it acts as a fresh computer every time you boot it up, it comes with built-in tools like automatically routing internet usage through the Tor network, encrypting your files + emails (*Claws Mail* client), having a built-in chat encryption plugin (*Pidgin*), and most importantly, it "leaves no digital footprint on your machine" by overwriting the system RAM when the OS shuts down, *triggered automatically when the boot medium (USB) is physically removed* ([relying on the Linux kernel's free memory poisoning feature](https://tails.boum.org/contribute/design/memory_erasure/)).  [Used by Snowden](https://www.theverge.com/2014/4/29/5664884/this-is-the-most-secure-computer-you-ll-ever-own), the NSA apparently deemed it a major threat to its mission in an [internal presentation in 2014](https://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html).
 
-...other things simple things that might be useful to mention are the use of [password managers](https://www.cnet.com/news/the-best-password-managers-of-2019/) and [VPNs](https://nordvpn.com/). 
+...other low-hanging fruit that might be useful to mention are the use of [password managers](https://www.cnet.com/news/the-best-password-managers-of-2019/) and [VPNs](https://nordvpn.com/). 
 
 ---
 
