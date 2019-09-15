@@ -93,6 +93,8 @@ Instead, the questions / concepts that I do think are interesting to think about
 
 Another project designed by DeBlock featuring an attempt at a Universal Logographic Physics-based language can be [found here](http://www.dscript.org/uscript.pdf) called *DScript*.  I particularly like this conlanger's symbol for 2D, 3D, and 4D, etc.  His use of set-theoretic-like bracketing might also be of use for alternative conscripts that I'm personally entertaining, although there is also something to be said about doing away with this foundational notion altogether and switching to something similar to the category-theoretic diagrams in the aforementioned Graphical Linear Algebra link.
 
+Also, [DeBlock's latest conscript](http://www.dscript.org/bscript.pdf) was developed for encryption & cipher use-cases.  The mapping might be a tad 'hacky', but I really enjoyed the *bitwise operator* potential. The *operation-chaining* & choice of *operation density* stands out to me as potentially useful concepts, even outside of his intended use-cases.  I also found the ability to switch between binary / trinary systems rather neat as well, & the ease+fluidity of writing it first-class when compared to other scripts which would otherwise force one's physical movements to become stilted and staccato-like when writing.   
+
 -----
 
 * [Notation & Thought Compilation](https://github.com/hypotext/notation) by Katherine Ye
