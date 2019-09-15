@@ -25,7 +25,7 @@ Flashcards I made to review various topics using the [spaced-repetition software
 
 [citation manager](https://guides.lib.uchicago.edu/c.php?g=297307&p=1984557) 
 
-See the above link for a side-by-side comparison of the different citation managers available.  I use to just blindly save all the papers I read to my Google Drive (albeit in a highly organized topic-based folder system), but when it comes to the writing process you'd preferably like something that organizes and automates the citation process of every little tidbit of info that you've ever read, which is something that doesn't easily scale when you are just doing things the ol' classical way via saving files in folders.  Plus, some of these citation managers have built in search in case you want to write about something where you don't remember where you originally learned it from (which will happen, trust me!)
+See the above link for a side-by-side comparison of the different citation managers available.  I use to just blindly save all the papers I read to my Google Drive (albeit in a highly organized topic-based folder system), but when it comes to the writing process you'd preferably like something that organizes and automates the citation process of every little tidbit of info that you've ever read, which is something that doesn't easily scale when you are just doing things the ol' classical way via saving files in folders.  Plus, some of these citation managers have built-in search in case you want to write about something where you don't remember where you originally learned it from (which will happen, trust me!)
 
 [pic -> LaTeX converter](https://mathpix.com/)
 
