@@ -15,8 +15,10 @@ Some of the things I enjoy thinking about:
 
 * Theories of Abiogenesis + the Origin(s) of Life
 * Self-Organizing Systems + Biological Complexity Theory
-* Formal Theories of Consciousness
+* Biological applications of L-Grammars
+* Biosemiotic perspectives
 * Evolution across multiple spatial/temporal levels
+* Formal Theories of Consciousness
 * Applying Graph-theoretic ideas to every nail in sight
 * The above applies to Information Theory as well ;)
 * Non-classical logical systems
@@ -34,7 +36,7 @@ Some of the things I enjoy thinking about:
 
 ### hobbies
 
-* Amateur botany w/ a pteridomanic disposition
+* [Amateur botany w/ a pteridomanic disposition](https://www.instagram.com/l.grammars/)
 * Making terrariums, bonsai, & going on nature hikes
 * Playing badminton!
 * Learning new instruments + making electronic music
