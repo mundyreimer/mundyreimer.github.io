@@ -19,8 +19,11 @@ Some of the things I enjoy thinking about:
 * Data compression theories of symmetry in biological systems
 * Biosemiotic perspectives
 * Evolution across multiple spatial/temporal levels
-* Formal Theories of Consciousness
 * Learning & inference as higher-ordered homeostatic regulation
+* Predictive processing theories of brain function
+* Data compression & thermodynamic theories of sleep 
+* Formal Theories of Consciousness
+* Development of [Good Regulators](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf) in systems
 * Applying Graph-theoretic ideas to every nail in sight
 * The above applies to Information Theory as well ;)
 * Non-classical logical systems
