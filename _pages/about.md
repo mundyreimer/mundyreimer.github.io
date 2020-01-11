@@ -16,9 +16,11 @@ Some of the things I enjoy thinking about:
 * Theories of Abiogenesis + the Origin(s) of Life
 * Self-Organizing Systems + Biological Complexity Theory
 * Biological applications of L-Grammars
+* Data compression theories of symmetry in biological systems
 * Biosemiotic perspectives
 * Evolution across multiple spatial/temporal levels
 * Formal Theories of Consciousness
+* Learning & inference as higher-ordered homeostatic regulation
 * Applying Graph-theoretic ideas to every nail in sight
 * The above applies to Information Theory as well ;)
 * Non-classical logical systems
