@@ -59,7 +59,7 @@ More srsly, I'm currently an MS student studying ~~computational clairvoyance~~ 
 
 I'm also active [volunteering and coordinating events](https://pybay.com/team/) in the local SF Python Community, in addition to founding + formerly running the *East Bay [Deep Learning in PyTorch study group](https://www.facebook.com/groups/BayAreaPyTorchers/about/)* as part of the [Facebook & Udacity Scholarship Challenge](https://www.udacity.com/facebook-pytorch-scholarship), so if you're in the area, say *hi* :)
 
-[See here](https://mundyreimer.github.io/project/project2-new) and [here](https://www.linkedin.com/in/mundyreimer) for more.  
+See [here](https://mundyreimer.github.io/project/project2-new) and [here](https://www.linkedin.com/in/mundyreimer) for more.  
 
 ---
 
