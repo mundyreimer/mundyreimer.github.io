@@ -27,7 +27,7 @@ Some projects that I've more recently worked on...
 
 ---
 
-## Dark Market & Drugs
+## Dark Web Markets
 
 [Dark Market Cocaine Price Prediction](https://github.com/mundyreimer/dark_market_ml): Used various machine learning models to predict the bitcoin price of dark market cocaine.  The [data set](https://www.kaggle.com/everling/cocaine-listings) was scraped by a third party and contains approximately 1,400 standardized product listings from Dream Market's *Cocaine* category.  Our team's [project slide-deck can be found here](https://docs.google.com/presentation/d/1adchsYpdnYrKG_umUR0ZynxtBRWPtUcGAgySLA2iRbA/edit?usp=sharing).
 
