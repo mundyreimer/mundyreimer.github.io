@@ -55,11 +55,11 @@ An academic at heart, I'm in my natural element when discussing neat and novel i
 
 I particularly enjoy philosophy and science-fiction, but generally my interests can be quite broad.  In fact, if I were to make up a fictional profession / identity that I'd love to have, I would call myself a 'metaphoratician' (like a mathematician-linguist-physicist-artist hybrid), who will happily steal concepts, metaphors, and jargon from one field and apply them to another in interdisciplinary fashion. Seeing how well metaphors fit, stretch, and break when transferred from one domain to the next is what definitely sparks joy for me ~*
 
-More srsly, I'm currently an MS student studying ~~computational clairvoyance~~ data science & machine learning.  So basically just your friendly k-nearest neighborhood data scientist :)  Oh, and I also have a [former background in neuroscience](https://mundyreimer.github.io/project/project1-old), dabbling quite a bit in both computer science and philosophy as well.  
+More srsly, I'm currently an MS student studying ~~computational clairvoyance~~ data science & [machine learning](https://mundyreimer.github.io/project/project2-new).  So basically just your friendly k-nearest neighborhood data scientist :)  Oh, and I also have a [former background in neuroscience](https://mundyreimer.github.io/project/project1-old), dabbling quite a bit in both computer science and philosophy as well.  
 
 I'm also active [volunteering and coordinating events](https://pybay.com/team/) in the local SF Python Community, in addition to founding + formerly running the *East Bay [Deep Learning in PyTorch study group](https://www.facebook.com/groups/BayAreaPyTorchers/about/)* as part of the [Facebook & Udacity Scholarship Challenge](https://www.udacity.com/facebook-pytorch-scholarship), so if you're in the area, say *hi* :)
 
-[See here](https://mundyreimer.github.io/project/project1-old) and [here](https://www.linkedin.com/in/mundyreimer) for more.  
+[See here](https://mundyreimer.github.io/project/project2-new) and [here](https://www.linkedin.com/in/mundyreimer) for more.  
 
 ---
 
