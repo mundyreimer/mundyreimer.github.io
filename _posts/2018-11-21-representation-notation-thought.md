@@ -103,6 +103,12 @@ Katherine seems to have similar shared interests and she's put together an excel
 
 -----
 
+* [Artifexian & Alternative Numeral Notation](https://youtu.be/EyS6FfczH0Q)
+
+One of the coolest numeral systems I've ever seen! Developed by Kaktovik Iñupiaq middle school kids (all 9 of them in their entire Alaskan town) & their linguist-trained teacher, it's like Korea's featural Hangul but for numbers (ie - the shape of the characters tells you something). I especially the inuituitive (😅) and simple rotational + overlapping way of computing w/ it. (It's what I've always wanted in a numeral system!) 
+
+-----
+
 * [3Blue1Brown & Triangle of Power](https://youtu.be/sULa9Lc4pck)
 
 Intuitive notation developed for linking together the concepts of logarithms, exponents, and roots explained by 3Blue1Brown.  I do like the mention of the new 'O-plus' operation that might need to be introduced as this might possibly indicate that some ways of thinking might indeed be more/less conducive depending upon the notation we use, and thus suggesting that we might be possibly ignoring some pretty low-hanging conceptual fruit due to something as simple as having the wrong notation at hand for it.    
