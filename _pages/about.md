@@ -33,7 +33,7 @@ Some of the things I enjoy thinking about:
 * [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [Constructed languages](https://mundyreimer.github.io/blog/representation-notation-thought)
 * History of languages & etymologies of words
-* History & Philosophy of Science + Foundations of Math
+* History & [Philosophy of Science + Foundations of Math](https://mundyreimer.github.io/blog/hyper-neat-argument)
 * World-building alternative ecologies, biologies, & psychologies
 * Mining science fiction for technological inspiration, ethical dilemmas, & societal consequences
 
