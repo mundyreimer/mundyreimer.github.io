@@ -10,7 +10,7 @@ excerpt: Compilation of resources featuring the interplay of mathematics, langua
 
 ### resources & ruminations
 
-In the spirit of Gottfried Leibniz, the following is a compilation of resources featuring the interplay of mathematics, language, and notation.  This is a curated collection of people's work and my musings regarding how the way we represent concepts and communicate via symbolic notation or graphical means may influence the way we think about these concepts.  This line of thinking is commonly called the *Sapir-Whorfian Hypothesis* or [*Linguistic Determinism*](https://en.wikipedia.org/wiki/Linguistic_determinism).  
+In the spirit of [Gottfried Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz), the following is a compilation of resources featuring the interplay of mathematics, language, and notation.  This is a curated collection of people's work and my musings regarding how the way we represent concepts and communicate via symbolic notation or graphical means may influence the way we think about these concepts.  This line of thinking is commonly called the *Sapir-Whorfian Hypothesis* or [*Linguistic Determinism*](https://en.wikipedia.org/wiki/Linguistic_determinism).  
 
 Another way of viewing this is to interpret notation as one's UI of sorts, where certain capabilities are enhanced or diminished, and certain lines of thought are made more conducive and are much more likely to occur upon the use of a particular interface or tool, or in this case notation.
 
