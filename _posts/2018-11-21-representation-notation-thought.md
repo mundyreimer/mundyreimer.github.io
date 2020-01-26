@@ -20,7 +20,7 @@ Another way of viewing this is to interpret notation as one's UI of sorts, where
 
 * [On the Existence of Powerful Natural Languages](https://www.gwern.net/Language)  
 
-It might be prudent to first link to the somewhat opposing perspective from Gwern, in which he talks about the *Existence of Powerful Natural Languages* and how the quest to find them is doomed from the start because languages gain power inherently from specialization. 
+It might be prudent to first link to the somewhat opposing perspective from Gwern, in which he talks about the *Existence of Powerful Natural Languages* and how the quest to find them is doomed from the start because languages inherently gain power from specialization. 
 
 *"Designed formal notations & distinct vocabularies are often employed in STEM fields, and these specialized languages are credited with greatly enhancing research & communication.*
 
