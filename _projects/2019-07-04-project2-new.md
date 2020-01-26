@@ -11,7 +11,7 @@ Some projects that I've more recently worked on...
 
 ## Oceanography
 
- [Project Argo](https://github.com/mundyreimer/argo_sensor_clustering):  Built various machine learning models such as spectral clustering, k-means, & gaussian mixture models ran on PySpark's distributed computing framework to cluster temperature profiles of the fleet of [Argo floating buoys](https://en.wikipedia.org/wiki/Argo_(oceanography)) around the world.  This network of floats monitor temperature, salinity, currents, and bio-optical properties of the world's oceans, providing sensor measurements for climate and oceanographic research.  [Data set found here](http://www.argo.ucsd.edu/Argo_data_and.html).  Our team's initial project [slide-deck found here](https://docs.google.com/presentation/d/1yQh4USQ-taN2zQ36ukN4ExVCNp2EwumFjSiDIEPRv0s/edit?usp=sharing).  
+ [Project Argo](https://github.com/mundyreimer/argo_sensor_clustering):  Built various machine learning models such as spectral clustering, k-means, & gaussian mixture models ran on PySpark's distributed computing framework to cluster temperature profiles of the fleet of [Argo floating buoys](https://en.wikipedia.org/wiki/Argo_(oceanography)) around the world.  This network of floats monitors temperature, salinity, currents, and bio-optical properties of the world's oceans, providing sensor measurements for climate and oceanographic research.  [Data set found here](http://www.argo.ucsd.edu/Argo_data_and.html).  Our team's initial project [slide-deck found here](https://docs.google.com/presentation/d/1yQh4USQ-taN2zQ36ukN4ExVCNp2EwumFjSiDIEPRv0s/edit?usp=sharing).  
 
 ---
 
