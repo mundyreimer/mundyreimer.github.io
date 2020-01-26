@@ -28,7 +28,7 @@ Some of the things I enjoy thinking about:
 * The above applies to Information Theory as well ;)
 * Non-classical logical systems
 * Interpreting logical systems through a geometric lens
-* Geometric interpretations of music
+* Geometric interpretations of music [1](https://mundyreimer.github.io/project/project2-new)
 * [Alternative mathematical & musical notational systems](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [Constructed languages](https://mundyreimer.github.io/blog/representation-notation-thought)
