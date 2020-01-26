@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-Some projects that I've more recently worked on...
+Some recent projects that I've worked on...
 
 ---
 
