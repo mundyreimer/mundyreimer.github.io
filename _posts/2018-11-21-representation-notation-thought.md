@@ -36,7 +36,7 @@ This series of blog posts was fun & interesting.  The author creatively recasts 
 
 I recommend starting with post #3, but if you want to go straight to the meat of it, start at post #11.  Other than that, it starts out really basic (using Lego examples) but depending upon how far you get, I particularly found the parts regarding Frobenius monoids, diagram compositionality + concurrency, feedback + control theory, and PROPs + symmetric monoidal categories especially fascinating.
 
-See my extended ~~rant~~ argument[^1] for the acceptance and adoption of diagrammatic languages and visual reasoning tools like the aforementioned Graphical Linear Algebra and how they are not necessarily less rigorous as some may have you believe.
+See my extended ~~rant~~ argument[^1](https://mundyreimer.github.io/blog/representation-notation-thought/#note1) for the acceptance and adoption of diagrammatic languages and visual reasoning tools like the aforementioned Graphical Linear Algebra and how they are not necessarily less rigorous as some may have you believe.
 
 -----
 
