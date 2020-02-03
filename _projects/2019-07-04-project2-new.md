@@ -7,7 +7,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 Some recent projects that I've worked on...
 
-* For a more frequently updated list of projects, see [my Github repo here](https://github.com/mundyreimer).
+*For a more frequently updated list of projects, see [my Github repo here](https://github.com/mundyreimer).
 
 ---
 
