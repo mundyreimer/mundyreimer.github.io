@@ -26,7 +26,7 @@ Some of the things I enjoy thinking about:
 * Development of [Good Regulators](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf) in systems
 * Applying Graph-theoretic ideas to every nail in sight
 * The above applies to Information Theory as well ;)
-* Non-classical logical systems
+* Non-classical logical systems, Heyting Algebras, & Lattices
 * Interpreting logical systems through a geometric lens
 * Geometric interpretations of music ([1](https://mundyreimer.github.io/project/project2-new))
 * [Alternative mathematical & musical notational systems](https://mundyreimer.github.io/blog/representation-notation-thought)
