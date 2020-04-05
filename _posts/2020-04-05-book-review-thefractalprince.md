@@ -4,7 +4,7 @@ date: 2020-4-05 00:00:00
 featured_image: 
 excerpt: My review of the science fiction novel by Hannu Rajaniemi
 ---
-*Updated: 2020-03-21*  
+*Updated: 2020-04-05*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: N/A*
 
