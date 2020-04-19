@@ -1,12 +1,14 @@
 ---
 title: 'On Thermodynamics, Living Systems, and Agency'
-date: 2013-6-15 00:00:00
+date: 2020-04-18 00:00:00
 featured_image: 
 excerpt: Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin of a Proto-Self using concepts such as dissipative systems, toroidal geometries, and variational free energy.   
 ---
 *Updated: 2020-04-18*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Highly Speculative (Just sketching my thoughts, still a work in progress)*
+
+(Originally written on 2013-6-15)  
 
 TL;DR - Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin of a Proto-Self using concepts such as dissipative systems, toroidal geometries, and variational free energy
 

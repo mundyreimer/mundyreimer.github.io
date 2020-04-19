@@ -13,7 +13,7 @@ Just a playful compilation of my seemingly eclectic thoughts, interests, & works
 
 Some of the things I enjoy thinking about:
 
-* Theories of Abiogenesis + the Origin(s) of Life
+* [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 * Self-Organizing Systems + Biological Complexity Theory
 * Biological applications of L-Grammars
 * Data compression theories of symmetry in biological systems
