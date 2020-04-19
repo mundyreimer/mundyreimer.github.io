@@ -5,7 +5,7 @@ featured_image:
 excerpt: Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin of a Proto-Self using concepts such as dissipative systems, toroidal geometries, and variational free energy.   
 ---
 *Updated: 2020-04-18*  
-*Topics: [Physics](https://mundyreimer.github.io/archive)[Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
+*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Highly Speculative*
 
 (Originally written on 2013-06-15.  Currently just using this to sketch my thoughts and it is still a work in progress.  Will be adding diagrams, graphs, and code when I can.)  
