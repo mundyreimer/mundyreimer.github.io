@@ -2,7 +2,7 @@
 title: 'Book Review - The Fractal Prince'
 date: 2020-4-05 00:00:00
 featured_image: 
-excerpt: My review of the science fiction novel by Hannu Rajaniemi
+excerpt: My review of the science fiction novel by Hannu Rajaniemi.  A novel that combines Arabian nights + Islamic Penrose tiling geometries + fractal decompression + Hofstadter Strange Loops + True Names + stories as biological vectors + Annihilation-level Lovecraftian anatomical weirdness + No Cloning Theorem + Zen Buddhist Suiboku-ga  
 ---
 *Updated: 2020-04-05*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
@@ -11,6 +11,10 @@ excerpt: My review of the science fiction novel by Hannu Rajaniemi
 TL;DR - Arabian nights + Islamic Penrose tiling geometries + fractal decompression + Hofstadter Strange Loops + True Names + stories as biological vectors + Annihilation-level Lovecraftian anatomical weirdness + No Cloning Theorem + Zen Buddhist Suiboku-ga
 
 Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/review/show/3239518360).
+
+See my review of book [one](https://mundyreimer.github.io/blog/book-review-thequantumthief).
+
+---
 
 In *The Fractal Prince* Hannu Rajaniemi builds upon the foundations set in the first book of this series, *The Quantum Thief*.  We follow our trio composed of our one-and-only (kinda) thief, Jean le Flambeur, his companion Mieli who is an angel-like warrior raised on a comet from the Oortian clouds, and her sentient ship Perhonen whom she sang to existence.  They are headed to Earth to track down youthful innocence, which takes the form of one of the original copies of a mind thought to have eventually turned into the god-like being which now rules most of this universe.  Weighty-stuff right?  
 
