@@ -2,13 +2,21 @@
 title: 'Book Review - The Quantum Thief'
 date: 2020-3-19 00:00:00
 featured_image: 
-excerpt: My review of the science fiction novel by Hannu Rajaniemi
+excerpt: My review of the science fiction novel by Hannu Rajaniemi.  Dilemma Prisons where you play infinite copies of yourself and expands by tiling the universe in perfect game-theoretic harmony, mind piracy, optogenetic viruses, cryptographic exomemory, & more!
 ---
 *Updated: 2020-03-21*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: N/A*
 
 Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/review/show/3222039609).
+
+See my reviews of books [two](https://mundyreimer.github.io/blog/book-review-thefractalprince) and [three](https://mundyreimer.github.io/blog/book-review-thecausalangel).
+
+---
+
+TL;DR - Dilemma Prisons where you play infinite copies of yourself and expands by tiling the universe in perfect game-theoretic harmony, mind piracy, optogenetic viruses, cryptographic exomemory, & more!
+
+---
 
 I've honestly put off reading this book for around 6 years because I thought it would be full of sci-fi nonsense, with technical terms thrown in haphazardly with no actual meaning that it might as well be akin to magic. Fortunately, I was finally in a what-the-heck mood and I can say that I was more than glad to have given this book a chance and be proven wrong...although I do think it also helped to find out that the author Hannu Rajaniemi (who has a cool badass-sounding name by the way) lives near me and that he's formally trained with a PhD in Mathematical Physics!
 

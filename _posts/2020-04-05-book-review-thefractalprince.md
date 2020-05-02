@@ -12,7 +12,7 @@ TL;DR - Arabian nights + Islamic Penrose tiling geometries + fractal decompressi
 
 Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/review/show/3239518360).
 
-See my review of book [one](https://mundyreimer.github.io/blog/book-review-thequantumthief).
+See my review of book [one](https://mundyreimer.github.io/blog/book-review-thequantumthief) and [three](https://mundyreimer.github.io/blog/book-review-thecausalangel).
 
 ---
 
