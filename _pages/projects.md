@@ -57,9 +57,17 @@ Used:  Text-Parsing, Natural Language Processing, Logistic Regression, Step-Wise
 
 [Designed a recommendation system](https://github.com/mundyreimer/school_donations_project) in conjunction with PySpark's Distributed Computing framework that matches classroom charity projects (teachers and their classroom requests) to the most probable donors nationwide.  [DonorChoose.org](https://www.donorschoose.org/about) in partnership with Google helped provide this [data set](https://www.kaggle.com/donorschoose/io) freely available on Kaggle.  Our team's [project slide-deck can be found here](https://docs.google.com/presentation/d/1FJU4YzjeObEk91HBzrgQ4pBWyNjErIMun06r4PqKwWI/edit?usp=sharing).
 
-Used:  PySpark, AWS EMR/S3, Plotly, Recommendation Systems
+Used:  PySpark, AWS EMR/S3, Plotly
 
 ---
+
+<a href="https://github.com/mundyreimer/dark_market_ml">
+    <img src="/images/project_pics/darkmarketcocaine.png"
+        style="float: right"
+        width="300"
+        height="250"
+        >
+</a>
 
 ## Dark Web Markets
 
