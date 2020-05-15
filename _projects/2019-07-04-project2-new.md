@@ -16,7 +16,10 @@ Some recent projects that I've worked on...
     <img src="/images/project_pics/argo_clustering.png"
         style="float: left"
         width="350" 
-        height="300">
+        height="300"
+        border="10"
+        >
+        
 </a>
 
 ## Oceanography
