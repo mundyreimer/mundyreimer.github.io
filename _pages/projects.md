@@ -21,7 +21,7 @@ Some recent projects that I've worked on...
         >
 </a>
 
-## Math Syntax Parsing
+## Math Syntax Analysis + Code Generation
 
 [Math2Code](http://math2code.com/): Engineered the core architecture and [led a team of fellow machine learning & data science students](http://math2code.com/about) in designing a web application that takes in a *picture* of a math equation / notation and automatically converts that into its Python/Numpy equivalent of *working code*.  Presented a working version and demo in front of a VC panel along with 5 other finalists and their products from [our masters program](https://www.usfca.edu/arts-sciences/graduate-programs/data-science).
 
