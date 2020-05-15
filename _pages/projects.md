@@ -32,7 +32,7 @@ Some recent projects that I've worked on...
 <a href="https://github.com/mundyreimer/iambic_songs">
     <img src="/images/project_pics/iambic_pentameter.jpeg"
         style="float: right"
-        width="300" 
+        width="300"
         height="250"
         >
 </a>
@@ -44,6 +44,14 @@ Some recent projects that I've worked on...
 Used:  Text-Parsing, Natural Language Processing, Logistic Regression, Step-Wise Regression, Akaike Information Criteria + Bayesian Information Criteria, Wald Test, Deviance Chi-Squared Test, Cross-Validation, DFFITS, Cook's Distance, Variance Inflation Factor, ROC Curves 
 
 ---
+
+<a href="https://github.com/mundyreimer/school_donations_project">
+    <img src="/images/project_pics/donorschoose.jpeg"
+        style="float: right"
+        width="300"
+        height="250"
+        >
+</a>
 
 ## Charity 
 
