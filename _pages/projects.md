@@ -167,8 +167,8 @@ Used:  Ab Initio Geometric Optimization Methods, sp-sp3 Synclinal + Antiperiplan
 
 <img src="/images/project_pics/spidervenom.png"
     style="float: right"
-    width="300"
-    height="250"
+    width="250"
+    height="200"
     >
 
 ## neuropharmacology
