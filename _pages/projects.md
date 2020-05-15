@@ -189,7 +189,7 @@ Used: Immunohistochemistry, Western Blotting, Proteomics, Molecular Biology meth
 
 Learned common molecular biology and genetics techniques while studying the roles of the agamous transcription factor & wuschel genes in floral stem cell maintenance of the Arabidopsis thaliana (mustard plant) in [Dr. Xuemei Chen](https://iigb.ucr.edu/xchen/)'s lab under the excellent guidance of Rae Yumul.  
 
-Used: Molecular Biology + Genetic Protocols
+Used: PCR, Primer Design, Illumina Sequencing, other basic molecular biology/genetic protocols  
 
 ---
 
