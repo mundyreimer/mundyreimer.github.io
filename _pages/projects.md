@@ -13,6 +13,22 @@ Some recent projects that I've worked on...
 
 ---
 
+<a href="http://math2code.com/">
+    <img src="/images/project_pics/math2code.png"
+        style="float: right"
+        width="300" 
+        height="250"
+        >
+</a>
+
+## Math Syntax Parsing
+
+[Math2Code](http://math2code.com/): Engineered the core architecture and [led a team of fellow machine learning & data science students](http://math2code.com/about) in designing a web application that takes in a *picture* of a math equation / notation and automatically converts that into its Python/Numpy equivalent of *working code*.  Presented a working version and demo in front of a VC panel along with 5 other finalists and their products from [our masters program](https://www.usfca.edu/arts-sciences/graduate-programs/data-science).
+
+Used: OCR, Mathematical Syntax Analysis, Lexical Analysis & Parsing, Code-Generation & Templating, AWS, Flask, Bootstrap, Jinja2, Sphinx, Javascript, HTML, CSS, Google Analytics, Git Continuous Integration   
+
+---
+
 <a href="https://github.com/mundyreimer/argo_sensor_clustering">
     <img src="/images/project_pics/argo_clustering.png"
         style="float: right"
@@ -75,7 +91,7 @@ Used:  PySpark, AWS EMR/S3, Plotly
 
 Used:  Text Extraction, Feature Engineering, Simple Linear Regression, LASSO Regression (L1), Ridge Regression (L2), Random Forest Regressor, Cross-Validation, Scikit-learn's Data Pipeline
 
----
+===
 
 # older stuff
 
@@ -84,6 +100,14 @@ A hodge-podge of former stuff that I've been involved in...
 *(I mainly use this page to connect all the disparate links on the interwebs to one central location)*
 
 ---
+
+<a href="https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis">
+    <img src="/images/project_pics/spikingneurons.png"
+        style="float: right"
+        width="300"
+        height="250"
+        >
+</a>
 
 ## computational neuroscience
 
@@ -95,6 +119,14 @@ Used:  MATLAB, Spiking Neural Networks (from scratch)
 
 ---
 
+<a href="https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis">
+    <img src="/images/project_pics/ecb_transmission.png"
+        style="float: right"
+        width="300"
+        height="250"
+        >
+</a>
+
 ## electrophysiology 
 
 Researched endocannabinoid signaling mechanisms through recording and analyzing the electrical activity of populations of neurons in the brain slices of mice as part of the Korzus lab under the excellent mentorship of Dr. Jonny Lovelace.  Also wrote a paper and did [my undergraduate honors thesis](https://books.google.com/books/about/Computational_Model_of_Induced_Alteratio.html?id=SjZlswEACAAJ) that is now preserved in the school library's cold dark basement.
@@ -103,13 +135,27 @@ Used:  Population-level Electrophysiological Recording, MATLAB, ANOVA, Immunohis
 
 ---
 
+<img src="/images/project_pics/MCP_neuron.png"
+    style="float: right"
+    width="300"
+    height="250"
+    >
+
 ## neural networks
 
 Gave talks about the mathematics of neural nets and tapped into the collective hive-mind of people writing proofs.  These [Pacific Summer Unsolved Math Seminars](https://sites.google.com/site/fullertoncollegemathevents/) are ran by [Dr. Dana Clahane](http://staffwww.fullcoll.edu/dclahane/index.html), a kind-hearted and inspiring mathematician who works on cultivating the mathematical curiosity in the surrounding Fullerton, CA community.  He hosts talks given by both students, colleagues, and professional mathematicians.  He also heads the local community college Putnam exam math training on a volunteer basis.
 
-Used:  LaTeX, Mathematical Proof, Classical Neural Networks
+Used:  LaTeX, Mathematical Proofs, Classical Neural Networks
 
 ---
+
+<a href="https://www.researchgate.net/publication/265531333_Steric_Interactions_between_sp_and_sp_3_Carbons_in_Acyclic_Alkynes_and_Nitriles">
+    <img src="/images/project_pics/synclinal.png"
+        style="float: right"
+        width="300"
+        height="250"
+        >
+</a>
 
 ## theoretical chemistry
 
@@ -119,6 +165,12 @@ Used:  Ab Initio Geometric Optimization Methods, sp-sp3 Synclinal + Antiperiplan
 
 ---
 
+<img src="/images/project_pics/spidervenom.png"
+    style="float: right"
+    width="300"
+    height="250"
+    >
+
 ## neuropharmacology
 
 Studied the evolution of neurotoxin proteins in Agelenopsis aperta (the desert grass / funnel weaving spider) under the guidance of Dr. Michael Adams.  Also [assisted in the research](https://escholarship.org/uc/item/3162w51t#page-1) of Dr. Do Hyoung Kim by dissecting fruit fly brains(!) as part of the effort to analyze the peptidergic neural networks underlying ecdysis.  Provided additional help in the milking of neurotoxins produced by the emerald jewel wasp used to make zombie cockroaches ([from which the wasp parasitically reproduces via the cockroaches in the style of the classic Alien movies!](https://youtu.be/qN2XMyxAs5o))   
@@ -127,6 +179,12 @@ Used: Immunohistochemistry, Western Blotting, Proteomics, Molecular Biology meth
 
 ---
 
+<img src="/images/project_pics/wuschelgene.png"
+    style="float: right"
+    width="300"
+    height="250"
+    >
+
 ## genetics
 
 Learned common molecular biology and genetics techniques while studying the roles of the agamous transcription factor & wuschel genes in floral stem cell maintenance of the Arabidopsis thaliana (mustard plant) in [Dr. Xuemei Chen](https://iigb.ucr.edu/xchen/)'s lab under the excellent guidance of Rae Yumul.  
@@ -134,6 +192,14 @@ Learned common molecular biology and genetics techniques while studying the role
 Used: Molecular Biology + Genetic Protocols
 
 ---
+
+<a href="https://pigeonrat.psych.ucla.edu/pigeons/">
+    <img src="/images/project_pics/pigeonrat.jpg"
+        style="float: right"
+        width="300"
+        height="250"
+        >
+</a>
 
 ## behavioral neuroscience
 
