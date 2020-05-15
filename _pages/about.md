@@ -30,6 +30,7 @@ Some of the things I enjoy thinking about:
 * Interpreting logical systems through a geometric lens
 * Geometric interpretations of music ([1](https://mundyreimer.github.io/project/project2-new))
 * [Alternative mathematical & musical notational systems](https://mundyreimer.github.io/blog/representation-notation-thought)
+* Mathematical Linguistics + [Syntax Analysis](https://mundyreimer.github.io/projects)
 * [The Sapir-Whorfian Hypothesis](https://mundyreimer.github.io/blog/representation-notation-thought)
 * [Constructed languages](https://mundyreimer.github.io/blog/representation-notation-thought)
 * History of languages & etymologies of words
