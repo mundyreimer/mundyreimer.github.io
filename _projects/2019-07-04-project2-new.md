@@ -14,6 +14,7 @@ Some recent projects that I've worked on...
 
 <a href="https://github.com/mundyreimer/argo_sensor_clustering">
     <img src="/images/demo/demo-portrait.jpg"
+        style="float: right"
         width="300" 
         height="300">
 </a>
