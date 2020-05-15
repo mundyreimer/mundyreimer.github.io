@@ -1,5 +1,5 @@
 ---
-title:
+title: projects
 subtitle: 
 description: 
 featured_image: 
