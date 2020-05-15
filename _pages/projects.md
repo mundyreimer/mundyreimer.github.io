@@ -91,7 +91,7 @@ Used:  PySpark, AWS EMR/S3, Plotly
 
 Used:  Text Extraction, Feature Engineering, Simple Linear Regression, LASSO Regression (L1), Ridge Regression (L2), Random Forest Regressor, Cross-Validation, Scikit-learn's Data Pipeline
 
-===
+---
 
 # older stuff
 
