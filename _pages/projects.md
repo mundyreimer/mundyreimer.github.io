@@ -1,7 +1,7 @@
 ---
 title: projects
 subtitle: 
-date: 
+description: 
 featured_image: 
 ---
 
