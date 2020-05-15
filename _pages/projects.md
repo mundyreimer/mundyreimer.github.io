@@ -18,8 +18,8 @@ Some recent projects that I've worked on...
 <a href="http://math2code.com/">
     <img src="/images/project_pics/math2code.png"
         style="float: right"
-        width="300" 
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
