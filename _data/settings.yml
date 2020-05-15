@@ -13,7 +13,7 @@ menu_settings:
     - title: 'writing'
       url: '/'
     - title: 'projects'
-      url: '/projects/'
+      url: '/projects'
     - title: 'resources'
       url: '/resources'
     - title: 'about'
