@@ -179,7 +179,7 @@ Used: Immunohistochemistry, Western Blotting, Proteomics, Molecular Biology meth
 
 ---
 
-<img src="/images/project_pics/wuschelgene.png"
+<img src="/images/project_pics/wuschelgeneplant.png"
     style="float: right"
     width="300"
     height="250"
