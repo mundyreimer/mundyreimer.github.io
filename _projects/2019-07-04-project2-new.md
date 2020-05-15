@@ -17,7 +17,7 @@ Some recent projects that I've worked on...
         style="float: left"
         width="350" 
         height="300"
-        border="10"
+        padding="20"
         >
         
 </a>
