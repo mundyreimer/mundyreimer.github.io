@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-Just a playful compilation of my seemingly eclectic thoughts, interests, & works :)  
+Just a playful compilation of my *seemingly* eclectic thoughts, interests, & works :)  
 
 ---
 
