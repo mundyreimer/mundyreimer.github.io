@@ -122,8 +122,8 @@ Used:  MATLAB, Spiking Neural Networks (from scratch)
 <a href="https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis">
     <img src="/images/project_pics/ecb_transmission.png"
         style="float: right"
-        width="300"
-        height="250"
+        width="250"
+        height="200"
         >
 </a>
 
