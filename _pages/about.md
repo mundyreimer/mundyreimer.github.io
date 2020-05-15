@@ -2,7 +2,7 @@
 title: about
 subtitle: 
 description: 
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/profilepic/geometry_of_logic_2.jpg
 ---
 
 Just a playful compilation of my *seemingly* eclectic thoughts, interests, & works :)  
