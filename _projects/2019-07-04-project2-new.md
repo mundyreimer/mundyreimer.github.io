@@ -17,9 +17,7 @@ Some recent projects that I've worked on...
         style="float: right"
         width="300" 
         height="250"
-        padding="20"
         >
-        
 </a>
 
 ## Oceanography
