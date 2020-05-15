@@ -13,7 +13,7 @@ Some recent projects that I've worked on...
 
 
 <a href="https://github.com/mundyreimer/argo_sensor_clustering">
-    <img src="/images/demo/demo-portrait.jpg"
+    <img src="/images/project_pics/argo_clustering.png"
         style="float: right"
         width="300" 
         height="300">
