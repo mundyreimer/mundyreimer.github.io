@@ -21,6 +21,7 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 </a>
 </center>
 
+<br/>
 
 Recently I was experimenting with [stereographic projection](https://en.wikipedia.org/wiki/Stereographic_projection) (a point-source of light rather than a [parallel-source](https://en.wikipedia.org/wiki/Parallel_projection)) of the [hyperbolic sphere](https://en.wikipedia.org/wiki/Hyperbolic_space). Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the [Schwarz triangle (2,3,7)](https://en.wikipedia.org/wiki/Schwarz_triangle) tessellation or [tiling pattern](https://en.wikipedia.org/wiki/Tessellation) and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same.
 
@@ -45,6 +46,8 @@ This occurs because the lines (called geodesics) that make up the sides of the t
         >
 </a>
 </center>
+
+<br/>
 
 Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see [Escher's art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry)), it is also a [potential candidate](http://abyss.uoregon.edu/~js/cosmo/lectures/lec15.html) for the [underlying spatial geometry of our universe](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/). 
 
