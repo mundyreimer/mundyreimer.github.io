@@ -140,12 +140,12 @@ Here are some interesting references which discuss more about Hyperbolic Geometr
 [Playing sports in hyperbolic space by Numberphile](https://youtu.be/u6Got0X41pY)
 
 [Exploring Hyperbolic Space w/ VR + Crochet](https://youtu.be/MTfviv_aZYI)
-*This one is really fun and good for building visual + physical intuition!!
+*This one is really fun and good for building visual + physical intuition!
 (And if you are like me, you might become topologically ill, haha)
 
 [The Hyperbolic Geometry of DMT Experiences](https://qualiacomputing.com/…/the-hyperbolic-geometry-of-d…/)
 
-[A world that is shaped as a hyperboloid in the sci-fi book *Dichronauts* by Greg Egan](https://www.gregegan.net/DICHRONAUTS/01/World.html)
+A world that is shaped as a hyperboloid in the [sci-fi book *Dichronauts* by Greg Egan](https://www.gregegan.net/DICHRONAUTS/01/World.html)
 
 [Excellent writeup on life on a Poincare Disk](https://pointatinfinityblog.wordpress.com/…/life-on-the-po…/)
 
