@@ -93,8 +93,8 @@ Could this be why *we think that we think* in Euclidean terms, due to computatio
 <a href="https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome">
     <img src="/images/post_pics/hyperbolic_geometry/aliceinwonderland.png"
     style="float: center"
-    width="400" 
-    height="400"
+    width="600" 
+    height="600"
         >
 </a>
 
