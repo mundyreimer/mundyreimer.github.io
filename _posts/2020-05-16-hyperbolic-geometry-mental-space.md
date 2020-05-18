@@ -21,7 +21,7 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 </a>
 </center>
 
-Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same. This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of this upper half plane or flat surface (like the bottom of the flat wall behind me). In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the left, or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times.
+Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same. This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of a upper half plane or flat surface. 
 
 <br/>
 
@@ -45,7 +45,20 @@ Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see
 
 <br/>
 
-So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like my wall in the background? It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane much much larger than the Euclidean plane, as well as tremendously easy to get lost in (eg - in order to walk from the left of a unit disc to the perimeter, it is an infinite distance away).
+So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like my wall in the background? In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the left, or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times. 
+
+<br/>
+
+<center>
+<a href="http://egl.math.umd.edu/projects-archive.html">
+    <img src="/images/post_pics/hyperbolic_geometry/upperhalfplanediagram.jpg"
+        >
+</a>
+</center>
+
+<br/>
+
+It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane much much larger than the Euclidean plane, as well as tremendously easy to get lost in (eg - in order to walk from the left of a unit disc to the perimeter, it is an infinite distance away).
 
 <br/>
 
@@ -93,7 +106,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
 <br/><br/>
 <br/>
 
-Could perhaps the physiological increase of surface area from which our cortical homunculus is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
+Thinking about the structure of the brain now, could perhaps the physiological increase of surface area from which our cortical homunculus is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
 
 <br/>
 
@@ -104,9 +117,9 @@ Could perhaps the physiological increase of surface area from which our cortical
 </a>
 </center>
 
-We know from differential geometry that "locally" (or zoomed in) we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
+We know from differential geometry that "locally" (ie - "zoomed in") we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
 
-Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the influence of certain drugs or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome))
+Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the influence of certain drugs or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
 
 <br/>
 
@@ -150,7 +163,7 @@ A world that is shaped as a hyperboloid in the [sci-fi book *Dichronauts* by Gre
 
 [Excellent writeup on life on a Poincare Disk](https://pointatinfinityblog.wordpress.com/…/life-on-the-po…/)
 
-And for those following my previous posts, particularly that of living systems and toroidal geometries, [here's a connection between hyperbolic geometry and the double (or generally 1+n holed) torus](https://www.quantamagazine.org/from-hyperbolic-geometry-to…/)
+And for those following my previous posts, particularly that of [living systems and toroidal geometries](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), [here's a connection between hyperbolic geometry and the double (or generally 1+n holed) torus](https://www.quantamagazine.org/from-hyperbolic-geometry-to…/)
 
 ---
 
