@@ -103,7 +103,7 @@ It turns out that in Hyperbolic geometry, as we go outward we have the property 
 
 <br/>
 
-Because there are many more degrees of freedom, you allow patterns and structures with incredibly high degrees of branching. In physical models, this would take the form of exponentially more area in the surrounding edges, turning a normally flat disc into one where the edges are highly buckled and "frilly", with lots of saddle points (think like a pringles potato chip or piece of lettuce for each saddle point), basically granting you increasingly more surface area (and evolution knows well the benefits of increasing surface area when it comes to resource exchange, metabolic waste, and heat dissipation).
+Because there are many more degrees of freedom, you allow patterns and structures with incredibly high degrees of branching. In physical models, this would take the form of exponentially more area in the surrounding edges, turning a normally flat disc into one where the edges are highly buckled and "frilly", with lots of saddle points (think like a pringles potato chip or piece of lettuce for each saddle point), basically granting you increasingly more surface area (and [evolution knows well the benefits of increasing surface area](https://www.nature.com/articles/srep41974) when it comes to [resource exchange](https://en.wikipedia.org/wiki/Coral), metabolic waste, and heat dissipation).
 
 <br/>
 
@@ -136,7 +136,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
 <br/><br/>
 <br/>
 
-Thinking about the structure of the brain now, could perhaps the physiological increase of surface area from which our cortical homunculus is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
+Thinking about the [structure of the brain now](https://www.nature.com/articles/s41598-019-48568-5.pdf), could perhaps the [physiological increase of surface area](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700117/) from which our [cortical homunculus](https://en.wikipedia.org/wiki/Cortical_homunculus) is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
 
 <br/>
 
