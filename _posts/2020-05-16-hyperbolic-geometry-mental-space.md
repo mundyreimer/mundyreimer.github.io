@@ -162,7 +162,7 @@ Could this be why *we think that we think* in Euclidean terms, due to computatio
 </a>
 </center>
 
-Could this also be investigated empirically? We can maybe come up with potential perceptual experiments by first coming up with thought experiments of what it would be like from the perspective of an observer living *inside a Poincare disc* (a unit disc composed of a hyperbolic plane), versus the perspective of an observer from an external *outside Euclidean view*. 
+Could this also be investigated empirically? We can maybe come up with potential perceptual experiments by first coming up with thought experiments of what it would be like from the perspective of an observer living *inside a [Poincare disc](https://en.wikipedia.org/wiki/Poincar%C3%A9_disk_model)* (a unit disc composed of a hyperbolic plane), versus the perspective of an observer from an external *outside Euclidean view*. 
 
 <br/>
 
