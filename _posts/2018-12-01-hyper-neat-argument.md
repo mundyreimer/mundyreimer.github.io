@@ -8,6 +8,7 @@ excerpt: Is the Universe in its totality structure-less?
 *Updated: 2019-06-23*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Speculative*
+*Status: Still in progress* 
 
 The following is a distillation of an argument found in this *Nautilus* Article: [How Chaos Makes the Multiverse Unnecessary](http://nautil.us/issue/66/clockwork/chaos-makes-the-multiverse-unnecessary-rp) by Noson S. Yanofsky, plus my accompanying thoughts...
 
