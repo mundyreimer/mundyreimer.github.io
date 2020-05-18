@@ -18,7 +18,7 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 
 <a href="https://math.okstate.edu/people/segerman/">
     <img src="/images/post_pics/hyperbolic_geometry/shadow_poincaredisc.jpeg"
-    style="float: center"
+    style="float: middle"
         >
 </a>
 
@@ -26,7 +26,7 @@ Recently I was experimenting with stereographic projection (a point-source of li
 
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
     <img src="/images/post_pics/hyperbolic_geometry/escherart.jpg"
-    style="float: center"
+    style="float: middle"
         >
 </a>
 
@@ -34,15 +34,15 @@ Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see
 
 <a href="https://math.okstate.edu/people/segerman/">
     <img src="/images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
-    style="float: center"
+    style="float: middle"
         >
 </a>
 
-So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like my wall in the background? It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane much much larger than the Euclidean plane, as well as tremendously easy to get lost in (eg - in order to walk from the center of a unit disc to the perimeter, it is an infinite distance away).
+So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like my wall in the background? It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane much much larger than the Euclidean plane, as well as tremendously easy to get lost in (eg - in order to walk from the middle of a unit disc to the perimeter, it is an infinite distance away).
 
 <a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
     <img src="/images/post_pics/hyperbolic_geometry/poincare_disc.png"
-    style="float: center"
+    style="float: middle"
     width="400" 
     height="400"
     >
@@ -82,7 +82,7 @@ Could perhaps the physiological increase of surface area from which our cortical
 
 <a href="https://en.wikipedia.org/wiki/Cortical_homunculus">
     <img src="/images/post_pics/hyperbolic_geometry/corticalhomunculus.jpg"
-        style="float: center"
+        style="float: middle"
         >
 </a>
 
@@ -92,7 +92,7 @@ Could this be why *we think that we think* in Euclidean terms, due to computatio
 
 <a href="https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome">
     <img src="/images/post_pics/hyperbolic_geometry/aliceinwonderland.png"
-    style="float: center"
+    style="float: middle"
     width="600" 
     height="600"
         >
@@ -102,13 +102,13 @@ Could this also be investigated empirically? We can maybe come up with potential
 
 <a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
     <img src="/images/post_pics/hyperbolic_geometry/livingonpoincaredisc.png"
-    style="float: center"
+    style="float: middle"
     width="600" 
     height="600"
         >
 </a>
 
-Because we know that the distances inside the disc appear equal to an outside Euclidean observer whereas within the Hyperbolic plane they get infinitely longer the closer you are to the edge of the disc, then if we were a person living within the hyperbolic plane moving from the center to the perimeter, from the perspective inside the disc we'd be moving at a constant speed and never approach the edge, where from an outside Euclidean observer it would look like we are actually slowing down the more we travel to the edge. From the *outside* we see boundaries and time slowing down, whereas from the *inside* we see infinite space and time staying constant. Perhaps we can design experiments that can differentiate between these perceptual differences in time, speed, and limits?
+Because we know that the distances inside the disc appear equal to an outside Euclidean observer whereas within the Hyperbolic plane they get infinitely longer the closer you are to the edge of the disc, then if we were a person living within the hyperbolic plane moving from the middle to the perimeter, from the perspective inside the disc we'd be moving at a constant speed and never approach the edge, where from an outside Euclidean observer it would look like we are actually slowing down the more we travel to the edge. From the *outside* we see boundaries and time slowing down, whereas from the *inside* we see infinite space and time staying constant. Perhaps we can design experiments that can differentiate between these perceptual differences in time, speed, and limits?
 
 ---
 
