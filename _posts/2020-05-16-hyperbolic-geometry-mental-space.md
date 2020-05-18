@@ -18,7 +18,10 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 
 <a href="https://math.okstate.edu/people/segerman/">
     <img src="images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
-     >
+        style="float: right"
+        width="350" 
+        height="300"
+        >
 </a>
 
 
