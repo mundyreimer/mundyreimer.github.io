@@ -74,7 +74,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
         >
 </a>
 
-<br><br>
+<br/><br/>
 
 Could perhaps the physiological increase of surface area from which our cortical homunculus is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
 
