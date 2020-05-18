@@ -21,7 +21,21 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 </a>
 </center>
 
-Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same. This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of a upper half plane or flat surface. 
+
+Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same.
+
+<br/>
+
+<center>
+<a href="http://egl.math.umd.edu/projects-archive.html">
+    <img src="/images/post_pics/hyperbolic_geometry/poincarediscdiagram.jpg"
+        >
+</a>
+</center>
+
+<br/>
+
+This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of a upper half plane or flat surface. 
 
 <br/>
 
@@ -32,7 +46,20 @@ Recently I was experimenting with stereographic projection (a point-source of li
 </a>
 </center>
 
-Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see [Escher's art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry)), it is also a potential candidate for the underlying spatial geometry of our universe. And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are shaped inside our Minds.
+Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see [Escher's art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry)), it is also a [potential candidate](http://abyss.uoregon.edu/~js/cosmo/lectures/lec15.html) for the [underlying spatial geometry of our universe](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/). 
+
+<br/>
+
+<center>
+<a href="http://abyss.uoregon.edu/~js/cosmo/lectures/lec15.html">
+    <img src="/images/post_pics/hyperbolic_geometry/curvature_of_universe.gif"
+        >
+</a>
+</center>
+
+<br/>
+
+And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are shaped inside our Minds.
 
 <br/>
 
