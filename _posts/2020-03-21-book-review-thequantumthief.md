@@ -6,7 +6,7 @@ excerpt: My review of the science fiction novel by Hannu Rajaniemi.  Dilemma Pri
 ---
 *Updated: 2020-03-21*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
-*Confidence: N/A*
+*Confidence: N/A*  
 *Status: Complete* 
 
 Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/review/show/3222039609).

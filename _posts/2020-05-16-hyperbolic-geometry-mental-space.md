@@ -6,7 +6,7 @@ excerpt: Discussing the potential shape of one's internal information, thoughts,
 ---
 *Updated: 2020-05-18*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
-*Confidence: Highly Speculative*<br/>
+*Confidence: Highly Speculative*  
 *Status: Still in progress* 
 
 ---

@@ -6,7 +6,7 @@ excerpt: My review of the science fiction novel by Hannu Rajaniemi.  A novel tha
 ---
 *Updated: 2020-04-05*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
-*Confidence: N/A*
+*Confidence: N/A*  
 *Status: Complete* 
 
 TL;DR - Arabian nights + Islamic Penrose tiling geometries + fractal decompression + Hofstadter Strange Loops + True Names + stories as biological vectors + Annihilation-level Lovecraftian anatomical weirdness + No Cloning Theorem + Zen Buddhist Suiboku-ga
