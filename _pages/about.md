@@ -16,7 +16,7 @@ Some of the things I enjoy thinking about:
 * [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 * Self-Organizing Systems + Biological Complexity Theory
 * Biological applications of L-Grammars
-* Data compression theories of symmetry in biological systems
+* Data compression theories of [symmetry in biological systems](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
 * Biosemiotic perspectives
 * Evolution across multiple spatial/temporal levels
 * Learning & inference as higher-ordered homeostatic regulation
