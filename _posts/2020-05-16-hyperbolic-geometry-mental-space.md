@@ -16,8 +16,11 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 
 ---
 
-<img src="images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
-    >
+<a href="https://math.okstate.edu/people/segerman/">
+    <img src="images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
+     >
+</a>
+
 
 Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same. This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of this upper half plane or flat surface (like the bottom of the flat wall behind me). In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the middle, or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times.
 
