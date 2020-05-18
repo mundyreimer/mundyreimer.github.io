@@ -25,7 +25,6 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same. This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of this upper half plane or flat surface (like the bottom of the flat wall behind me). In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the left, or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times.
 
 <br/><br/>
-<br/><br/>
 
 <center>
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
@@ -37,7 +36,6 @@ Recently I was experimenting with stereographic projection (a point-source of li
 Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see [Escher's art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry)), it is also a potential candidate for the underlying spatial geometry of our universe. And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are shaped inside our Minds.
 
 <br/><br/>
-<br/><br/>
 
 <center>
 <a href="https://math.okstate.edu/people/segerman/">
@@ -47,11 +45,9 @@ Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see
 </center>
 
 <br/><br/>
-<br/><br/>
 
 So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like my wall in the background? It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane much much larger than the Euclidean plane, as well as tremendously easy to get lost in (eg - in order to walk from the left of a unit disc to the perimeter, it is an infinite distance away).
 
-<br/><br/>
 <br/><br/>
 
 <center>
@@ -65,7 +61,6 @@ So what's special about Hyperbolic geometry? Remember how I said that lines begi
 
 Because there are many more degrees of freedom, you allow patterns and structures with incredibly high degrees of branching. In physical models, this would take the form of exponentially more area in the surrounding edges, turning a normally flat disc into one where the edges are highly buckled and "frilly", with lots of saddle points (think like a pringles potato chip or piece of lettuce for each saddle point), basically granting you increasingly more surface area (and evolution knows well the benefits of increasing surface area when it comes to resource exchange, metabolic waste, and heat dissipation).
 
-<br/><br/>
 <br/><br/>
 
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
@@ -99,7 +94,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
 
 Could perhaps the physiological increase of surface area from which our cortical homunculus is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
 
-<br/><br/>
+<br/>
 
 <center>
 <a href="https://en.wikipedia.org/wiki/Cortical_homunculus">
@@ -112,7 +107,7 @@ And we know from differential geometry that "locally" (or zoomed in) we perceive
 
 Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the influence of certain drugs or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome))
 
-<br/><br/>
+<br/>
 
 <center>
 <a href="https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome">
