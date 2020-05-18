@@ -53,18 +53,18 @@ Because there are many more degrees of freedom, you allow patterns and structure
 <div class="row">
   <div class="column">
     <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg"
-    width="300" 
-    height="300">
+    width="200" 
+    height="200">
   </div>
   <div class="column">
     <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
-    width="300" 
-    height="300">
+    width="200" 
+    height="200">
   </div>
   <div class="column">
     <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
-    width="300" 
-    height="300">
+    width="200" 
+    height="200">
   </div>
 </div>
 
