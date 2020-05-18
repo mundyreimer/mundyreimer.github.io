@@ -149,7 +149,7 @@ Thinking about the [structure of the brain now](https://www.nature.com/articles/
 
 We know from differential geometry that "locally" (ie - "zoomed in") we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
 
-Could this be why *we think that we think* in Euclidean terms, due to [computational time constraints](https://en.wikipedia.org/wiki/Mental_chronometry) of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the [influence of certain drugs](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
+Could this be why *we think that we think* in Euclidean terms, due to [computational time constraints](https://www.sciencedirect.com/science/article/pii/S007961231730050X) of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the [influence of certain drugs](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
 
 <br/>
 
@@ -175,7 +175,7 @@ Could this also be investigated empirically? We can maybe come up with [interest
 </a>
 </center>
 
-Because we know that the distances inside the disc appear equal to an outside Euclidean observer whereas within the Hyperbolic plane they get infinitely longer the closer you are to the edge of the disc, then if we were a person living within the hyperbolic plane moving from the left to the perimeter, from the perspective inside the disc we'd be moving at a constant speed and never approach the edge, where from an outside Euclidean observer it would look like we are actually slowing down the more we travel to the edge. From the *outside* we see boundaries and time slowing down, whereas from the *inside* we see infinite space and time staying constant. Perhaps we can design experiments that can differentiate between these perceptual differences in time, speed, and limits?
+Because we know that the distances inside the disc appear equal to an outside Euclidean observer whereas within the Hyperbolic plane they get infinitely longer the closer you are to the edge of the disc, then if we were a person living within the hyperbolic plane moving from the left to the perimeter, from the perspective inside the disc we'd be moving at a constant speed and never approach the edge, where from an outside Euclidean observer it would look like we are actually slowing down the more we travel to the edge. From the *outside* we see boundaries and time slowing down, whereas from the *inside* we see infinite space and time staying constant. Perhaps we can [design experiments](https://en.wikipedia.org/wiki/Mental_chronometry) that can differentiate between these perceptual differences in time, speed, and limits?
 
 ---
 
