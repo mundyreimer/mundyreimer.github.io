@@ -2,7 +2,7 @@
 title: 'The Hyperbolic Geometry of Mental Space'
 date: 2020-05-16 00:00:00
 featured_image: 
-excerpt: Discussing the potential shape of one's internal information, thoughts, values, rewards, and beliefs inside our Minds, and whether or not we can model these using Hyperbolic Geometry. 
+excerpt: Want to know how shadows, lettuce, brains, Escher, and Alice in Wonderland relate? I discuss the potential shape of one's internal information, thoughts, values, rewards, and beliefs inside our Minds, and whether or not we can model these using Hyperbolic Geometry. 
 ---
 *Updated: 2020-05-18*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
