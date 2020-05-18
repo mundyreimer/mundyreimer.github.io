@@ -62,7 +62,7 @@ Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see
 
 <br/>
 
-And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels or propagates), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are shaped inside our Minds.
+And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels or propagates), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are arranged and shaped inside our Minds.
 
 <br/>
 
