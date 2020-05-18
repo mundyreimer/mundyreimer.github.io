@@ -18,6 +18,7 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 
 <a href="https://math.okstate.edu/people/segerman/">
     <img src="/images/post_pics/hyperbolic_geometry/shadow_poincaredisc.jpeg"
+    style="float: center"
         >
 </a>
 
@@ -25,6 +26,7 @@ Recently I was experimenting with stereographic projection (a point-source of li
 
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
     <img src="/images/post_pics/hyperbolic_geometry/escherart.jpg"
+    style="float: center"
         >
 </a>
 
@@ -32,6 +34,7 @@ Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see
 
 <a href="https://math.okstate.edu/people/segerman/">
     <img src="/images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
+    style="float: center"
         >
 </a>
 
@@ -39,6 +42,7 @@ So what's special about Hyperbolic geometry? Remember how I said that lines begi
 
 <a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
     <img src="/images/post_pics/hyperbolic_geometry/poincare_disc.png"
+    style="float: center"
     width="400" 
     height="400"
     >
@@ -48,13 +52,19 @@ Because there are many more degrees of freedom, you allow patterns and structure
 
 <div class="row">
   <div class="column">
-    <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg" style="width:100%">
+    <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg"
+    width="300" 
+    height="300">
   </div>
   <div class="column">
-    <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg" style="width:100%">
+    <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
+    width="300" 
+    height="300">
   </div>
   <div class="column">
-    <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg" style="width:100%">
+    <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
+    width="300" 
+    height="300">
   </div>
 </div>
 
@@ -87,6 +97,7 @@ Could perhaps the physiological increase of surface area from which our cortical
 
 <a href="https://en.wikipedia.org/wiki/Cortical_homunculus">
     <img src="/images/post_pics/hyperbolic_geometry/corticalhomunculus.jpg"
+        style="float: center"
         >
 </a>
 
@@ -96,6 +107,7 @@ Could this be why *we think that we think* in Euclidean terms, due to computatio
 
 <a href="https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome">
     <img src="/images/post_pics/hyperbolic_geometry/aliceinwonderland.png"
+    style="float: center"
     width="400" 
     height="400"
         >
@@ -105,6 +117,7 @@ Could this also be investigated empirically? We can maybe come up with potential
 
 <a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
     <img src="/images/post_pics/hyperbolic_geometry/livingonpoincaredisc.png"
+    style="float: center"
     width="600" 
     height="600"
         >
