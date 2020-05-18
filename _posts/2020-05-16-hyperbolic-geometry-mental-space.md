@@ -50,46 +50,27 @@ So what's special about Hyperbolic geometry? Remember how I said that lines begi
 
 Because there are many more degrees of freedom, you allow patterns and structures with incredibly high degrees of branching. In physical models, this would take the form of exponentially more area in the surrounding edges, turning a normally flat disc into one where the edges are highly buckled and "frilly", with lots of saddle points (think like a pringles potato chip or piece of lettuce for each saddle point), basically granting you increasingly more surface area (and evolution knows well the benefits of increasing surface area when it comes to resource exchange, metabolic waste, and heat dissipation).
 
-<div class="row">
-  <div class="column">
-    <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg"
-    width="200" 
-    height="200">
-  </div>
-  <div class="column">
-    <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
-    width="200" 
-    height="200">
-  </div>
-  <div class="column">
-    <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
-    width="200" 
-    height="200">
-  </div>
-</div>
-
-
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
     <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg"
     style="float: left"
-    width="200" 
-    height="200"
+    width="300" 
+    height="300"
         >
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
     style="float: left"
-    width="200" 
-    height="200"
+    width="300" 
+    height="300"
         >
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
     style="float: left"
-    width="200" 
-    height="200"
+    width="300" 
+    height="300"
         >
 </a>
 
