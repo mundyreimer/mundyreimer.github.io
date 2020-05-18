@@ -58,7 +58,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
         >
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Daina_Taimina">
+<a href="https://en.wikipedia.org/wiki/Crocheting_Adventures_with_Hyperbolic_Planes">
     <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
     style="float: left"
     width="250" 
@@ -66,7 +66,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
         >
 </a>
 
-<a href="https://en.wikipedia.org/wiki/Daina_Taimina">
+<a href="https://en.wikipedia.org/wiki/Crocheting_Adventures_with_Hyperbolic_Planes">
     <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
     style="float: left"
     width="250" 
