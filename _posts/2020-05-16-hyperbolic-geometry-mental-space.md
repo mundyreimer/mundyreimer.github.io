@@ -11,7 +11,7 @@ excerpt: Want to know how shadows, lettuce, brains, Escher, and Alice in Wonderl
 
 ---
 
-TL;DR - Discussing the potential shape of one's internal information, thoughts, values, rewards, and beliefs inside our Minds, and whether or not we can model these using Hyperbolic Geometry.
+TL;DR - Want to know how shadows, lettuce, brains, Escher, and Alice in Wonderland relate? I discuss the potential shape of one's internal information, thoughts, values, rewards, and beliefs inside our Minds, and whether or not we can model these using Hyperbolic Geometry.
 
 ---
 <center>
