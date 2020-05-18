@@ -52,25 +52,28 @@ Because there are many more degrees of freedom, you allow patterns and structure
 
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
     <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg"
-    style="left"
+    style="float: left"
     width="250" 
     height="250"
+    vspace=”50”
         >
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
-    style="left"
+    style="float: left"
     width="250" 
     height="250"
+    vspace=”50”
         >
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
-    style="left"
+    style="float: left"
     width="250" 
     height="250"
+    vspace=”50”
         >
 </a>
 
