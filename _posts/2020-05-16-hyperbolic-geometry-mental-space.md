@@ -149,7 +149,7 @@ Thinking about the [structure of the brain now](https://www.nature.com/articles/
 
 We know from differential geometry that "locally" (ie - "zoomed in") we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
 
-Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the [influence of certain drugs](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
+Could this be why *we think that we think* in Euclidean terms, due to [computational time constraints](https://en.wikipedia.org/wiki/Mental_chronometry) of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the [influence of certain drugs](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
 
 <br/>
 
@@ -162,7 +162,7 @@ Could this be why *we think that we think* in Euclidean terms, due to computatio
 </a>
 </center>
 
-Could this also be investigated empirically? We can maybe come up with potential perceptual experiments by first coming up with thought experiments of what it would be like from the [perspective of an observer](https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/) living *inside a [Poincare disc](https://en.wikipedia.org/wiki/Poincar%C3%A9_disk_model)* (a unit disc composed of a hyperbolic plane), versus the perspective of an observer from an external *outside Euclidean view*. 
+Could this also be investigated empirically? We can maybe come up with [interesting potential perceptual experiments](https://en.wikipedia.org/wiki/Time_perception) by first coming up with thought experiments of what it would be like from the [perspective of an observer](https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/) living *inside a [Poincare disc](https://en.wikipedia.org/wiki/Poincar%C3%A9_disk_model)* (a unit disc composed of a hyperbolic plane), versus the perspective of an observer from an external *outside Euclidean view*. 
 
 <br/>
 
