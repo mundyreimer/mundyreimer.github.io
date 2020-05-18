@@ -149,7 +149,7 @@ Thinking about the [structure of the brain now](https://www.nature.com/articles/
 
 We know from differential geometry that "locally" (ie - "zoomed in") we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
 
-Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the [influence of certain drugs](https://qualiacomputing.com/%E2%80%A6/the-hyperbolic-geometry-of-d%E2%80%A6/) or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
+Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the [influence of certain drugs](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome) and one's perception of sizes are greatly enlarged or made smaller).
 
 <br/>
 
@@ -187,7 +187,7 @@ Here are some interesting references which discuss more about Hyperbolic Geometr
 *This one is really fun and good for building visual + physical intuition!
 (And if you are like me, you might become topologically ill, haha)
 
-[The Hyperbolic Geometry of DMT Experiences](https://qualiacomputing.com/…/the-hyperbolic-geometry-of-d…/)
+[The Hyperbolic Geometry of DMT Experiences](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/)
 
 A world that is shaped as a hyperboloid in the [sci-fi book *Dichronauts* by Greg Egan](https://www.gregegan.net/DICHRONAUTS/01/World.html)
 
