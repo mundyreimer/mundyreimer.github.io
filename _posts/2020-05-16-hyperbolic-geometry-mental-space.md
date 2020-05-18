@@ -79,7 +79,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
-    style="float: center"
+    style="float: left"
     width="200" 
     height="200"
         >
@@ -87,7 +87,7 @@ Because there are many more degrees of freedom, you allow patterns and structure
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
-    style="float: right"
+    style="float: left"
     width="200" 
     height="200"
         >
