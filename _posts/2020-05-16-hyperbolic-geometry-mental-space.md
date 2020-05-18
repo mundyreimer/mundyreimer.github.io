@@ -2,7 +2,7 @@
 title: 'The Hyperbolic Geometry of Mental Space'
 date: 2020-05-16 00:00:00
 featured_image: 
-excerpt: Discussing the potential shape of one's internal information, thoughts, values, rewards, beliefs, and potentially even Self-Awareness itself inside our Minds, and whether or not we can model these using Hyperbolic Geometry. 
+excerpt: Discussing the potential shape of one's internal information, thoughts, values, rewards, beliefs, and potentially even Self-Awareness inside our Minds, and whether or not we can model these using Hyperbolic Geometry. 
 ---
 *Updated: 2020-05-18*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
@@ -12,7 +12,7 @@ excerpt: Discussing the potential shape of one's internal information, thoughts,
 
 ---
 
-TL;DR - Discussing the potential shape of one's internal information, thoughts, values, rewards, beliefs, and potentially even Self-Awareness itself inside our Minds, and whether or not we can model these using Hyperbolic Geometry.
+TL;DR - Discussing the potential shape of one's internal information, thoughts, values, rewards, beliefs, and potentially even Self-Awareness inside our Minds, and whether or not we can model these using Hyperbolic Geometry.
 
 ---
 <center>
