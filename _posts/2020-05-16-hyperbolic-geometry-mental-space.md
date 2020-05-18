@@ -104,7 +104,7 @@ Could perhaps the physiological increase of surface area from which our cortical
 </a>
 </center>
 
-And we know from differential geometry that "locally" (or zoomed in) we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
+We know from differential geometry that "locally" (or zoomed in) we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
 
 Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the influence of certain drugs or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome))
 
