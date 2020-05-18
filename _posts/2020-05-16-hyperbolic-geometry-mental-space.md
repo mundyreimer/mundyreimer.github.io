@@ -30,7 +30,7 @@ Recently I was experimenting with stereographic projection (a point-source of li
         >
 </a>
 
-Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see Escher's art), it is also a potential candidate for the underlying spatial geometry of our universe. And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are shaped inside our Minds.
+Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see [Escher's art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry)), it is also a potential candidate for the underlying spatial geometry of our universe. And just like how we can study how energy and matter are shaped or configured in our *external* reality (since this allows us to explain how things like light or heat travels), so too can we study how *internal* information, thoughts, values, rewards, beliefs, and maybe even Self-Awareness itself are shaped inside our Minds.
 
 <a href="https://math.okstate.edu/people/segerman/">
     <img src="/images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
