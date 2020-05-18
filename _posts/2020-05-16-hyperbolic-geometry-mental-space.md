@@ -17,10 +17,9 @@ TL;DR - Discussing the potential shape of one's internal information, thoughts, 
 ---
 
 <a href="https://math.okstate.edu/people/segerman/">
-    <img src="/images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg"
+    <img src="/images/post_pics/hyperbolic_geometry/shadow_poincaredisc.jpeg"
         >
 </a>
-
 
 Recently I was experimenting with stereographic projection (a point-source of light rather than a parallel-source) of the hyperbolic sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the Schwarz triangle (2,3,7) tessellation or tiling pattern and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same. This occurs because the lines (called geodesics) that make up the sides of the triangle have to map from originally a circle that goes around a sphere (think similar to Earth's equator) to either a single straight line or the many curved arcs radiating out from the edges of this upper half plane or flat surface (like the bottom of the flat wall behind me). In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the middle, or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times.
 
@@ -40,7 +39,9 @@ So what's special about Hyperbolic geometry? Remember how I said that lines begi
 
 <a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
     <img src="/images/post_pics/hyperbolic_geometry/poincare_disc.png"
-        >
+    width="400" 
+    height="400"
+    >
 </a>
 
 Because there are many more degrees of freedom, you allow patterns and structures with incredibly high degrees of branching. In physical models, this would take the form of exponentially more area in the surrounding edges, turning a normally flat disc into one where the edges are highly buckled and "frilly", with lots of saddle points (think like a pringles potato chip or piece of lettuce for each saddle point), basically granting you increasingly more surface area (and evolution knows well the benefits of increasing surface area when it comes to resource exchange, metabolic waste, and heat dissipation).
@@ -48,24 +49,24 @@ Because there are many more degrees of freedom, you allow patterns and structure
 <a href="http://web.colby.edu/thegeometricviewpoint/2016/12/21/tessellations-of-the-hyperbolic-plane-and-m-c-escher/">
     <img src="/images/post_pics/hyperbolic_geometry/lettuce.jpg"
     style="float: left"
-    width="400" 
-    height="400"
+    width="200" 
+    height="200"
         >
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet1.jpeg"
     style="float: center"
-    width="400" 
-    height="400"
+    width="200" 
+    height="200"
         >
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Daina_Taimina">
     <img src="/images/post_pics/hyperbolic_geometry/crochet2.jpeg"
     style="float: right"
-    width="400" 
-    height="400"
+    width="200" 
+    height="200"
         >
 </a>
 
@@ -78,15 +79,12 @@ Could perhaps the physiological increase of surface area from which our cortical
 
 And we know from differential geometry that "locally" (or zoomed in) we perceive a hyperbolic surface as Euclidean or flat, but globally it is not (similar to how we locally perceive the earth as flat, when globally it is not). 
 
-<a href="https://math.okstate.edu/people/segerman/">
-    <img src="/images/post_pics/hyperbolic_geometry/shadow_poincaredisc.jpeg"
-        >
-</a>
-
 Could this be why *we think that we think* in Euclidean terms, due to computational time constraints of perceiving and acting on information *in real life*, whereas perceiving and acting on information *in dream states* are quite different experiences? (or similarly under the influence of certain drugs or neuropsychological conditions like when one experiences [Alice-in-Wonderland Syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome))
 
 <a href="https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome">
     <img src="/images/post_pics/hyperbolic_geometry/aliceinwonderland.png"
+    width="400" 
+    height="400"
         >
 </a>
 
@@ -94,6 +92,8 @@ Could this also be investigated empirically? We can maybe come up with potential
 
 <a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
     <img src="/images/post_pics/hyperbolic_geometry/livingonpoincaredisc.png"
+    width="600" 
+    height="600"
         >
 </a>
 
