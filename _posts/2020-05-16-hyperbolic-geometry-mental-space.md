@@ -55,7 +55,6 @@ Because there are many more degrees of freedom, you allow patterns and structure
     style="float: left"
     width="250" 
     height="250"
-    vspace=”50”
         >
 </a>
 
@@ -64,7 +63,6 @@ Because there are many more degrees of freedom, you allow patterns and structure
     style="float: left"
     width="250" 
     height="250"
-    vspace=”50”
         >
 </a>
 
@@ -73,9 +71,10 @@ Because there are many more degrees of freedom, you allow patterns and structure
     style="float: left"
     width="250" 
     height="250"
-    vspace=”50”
         >
 </a>
+
+<br><br>
 
 Could perhaps the physiological increase of surface area from which our cortical homunculus is mapped to, then potentially have downstream effects into one's psychological inner mental space that they navigate through?
 
