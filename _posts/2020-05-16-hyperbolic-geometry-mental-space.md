@@ -23,7 +23,7 @@ TL;DR - Do you want to know how shadows, lettuce, brains, Escher, and Alice in W
 
 <br/>
 
-Recently I was experimenting with [stereographic projection](https://en.wikipedia.org/wiki/Stereographic_projection) (a point-source of light rather than a [parallel-source](https://en.wikipedia.org/wiki/Parallel_projection)) of the [hyperbolic](https://en.wikipedia.org/wiki/Hyperbolic_space) sphere. Finding a stereographic projection is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the [Schwarz triangle (2,3,7)](https://en.wikipedia.org/wiki/Schwarz_triangle) tessellation or [tiling pattern](https://en.wikipedia.org/wiki/Tessellation) and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same.
+Recently I was experimenting with [stereographic projection](https://en.wikipedia.org/wiki/Stereographic_projection) (a point-source of light rather than a [parallel-source](https://en.wikipedia.org/wiki/Parallel_projection)) of the [hyperbolic](https://en.wikipedia.org/wiki/Hyperbolic_space) sphere. Finding a stereographic [projection](https://slehar.wordpress.com/2014/06/26/geometric-algebra-projective-geometry/) is essentially equivalent to finding a mapping (aka a model) of the hyperbolic sphere to the Euclidean plane, allowing us to view what happens to the [Schwarz triangle (2,3,7)](https://en.wikipedia.org/wiki/Schwarz_triangle) tessellation or [tiling pattern](https://en.wikipedia.org/wiki/Tessellation) and how it warps. Notice that in our picture, although sizes and lengths are distorted, angles are the same.
 
 <br/>
 
