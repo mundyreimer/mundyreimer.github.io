@@ -88,7 +88,7 @@ So what's special about Hyperbolic geometry? Remember how I said that lines begi
 
 <br/>
 
-It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane much much larger than the Euclidean plane, as well as tremendously [easy to get lost in](https://youtu.be/MTfviv_aZYI) (eg - in order to walk from the center of a unit disc to the perimeter, it is an infinite distance away).
+It turns out that in Hyperbolic geometry, as we go outward we have the property that we encounter exponentially more infinite space, making the Hyperbolic plane [much much larger than the Euclidean plane](https://youtu.be/jJq1vZbOrwI?t=1973), as well as tremendously [easy to get lost in](https://youtu.be/MTfviv_aZYI) (eg - in order to walk from the center of a unit disc to the perimeter, it is an infinite distance away).
 
 <br/>
 
