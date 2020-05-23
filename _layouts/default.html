@@ -3,6 +3,10 @@
 <html class="no-js" lang="en">
 
 <head>
+	{% block head %}
+	{{ super() }}
+	{% include 'googleanalytics.html' %}
+	{% endblock %}
 
 
 	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
