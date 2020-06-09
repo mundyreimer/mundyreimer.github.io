@@ -22,16 +22,16 @@ Flashcards I made to review various topics using the [spaced-repetition software
 *One common misconception is that you can only use flashcards and space-repetition principles for fields like Biology where material often comes in bite-sized facts and being skilled in the art of memorization is important.  I disagree with this and think that you can use flashcards even in computer science and math.  Michael Nielsen talks about this at length and uses spaced repetition to [deepen his understanding of math](http://cognitivemedium.com/srs-mathematics) and [understand academic literature and papers](http://augmentingcognition.com/ltm.html).
 
 My decks include:
-[Reinforcement Learning](https://www.brainscape.com/p/212G3-LH-98CG7)
-[Deep Learning](https://www.brainscape.com/p/212G3-LH-7O0LQ)
-[Machine Learning](https://www.brainscape.com/p/212G3-LH-6LO5K)
-[beginning & intermediate Python](https://www.brainscape.com/p/212G3-LH-6LO5O) 
-[Bash/Linux](https://www.brainscape.com/p/212G3-LH-9AYP2) shell commands
-[Markdown](https://www.brainscape.com/p/212G3-LH-9AYP5)
-[SQL](https://www.brainscape.com/p/212G3-LH-9AYOY)
-Linear Algebra
-[Statistics](https://www.brainscape.com/p/212G3-LH-7IOLD)
-[Calculus](https://www.brainscape.com/p/212G3-LH-7VXN7)
+* [Reinforcement Learning](https://www.brainscape.com/p/212G3-LH-98CG7)
+* [Deep Learning](https://www.brainscape.com/p/212G3-LH-7O0LQ)
+* [Machine Learning](https://www.brainscape.com/p/212G3-LH-6LO5K)
+* [beginning & intermediate Python](https://www.brainscape.com/p/212G3-LH-6LO5O) 
+* [Bash/Linux](https://www.brainscape.com/p/212G3-LH-9AYP2) shell commands
+* [Markdown](https://www.brainscape.com/p/212G3-LH-9AYP5)
+* [SQL](https://www.brainscape.com/p/212G3-LH-9AYOY)
+* Linear Algebra
+* [Statistics](https://www.brainscape.com/p/212G3-LH-7IOLD)
+* [Calculus](https://www.brainscape.com/p/212G3-LH-7VXN7)
 ...and various niche topics I like to study or read about :)
 
 ---
