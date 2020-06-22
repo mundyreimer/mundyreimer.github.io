@@ -75,7 +75,7 @@ And just like how we can study how energy and matter are shaped or configured in
 
 <br/>
 
-So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like my wall in the background? In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the middle (depending upon where we place our point-source of light), or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times. 
+So what's special about Hyperbolic geometry? Remember how I said that lines begin to radiate outward to form semi-circles in the upper half plane model like the wall in the background? In the upper half plane model (or projection), the geodesics can either form a single straight line going up from the middle (depending upon where we place our point-source of light), or meet once at the boundary (from which it then radiates outward and forms a semi-circle), or meet 0 times. 
 
 <br/>
 
