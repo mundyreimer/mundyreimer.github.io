@@ -19,8 +19,6 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 
 Flashcards I made to review various topics using the [spaced-repetition software (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition#Software) from [Brainscape](https://www.brainscape.com/i/212G3).  I try to make it a habit to create cards whenever studying something new or coming across something interesting I've read online or in a book.  I use 2x daily for 10 minutes each, once after waking up and another right before bed.  Able to be used on phone, tablet, or pc.  Feel free to copy + edit for your own use.  I've used various SRS tools in the past, but Brainscape was one of the few which gave me the personal control of Anki combined with the aesthetic UI of something like Duolingo or Supermemo.  See my post for more on memory hacking.
 
-*One common misconception is that you can only use flashcards and space-repetition principles for fields like Biology where material often comes in bite-sized facts and being skilled in the art of memorization is important.  I disagree with this and think that you can use flashcards even in computer science and math.  Michael Nielsen talks about this at length and uses spaced repetition to [deepen his understanding of math](http://cognitivemedium.com/srs-mathematics) and [understand academic literature and papers](http://augmentingcognition.com/ltm.html).
-
 My decks include:
 * [Reinforcement Learning](https://www.brainscape.com/p/212G3-LH-98CG7)
 * [Deep Learning](https://www.brainscape.com/p/212G3-LH-7O0LQ)
@@ -33,6 +31,8 @@ My decks include:
 * [Statistics](https://www.brainscape.com/p/212G3-LH-7IOLD)
 * [Calculus](https://www.brainscape.com/p/212G3-LH-7VXN7)
 ...and various niche topics I like to study or read about :)
+
+*One common misconception is that you can only use flashcards and space-repetition principles for fields like Biology where material often comes in bite-sized facts and being skilled in the art of memorization is important.  I disagree with this and think that you can use flashcards even in computer science and math.  Michael Nielsen talks about this at length and uses spaced repetition to [deepen his understanding of math](http://cognitivemedium.com/srs-mathematics) and [understand academic literature and papers](http://augmentingcognition.com/ltm.html).
 
 ---
 
