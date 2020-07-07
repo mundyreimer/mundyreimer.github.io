@@ -15,15 +15,17 @@ Some of the things I enjoy thinking about:
 
 * [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 * Self-Organizing Systems + Biological Complexity Theory
-* Biological applications of L-Grammars
+* Biological applications of [L-Grammars](https://en.wikipedia.org/wiki/L-system)
 * Data compression theories of [symmetry in biological systems](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
-* Biosemiotic perspectives
-* Evolution across multiple spatial/temporal levels
+* [Biosemiotic](https://en.wikipedia.org/wiki/Biosemiotics) perspectives
+* Generative output of evolutionary algorithms across multiple spatial/temporal levels
+* Development of [Good Regulators](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf)
 * Learning & inference as higher-ordered homeostatic regulation
 * Predictive processing theories of brain function
 * Data compression & thermodynamic theories of sleep 
 * Formal Theories of Consciousness
-* Development of [Good Regulators](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf) in systems
+* Biomathematical underpinning of [Klüver constants](https://en.wikipedia.org/wiki/Form_constant), psychedelic experiences, and altered states of consciousness([1](https://www.math.uh.edu/~dynamics/reprints/papers/nc.pdf))([2](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/))([3](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/))
+* Searching for potential geometries of biological motivational systems + value systems, and finding the underlying geometry of [biological taxis](https://en.wikipedia.org/wiki/Taxis) and organism behavior
 * Applying Graph-theoretic ideas to every nail in sight
 * The above applies to Information Theory as well ;)
 * Non-classical logical systems, Heyting Algebras, & Lattices
