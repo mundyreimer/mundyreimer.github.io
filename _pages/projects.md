@@ -31,6 +31,22 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 
 ---
 
+<a href="https://github.com/mundyreimer/RL-Sepsis-Prediction">
+    <img src="/images/project_pics/sepsis_timeseries.png"
+        style="float: right"
+        width="300" 
+        height="250"
+        >
+</a>
+
+## medical diagnosis
+
+ Along with my multi-talented partner, [Zachary Barnes](https://zacharybarnes.org/about/), [we built a reinforcement learning environment + series of models that predicts and classifies hospital-acquired sepsis](https://github.com/mundyreimer/RL-Sepsis-Prediction) (aka - [blood-poisoning](https://en.wikipedia.org/wiki/Sepsis)) in patients at each hour using multivariate timeseries data of patient vital signs and lab results (ex - heart rate, O2 saturation, temperature, mean arterial pressure, serum white blood cell count, etc) and [OpenAI gym](https://github.com/openai/gym).  Sepsis is a life-threatening condition that arises when the body's response to infection causes injury to its tissues and organs. It is the most common cause of death for people who have been hospitalized, and results in a $15.4 billion annual cost in the US. Early detection and treatment are essential for prevention and a 1-hour delay in antibiotic treatment can lead to 4% increase in hospital mortality. Given the nature of our data as a multivariate timeseries of patient vital signs, this makes this an ideal classification problem to apply reinforcement learning methods to.  Some of the algorithms and policies we tried include: Proximal Policy Optimization Algorithm + Multi-Layer Perceptron, Proximal Policy Optimization Algorithm + LSTM, Synchronous, deterministic variant of Asynchronous Advantage Actor Critic + LSTM, and Deep Q Networks + LSTM.
+
+ Used: 
+
+---
+
 <a href="https://github.com/mundyreimer/argo_sensor_clustering">
     <img src="/images/project_pics/argo_clustering.png"
         style="float: right"
