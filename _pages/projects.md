@@ -45,7 +45,7 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
  
  [Sepsis](https://en.wikipedia.org/wiki/Sepsis) is a life-threatening condition that arises when the body's response to infection causes injury to its tissues and organs. It is the most common cause of death for people who have been hospitalized, and results in a $15.4 billion annual cost in the US. Early detection and treatment are essential for prevention and a 1-hour delay in antibiotic treatment can lead to 4% increase in hospital mortality. 
  
- Some of the algorithms and policies we tried include: Proximal Policy Optimization Algorithm + Multi-Layer Perceptron, Proximal Policy Optimization Algorithm + LSTM, Synchronous, deterministic variant of Asynchronous Advantage Actor Critic + LSTM, and Deep Q-Networks + LSTM.  Project was built with my multi-talented partner, [Zachary Barnes](https://zacharybarnes.org/about/).  [See here](https://github.com/mundyreimer/RL-Sepsis-Prediction) for our code, analysis, and tutorial on how to setup and run this yourself.
+ Project was built with my multi-talented partner, [Zachary Barnes](https://zacharybarnes.org/about/). Some of the algorithms and policies we tried include: Proximal Policy Optimization Algorithm + Multi-Layer Perceptron, Proximal Policy Optimization Algorithm + LSTM, Synchronous, deterministic variant of Asynchronous Advantage Actor Critic + LSTM, and Deep Q-Networks + LSTM. [See here](https://github.com/mundyreimer/RL-Sepsis-Prediction) for our code, analysis, and tutorial on how to setup and run this on your local machine.
 
  Used: OpenAI Gym, TensorFlow, Bayesian Optimization, Keras Preprocessing
 
