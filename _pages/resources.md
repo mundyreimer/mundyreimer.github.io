@@ -19,7 +19,7 @@ Some articles I've written on Medium:
 
 [book reviews](https://www.goodreads.com/mundyreimer)
 
-A list of books + reviews that I've read.  I *love* recommendations (both non-fiction + fiction), so if you think I'd like something definitely hit me up!
+A list of my reviews of books that I've read.  I *love* recommendations (both non-fiction + fiction), so if you think I'd like something definitely hit me up!
 
 ---
 
