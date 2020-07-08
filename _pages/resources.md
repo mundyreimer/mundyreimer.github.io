@@ -9,6 +9,8 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 
 *The resources below might be especially useful if you are an academic, student, or scientist.*
 
+---
+
 ## material:
 
 [medium articles](https://medium.com/@mundyreimer)
