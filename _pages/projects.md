@@ -41,7 +41,7 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 
 ## medical diagnosis
 
- [Built a reinforcement learning environment + series of models](https://github.com/mundyreimer/RL-Sepsis-Prediction) that predicts and classifies hospital-acquired Sepsis (aka - [blood-poisoning](https://en.wikipedia.org/wiki/Sepsis)) in patients at each hour using multivariate timeseries data of patient vital signs and lab results (ex - heart rate, O2 saturation, temperature, mean arterial pressure, serum white blood cell count, etc) using [OpenAI Gym](https://github.com/openai/gym).  
+ [Built a custom reinforcement learning environment + series of models](https://github.com/mundyreimer/RL-Sepsis-Prediction) that predicts and classifies hospital-acquired Sepsis (aka - [blood-poisoning](https://en.wikipedia.org/wiki/Sepsis)) in patients at each hour using multivariate timeseries data of patient vital signs and lab results (ex - heart rate, O2 saturation, temperature, mean arterial pressure, serum white blood cell count, etc) using [OpenAI Gym](https://github.com/openai/gym).  
  
  [Sepsis](https://en.wikipedia.org/wiki/Sepsis) is a life-threatening condition that arises when the body's response to infection causes injury to its tissues and organs. It is the most common cause of death for people who have been hospitalized, and results in a $15.4 billion annual cost in the US. Early detection and treatment are essential for prevention and a 1-hour delay in antibiotic treatment can lead to 4% increase in hospital mortality. 
  
