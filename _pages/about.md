@@ -23,7 +23,7 @@ Some of the things I enjoy thinking about:
 * Predictive processing theories of brain function
 * Data compression & thermodynamic theories of sleep 
 * Formal theories of Consciousness
-* Biomathematical underpinning of [Klüver constants](https://en.wikipedia.org/wiki/Form_constant) + psychedelic experiences ([1](https://www.math.uh.edu/~dynamics/reprints/papers/nc.pdf))([2](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/))([3](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/))
+* Biomathematical theories of [Klüver constants](https://en.wikipedia.org/wiki/Form_constant) + psychedelic experiences ([1](https://www.math.uh.edu/~dynamics/reprints/papers/nc.pdf))([2](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/))([3](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/))
 * Underlying geometries of biological motivational systems, [taxis](https://en.wikipedia.org/wiki/Taxis), and organismal behavior
 * Non-classical logical systems, Heyting Algebras, & Lattices
 * Interpreting logical systems through a geometric lens
