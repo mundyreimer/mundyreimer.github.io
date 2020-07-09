@@ -32,8 +32,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/RL-Sepsis-Prediction">
     <img src="/images/project_pics/sepsis_timeseries.png"
         style="float: right"
-        width="375" 
-        height="325"
+        width="400" 
+        height="350"
         >
 </a>
 
