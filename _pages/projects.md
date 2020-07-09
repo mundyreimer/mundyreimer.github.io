@@ -68,8 +68,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/iambic_songs">
     <img src="/images/project_pics/iambic_pentameter.jpeg"
         style="float: right"
-        width="375" 
-        height="325"
+        width="400" 
+        height="350"
         >
 </a>
 
