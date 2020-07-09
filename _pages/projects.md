@@ -1,10 +1,8 @@
 ---
-title: projects
+title:
 subtitle: 
 description: 
 featured_image: /images/profilepic/geometry_of_logic_2.jpg
----
-
 ---
 
 ## newer stuff
