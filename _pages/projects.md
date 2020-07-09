@@ -34,8 +34,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/RL-Sepsis-Prediction">
     <img src="/images/project_pics/sepsis_timeseries.png"
         style="float: right"
-        width="350" 
-        height="300"
+        width="375" 
+        height="325"
         >
 </a>
 
@@ -70,8 +70,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/iambic_songs">
     <img src="/images/project_pics/iambic_pentameter.jpeg"
         style="float: right"
-        width="350" 
-        height="300"
+        width="375" 
+        height="325"
         >
 </a>
 
@@ -102,8 +102,8 @@ Used:  PySpark, AWS EMR/S3, Plotly
 <a href="https://github.com/mundyreimer/dark_market_ml">
     <img src="/images/project_pics/darkmarketcocaine.png"
         style="float: right"
-        width="350" 
-        height="300"
+        width="375" 
+        height="325"
         >
 </a>
 
@@ -126,8 +126,8 @@ A hodge-podge of former stuff that I've been involved in...
 <a href="https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis">
     <img src="/images/project_pics/spikingneurons.png"
         style="float: right"
-        width="350" 
-        height="300"
+        width="375" 
+        height="325"
         >
 </a>
 
@@ -176,8 +176,8 @@ Used:  LaTeX, Mathematical Proofs, Classical Neural Networks
 <a href="https://www.researchgate.net/publication/265531333_Steric_Interactions_between_sp_and_sp_3_Carbons_in_Acyclic_Alkynes_and_Nitriles">
     <img src="/images/project_pics/synclinal.png"
         style="float: right"
-        width="350" 
-        height="300"
+        width="375" 
+        height="325"
         >
 </a>
 
@@ -192,8 +192,8 @@ Used:  Ab Initio Geometric Optimization Methods, sp-sp3 Synclinal + Antiperiplan
 <a>
     <img src="/images/project_pics/spidervenom.png"
         style="float: right"
-        width="350" 
-        height="300"
+        width="375" 
+        height="325"
         >
 </a>
 
