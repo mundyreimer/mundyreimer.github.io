@@ -34,8 +34,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/RL-Sepsis-Prediction">
     <img src="/images/project_pics/sepsis_timeseries.png"
         style="float: right"
-        width="300" 
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -54,8 +54,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/argo_sensor_clustering">
     <img src="/images/project_pics/argo_clustering.png"
         style="float: right"
-        width="300" 
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -70,8 +70,8 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 <a href="https://github.com/mundyreimer/iambic_songs">
     <img src="/images/project_pics/iambic_pentameter.jpeg"
         style="float: right"
-        width="300"
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -86,8 +86,8 @@ Used:  Text-Parsing, Natural Language Processing, Logistic Regression, Step-Wise
 <a href="https://github.com/mundyreimer/school_donations_project">
     <img src="/images/project_pics/donorschoose.jpeg"
         style="float: right"
-        width="300"
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -102,8 +102,8 @@ Used:  PySpark, AWS EMR/S3, Plotly
 <a href="https://github.com/mundyreimer/dark_market_ml">
     <img src="/images/project_pics/darkmarketcocaine.png"
         style="float: right"
-        width="300"
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -126,8 +126,8 @@ A hodge-podge of former stuff that I've been involved in...
 <a href="https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis">
     <img src="/images/project_pics/spikingneurons.png"
         style="float: right"
-        width="300"
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -144,8 +144,8 @@ Used:  MATLAB, Spiking Neural Networks (from scratch)
 <a href="https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis">
     <img src="/images/project_pics/ecb_transmission.png"
         style="float: right"
-        width="250"
-        height="200"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -157,11 +157,13 @@ Used:  Population-level Electrophysiological Recording, MATLAB, ANOVA, Immunohis
 
 ---
 
-<img src="/images/project_pics/MCP_neuron.png"
-    style="float: right"
-    width="300"
-    height="250"
-    >
+<a>
+    <img src="/images/project_pics/MCP_neuron.png"
+        style="float: right"
+        width="350" 
+        height="300"
+        >
+</a>
 
 ### neural networks
 
@@ -174,8 +176,8 @@ Used:  LaTeX, Mathematical Proofs, Classical Neural Networks
 <a href="https://www.researchgate.net/publication/265531333_Steric_Interactions_between_sp_and_sp_3_Carbons_in_Acyclic_Alkynes_and_Nitriles">
     <img src="/images/project_pics/synclinal.png"
         style="float: right"
-        width="300"
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
@@ -187,11 +189,13 @@ Used:  Ab Initio Geometric Optimization Methods, sp-sp3 Synclinal + Antiperiplan
 
 ---
 
-<img src="/images/project_pics/spidervenom.png"
-    style="float: right"
-    width="250"
-    height="200"
-    >
+<a>
+    <img src="/images/project_pics/spidervenom.png"
+        style="float: right"
+        width="350" 
+        height="300"
+        >
+</a>
 
 ### neuropharmacology
 
@@ -201,11 +205,13 @@ Used: Immunohistochemistry, Western Blotting, Proteomics, Molecular Biology meth
 
 ---
 
-<img src="/images/project_pics/wuschelgeneplant.jpeg"
-    style="float: right"
-    width="300"
-    height="250"
+<a>
+    <img src="/images/project_pics/wuschelgeneplant.jpeg"
+        style="float: right"
+        width="350" 
+        height="300"
     >
+</a>
 
 ### genetics
 
@@ -218,8 +224,8 @@ Used: PCR, Primer Design, Illumina Sequencing, other basic molecular biology/gen
 <a href="https://pigeonrat.psych.ucla.edu/pigeons/">
     <img src="/images/project_pics/pigeonrat.jpg"
         style="float: right"
-        width="300"
-        height="250"
+        width="350" 
+        height="300"
         >
 </a>
 
