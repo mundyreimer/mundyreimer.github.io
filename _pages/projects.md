@@ -7,7 +7,7 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 
 ---
 
-# newer stuff
+## newer stuff
 
 Some recent projects that I've worked on...
 
@@ -115,7 +115,7 @@ Used:  Text Extraction, Feature Engineering, Simple Linear Regression, LASSO Reg
 
 ---
 
-# older stuff
+## older stuff
 
 A hodge-podge of former stuff that I've been involved in...
 
