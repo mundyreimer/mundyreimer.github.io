@@ -46,7 +46,7 @@ My decks include:
 * [Calculus](https://www.brainscape.com/p/212G3-LH-7VXN7)
 * [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.brainscape.com/p/212G3-LH-9EJ5Y)
 
-...and various niche topics I like to study or read about :)
+...and various other niche topics I like to study or read about :)
 
 *One common misconception is that you can only use flashcards and space-repetition principles for fields like Biology where material often comes in bite-sized facts and being skilled in the art of memorization is important.  I disagree with this and think that you can use flashcards even in computer science and math.  Michael Nielsen talks about this at length and uses spaced repetition to [deepen his understanding of math](http://cognitivemedium.com/srs-mathematics) and [understand academic literature and papers](http://augmentingcognition.com/ltm.html).
 
