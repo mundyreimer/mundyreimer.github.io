@@ -41,7 +41,7 @@ My decks include:
 * [Bash/Linux](https://www.brainscape.com/p/212G3-LH-9AYP2) shell commands
 * [Markdown](https://www.brainscape.com/p/212G3-LH-9AYP5)
 * [SQL](https://www.brainscape.com/p/212G3-LH-9AYOY)
-* Linear Algebra
+* [Linear Algebra](https://www.brainscape.com/p/212G3-LH-7IOLE)
 * [Statistics](https://www.brainscape.com/p/212G3-LH-7IOLD)
 * [Calculus](https://www.brainscape.com/p/212G3-LH-7VXN7)
 * [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.brainscape.com/p/212G3-LH-9EJ5Y)
