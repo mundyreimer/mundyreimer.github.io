@@ -193,7 +193,7 @@ A world that is shaped as a hyperboloid in the [sci-fi book *Dichronauts* by Gre
 
 [Excellent writeup on life on a Poincare Disk](https://pointatinfinityblog.wordpress.com/…/life-on-the-po…/)
 
-And for those following my previous posts, particularly that of [living systems and toroidal geometries](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), [here's a connection between hyperbolic geometry and the double (or generally 1+n holed) torus](https://www.quantamagazine.org/from-hyperbolic-geometry-to…/)
+And for those following my previous posts, particularly that of [living systems and toroidal geometries](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), [here's a connection between hyperbolic geometry and the double (or generally 1+n holed) torus](https://www.quantamagazine.org/from-hyperbolic-geometry-to-cube-complexes-and-back-20121002/)
 
 ---
 
