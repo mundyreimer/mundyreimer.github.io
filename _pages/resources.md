@@ -94,7 +94,7 @@ One of the most handy browser extensions I've used is [Unpaywall](https://unpayw
 
 To get around online newspaper / magazine paywalls or monthly free-article limits like those found in the _The Washington Post_, _The New Yorker_, _The Wall Street Journal_, etc, I recommend taking a look at [this list of hacks here](https://medium.com/paywall-hacks/how-to-bypass-virtually-every-news-paywall-705602c4c2ce).  Alternatively, you can use your _Page Inspector_ by right-clicking on a page and then checking the box to disable JavaScript (furthermore, you can find any number of browser extensions that allow you to toggle on+off JS).  
 
-For free versions of textbooks and fiction, you could take a look at [Library Genesis](https://libgen.is/) (If the current link is dead just google it).  There are also other things like *Sci-Hub* (which can also be googled) that some people are against and don't recommend...
+For free versions of textbooks and fiction, you could take a look at [Library Genesis](https://libgen.is/) (If the current link is dead just google it).  There are also other things like *Sci-Hub* (which can also be googled) that some people are against and don't recommend ;)
 
 [too many tabs?](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=en)
 
