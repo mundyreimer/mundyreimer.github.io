@@ -1,7 +1,7 @@
 ---
 title: 'Book Review - The Fractal Prince'
 date: 2020-4-05 00:00:00
-featured_image: 
+featured_image: '/images/post_pics/book_reviews/islamic_art.jpg'
 excerpt: My review of the science fiction novel by Hannu Rajaniemi.  A novel that combines Arabian nights + Islamic Penrose tiling geometries + fractal decompression + Hofstadter Strange Loops + True Names + stories as biological vectors + Annihilation-level Lovecraftian anatomical weirdness + No Cloning Theorem + Zen Buddhist Suiboku-ga  
 ---
 *Updated: 2020-04-05*  

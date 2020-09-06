@@ -1,7 +1,7 @@
 ---
 title: 'Book Review - The Quantum Thief'
 date: 2020-3-19 00:00:00
-featured_image: 
+featured_image: '/images/post_pics/book_reviews/escher_stairs.jpg'
 excerpt: My review of the science fiction novel by Hannu Rajaniemi.  Dilemma Prisons where you play infinite copies of yourself and expands by tiling the universe in perfect game-theoretic harmony, mind piracy, optogenetic viruses, cryptographic exomemory, & more!
 ---
 *Updated: 2020-03-21*  

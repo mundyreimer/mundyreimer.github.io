@@ -1,7 +1,7 @@
 ---
 title: 'A *Hyper* Neat Argument'
 date: 2018-12-01 00:00:00
-featured_image: 
+featured_image: '/images/post_pics/hyper_neat_argument/octonions.jpg'
 excerpt: Is the Universe in its totality structure-less?
 ---
 

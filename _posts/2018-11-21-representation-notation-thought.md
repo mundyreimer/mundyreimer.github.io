@@ -1,7 +1,7 @@
 ---
 title: 'Representation, Notation, & Thought'
 date: 2018-12-10 00:00:00
-featured_image: 
+featured_image: '/images/post_pics/representation_notation/inupiaq.png'
 excerpt: Compilation of resources featuring the interplay of mathematics, language, and notation
 ---
 *Updated: 2019-08-23*  
