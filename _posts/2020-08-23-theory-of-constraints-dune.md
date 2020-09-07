@@ -53,7 +53,7 @@ We can further see that culturally-speaking, Herbert creates a world where human
 
 With the possible exception of his father Pardot, our planetary ecologist Liet Kynes is perhaps my favorite character. Thus, in the vein of the Kyne's school of thought and through the eyes of a philosopher-scientist, I'd like to talk about Herbert's world-building in a specific thematic context, that of [complexity theory](https://en.wikipedia.org/wiki/Complex_system#Emergence), [self-organization](https://en.wikipedia.org/wiki/Self-organization), and the nature of constraints shaping the future of a given system. Let's start with a quote by our ecologist Liet Kynes:
 
-*"You are dealing, you see, with the Law of the Minimum...Growth is limited by that necessity which is present in the least amount. And, naturally, the least favorable condition controls the growth rate."*
+*"You are dealing, you see, with the [Law of the Minimum](https://en.wikipedia.org/wiki/Liebig%27s_law_of_the_minimum)...Growth is limited by that necessity which is present in the least amount. And, naturally, the least favorable condition controls the growth rate."*
 
 If taken at face-value, Kynes was talking about the scarcity of water that is present on Arrakis, and how that has shaped not only the cultural and religious practices of the people there, but the biogeochemical cycles present. More importantly, this law has further implications that go beyond the subject matter of water. Here's one of my favorite poetic quotes by Pardot:
 
