@@ -89,4 +89,4 @@ Throughout this novel Herbert seems to keep reminding us that systems and the ac
 
 ---
 
-Cross-posted from my Goodreads review [found here](https://www.goodreads.com/review/show/3221990458)
+Cross-posted from my Goodreads review [found here](https://www.goodreads.com/review/show/3221990458).
