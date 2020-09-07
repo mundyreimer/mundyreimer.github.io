@@ -11,7 +11,7 @@ excerpt: Philosophical-scientific analysis of the sci-fi book Dune by Frank Herb
 
 ---
 
-TL;DR - 🐁🏜️⏳🧬🧘‍♂️ Philosophical-scientific analysis of the sci-fi book [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert) using a *Theory of Constraints* found in biological complexity-theoretic readings of [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), [Robert Rosen](https://en.wikipedia.org/wiki/Robert_Rosen_(theoretical_biologist)), & [Stuart Kauffman](https://en.wikipedia.org/wiki/Stuart_Kauffman).
+TL;DR - 🐁🏜️⏳🧬🧘‍♂️ Philosophical-scientific analysis of the sci-fi book [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert) using a *Theory of Constraints* found in biological complexity-theoretic readings of [Erwin Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger), [Robert Rosen](https://en.wikipedia.org/wiki/Robert_Rosen_(theoretical_biologist))(also see [here](http://www.people.vcu.edu/~mikuleck/rosrev.html)), & [Stuart Kauffman](https://en.wikipedia.org/wiki/Stuart_Kauffman).
 
 ---
 
