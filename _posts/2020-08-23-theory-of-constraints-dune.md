@@ -49,7 +49,7 @@ More importantly, the Bene Gesserit assume that we are all animals and that they
 
 We can further see that culturally-speaking, Herbert creates a world where humanity is arranged as a feudal society, families compete and scheme for power, bloodlines are important, and intense training and conditioning from birth is the norm, which when combined with the above all create fertile conditions for talk on nature-vs-nurture, free-will-vs-fate, etc.
 
-### Kynes-style Philosophical-Scientific Analysis
+### Philosophical-Scientific Analysis
 
 With the possible exception of his father Pardot, our planetary ecologist Liet Kynes is perhaps my favorite character. Thus, in the vein of the Kyne's school of thought and through the eyes of a philosopher-scientist, I'd like to talk about Herbert's world-building in a specific thematic context, that of [complexity theory](https://en.wikipedia.org/wiki/Complex_system#Emergence), [self-organization](https://en.wikipedia.org/wiki/Self-organization), and the nature of constraints shaping the future of a given system. Let's start with a quote by our ecologist Liet Kynes:
 
