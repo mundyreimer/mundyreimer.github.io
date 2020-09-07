@@ -45,7 +45,7 @@ Or how about the *Spacing Guild Navigators*, who possess the ability to predict 
 
 And arguably the most interesting, we have the *Bene Gesserit*, a school of females who manipulate and run much of the sociopolitics behind the scenes. Not only are they trained to have excellent physiological self-control and are able to manipulate people with subliminal linguistic conditioning, but they also control a secret eugenics agenda in which they set up their students to mate with individuals possessing key traits, like *"a broodmare preserving an important bloodline for the Bene Gesserit Plan"*.
 
-More importantly, the Bene Gesserit assume that we are all animals and that they are charged with the sacred duty of *"sifting people to find the humans"* in an effort to seek Agency amongst us, furthering their goal by seeding whole-scale mythologies on planets on staggering multi-generational time scales to aid their future members.
+More importantly, the Bene Gesserit assume that we are all animals and that they are charged with the sacred duty of *"sifting people to find the humans"* in an effort to seek [Agency](https://en.wikipedia.org/wiki/Agency_(philosophy)) amongst us, furthering their goal by seeding whole-scale mythologies on planets on staggering multi-generational time scales to aid their future members.
 
 We can further see that culturally-speaking, Herbert creates a world where humanity is arranged as a feudal society, families compete and scheme for power, bloodlines are important, and intense training and conditioning from birth is the norm, which when combined with the above all create fertile conditions for talk on nature-vs-nurture, free-will-vs-fate, etc.
 
