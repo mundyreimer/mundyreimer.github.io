@@ -19,7 +19,7 @@ TL;DR - 🐁🏜️⏳🧬🧘‍♂️ Philosophical-scientific analysis of the
 
 I just finished re-reading this book 15 years later with my younger sister. It's hard to believe that the last time I read it I was in my early teenage years. At the time it was one of my favorite books, and even though I think it has been eclipsed in many ways by newer sci-fi pieces that cover a richer and more nuanced part of the philosophical-thematic landscape, this book still holds a special place of endearment for having shaped much of my early inner mental development.
 
-Since my original reading many years ago, I've followed the first novel with the rest of the original six books in the Dune saga, as well as every single one of the consequent books (for 19 total) in the Dune *roman-fleuve* by his son Brian Herbert and co-author Kevin J. Anderson. Add to that the fact that I played the Dune video games and watched both the film and tv series, and you'll be reading a review coming from a dedicated Duniverse fan.
+Since my original reading many years ago, I've followed the first novel with the rest of the original six books in the Dune saga, as well as every single one of the consequent books (for 19 total) in the Dune *roman-fleuve* by his son Brian Herbert and co-author Kevin J. Anderson. Add to that the fact that I played the Dune video games and watched both the film and tv series, and you'll be reading an analysis & review coming from a dedicated Duniverse fan.
 
 ### Background
 
