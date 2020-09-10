@@ -11,7 +11,7 @@ excerpt:
 
 ---
 
-TL;DR - weight, lenght, height, etc
+TL;DR - weight, length, height, etc
 
 ---
 
