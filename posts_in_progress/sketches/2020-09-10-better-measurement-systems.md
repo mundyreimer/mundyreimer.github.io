@@ -7,7 +7,7 @@ excerpt:
 *Updated: 2020-09-10*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive)*  
 *Confidence: Speculative*  
-*Status: Complete* 
+*Status: Work in Progress* 
 
 ---
 
