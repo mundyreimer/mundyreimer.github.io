@@ -11,7 +11,7 @@ excerpt:
 
 ---
 
-TL;DR - weight, length, height, etc
+TL;DR - weight, length, height, metric vs. body-centered, physics-grounded vs. purely geometric grounded, etc
 
 ---
 
