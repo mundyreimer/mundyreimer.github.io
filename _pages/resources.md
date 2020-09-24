@@ -31,7 +31,7 @@ A list of my reviews of books that I've read.  I *love* recommendations (both no
 
 [spaced-repetition flashcards](https://www.brainscape.com/profiles/3408543)
 
-Flashcards I made to review various topics using the [spaced-repetition software (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition#Software) from [Brainscape](https://www.brainscape.com/i/212G3).  I try to make it a habit to create cards whenever studying something new or coming across something interesting I've read online or in a book.  I use 2x daily for 10 minutes each, once after waking up and another right before bed.  Able to be used on phone, tablet, or pc.  Feel free to copy + edit for your own use.  I've used various SRS tools in the past, but Brainscape was one of the few which gave me the personal control of Anki combined with the aesthetic UI of something like Duolingo or Supermemo.  For those who don't know much about how great Spaced Repetition is for hacking your memory, [take a look at this awesome comic](https://ncase.me/remember/) that my friend [Zach](https://zacharybarnes.org/about/) showed me!  Also, see my post for more on memory hacking.
+Flashcards I made to review various topics using the [spaced-repetition software (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition#Software) from [Brainscape](https://www.brainscape.com/i/212G3).  I try to make it a habit to create cards whenever studying something new or coming across something interesting I've read online or in a book.  I use 2x daily for 10 minutes each, once after waking up and another right before bed.  Able to be used on phone, tablet, or pc.  Feel free to copy + edit for your own use.  I've used various SRS tools in the past, but Brainscape was one of the few which gave me the personal control of Anki combined with the aesthetic UI of something like Duolingo or Supermemo.  For those who don't know much about how great Spaced Repetition is for hacking your memory, [take a look at this awesome comic](https://ncase.me/remember/)!  Also, see my post for more on memory hacking.
 
 My decks include:
 * [Machine Learning](https://www.brainscape.com/p/212G3-LH-6LO5K)
@@ -47,7 +47,7 @@ My decks include:
 * [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.brainscape.com/p/212G3-LH-9EJ5Y)
 * [The Four Pillars of Geometry](https://www.brainscape.com/p/212G3-LH-9EJ5Y)
 
-...and various other niche topics I like to study or read about :)0
+...and various other niche topics I like to study or read about :)
 
 *One common misconception is that you can only use flashcards and space-repetition principles for fields like Biology where material often comes in bite-sized facts and being skilled in the art of memorization is important.  I disagree with this and think that you can use flashcards even in computer science and math.  Michael Nielsen talks about this at length and uses spaced repetition to [deepen his understanding of math](http://cognitivemedium.com/srs-mathematics) and [understand academic literature and papers](http://augmentingcognition.com/ltm.html).
 
