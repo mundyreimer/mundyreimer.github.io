@@ -41,8 +41,7 @@ Some of the things I enjoy thinking about:
 
 ### hobbies
 
-* Amateur botany w/ a pteridomanic disposition
-* [Making terrariums, bonsai, & going on nature hikes](https://www.instagram.com/l.grammars/)
+* [Amateur botany w/ a pteridomanic disposition, nature hiking, terrarium + bonsai 'scaping, & fueling my petrichor addiction](https://www.instagram.com/l.grammars/)
 * Playing badminton!
 * Learning new instruments + making electronic music
 * Recreational mathematics
