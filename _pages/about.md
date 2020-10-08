@@ -41,7 +41,7 @@ Some of the things I enjoy thinking about:
 
 ### hobbies
 
-* [Amateur botany w/ a pteridomanic disposition, nature hiking, terrarium + bonsai 'scaping, & fueling my petrichor addiction](https://www.instagram.com/l.grammars/)
+* [Amateur botany w/ a pteridomanic disposition, terrarium + bonsai 'scaping, & satiating my petrichor addiction](https://www.instagram.com/l.grammars/)
 * Playing badminton!
 * Learning new instruments + making electronic music
 * Recreational mathematics
@@ -54,11 +54,19 @@ An academic at heart, I'm in my natural element when discussing neat and novel i
 
 I particularly enjoy philosophy and science-fiction, but generally my interests can be quite broad.  In fact, if I were to make up a fictional profession / identity that I'd love to have, I would call myself a '[metaphoratician](https://twitter.com/MondayRhymer)' (like a mathematician-linguist-artist hybrid), who will happily steal concepts, metaphors, and jargon from one field and apply them to another in interdisciplinary fashion. Seeing how well metaphors fit, stretch, and break when transferred from one domain to the next is what definitely sparks joy for me ~*
 
-More srsly 😅, I'm a graduate student studying ~~computational clairvoyance~~ [machine learning](https://mundyreimer.github.io/projects).  So basically just your friendly k-nearest neighborhood data scientist ;)  Oh, and I also have a [former background in neuroscience](https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis), dabbling quite a bit in both computer science and philosophy as well.  
+More srsly, I'm a graduate student studying ~~computational clairvoyance~~ [machine learning](https://mundyreimer.github.io/projects).  So basically just your friendly k-nearest neighborhood data scientist ;)  I also have a [former background in neuroscience](https://www.researchgate.net/publication/325676679_Computational_Model_of_Induced_Alteration_of_Synaptic_Activity_in_Medial_Pre-Frontal_Cortex_Mechanistic_Implications_for_Schizophrenia_Psychosis), dabbling quite a bit in both computer science and philosophy as well.  
 
-Besides this personal blog of mine, I also [write articles on Medium](https://medium.com/@mundyreimer) about various machine learning + bioinformatics topics, in addition to actively [volunteering and coordinating events](https://pybay.com/team/) in the local Bay Area Python Community, and founding + formerly running the *East Bay Deep Learning in PyTorch [study group](https://www.facebook.com/groups/BayAreaPyTorchers/about/)* as part of the [Facebook & Udacity Scholarship Challenge](https://www.udacity.com/facebook-pytorch-scholarship).  If you happen to be in the area, say *hi* :)
+Besides this personal blog of mine, I [write articles on Medium](https://medium.com/@mundyreimer) about various machine learning + bioinformatics topics, in addition to actively [volunteering and coordinating events](https://pybay.com/team/) in the local Bay Area Python Community. If you happen to be in the area, say *hi* :)
 
 Feel free to also check out my projects [here](https://mundyreimer.github.io/projects) and my professional background [here](https://www.linkedin.com/in/mundyreimer). 
+
+You can also find my...
+* diet on *[Goodreads](https://www.goodreads.com/user/show/82897656-mundy-reimer)*
+* thoughts on *[Twitter](https://twitter.com/MondayRhymer)*
+* coding on *[GitHub](https://github.com/mundyreimer)*
+* aesthetic on *[Instagram](https://www.instagram.com/l.grammars)*
+
+Feel free to reach out :)
 
 ---
 
