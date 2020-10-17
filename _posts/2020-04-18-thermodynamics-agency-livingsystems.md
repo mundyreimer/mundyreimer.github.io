@@ -15,12 +15,35 @@ excerpt: Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin
 
 TL;DR - Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin of a Proto-Self using concepts such as dissipative systems, toroidal geometries, and variational free energy
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/What_Is_Life">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/what_is_life_book.jpeg"
+        >
+</a>
+</center>
+
+<br/>
 
 To answer the question of *What is Life?* we need to address a few language quirks first, since similar to many philosophers I think a sizable majority of our problems usually derive from our underlying use of language.  Probably the most basic thing we can do to add nuance to any situation is to not necessarily classify things in binary fashion such as Living versus Non-Living, but instead think of things as on a spectrum, and even more specifically a probability distribution (because a spectrum is rather just uniform and one-dimensional).  Furthermore, we can obtain further nuance by changing our view of Life as a noun, morphing it into something more similar to that of a verb, like a process or an algorithm, or even a collection of properties which are processes themselves.  Additionally, we can view this set of properties as not needing to all be present for something to be said to be "undergoing the process of living".  It could very well be the case that any subset of these properties when present can qualify as good enough for us at our high-level human perspective to then pattern match and recognize and say "oh, okay, that's Life!"  The entire set of living properties need not all be necessary and it may even be the case that any subset of them is sufficient to bootstrap the others in existence.  
 
 For right now, I'm going to focus on one of the properties which I think is the most essential, that of the ability to distinguish self from non-self.  If a system possesses a (self-organizing) mechanism that can distinguish the external environment from its own internal environment and possess this ability for some length of time, then we can say that the system persists and we can say that it has a very primitive form of Identity.
 
-So let's start with what I think of as Proto-Life or super primitive living systems.  Let's take something known as a Bernard Cell (or [Rayleigh-Bernard Convection](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection)).  To aid your visual intuition think of a pot of boiling water on your stove.  Now take a cross-section of it.  From this perspective, we can see that as cool water is heated up from below it rises to the top, is momentarily cooled, moves to the left and the right and then sinks down below to be heated again and the cycle renewed.  It is key to note that this *self-organized* behavior occurs naturally in the presence of a thermal difference (more heat at the bottom and less-so at the top), and more broadly this structure can arise in the abstract from many various potential differences of one thing being more present in one area than another.  This is called a [dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) and is essentially the 2nd Law of Thermodynamics in action.  Basically, whenever you have stuff (like heat) that is clumped or bunched up in small areas relative to other areas, this stuff tends to disperse and spread out on average (from the statistical argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights).  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.    
+So let's start with what I think of as Proto-Life or super primitive living systems.  Let's take something known as a Bernard Cell (or [Rayleigh-Bernard Convection](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection)).  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/bernard_cell.jpg"
+        >
+</a>
+</center>
+
+<br/>
+
+To aid your visual intuition think of a pot of boiling water on your stove.  Now take a cross-section of it.  From this perspective, we can see that as cool water is heated up from below it rises to the top, is momentarily cooled, moves to the left and the right and then sinks down below to be heated again and the cycle renewed.  It is key to note that this *self-organized* behavior occurs naturally in the presence of a thermal difference (more heat at the bottom and less-so at the top), and more broadly this structure can arise in the abstract from many various potential differences of one thing being more present in one area than another.  This is called a [dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) and is essentially the 2nd Law of Thermodynamics in action.  Basically, whenever you have stuff (like heat) that is clumped or bunched up in small areas relative to other areas, this stuff tends to disperse and spread out on average (from the statistical argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights).  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.    
 
 Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus.  Furthermore, you often see this torus-shaped Bernard cell packed up against other Bernard cells next to each other.  It is key to note that these isolated pockets of internal and external environments are naturally created in the presence of thermal differences (and more broadly differences of things being more present in one area than another). These cells persist to the extent of metastability (a small disturbance won't erase their existence) and they also exhibit hysteresis or "lag" (which can be seen as a primitive form of physical *memory* for a system, in that the current system's state depends on its history).  We can also call this a primitive self-loop if you will.  
 
