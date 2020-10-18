@@ -20,6 +20,8 @@ TL;DR - Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin 
 <center>
 <a href="https://en.wikipedia.org/wiki/What_Is_Life">
     <img src="/images/post_pics/thermodynamics_agency_livingsystems/what_is_life_book.jpeg"
+        width="250" 
+        height="250"
         >
 </a>
 </center>
