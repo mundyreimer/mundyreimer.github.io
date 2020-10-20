@@ -170,7 +170,22 @@ Now if you are creative enough you can begin to see this torus-like structure th
 
 <br/>
 
-If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we will have hypertori (multi-dimensional or n-dimensional tori), etc.  And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).  
+If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we will have hypertori (multi-dimensional or n-dimensional tori), etc.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Torus">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/torus4D.gif"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).  
 
 <br/>
 
