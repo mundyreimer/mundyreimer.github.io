@@ -20,8 +20,8 @@ TL;DR - Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin 
 <center>
 <a href="https://en.wikipedia.org/wiki/What_Is_Life">
     <img src="/images/post_pics/thermodynamics_agency_livingsystems/what_is_life_book.jpeg"
-        width="250" 
-        height="250"
+        width="400" 
+        height="400"
         >
 </a>
 </center>
@@ -45,9 +45,71 @@ So let's start with what I think of as Proto-Life or super primitive living syst
 
 <br/>
 
-To aid your visual intuition think of a pot of boiling water on your stove.  Now take a cross-section of it.  From this perspective, we can see that as cool water is heated up from below it rises to the top, is momentarily cooled, moves to the left and the right and then sinks down below to be heated again and the cycle renewed.  It is key to note that this *self-organized* behavior occurs naturally in the presence of a thermal difference (more heat at the bottom and less-so at the top), and more broadly this structure can arise in the abstract from many various potential differences of one thing being more present in one area than another.  This is called a [dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) and is essentially the 2nd Law of Thermodynamics in action.  Basically, whenever you have stuff (like heat) that is clumped or bunched up in small areas relative to other areas, this stuff tends to disperse and spread out on average (from the statistical argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights).  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.    
+To aid your visual intuition think of a pot of boiling water on your stove.  Now take a cross-section of it.  From this perspective, we can see that as cool water is heated up from below it rises to the top, is momentarily cooled, moves to the left and the right and then sinks down below to be heated again and the cycle renewed.  
 
-Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus.  Furthermore, you often see this torus-shaped Bernard cell packed up against other Bernard cells next to each other.  It is key to note that these isolated pockets of internal and external environments are naturally created in the presence of thermal differences (and more broadly differences of things being more present in one area than another). These cells persist to the extent of metastability (a small disturbance won't erase their existence) and they also exhibit hysteresis or "lag" (which can be seen as a primitive form of physical *memory* for a system, in that the current system's state depends on its history).  We can also call this a primitive self-loop if you will.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/What_Is_Life">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/convection_0.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+
+It is key to note that this *self-organized* behavior occurs naturally in the presence of a thermal difference (more heat at the bottom and less-so at the top), and more broadly this structure can arise in the abstract from many various potential differences of one thing being more present in one area than another.  This is called a [dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) and is essentially the 2nd Law of Thermodynamics in action.  Basically, whenever you have stuff (like heat) that is clumped or bunched up in small areas relative to other areas, this stuff tends to disperse and spread out on average (from the statistical argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights).  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/What_Is_Life">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/convection_2.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus.  
+
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/What_Is_Life">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/torus_0.gif"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+Furthermore, you often see this torus-shaped Bernard cell packed up against other Bernard cells next to each other.  
+
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/What_Is_Life">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/convection_1.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+It is key to note that these isolated pockets of internal and external environments are naturally created in the presence of thermal differences (and more broadly differences of things being more present in one area than another). These cells persist to the extent of metastability (a small disturbance won't erase their existence) and they also exhibit hysteresis or "lag" (which can be seen as a primitive form of physical *memory* for a system, in that the current system's state depends on its history).  We can also call this a primitive self-loop if you will.  
 
 Now if you are creative enough you can begin to see this torus-like structure throughout nature.  Whirlpools and cyclones for one.  If you also look at it carefully, any dendritic structure is also torus-like (from the side-ways perspective, similar to the cross-section of the boiling pot).  Trees in a jungle, growing plants, blood vessels, river deltas, iron filings sprinkled around a magnetic dipole, droplets of ink in water, etc, are tori nested within tori (plural of torus).  If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we will have hypertori (multi-dimensional or n-dimensional tori), etc.  And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).  However, let's stick to the torus for visualization purposes for now.
 
