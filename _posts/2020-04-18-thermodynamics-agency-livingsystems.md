@@ -161,7 +161,7 @@ Now if you are creative enough you can begin to see this torus-like structure th
 
 <center>
 <a href="https://www.dailymail.co.uk/sciencetech/article-2141291/The-stunning-blood-vessels-planet-How-river-deltas-change-world--lives-500million-people-reside-shores.html">
-    <img src="/images/post_pics/thermodynamics_agency_livingsystems/dendritic_structure_0.jpg"
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/dendriticstructure_0.jpg"
         width="400" 
         height="400"
         >
