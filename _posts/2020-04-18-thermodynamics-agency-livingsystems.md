@@ -62,7 +62,53 @@ To aid your visual intuition think of a pot of boiling water on your stove.  Now
 <br/>
 
 
-It is key to note that this *self-organized* behavior occurs naturally in the presence of a thermal difference (more heat at the bottom and less-so at the top), and more broadly this structure can arise in the abstract from many various potential differences of one thing being more present in one area than another.  This is called a [dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) and is essentially the 2nd Law of Thermodynamics in action.  Basically, whenever you have stuff (like heat) that is clumped or bunched up in small areas relative to other areas, this stuff tends to disperse and spread out on average (from the statistical argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights).  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.
+It is key to note that this *self-organized* behavior occurs naturally in the presence of a thermal difference (more heat at the bottom and less-so at the top), and more broadly this structure can arise in the abstract from many various potential differences of one thing being more present in one area than another.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Diffusion">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/diffusion_0.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+
+This is called a [dissipative system](https://en.wikipedia.org/wiki/Dissipative_system) and is essentially the 2nd Law of Thermodynamics in action.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Diffusion">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/DiffusionMicroMacro.gif"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+Basically, whenever you have stuff (like heat) that is clumped or bunched up in small areas relative to other areas, this stuff tends to disperse and spread out on average.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Diffusion">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/diffusion_1.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+ This phenomenon comes from the statistical argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights.  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.
 
 <br/>
 
@@ -79,7 +125,6 @@ It is key to note that this *self-organized* behavior occurs naturally in the pr
 
 Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus.  
 
-
 <br/>
 
 <center>
@@ -94,7 +139,6 @@ Anyways, what's interesting to note about this structure though is its geometry.
 <br/>
 
 Furthermore, you often see this torus-shaped Bernard cell packed up against other Bernard cells next to each other.  
-
 
 <br/>
 
@@ -111,15 +155,84 @@ Furthermore, you often see this torus-shaped Bernard cell packed up against othe
 
 It is key to note that these isolated pockets of internal and external environments are naturally created in the presence of thermal differences (and more broadly differences of things being more present in one area than another). These cells persist to the extent of metastability (a small disturbance won't erase their existence) and they also exhibit hysteresis or "lag" (which can be seen as a primitive form of physical *memory* for a system, in that the current system's state depends on its history).  We can also call this a primitive self-loop if you will.  
 
-Now if you are creative enough you can begin to see this torus-like structure throughout nature.  Whirlpools and cyclones for one.  If you also look at it carefully, any dendritic or arboreal structure is also torus-like (from the side-ways perspective, similar to the cross-section of the boiling pot).  Trees in a jungle, growing plants, blood vessels, river deltas, iron filings sprinkled around a magnetic dipole, droplets of ink in water, etc, are tori nested within tori (plural of torus).  If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we will have hypertori (multi-dimensional or n-dimensional tori), etc.  And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).  However, let's stick to the torus for visualization purposes for now.
+Now if you are creative enough you can begin to see this torus-like structure throughout nature.  Whirlpools and cyclones for one.  If you also look at it carefully, any dendritic or arboreal structure is also torus-like (from the side-ways perspective, similar to the cross-section of the boiling pot).  Trees in a jungle, growing plants, blood vessels, river deltas, iron filings sprinkled around a magnetic dipole, droplets of ink in water, etc, are tori nested within tori (plural of torus).  
+
+<br/>
+
+<center>
+<a href="https://www.dailymail.co.uk/sciencetech/article-2141291/The-stunning-blood-vessels-planet-How-river-deltas-change-world--lives-500million-people-reside-shores.html">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/dendritic_structure_0.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we will have hypertori (multi-dimensional or n-dimensional tori), etc.  And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Hopf_fibration">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/hopf_fibration.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+However, let's stick to the torus for visualization purposes for now.
 
 Let me briefly digress into another property that might bootstrap living systems into existence:  the evolutionary process.  We can think of evolution from a very broad perspective as a process that just consists of three requirements: two strong requirements being a selection mechanism + presence of variation of choices to select from, and one weak requirement being a physical state of memory (which can be as broad as any deformation of an object...ie, something that records state).  This last point is important to remember if I later mention something about this acting as a markov blanket, or this memory state acting as an evolutionary racheting mechanism, or more importantly claiming that the memory state is the torus).
 
-Anyways, as we can see, our selection mechanism can be quite broad.  In fact, I'd like to claim that the change in the gradient (which can be viewed as a pulsating or oscillatory action) is what acts as the selection mechanism.  What does this correspond to physically intuition-wise?  Think of a pool of water in which you have waves lapping upon the shore, momentarily wetting it, then drying it, then wetting it, then drying it, etc.  As a wave recedes, any structures (let's assume molecules, but it can be anything) present on the shore that are not able to persist in their forms without water are eliminated from the pool of options, and then another wave washes over and we get new structural options to try out or test their hand at momentarily becoming desiccated or drying out, etc.
+Anyways, as we can see, our selection mechanism can be quite broad.  In fact, I'd like to claim that the change in the gradient (which can be viewed as a pulsating or oscillatory action) is what acts as the selection mechanism.  What does this correspond to physically intuition-wise?  Think of a pool of water in which you have waves lapping upon the shore, momentarily wetting it, then receeding and drying it, then wetting it, then drying it, etc.  As a wave recedes, any structures (let's assume molecules, but it can be anything) present on the shore that are not able to persist in their forms without water are eliminated from the pool of options, and then another wave washes over and we get new structural options to try out or test their hand at momentarily becoming desiccated or drying out, etc.
+
+<br/>
+
+<center>
+<a href="https://www.britannica.com/science/abiogenesis">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/pool_of_water.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
 
 As always, the neat thing comes from when we generalize this notion of "waves washing upon the shore" as a gradient that changes or pulses or oscillates in a somewhat predictable fashion.  This gradient can take the form of wet-to-dry in our pool example or this can take the form of underwater hydrothermal vents pulsating and giving brief moments of either heat or chemically-enriched broth, etc.  At this stage, all that we require is that the pulsating be "consistent enough" (we can tighten that rate empirically).  This oscillation in the gradient is like running many experiments or rolls of the dice over and over and over, to see which structures persist or not.
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Abiogenesis">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/hydrothermalvent.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
 Now let's get back to the torus and the persisting of state through time, otherwise known as possessing Identity.  There's something called the Good Regulator theorem which states that *every good regulator of a system must be a model of that system*.  This is derived by considering that under very general conditions, the entropy of the variation of the output of that system is minimized when there is a mapping from the states of the system to the states of the regulator (or in other words, the regulator is isomorphic to the system being regulated).  To again put this another way, to increase the output of a system (or more precisely, decrease its variation in output), the system must model itself.  We know it is statistically likely that the system will further increase the spread of thermal energy from the environment. We can combine this with the Free-Energy Principle which states that those systems which define their boundaries with a Markov blanket also try to minimize the difference between their model of the world and their sensory perception of the environment (in which this difference is called "surprise"), and is a form of error correction.  In other words, biological systems maintain their order or non-equilibrium steady-state by minimizing or restricting themselves to a limited number of states.  Formally this is an implicit minimization of *variational free energy* and for those in the field of neuroscience this is known as active inference.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Markov_blanket">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/markovblanket.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
 
 So a little less formally, what does this mean physical intuition-wise?  To further perpetuate its identity through time (ie - remain stable, or in other words, maintain homeostasis), the system of nested tori among tori must be able to stabilize the changes in the rates at which energy is passing through the system (or in the pot example, heat flowing from the bottom of the pot to the top), and in order to stabilize these changes in flow it can do one of two things.  The first is that the system can metabolize or very generally, consume ordered structures (like sugars) to convert that to waste heat, and in the process of doing so obtain the byproduct of maintaining internal order of the system.  In other words, to increase the stability of something like a whirlpool, we can increase the flow or make it stronger.  
 
@@ -130,6 +243,19 @@ So how can we test this?  Especially if this is an artificial system in silico, 
 Going back, what does this correspond to physically?  This higher number of variables is analogous to having a higher number of states at which that system can be arranged in.  And according to the Free-Energy principle we know systems are driven to minimize this number of internal states (because the opposite of maximizing the number of states is equivalent to disintegrating or maximally rearranging their constituent molecular parts).  And how do systems maintain this internal order?  They metabolize or consume ordered stuff!  Thus, the drive to consume ordered molecules like sugars is isomorphic to the drive to consume information or model itself / the environment!  Prediction is related to finding regularities is related to data compression is related to metabolism is related to homeostasis is related to maintaining internal order is related to persisting one's identity through time is related to increasing the spread of thermal energy from one point to another.  According to the 2nd Law this is statistically inevitable.  
 
 From the aforementioned, you can now see how in my mind, the question of *What is Life?* is similar to the question of *What is Consciousness?* or more specifically if you'll allow me to narrow it down, is similar to the question of Agency or Awareness of the Self or Identity.  And we know empirically that we don't necessarily need brains to have very primitive forms of awareness and perception.  Evidence of learning in things without brains like amoebas (which by definition are single cellular and cannot possess neurons), means that there is something to be said about the fundamental processes underlying both questions.  We must not need to privilege brains in our explanatory frameworks of how Agency or Self-Awareness might work.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Free_energy_principle">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/freeenergyprinciplecellbrain.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
 
 Now remember our humble little torus structure?  Instead of a thermal gradient, let's say we now have an information gradient or a flow of information from one point to another.  We can imagine the information flow from that of your sensory information into your head as a certain torus shape, or maybe some geometric shape in our taxonomy of torus-like shapes.  What's neat is that we can translate this language of shapes into the language of harmonics or resonances, where harmonics represent consistent patterns in the environment and hence stable torus structures.  Analyzing the brain from this brain rhythm or oscillatory or electrochemical neuroacoustic analysis allows us to bring in much of the existing neuroscience literature we have as well as form somewhat of a potentially interesting framework.  Similar to when a rock is dropped in the middle of a pool and the waves propagate outward, hit the perimeter, and then bounce back to interfere with the newly outgoing waves to create interference patterns, so too does the brain's rhythms do something similar.  And because we know that the shape of the container and medium of propagation matters a lot to what interference patterns arise and what natural harmonics this system possesses, we can also further classify the possible shapes our tori can take (very similar to the Chladni patterns that arise when you sprinkle sand on vibrating plates).
 
