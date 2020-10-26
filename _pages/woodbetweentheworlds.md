@@ -24,8 +24,8 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 <center>
 <a href="https://en.wikipedia.org/wiki/Wood_between_the_Worlds">
     <img src="/images/post_pics/wood_between_the_worlds/woodbetweenworlds_1.jpg"
-        width="400" 
-        height="400"
+        width="500" 
+        height="500"
         >
 </a>
 </center>
