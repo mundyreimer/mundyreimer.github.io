@@ -123,7 +123,7 @@ Basically, whenever you have stuff (like heat) that is clumped or bunched up in 
 
 <br/>
 
-Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus.  
+Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus[^1].  
 
 <br/>
 
@@ -185,7 +185,7 @@ If we generalize, which we should since we will eventually be dealing with syste
 
 <br/>
 
-And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).  
+And I'm not necessarily saying that all of life is just nested tori within tori, but we can indeed more broadly have a category or family of shapes, a taxonomy of geometric objects (maybe like [Hopf fibrations](https://youtu.be/AKotMPGFJYk)?) that arise naturally in the presence of gradients (like heat flow) or differences of arrangements of stuff (potential energy).[^2]  
 
 <br/>
 
@@ -293,4 +293,7 @@ These geometric objects can then help us arrive at potential geometric architect
 ----
 
 Resources:
-* [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.goodreads.com/review/show/3404405359): My review of the excellent book by Jeffrey Weeks that discusses non-Euclidean and toroidal geometries and the topological properties associated with the surfaces of these. See my review for more information, but it's nice to note that prerequisites are kept minimal for this book. I also made spaced-repetition flashcards for the entire book [here](https://www.brainscape.com/p/212G3-LH-9EJ5Y).
+
+[^1] [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.goodreads.com/review/show/3404405359): My review of the excellent book by Jeffrey Weeks that discusses non-Euclidean and toroidal geometries and the topological properties associated with the surfaces of these. See my review for more information, but it's nice to note that prerequisites are kept minimal for this book. I also made spaced-repetition flashcards for the entire book [here](https://www.brainscape.com/p/212G3-LH-9EJ5Y).
+
+[^2] My post on the potential use of [Hyperbolic Geometry in modeling our internal mental space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
