@@ -294,6 +294,6 @@ These geometric objects can then help us arrive at potential geometric architect
 
 Resources:
 
-[^1] [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.goodreads.com/review/show/3404405359): My review of the excellent book by Jeffrey Weeks that discusses non-Euclidean and toroidal geometries and the topological properties associated with the surfaces of these. See my review for more information, but it's nice to note that prerequisites are kept minimal for this book. I also made spaced-repetition flashcards for the entire book [here](https://www.brainscape.com/p/212G3-LH-9EJ5Y).
+[^1]: [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.goodreads.com/review/show/3404405359): My review of the excellent book by Jeffrey Weeks that discusses non-Euclidean and toroidal geometries and the topological properties associated with the surfaces of these. See my review for more information, but it's nice to note that prerequisites are kept minimal for this book. I also made spaced-repetition flashcards for the entire book [here](https://www.brainscape.com/p/212G3-LH-9EJ5Y).
 
-[^2] My post on the potential use of [Hyperbolic Geometry in modeling our internal mental space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
+[^2]: My post on the potential use of [Hyperbolic Geometry in modeling our internal mental space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
