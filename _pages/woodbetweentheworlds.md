@@ -5,7 +5,8 @@ description:
 featured_image: /images/profilepic/geometry_of_logic_2.jpg
 ---
 
-<br/>
+---
+
 <br/>
 <center>
 <a href="https://en.wikipedia.org/wiki/Wood_between_the_Worlds">
@@ -17,8 +18,6 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 </center>
 
 <br/>
-
----
 
 ### you can find my...
 
