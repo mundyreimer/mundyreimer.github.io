@@ -11,7 +11,7 @@ excerpt:
 
 ---
 
-TL;DR - base 60, base 12, modulus, prime number based systems, geometric systems
+TL;DR - base 60, base 12, modulus, prime number based systems, geometric systems, maybe even link to a review of the foundations + philosophy of maths series
 
 ---
 
