@@ -11,7 +11,7 @@ excerpt:
 
 ---
 
-TL;DR - better systems of time measurement, seconds, hours, days, months, calendrical systems, etc
+TL;DR - better systems of time measurement, seconds, hours, days, months, calendrical systems, etc.  Could be human anatomically based, solar based, ecological based, hormonal based, etc.
 
 ---
 
