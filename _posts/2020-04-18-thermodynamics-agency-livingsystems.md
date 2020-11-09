@@ -108,7 +108,7 @@ Basically, whenever you have stuff (like heat) that is clumped or bunched up in 
 
 <br/>
 
- This phenomenon comes from the *statistical* argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights.  There are just many more different combinations or arrangements of people that consists of them jumping at various heights and only one combination in which they are all jumping in the air at once.  As such, it is statistically more likely at any arbitrary snapshot in time to see them all jumping in the air at once.  *Order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.
+ This phenomenon comes from the *statistical* argument that we are more likely to see stuff all spread out rather than all clumped together...similar to how it's more difficult to take a picture of a group of friends all jumping in the air at once, than it is to take a picture of them all at various heights.  There are just many more different combinations or arrangements of people that consists of them jumping at various heights and only one combination in which they are all jumping in the air at once.  As such, it is statistically more likely at any arbitrary snapshot in time to see them all jumping in the air at once.
 
 <br/>
 
@@ -123,7 +123,7 @@ Basically, whenever you have stuff (like heat) that is clumped or bunched up in 
 
 <br/>
 
-Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus[^1].  
+Anyways, what's interesting to note about this structure though is its geometry.  This cyclic upwelling from the center and sinking back down at the sides creates these two loops, and if you view this from the 3D perspective is really a donut-shaped object we call a Torus[^1].  We can see that *order and structure arises spontaneously in the presence of diffusion!*  And why?  Because it speeds up the spread of the quantity that is clumped (like thermal energy), or in other words, it is more likely for it to occur than for it not to occur.  
 
 <br/>
 
@@ -153,7 +153,7 @@ Furthermore, you often see this torus-shaped Bernard cell packed up against othe
 
 <br/>
 
-It is key to note that these isolated pockets of internal and external environments are naturally created in the presence of thermal differences (and more broadly differences of things being more present in one area than another). These cells persist to the extent of metastability (a small disturbance won't erase their existence) and they also exhibit hysteresis or "lag" (which can be seen as a primitive form of physical *memory* for a system, in that the current system's state depends on its history).  We can also call this a primitive self-loop if you will.  
+It is key to note that these isolated pockets of internal and external environments are naturally created in the presence of thermal differences (and more broadly differences of things being more present in one area than another). These cells persist to the extent of metastability (a small disturbance won't erase their existence) and they also exhibit hysteresis or "lag" (which can be seen as a primitive form of physical *memory* for a system, in that the current system's state depends on its history).  And from this we will say that the system possesses a primitive form of *Identity*.  We can also call this a primitive *self-loop* if you will.  
 
 Now if you are creative enough you can begin to see this torus-like structure throughout nature.  Whirlpools and cyclones for one.  If you also look at it carefully, any dendritic or arboreal structure is also torus-like (from the side-ways perspective, similar to the cross-section of the boiling pot).  Trees in a jungle, growing plants, blood vessels, river deltas, iron filings sprinkled around a magnetic dipole, droplets of ink in water, etc, are tori nested within tori (plural of torus).  
 
