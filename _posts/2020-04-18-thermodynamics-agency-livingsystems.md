@@ -170,7 +170,7 @@ Now if you are creative enough you can begin to see this torus-like structure th
 
 <br/>
 
-If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we will have hypertori (multi-dimensional or n-dimensional tori), etc.  
+If we generalize, which we should since we will eventually be dealing with systems with many more variables and hence dimensions, we can have hypertori (multi-dimensional or n-dimensional tori), etc.  
 
 <br/>
 
@@ -200,7 +200,7 @@ And I'm not necessarily saying that all of life is just nested tori within tori,
 
 <br/>
 
-However, let's stick to the torus for visualization purposes for now.
+However, let's stick to the simple torus for visualization purposes for now.
 
 Let me briefly digress into another property that might bootstrap living systems into existence:  the evolutionary process.  We can think of evolution from a very broad perspective as a process that just consists of three requirements: two strong requirements being a selection mechanism + presence of variation of choices to select from, and one weak requirement being a physical state of memory (which can be as broad as any deformation of an object...ie, something that records state).  This last point is important to remember if I later mention something about this acting as a markov blanket, or this memory state acting as an evolutionary racheting mechanism, or more importantly claiming that the memory state is the torus).
 
