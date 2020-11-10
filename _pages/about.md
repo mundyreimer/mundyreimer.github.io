@@ -41,7 +41,7 @@ Some of the things I enjoy thinking about:
 
 ### hobbies
 
-* [Amateur botany w/ a pteridomanic disposition, terrarium + bonsai 'scaping, & satiating my petrichor addiction](https://www.instagram.com/l.grammars/)
+* [Amateur botany w/ a pteridomanic disposition, terrarium + bonsai 'scaping, & satiating my petrichor addiction](https://www.instagram.com/harmonices.mundy)
 * Playing badminton!
 * Learning new instruments + making electronic music
 * Recreational mathematics
@@ -64,7 +64,7 @@ You can also find my...
 * diet on *[Goodreads](https://www.goodreads.com/user/show/82897656-mundy-reimer)*
 * thoughts on *[Twitter](https://twitter.com/MondayRhymer)*
 * coding on *[GitHub](https://github.com/mundyreimer)*
-* aesthetic on *[Instagram](https://www.instagram.com/l.grammars)*
+* aesthetic on *[Instagram](https://www.instagram.com/harmonices.mundy)*
 
 Feel free to reach out :)
 
