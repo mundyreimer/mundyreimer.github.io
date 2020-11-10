@@ -12,7 +12,7 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 ### thoughts on *[Twitter](https://twitter.com/MondayRhymer)*
 ### coding on *[GitHub](https://github.com/mundyreimer)*
 ### writing on *[Medium](https://medium.com/@mundyreimer)*
-### aesthetic on *[Instagram](https://www.instagram.com/harmonices.mundy)*
+### aesthetic on *[Instagram](https://www.instagram.com/harmonices.mvndi)*
 ### profession on *[Linkedin](https://www.linkedin.com/in/mundyreimer)*
 
 ---
