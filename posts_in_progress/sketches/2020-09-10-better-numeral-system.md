@@ -11,7 +11,7 @@ excerpt:
 
 ---
 
-TL;DR - Finding a better numeral / notation for numbers (see inupiaq); something that embeds a computational calculus within the notation itself
+TL;DR - Finding a better numeral / notation for numbers (see [inupiaq](https://youtu.be/EyS6FfczH0Q)); something that embeds a computational calculus within the notation itself
 
 ---
 
