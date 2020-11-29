@@ -49,7 +49,7 @@ This occurs because the lines (called geodesics) that make up the sides of the t
 
 <br/>
 
-Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (see [Escher's art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry)), it is also a [potential candidate](http://abyss.uoregon.edu/~js/cosmo/lectures/lec15.html) for the [underlying spatial geometry of our universe](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/). 
+Why study Hyperbolic geometry? Besides it being beautiful for beauty's sake (indeed you can see this in Escher's [circle limit art](https://mathstat.slu.edu/escher/index.php/Hyperbolic_Geometry) due to [collaboration](http://www.math.toronto.edu/mpugh/Coxeter.pdf) with famous geometer [Donald Coxeter](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter)), it is also a [potential candidate](http://abyss.uoregon.edu/~js/cosmo/lectures/lec15.html) for the [underlying spatial geometry of our universe](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/). 
 
 <br/>
 
@@ -194,6 +194,8 @@ A world that is shaped as a hyperboloid in the [sci-fi book *Dichronauts* by Gre
 [Excellent writeup on life on a Poincare Disk](https://pointatinfinityblog.wordpress.com/…/life-on-the-po…/)
 
 And for those following my previous posts, particularly that of [living systems and toroidal geometries](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), here's a connection between [hyperbolic geometry and the double (or generally 1+n holed) torus](https://www.quantamagazine.org/from-hyperbolic-geometry-to-cube-complexes-and-back-20121002/)
+
+[Documentary](https://vimeo.com/120725835) on famous geometer, [Donald Coxeter](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter), featuring his collaboration with famous artist [M.C. Escher](https://en.wikipedia.org/wiki/M._C._Escher). Also [features](https://www.imdb.com/title/tt1541130/) [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway).
 
 ---
 
