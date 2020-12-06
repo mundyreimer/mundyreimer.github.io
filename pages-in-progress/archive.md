@@ -34,7 +34,6 @@ This Archive curates my various articles and projects by topic.  It contains wor
 **Biological Circuits Series:**
 [Book Discussion: Chapter 1 - Transcription Networks]() (book of Uri Alon)
 [Book Discussion: Chapter 2 - Autoregulation, A Network Motif]()
-...etc
 
 ## Cognitive Science
 
