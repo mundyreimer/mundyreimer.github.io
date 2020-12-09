@@ -9,22 +9,22 @@ featured_image: /images/demo/demo-portrait.jpg
 
 To-Do Notes:
 
-- Create an archive of all posts organized by topic and link to this page using hashtags on each of the individual article pages' headers.
-- Move this file under '_pages'
+- Create a new version of this file under '_pages' (save this one as a works-in-progress archive)
 - Create a tab on the sidebar for this page (and link other social media accounts to here instead of to 'about')
+- Link to this page using hashtags on each of the individual article pages' headers.
 - Use dusty old library / bookshelf as the featured image
 
 This Archive curates my various articles and projects by topic.  It contains works both finished and in-progress.
 ## Biology
 
-**Individual Posts:**
+**Individual Works:**
 [Thermodynamics, Agency, & Living Systems](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 [Some thoughts on the Free Energy Principle]()
 [Analyzing Microbiome Data](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e)
 [Classifying Sepsis Patients with Reinforcement Learning](https://github.com/mundyreimer/RL-Sepsis-Prediction)
 
 **Lindenmayer Systems Series**
-["In the beginning was the Word": An Introduction to Lindenmayer Grammars with Python]()
+[In the beginning was the Word: An Introduction to Lindenmayer Grammars with Python]()
 [Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
 [God as Grand Geometer: Imposing Real-World Physico-Geometric-Botanical Constraints onto Lindenmayer Grammars]()
 [Dendritic Structures in Nature, Part 1: Lindenmayer Grammars and Neural Networks]()
@@ -37,7 +37,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 ## Cognitive Science
 
-**Individual Posts:**
+**Individual Works:**
 [The Hyperbolic Geometry of Mental Space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
 [Thermodynamics, Agency, & Living Systems](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 [On Representation, Notation, and Thought]()
@@ -49,7 +49,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 ## Mathematics
 
-**Individual Posts:**
+**Individual Works:**
 [Math to Code Converter Web App](https://mundyreimer.github.io/math2code_sphinx_docs/)
 [Book Review: The Shape of Space - How to Visualize Surfaces and Three-Dimensional Manifolds by Jeffrey Weeks]()
 [Book Review: The Four Pillars of Geometry by John Stillwell]()
@@ -69,13 +69,13 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 ## Physics
 
-**Individual Posts:**
+**Individual Works:**
 [Book Review: The Shape of Space - How to Visualize Surfaces and Three-Dimensional Manifolds by Jeffrey Weeks]()
 [A Hyper Neat Argument]()
 
 ## Linguistics
 
-**Individual Posts:**
+**Individual Works:**
 [On Representation, Notation, and Thought]()
 
 **Lindenmayer Systems Series**
@@ -85,12 +85,12 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 ## Philosophy
 
-**Individual Posts:**
+**Individual Works:**
 [A Hyper Neat Argument]()
 
 ## Science Fiction
 
-**Individual Posts:**
+**Individual Works:**
 [Book Review: Theory of Constraints & Kynes-style Analysis of Dune](https://mundyreimer.github.io/blog/theory-of-constraints-dune)
 [Book Review: Perdido Street Station by China Miéville](https://mundyreimer.github.io/blog/book-review-perdidostreetstation)
 [Book Review: The Quantum Thief by Hannu Rajaniemi]()
