@@ -23,7 +23,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 [Analyzing Microbiome Data](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e)
 [Classifying Sepsis Patients with Reinforcement Learning](https://github.com/mundyreimer/RL-Sepsis-Prediction)
 
-**Lindenmayer Systems Series**
+**Lindenmayer Systems Sequence**
 [In the beginning was the Word: An Introduction to Lindenmayer Grammars with Python]()
 [Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
 [God as Grand Geometer: Imposing Real-World Physico-Geometric-Botanical Constraints onto Lindenmayer Grammars]()
@@ -31,7 +31,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 [Dendritic Structures in Nature, Part 2: Lindenmayer Grammars and Circulatory Sytems]()
 [Isomorphic Analysis: Comparing L-Systems, Fractals, Cellular Automata, and Chaos]()
 
-**Biological Circuits Series:**
+**Biological Circuits Sequence:**
 [Book Discussion: Chapter 1 - Transcription Networks]() (book of Uri Alon)
 [Book Discussion: Chapter 2 - Autoregulation, A Network Motif]()
 
@@ -43,7 +43,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 [On Representation, Notation, and Thought]()
 [Some thoughts on the Free Energy Principle]()
 
-**Gödel, Escher, Bach Series:**
+**Gödel, Escher, Bach Sequence:**
 [Chapter 1 Summary & Discussion]()
 ...etc
 
@@ -57,9 +57,9 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 ## Computer Science
 
-**Genetic Algorithms with Python Series**
+**Genetic Algorithms with Python Sequence**
 
-**Lindenmayer Systems Series**
+**Lindenmayer Systems Sequence**
 ["In the beginning was the Word": An Introduction to Lindenmayer Grammars with Python]()
 [Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
 [God as Grand Geometer: Imposing Real-World Physico-Geometric-Botanical Constraints onto Lindenmayer Grammars]()
@@ -78,7 +78,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 **Individual Works:**
 [On Representation, Notation, and Thought]()
 
-**Lindenmayer Systems Series**
+**Lindenmayer Systems Sequence**
 ["In the beginning was the Word": An Introduction to Lindenmayer Grammars with Python]()
 [Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
 [Isomorphic Analysis: Comparing L-Systems, Fractals, Cellular Automata, and Chaos]()
