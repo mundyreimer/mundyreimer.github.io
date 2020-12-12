@@ -25,35 +25,25 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 **Lindenmayer Systems Sequence**
 [In the beginning was the Word: An Introduction to Lindenmayer Grammars with Python]()
-[Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
-[God as Grand Geometer: Imposing Real-World Physico-Geometric-Botanical Constraints onto Lindenmayer Grammars]()
-[Dendritic Structures in Nature, Part 1: Lindenmayer Grammars and Neural Networks]()
-[Dendritic Structures in Nature, Part 2: Lindenmayer Grammars and Circulatory Sytems]()
-[Isomorphic Analysis: Comparing L-Systems, Fractals, Cellular Automata, and Chaos]()
 
 **Biological Circuits Sequence:**
 [Book Discussion: Chapter 1 - Transcription Networks]() (book of Uri Alon)
-[Book Discussion: Chapter 2 - Autoregulation, A Network Motif]()
 
 ## Cognitive Science
 
 **Individual Works:**
 [The Hyperbolic Geometry of Mental Space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
 [Thermodynamics, Agency, & Living Systems](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
-[On Representation, Notation, and Thought]()
+[On Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought)
 [Some thoughts on the Free Energy Principle]()
-
-**Gödel, Escher, Bach Sequence:**
-[Chapter 1 Summary & Discussion]()
-...etc
 
 ## Mathematics
 
 **Individual Works:**
 [Math to Code Converter Web App](https://mundyreimer.github.io/math2code_sphinx_docs/)
-[Book Review: The Shape of Space - How to Visualize Surfaces and Three-Dimensional Manifolds by Jeffrey Weeks]()
-[Book Review: The Four Pillars of Geometry by John Stillwell]()
-[A Hyper Neat Argument]()
+[Book Review: The Shape of Space - How to Visualize Surfaces and Three-Dimensional Manifolds by Jeffrey Weeks](https://www.goodreads.com/review/show/3404405359)
+[Book Review: The Four Pillars of Geometry by John Stillwell](https://www.goodreads.com/review/show/3563763717)
+[A Hyper Neat Argument](https://mundyreimer.github.io/blog/hyper-neat-argument)
 
 ## Computer Science
 
@@ -61,41 +51,34 @@ This Archive curates my various articles and projects by topic.  It contains wor
 
 **Lindenmayer Systems Sequence**
 ["In the beginning was the Word": An Introduction to Lindenmayer Grammars with Python]()
-[Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
-[God as Grand Geometer: Imposing Real-World Physico-Geometric-Botanical Constraints onto Lindenmayer Grammars]()
-[Dendritic Structures in Nature, Part 1: Lindenmayer Grammars and Neural Networks]()
-[Dendritic Structures in Nature, Part 2: Lindenmayer Grammars and Circulatory Sytems]()
-[Isomorphic Analysis: Comparing L-Systems, Fractals, Cellular Automata, and Chaos]()
 
 ## Physics
 
 **Individual Works:**
-[Book Review: The Shape of Space - How to Visualize Surfaces and Three-Dimensional Manifolds by Jeffrey Weeks]()
-[A Hyper Neat Argument]()
+[Book Review: The Shape of Space - How to Visualize Surfaces and Three-Dimensional Manifolds by Jeffrey Weeks](https://www.goodreads.com/review/show/3404405359)
+[A Hyper Neat Argument](https://www.goodreads.com/review/show/3563763717)
 
 ## Linguistics
 
 **Individual Works:**
-[On Representation, Notation, and Thought]()
+[On Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought)
 
 **Lindenmayer Systems Sequence**
 ["In the beginning was the Word": An Introduction to Lindenmayer Grammars with Python]()
-[Evolving Lindenmayer Grammars: An Evolutionary Algorithmic Framework with Python]()
-[Isomorphic Analysis: Comparing L-Systems, Fractals, Cellular Automata, and Chaos]()
 
 ## Philosophy
 
 **Individual Works:**
-[A Hyper Neat Argument]()
+[A Hyper Neat Argument](https://mundyreimer.github.io/blog/hyper-neat-argument)
 
 ## Science Fiction
 
 **Individual Works:**
 [Book Review: Theory of Constraints & Kynes-style Analysis of Dune](https://mundyreimer.github.io/blog/theory-of-constraints-dune)
 [Book Review: Perdido Street Station by China Miéville](https://mundyreimer.github.io/blog/book-review-perdidostreetstation)
-[Book Review: The Quantum Thief by Hannu Rajaniemi]()
-[Book Review: The Fractal Prince by Hannu Rajaniemi]()
-[Book Review: The Causal Angel by Hannu Rajaniemi]()
+[Book Review: The Quantum Thief by Hannu Rajaniemi](https://mundyreimer.github.io/blog/book-review-thequantumthief)
+[Book Review: The Fractal Prince by Hannu Rajaniemi](https://mundyreimer.github.io/blog/book-review-thefractalprince)
+[Book Review: The Causal Angel by Hannu Rajaniemi](https://mundyreimer.github.io/blog/book-review-thecausalangel)
 
 
 
