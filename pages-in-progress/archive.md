@@ -27,7 +27,7 @@ This Archive curates my various articles and projects by topic.  It contains wor
 [In the beginning was the Word: An Introduction to Lindenmayer Grammars with Python]()
 
 **Biological Circuits Sequence:**
-[Book Discussion: Chapter 1 - Transcription Networks]() (book of Uri Alon)
+[Book Discussion: Chapter 1 - Transcription Networks]()
 
 ## Cognitive Science
 
