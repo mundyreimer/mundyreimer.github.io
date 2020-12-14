@@ -75,7 +75,7 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 
 ### music & linguistics
 
-[Experimented with different machine learning classifiers](https://github.com/mundyreimer/iambic_songs) for determining iambic pentameter in song lyrics and sonnets.  Iambic Pentameter is a type of rhythm or meter in which five small groups of syllables called *Iambs* or "feet", which in English are unstressed followed by stressed syllables, are found coupled together.  Poem and sonnet data were obtained and cleaned from a variety of sources like Shakespeare, Keats, Frost, Shelley, and Jackson -scraped texts available on the web, while songs from artists such as Taylor Swift and the Backstreet Boys were obtained from [Data.World](https://data.world/).  
+[Experimented with different machine learning classifiers](https://github.com/mundyreimer/iambic_songs) for determining iambic pentameter in song lyrics and sonnets.  [Iambic Pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter) is a type of rhythm or meter in which five small groups of syllables called *Iambs* or "feet", which in English are unstressed followed by stressed syllables, are found coupled together.  Poem and sonnet data were obtained and cleaned from a variety of sources like Shakespeare, Keats, Frost, Shelley, and Jackson -scraped texts available on the web, while songs from artists such as Taylor Swift and the Backstreet Boys were obtained from [Data.World](https://data.world/).  
 
 Used:  Text-Parsing, Natural Language Processing, Logistic Regression, Step-Wise Regression, Akaike Information Criteria + Bayesian Information Criteria, Wald Test, Deviance Chi-Squared Test, Cross-Validation, DFFITS, Cook's Distance, Variance Inflation Factor, ROC Curves 
 
