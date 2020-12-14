@@ -34,10 +34,10 @@ A list of my reviews of books that I've read.  I *love* recommendations (both no
 Flashcards I made to review various topics using the [spaced-repetition software (SRS)](https://en.wikipedia.org/wiki/Spaced_repetition#Software) from [Brainscape](https://www.brainscape.com/i/212G3).  I try to make it a habit to create cards whenever studying something new or coming across something interesting I've read online or in a book.  I use 2x daily for 10 minutes each, once after waking up and another right before bed.  Able to be used on phone, tablet, or pc.  Feel free to copy + edit for your own use.  I've used various SRS tools in the past, but Brainscape was one of the few which gave me the personal control of Anki combined with the aesthetic UI of something like Duolingo or Supermemo.  For those who don't know much about how great Spaced Repetition is for hacking your memory, [take a look at this awesome comic](https://ncase.me/remember/)!  Also, see my post for more on memory hacking.
 
 My decks include:
-* [Machine Learning](https://www.brainscape.com/p/212G3-LH-6LO5K)
+* [Beginning & Intermediate Python](https://www.brainscape.com/p/212G3-LH-6LO5O) 
 * [Reinforcement Learning](https://www.brainscape.com/p/212G3-LH-98CG7)
+* [Machine Learning](https://www.brainscape.com/p/212G3-LH-6LO5K)
 * [Deep Learning](https://www.brainscape.com/p/212G3-LH-7O0LQ)
-* [beginning & intermediate Python](https://www.brainscape.com/p/212G3-LH-6LO5O) 
 * [Bash/Linux](https://www.brainscape.com/p/212G3-LH-9AYP2) shell commands
 * [Markdown](https://www.brainscape.com/p/212G3-LH-9AYP5)
 * [SQL](https://www.brainscape.com/p/212G3-LH-9AYOY)
