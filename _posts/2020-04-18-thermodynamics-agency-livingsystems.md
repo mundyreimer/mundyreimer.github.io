@@ -362,8 +362,6 @@ It's key to note that there are probably a multitude of tori and nested tori at 
 
 It is only due to the fact that all these miniature selves co-inhabit the same host body and have on average access to the relatively same memories that they are all under the collective illusion that they individually are the True and only Self.  It is only from the fact that they are all in the same host body that when reflecting upon itself like looking in a mirror, it is much easier to attribute a singular Mind as responsible for everything that that body does (which is your body).  In essence, they all fall for the illusion of a being Singular Self, when in fact the 'I' contains multitudes.
 
-And it is only by deep reflection that we can hypothesize that we as a single brain are really a community of selves all vying for control and the "strength to perpetuate as the sole whirlpool in one's mind".  I think the multiple selves theory fits quite nicely as an explanatory framework for how we make choices, how we are indecisive at times, how we come to regret certain actions, how we have competing drives and motives, how we have the stories of [split-brain patients](https://en.wikipedia.org/wiki/Split-brain(!), and the nature of dreams, etc.
-
 <br/>
 
 <center>
@@ -376,6 +374,8 @@ And it is only by deep reflection that we can hypothesize that we as a single br
 </center>
 
 <br/>
+
+And it is only by deep reflection that we can hypothesize that we as a single brain are really a community of selves all vying for control and the "strength to perpetuate as the sole whirlpool in one's mind".  I think the multiple selves theory fits quite nicely as an explanatory framework for how we make choices, how we are indecisive at times, how we come to regret certain actions, how we have competing drives and motives, how we have the stories of [split-brain patients](https://en.wikipedia.org/wiki/Split-brain(!), and the nature of dreams, etc.
 
 And I'm not necessarily trying to portray that this is everything there is.  There can also potentially exist internal reference frame effects, where similar to relativity theory each torus is modeling/simulating what it sees to be the environment at different speeds depending upon the rate of information flow arriving at that torus. Basically, each internal metabolism/compression algorithm is running on different clock speeds, allowing effects such as boosted reference frames, time dilations, Lorentz transformations, etc.  And there can be many more effects that we aren't currently taking into account in modeling the nature of the Self (or more precisely, *Selves*).
 
