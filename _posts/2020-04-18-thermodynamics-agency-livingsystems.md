@@ -234,7 +234,7 @@ As always, the neat thing comes from when we generalize this notion of "waves wa
 
 <br/>
 
-Now let's get back to the torus and the persisting of state through time, otherwise known as possessing Identity.  There's something called the Good Regulator theorem which states that *every good regulator of a system must be a model of that system*.  This is derived by considering that under very general conditions, the entropy of the variation of the output of that system is minimized when there is a mapping from the states of the system to the states of the regulator (or in other words, the regulator is isomorphic to the system being regulated).  To again put this another way, to increase the output of a system (or more precisely, decrease its variation in output), the system must model itself.  We know it is statistically likely that the system will further increase the spread of thermal energy from the environment. We can combine this with the Free-Energy Principle which states that those systems which define their boundaries with a Markov blanket also try to minimize the difference between their model of the world and their sensory perception of the environment (in which this difference is called "surprise"), and is a form of error correction.  In other words, biological systems maintain their order or non-equilibrium steady-state by minimizing or restricting themselves to a limited number of states.  Formally this is an implicit minimization of *variational [free energy](https://en.wikipedia.org/wiki/Free_energy_principle)* and for those in the field of neuroscience this is known as active inference.[^3]
+Now let's get back to the torus and the persisting of state through time, otherwise known as possessing Identity.  There's something called the [Good Regulator theorem](https://en.wikipedia.org/wiki/Good_regulator) which states that *every good regulator of a system must be a model of that system*.  This is derived by considering that under very general conditions, the entropy of the variation of the output of that system is minimized when there is a mapping from the states of the system to the states of the regulator (or in other words, the regulator is isomorphic to the system being regulated).  To again put this another way, to increase the output of a system (or more precisely, decrease its variation in output), the system must model itself.  We know it is statistically likely that the system will further increase the spread of thermal energy from the environment. We can combine this with the Free-Energy Principle which states that those systems which define their boundaries with a [Markov blanket](https://en.wikipedia.org/wiki/Markov_blanket) also try to minimize the difference between their model of the world and their sensory perception of the environment (in which this difference is called "surprise"), and is a form of error correction.  In other words, biological systems maintain their order or non-equilibrium steady-state by minimizing or restricting themselves to a limited number of states.  Formally this is an implicit minimization of *variational [free energy](https://en.wikipedia.org/wiki/Free_energy_principle)* and for those in the field of neuroscience this is known as active inference.[^3]
 
 <br/>
 
@@ -255,10 +255,6 @@ Essentially, biological systems maintain their internal order by furthering the 
 
 So how can we test this?  Especially if this is an artificial system in silico, how do we think in terms of something similar to thermal energy?  Well, we can borrow some insights from machine learning.  We know that this system must model or predict its own and the environment's future states.  And we know that the concept of prediction or pattern recognition is analogous to taking a system that has a higher number of variables and reducing that system to one that has a fewer number of variables.  Finding a pattern is the same thing as finding a *regularity* in the data...a series of simple relationships.  Systems are driven to describe themselves and their environment in a few "words" as possible.  In other words, systems possess a drive to data compress!  As such, we can use tools from information theory like that of lossy vs lossless compression to start measuring the number of bits retained, lost, flipped, etc.  And concepts like error correction and prediction error fit quite nicely here.  
 
-Going back, what does this correspond to physically?  This higher number of variables is analogous to having a higher number of states at which that system can be arranged in.  And according to the Free-Energy principle we know systems are driven to minimize this number of internal states (because the opposite of maximizing the number of states is equivalent to disintegrating or maximally rearranging their constituent molecular parts).  And how do systems maintain this internal order?  They metabolize or consume ordered stuff!  Thus, the drive to consume ordered molecules like sugars is isomorphic to the drive to consume information or model itself / the environment!  Prediction is related to finding regularities is related to data compression is related to metabolism is related to homeostasis is related to maintaining internal order is related to persisting one's identity through time is related to increasing the spread of thermal energy from one point to another.  According to the 2nd Law this is statistically inevitable.  
-
-From the aforementioned, you can now see how in my mind, the question of *What is Life?* is similar to the question of *What is Consciousness?* or more specifically if you'll allow me to narrow it down, is similar to the question of Agency or Awareness of the Self or Identity.  And we know empirically that we don't necessarily need brains to have very primitive forms of awareness and perception.  Evidence of learning in things without brains like amoebas (which by definition are single cellular and cannot possess neurons), means that there is something to be said about the fundamental processes underlying both questions.  We must not need to privilege brains in our explanatory frameworks of how Agency or Self-Awareness might work.  
-
 <br/>
 
 <center>
@@ -272,21 +268,159 @@ From the aforementioned, you can now see how in my mind, the question of *What i
 
 <br/>
 
-Now remember our humble little torus structure?  Instead of a thermal gradient, let's say we now have an information gradient or a flow of information from one point to another.  We can imagine the information flow from that of your sensory information into your head as a certain torus shape, or maybe some geometric shape in our taxonomy of torus-like shapes.  What's neat is that we can translate this language of shapes into the language of harmonics or resonances, where harmonics represent consistent patterns in the environment and hence stable torus structures.  Analyzing the brain from this brain rhythm or oscillatory or electrochemical neuroacoustic analysis allows us to bring in much of the existing neuroscience literature we have as well as form somewhat of a potentially interesting framework.  Similar to when a rock is dropped in the middle of a pool and the waves propagate outward, hit the perimeter, and then bounce back to interfere with the newly outgoing waves to create interference patterns, so too does the brain's rhythms do something similar.  And because we know that the shape of the container and medium of propagation matters a lot to what interference patterns arise and what natural harmonics this system possesses, we can also further classify the possible shapes our tori can take (very similar to the Chladni patterns that arise when you sprinkle sand on vibrating plates).
+Going back, what does this correspond to physically?  This higher number of variables is analogous to having a higher number of states at which that system can be arranged in.  And according to the Free-Energy principle we know systems are driven to minimize this number of internal states (because the opposite of maximizing the number of states is equivalent to disintegrating or maximally rearranging their constituent molecular parts).  And how do systems maintain this internal order?  They metabolize or consume ordered stuff!  Thus, the drive to consume ordered molecules like sugars is isomorphic to the drive to consume information or model itself / the environment!  Prediction is related to finding regularities is related to data compression is related to metabolism is related to homeostasis is related to maintaining internal order is related to persisting one's identity through time is related to increasing the spread of thermal energy from one point to another.  According to the 2nd Law this is statistically inevitable.  
 
-And the potential phenomena of our internal informational flow dynamics might be even more rich than this!  Borrowing concepts from fluid dynamics and dynamical systems theory, in addition to Bernard Cells, we can have Karman Vortex Streets, Coanda effects, Maragoni effects, etc, and each of these have associated harmonics and hence metabolic geometries that characterize their internal informational processing dynamics.   
+From the aforementioned, you can now see how in my mind, the question of *What is Life?* is similar to the question of *What is Consciousness?* or more specifically if you'll allow me to narrow it down, is similar to the question of Agency or Awareness of the Self or Identity.  And we know empirically that we don't necessarily need brains to have very primitive forms of awareness and perception.  Evidence of learning in things without brains like amoebas (which by definition are single cellular and cannot possess neurons), means that there is something to be said about the fundamental processes underlying both questions.  We must not need to privilege brains in our explanatory frameworks of how Agency or Self-Awareness might work.  
 
-And these little internal eddy currents and miniature tori nested among tori allow us to hypothesize a few things.  Remember when I talked about the evolutionary algorithm from before only needing a selection mechanism + variation in choices + memory state?  And how this can occur any time you have a "wave-like washing upon the shore" or more broadly changes in the gradient?  These neural oscillations themselves are the waves, and hence can act as selection mechanisms selecting for miniature tori-like structures or self-loops within the brain over and over again.  It's key to note that there are probably a multitude of tori and nested tori at any one time in one's brain, always competing and cooperating for resources, forking or coalescing (again, think whirlpools or eddy currents) and as such I also think that there are multiple miniature "selves" at any given time running on the wetware of your brain.
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Slime_mold">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/slimemold_maze.gif"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+Now remember our humble little torus structure?  Instead of a thermal gradient, let's say we now have an information gradient or a flow of information from one point to another.  We can imagine the information flow from that of your sensory information into your head as a certain torus shape, or maybe some geometric shape in our taxonomy of torus-like shapes.  What's neat is that we can translate this language of shapes into the language of harmonics or resonances, where harmonics represent consistent patterns in the environment and hence stable torus structures.  Analyzing the brain from this brain rhythm or oscillatory or electrochemical neuroacoustic analysis allows us to bring in much of the existing neuroscience literature we have as well as form somewhat of a potentially interesting framework.  Similar to when a rock is dropped in the middle of a pool and the waves propagate outward, hit the perimeter, and then bounce back to interfere with the newly outgoing waves to create interference patterns, so too does the brain's rhythms do something similar.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Wave_interference">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/water_ripples.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+And because we know that the shape of the container and medium of propagation matters a lot to what interference patterns arise and what natural harmonics this system possesses, we can also further classify the possible shapes our tori can take (very similar to the [Chladni patterns](https://en.wikipedia.org/wiki/Ernst_Chladni#Chladni_figures) that arise when you sprinkle sand on vibrating plates, or the famous math problem, *["Can One Hear the Shape of a Drum?"](https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum)*).
+
+<br/>
+
+<center>
+<a href="https://pensar.com/chladni-plate/">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/chladni_plates.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+And the potential phenomena of our internal informational flow dynamics might be even more rich than this!  Borrowing concepts from fluid dynamics and dynamical systems theory, in addition to Bernard Cells, we can have [Karman Vortex Streets](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street), [Coandă effects](https://en.wikipedia.org/wiki/Coand%C4%83_effect), [Maragoni effects](https://en.wikipedia.org/wiki/Marangoni_effect), etc, and each of these have associated harmonics and hence metabolic geometries that characterize their internal informational processing dynamics.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/vortex-street-animation.gif"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+And these little internal eddy currents and miniature tori nested among tori allow us to hypothesize a few things.  Remember when I talked about the evolutionary algorithm from before only needing a selection mechanism + variation in choices + memory state?  And how this can occur any time you have a "wave-like washing upon the shore" or more broadly changes in the gradient?  These neural oscillations themselves are the waves, and hence can act as selection mechanisms selecting for miniature tori-like structures or self-loops within the brain over and over again.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Neural_oscillation">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/neural_oscillations.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+It's key to note that there are probably a multitude of tori and nested tori at any one time in one's brain, always competing and cooperating for resources, forking or coalescing (again, think whirlpools or eddy currents) and as such I also think that there are multiple miniature "selves" at any given time running on the wetware of your brain.
+
+<br/>
+
+<center>
+<a href="https://phys.org/news/2018-07-gulf-stream-eddies-source-iron.html">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/gulfstream.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
 
 It is only due to the fact that all these miniature selves co-inhabit the same host body and have on average access to the relatively same memories that they are all under the collective illusion that they individually are the True and only Self.  It is only from the fact that they are all in the same host body that when reflecting upon itself like looking in a mirror, it is much easier to attribute a singular Mind as responsible for everything that that body does (which is your body).  In essence, they all fall for the illusion of a being Singular Self, when in fact the 'I' contains multitudes.
 
-And it is only by deep reflection that we can hypothesize that we as a single brain are really a community of selves all vying for control and the "strength to perpetuate as the sole whirlpool in one's mind".  I think the multiple selves theory fits quite nicely as an explanatory framework for how we make choices, how we are indecisive at times, how we come to regret certain actions, how we have competing drives and motives, how we have the stories of split-brain patients(!), and the nature of dreams, etc.
+And it is only by deep reflection that we can hypothesize that we as a single brain are really a community of selves all vying for control and the "strength to perpetuate as the sole whirlpool in one's mind".  I think the multiple selves theory fits quite nicely as an explanatory framework for how we make choices, how we are indecisive at times, how we come to regret certain actions, how we have competing drives and motives, how we have the stories of [split-brain patients](https://en.wikipedia.org/wiki/Split-brain(!), and the nature of dreams, etc.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Phrenology#/media/File:Phrenology_journal_(1848).jpg">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/individual_minds.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
 
 And I'm not necessarily trying to portray that this is everything there is.  There can also potentially exist internal reference frame effects, where similar to relativity theory each torus is modeling/simulating what it sees to be the environment at different speeds depending upon the rate of information flow arriving at that torus. Basically, each internal metabolism/compression algorithm is running on different clock speeds, allowing effects such as boosted reference frames, time dilations, Lorentz transformations, etc.  And there can be many more effects that we aren't currently taking into account in modeling the nature of the Self (or more precisely, *Selves*).
 
-This is why I think current artificial neural network research should start moving towards spiking neural network architectures or more broadly the dynamical systems paradigm (like homeostatic learning) where time-varying phenomena play a role.  Not only does it fit with all of the aforementioned theory I posited, but it would also allow us to potentially create a whole new field that explains more of the higher level subjective qualia and emotions we feel by bringing in insights from such disparate fields as music theory where time-varying phenomena are directly connected to emotional expressiveness.
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Time_dilation">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/time_dilation.gif"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+This is why I think current artificial neural network research should start moving towards [spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network) architectures or more broadly the dynamical systems paradigm (like homeostatic learning) where time-varying phenomena play a role.  Not only does it fit with all of the aforementioned theory I posited, but it would also allow us to potentially create a whole new field that explains more of the higher level subjective qualia and emotions we feel by bringing in insights from such disparate fields as music theory where time-varying phenomena are directly connected to emotional expressiveness.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Spiking_neural_network">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/spiking_nn.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
 
 Now where can we start?  We know that our framework must be grounded in the laws of thermodynamics and potentially the free-energy principle framework[^3].  A good first step would be to start with defining our taxonomy of geometric objects, or alternatively, what kind of geometric spaces do these objects live in?  Is it Euclidean Space? Is it Hyperbolic Space? Does it use some Fractal Dimension?  Fleshing that out will then inform us of how the laws of thermodynamics operate on such an environment and how information can flow or propagate throughout the system.  This would then allow us to talk about saddle points, curvatures in information space, geodesics, local minima, and later on what effects (like those fluid dynamics ones from before) can we make testable physiological or behavioral predictions on.
+
+<br/>
+
+<center>
+<a href="https://pointatinfinityblog.wordpress.com/2018/02/19/life-on-the-poincare-disk/">
+    <img src="/images/post_pics/hyperbolic_geometry/poincare_disc.png"
+    width="400" 
+    height="400"
+    >
+</a>
+</center>
+
+<br/>
 
 These geometric objects can then help us arrive at potential geometric architectures that self-organize.  Self-organization in a way can be deterministically "locked-in" further and further by the system's own creation of its interactive network of [affordances](https://en.wikipedia.org/wiki/Affordance) / [constraints](https://en.wikipedia.org/wiki/Constraint_(mathematics)) that begin to [tile](https://en.wikipedia.org/wiki/Tessellation) and constrain the future solution space of possible architectures.  Furthermore, we might begin to be able to use these self-organization algorithms as *learning* algorithms.  The state of artificial neural network architectures now are pretty much all static, rely on fixed sizes of information for input, and information is all propagated and then back-propagated at once, fixed at one speed.  There is no notion of time-varying inputs, speeds, resonances, harmonics, etc (hence my call for more spiking net research).  I argue that without the ability to handle and model asynchronous computation (which from another perspective is the ability to integrate both local and global information), we're still stuck in an old paradigm because we can't exhibit time-varying phenomena and hence lack the necessary conditions for these geometric structures like tori and self-loops to exist, restricting our architecture's ability to even possess rich higher-ordered psychological phenomena like motivation, choice, and self-awareness.
 
