@@ -1,6 +1,6 @@
 ---
 title: 'The Hyperbolic Geometry of Mental Space'
-date: 2020-11-07 00:00:00
+date: 2020-12-01 00:00:00
 featured_image: '/images/post_pics/hyperbolic_geometry/upperhalfplanemodel.jpg'
 excerpt: Do you want to know how shadows, lettuce, brains, Escher, and Alice in Wonderland relate? I discuss the potential shape of one's internal information, thoughts, values, rewards, and beliefs inside our Minds, and whether or not we can model these using Hyperbolic Geometry. 
 ---

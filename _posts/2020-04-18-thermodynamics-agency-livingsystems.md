@@ -1,6 +1,6 @@
 ---
 title: 'On Thermodynamics, Agency, and Living Systems'
-date: 2020-11-08 00:00:00
+date: 2020-12-13 00:00:00
 featured_image: '/images/post_pics/thermodynamics_agency_livingsystems/hopf_fibration.jpg'
 excerpt: Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin of a Proto-Self using concepts such as dissipative systems, toroidal geometries, and variational free energy.   
 ---
