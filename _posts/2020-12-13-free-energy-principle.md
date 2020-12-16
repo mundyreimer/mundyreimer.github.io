@@ -200,7 +200,7 @@ $$ P(H \mid E) $$
 
 be read as, "Probability of our Hypothesis being true *given* that our Evidence is true".  That vertical bar "|" means "given" or "assuming", which makes term something called a *[conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)*.  Similarly we can fill in the other terms. 
 
-And doing some algebra and expanding out the denominator we get:
+And expanding out the denominator we get:
 
 $$ P(H \mid E) = \frac{P(E \mid H) P(H)} {P(E \mid H) P(H) + P(E \mid \lnot H) P( \lnot H)} $$
 
