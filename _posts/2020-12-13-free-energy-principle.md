@@ -177,9 +177,6 @@ If I'm understanding Friston correctly, he states that the reason we have this s
 
 ### Is there an isomorphism in the inferential engine interpretation?
 
-$$E=mc^2$$
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
-
 
 To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we capture epistemic notions such as belief, evidence, and the relationship between how we update our old beliefs with new evidence to get new beliefs.  We can see that relationship in the following:  
 
