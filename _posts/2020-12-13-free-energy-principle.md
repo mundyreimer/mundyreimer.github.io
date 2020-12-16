@@ -214,17 +214,52 @@ where
 
 $$ P(E \cap H) $$
 
-or 
+or *P(E,H)* for short, is interpreted as the *[joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution)* of both our Hypothesis and Evidence being true at the same time.
 
-$$ P(E , H) $$
+Friston explains that our term *P(H,E)*, which he calls the *G-density* can be interpreted as the joint probability of experiencing some belief with a corresponding evidence or environmental state.  And the internal model that specifies how we expect our beliefs to correlate with our environmental states is known as the *[Generative Model](https://en.wikipedia.org/wiki/Generative_model)*.  
 
-is interpreted as the *[joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution)* of both our Hypothesis and Evidence being true at the same time.
+Why do we need a Generative model?  Friston builds his overarching framework on something called a [Helmholtz machine](https://en.wikipedia.org/wiki/Helmholtz_machine) (otherwise known as a [Variational Autoencoder](https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)).  A Helmholtz machine is a statistical engine that can infer the probable causes of sensory input.  Every Helmholtz machine is composed of two parts: a bottom-up recognition model that infers causes from sensory input + a top-down generative model that generates values that will train the recognition model.  
 
-Friston explains that this left-hand side of our equation, the posterior belief 
+Intuitively we can think of the generative model as predicting sensory data based upon *alternative* hypotheses about their causes, in essence a giant table that assigns a probability to each pair composed of a *potential* belief + environmental state.  In other words, it is a probability distribution.  Similarly, we can think of the recognition component as something that sorts through all these pairs to find a best-fit to our environment, or in other words, a best guess as to the environmental causes of our beliefs.  Friston calls this latter component our *Recognition-density* (shortened to  *R-density*) or Q(H).  It's essentially another probability distribution.
+
+Building further upon this we would like some sort of mathematical machinery that allows us to see how different our two probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence, otherwise known as *[relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)*.
+
+So how do we derive the KL divergence machinery?  Let's say we had to compare our generative model *P(x)* to our candidate best-guess model *Q(x)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
+
+$$ LR = \frac{P(x)} {Q(x)} $$
+
+Given some set of data composed of a bunch of independent samples, we can take the likelihood ratio for each sample and then multiply them all together like so:
+
+$$ LR = \prod \limits_{i=0}{n} \frac{P(x_i)} {Q(x_i)} $$
+
+We can then simplify the computation from multiplication to addition by taking the log:
+
+$$ \log_{10} LR = \sum_{i=0}{n} \log_{10} \frac{P(x_i)} {Q(x_i)} $$
+
+To quickly ground ourselves here, if the above spits out values greater than 0 then our *P(x)* generative distribution fits the real-world data better, if the values are less than 0 then our *Q(x)* best-guess distribution fits the real-world data better, and if the value is 0 then they fit the data equally well.  However, let's say we had a large set of sampled data from P(x).  On average, how much would each sample of our generative *P(x)* contribute to better describing the data than our best-guess *Q(x)*?  In essence, we want to calculate the average predictive power each sample from *P(x)* will bring us when trying to distinguish between *P(x)* and *Q(x)*.  We can formalize this by sampling N points from P(x) and then normalizing that.
+
+$$ \log_{10} LR = \frac{1}{N} \sum_{i=0}{N} \log_{10} \frac{P(x_i)} {Q(x_i)} $$
+
+Then assuming we do this for an infinite amount of samples from *P(x)*, taking the limit as N -> Infinity we then arrive at the expected value,
+
+$$ \lim_{n\to\infty} \log_{10} LR = \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} $$
+
+Which in the continuous case can be defined as, 
+
+$$ \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} = \int_{}^{} P(x) \big\{ \frac{P(x)} {Q(x)} \big\} \,dx $$
+
+Which gives us our KL Divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two distributions.  The higher the KL value, the more they are different. 
+
 
 
 
 Surprise = -ln(P(x)) ...ie - the lower the probability of the event, the more you should be surprised to have seen that event
+
+In other words, the entropy is a measure of how much we expect to be surprised. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising, whereas a distribution with a very narrow peak would indicate that we know with high probability that our outcomes are in a narrow range and so we are more certain and on average less surprised and thus this distribution would have low entropy.  In more simple, mathematical writing,
+
+Entropy = Average Surprise
+Entropy = Expected value of Surprise
+Entropy = Expected value of -ln(P(x))
 
 
 
@@ -286,3 +321,5 @@ You can also often find them posting [their thoughts on Twitter](https://twitter
 [^]: [Vanilla PP for Philosophers: A Primer on Predictive Processing](https://predictive-mind.net/papers/vanilla-pp-for-philosophers-a-primer-on-predictive-processing) by Wanja Wiese & Thomas Metzinger.  "The goal of this short chapter, aimed at philosophers, is to provide an overview and brief explanation of some central concepts involved in predictive processing (PP). Even those who consider themselves experts on the topic may find it helpful to see how the central terms are used in this collection. To keep things simple, we will first informally define a set of features important to predictive processing, supplemented by some short explanations and an alphabetic glossary."
 
 [^]:  [The Genius Neuroscientist Who Might Hold the Key to True AI](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/) by WIRED magazine did a special on Friston and his FEP.  
+
+[^]: [Making sense of the Kullback–Leibler (KL) Divergence](https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a) by Marko Cotra
