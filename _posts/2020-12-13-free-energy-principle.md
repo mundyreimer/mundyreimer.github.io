@@ -236,7 +236,9 @@ We can then simplify the computation from multiplication to addition by taking t
 
 $$ \log_{10} LR = \sum_{i=0}^{n} \log_{10} \frac{P(x_i)} {Q(x_i)} $$
 
-To quickly ground ourselves here, if the above spits out values greater than 0 then our *P(x)* generative distribution fits the real-world data better, and if the values are less than 0 then our *Q(x)* best-guess distribution fits the real-world data better, and finally if the value is 0 then they fit the data equally well.  However, let's say we had a large set of sampled data from P(x).  On average, how much would each sample of our generative *P(x)* contribute to better describing the data than our best-guess *Q(x)*?  In essence, we want to calculate the average predictive power each sample from *P(x)* will bring us when trying to distinguish between *P(x)* and *Q(x)*.  We can formalize this by sampling N points from P(x) and then normalizing that.
+To quickly ground ourselves here, if the above spits out values greater than 0 then our *P(x)* generative distribution fits the real-world data better, and if the values are less than 0 then our *Q(x)* best-guess distribution fits the real-world data better, and finally if the value is 0 then they fit the data equally well.  
+
+However, let's say we had a large set of sampled data from P(x).  On average, how much would each sample of our generative *P(x)* contribute to better describing the data than our best-guess *Q(x)*?  In essence, we want to calculate the average predictive power each sample from *P(x)* will bring us when trying to distinguish between *P(x)* and *Q(x)*.  We can formalize this by sampling N points from P(x) and then normalizing that.
 
 $$ \log_{10} LR = \frac{1}{N} \sum_{i=0}^{N} \log_{10} \frac{P(x_i)} {Q(x_i)} $$
 
@@ -246,7 +248,7 @@ $$ \lim_{n\to\infty} \log_{10} LR = \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x
 
 Which in the continuous case can be defined as, 
 
-$$ \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} = \int_{}^{} P(x) \big\{ \frac{P(x)} {Q(x)} \big\} \,dx $$
+$$ \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} = \int_{}^{} P(x) \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} \,dx $$
 
 Which gives us our KL Divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two distributions.  The higher the KL value, the more they are different. 
 
