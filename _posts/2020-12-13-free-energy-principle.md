@@ -186,6 +186,10 @@ To cast the aforementioned dynamical systems interpretation into the language of
 
 $$ \text{New Level of Belief} = \text{Strength of New Evidence} \times \text{Old Level of Belief} $$
 
+To put it into Bayesian terms,
+
+$$ \text{Posterior Belief} = \frac{\text{Likelihood}) \times \text{Prior Belief}} {\text{Marginal Belief}} $$
+
 Or more formally...
 
 $$ P(H \mid E) = \frac{P(E \mid H) \times P(H)} {P(E)} $$
@@ -194,13 +198,13 @@ where we let
 
 $$ P(H \mid E) $$
 
-be read as, "Probability of our Hypothesis being true given that our Evidence is true".  And similarly we can fill in the other terms. 
+be read as, "Probability of our Hypothesis being true *given* that our Evidence is true".  That vertical bar "|" means "given" or "assuming", which makes term something called a *[conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)*.  Similarly we can fill in the other terms. 
 
 And doing some algebra and expanding out the denominator we get:
 
 $$ P(H \mid E) = \frac{P(E \mid H) P(H)} {P(E \mid H) P(H) + P(E \mid \lnot H) P( \lnot H)} $$
 
-
+You can notice that the denominator now contains the sum of all the different types of hypotheses that are compatible with this evidence (in this case we just simplified to the statement of whether the hypothesis is true or whether it is false). In more complicated cases, we might have *many* different hypotheses and we'll have to sum over them all.
 
 
 
