@@ -8,8 +8,6 @@ collections:
     output: true
     permalink: /blog/:slug
 
-# Build settings (see http://webdocs.cs.ualberta.ca/~zichen2/blog/coding/setup/2019/02/17/how-to-add-mathjax-support-to-jekyll.html)
-markdown: kramdown
 
 
 defaults:
