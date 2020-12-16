@@ -198,7 +198,7 @@ be read as, "Probability of our Hypothesis being true given that our Evidence is
 
 And doing some algebra and expanding out the denominator we get:
 
-$$ P(H \mid E) = \frac{P(E \mid H) \times P(H)} {P(E \mid H) \times P(H) + P(E \mid \lnot H) \times P( \lnot H)} $$
+$$ P(H \mid E) = \frac{P(E \mid H) P(H)} {P(E \mid H) P(H) + P(E \mid \lnot H) P( \lnot H)} $$
 
 
 
