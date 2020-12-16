@@ -111,7 +111,7 @@ So how do we go about encoding some Markov blanket into the language of mathemat
 
 This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  We specifically would like to construct the matrix that represents the Markov blanket only.  Doing some linear algebraic manipulations to get there, Friston defines our new matrix,
 
-$$ B = A + A^{T} + A^{T} \times A $$  
+$$ B = A + A^{T} + A^{T}A $$  
 
 To further reduce our graph to only those nodes we care about (for instance, our *minimal* Markov blanket), we can then multiply this matrix B by a binary encoded vector V (a vector of 1s and 0s) representing the nodes we want, giving us [ B·V ].  If you've studied some [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), we can then recall that the *[eigenvector](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)* of a matrix (where a matrix is just a [linear transformation/mapping](https://en.wikipedia.org/wiki/Linear_map) from one space to another) is the vector that maintains its direction under that transformation and only scales to some scalar amount λ.  This principal eigenvector now represents the strength of causal interaction between states, from which we then apply some educated pick of a threshold to group individual states.  
 
@@ -185,6 +185,8 @@ If I'm understanding Friston correctly, he states that the reason we have this s
 To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we capture epistemic notions such as belief, evidence, and the relationship between how we update our old beliefs with new evidence to get new beliefs.  We can see that relationship in the following:  
 
 $$ \text{New Level of Belief} = \text{Strength of New Evidence} \times \text{Old Level of Belief} $$
+
+Or more formally...
 
 $$ P(H \mid E) = \frac{P(E \mid H) \times P(H)} {P(E)} $$
 
