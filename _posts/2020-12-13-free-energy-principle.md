@@ -198,7 +198,7 @@ where we let
 
 $$ P(H \mid E) $$
 
-be read as, "Probability of our Hypothesis being true *given* that our Evidence is true".  That vertical bar "|" means "given" or "assuming", which makes term something called a *[conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)*.  Similarly we can fill in the other terms. 
+be read as, "Probability of our Hypothesis being true *given* that our Evidence is true".  That vertical bar "\|" means "given" or "assuming", which makes term something called a *[conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)*.  Similarly we can fill in the other terms. 
 
 And expanding out the denominator we get:
 
