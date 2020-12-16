@@ -17,6 +17,8 @@ I mainly work on this to help consolidate my memories and compile my evolving th
 
 ## Motivation
 - why care about the FEP
+- Bring up intro to homeostasis & living systems, identity, maintain structural integrity within a limited range of configurations of the molecules and atoms that make up your body. What's important to note is that the number of possible configurations that are functional and work are very few when compared to the incredibly vast amount of combinatorial arrangements of molecules and atoms that don't (for instance, there are many more ways to be a puddle of molecular soup).  And why should a biological system like you stay in your configuration?  What gives that particular arrangement its structural integrity to *persist* through some arbitrary amount of time as a singular unit with *Identity* separate from the environment's molecules and atoms?  Why don't biological systems just disperse and dissipate into the environment as soon as the they are formed, like a wisp of smoke diffusing into nothing?
+
 - who brings it up
     - bring up you first heard of the FEP in the context of Dr. Krichmar's cognitive robotics work at UCI
     - read Andy Clark's book
@@ -173,14 +175,20 @@ Now this is where things get a bit fuzzy for me.  I don't quite see what is *dri
 
 If I'm understanding Friston correctly, he states that the reason we have this system being maintained in this state is because the [non-equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) (it is key to note that condition) long-term behavior of any random dynamical system when [weakly mixing](https://en.wikipedia.org/wiki/Mixing_(physics)) will after a sufficient amount of time converge to an invariant set of states called a *pullback* or *[random global attractor](https://en.wikipedia.org/wiki/Pullback_attractor)*.[^14] (I'll have to do more research into this since my understanding is fuzzy and my linguistic-physical intuition is fighting me over random sets even having attractors to begin with). 
 
-### An information-theoretic isomorphism in the inferential engine interpretation?
+### Is there an isomorphism in the inferential engine interpretation?
 
 $$E=mc^2$$
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 
+To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we capture epistemic notions such as belief, evidence, and the relationship between how we update our old beliefs with new evidence to get new beliefs.  We can see that relationship in the following:  
+
+$$ New Level of Belief = Strength of New Evidence * Old Level of Belief $$
+$$ Probability of our Hypothesis given our Evidence = \frac{(Probability of this specific Evidence being true given that our Hypothesis is True) \| (Probability of our Hypothesis or Prior belief being true)}{Total Probability of encountering this Evidence} $$
 
 
+
+Surprise = -ln(P(x)) ...ie - the lower the probability of the event, the more you should be surprised to have seen that event
 
 
 
