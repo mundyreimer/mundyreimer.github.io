@@ -206,6 +206,22 @@ $$ P(H \mid E) = \frac{P(E \mid H) P(H)} {P(E \mid H) P(H) + P(E \mid \lnot H) P
 
 You can notice that the denominator now contains the sum of all the different types of hypotheses that are compatible with this evidence (in this case we just simplified to the statement of whether the hypothesis is true or whether it is false). In more complicated cases, we might have *many* different hypotheses and we'll have to sum over them all.
 
+It's also nice to note that we can collapse this equation down to a simple statement like
+
+$$ P(H \mid E) = \frac{P(E \cap H)} {P(E)} $$
+
+where 
+
+$$ P(E \cap H) $$
+
+or 
+
+$$ P(E , H) $$
+
+is interpreted as the *[joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution)* of both our Hypothesis and Evidence being true at the same time.
+
+Friston explains that this left-hand side of our equation, the posterior belief 
+
 
 
 Surprise = -ln(P(x)) ...ie - the lower the probability of the event, the more you should be surprised to have seen that event
