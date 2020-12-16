@@ -182,7 +182,7 @@ If I'm understanding Friston correctly, he states that the reason we have this s
 ### Is there an isomorphism in the inferential engine interpretation?
 
 
-To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we capture epistemic notions such as belief, evidence, and the relationship between how we update our old beliefs with new evidence to get new beliefs.  We can see that relationship in the following:  
+To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we capture epistemic notions such as belief and evidence.  We also have to formalize a mathematical relationship between how we update our old beliefs with new evidence to get new beliefs.  We can see that relationship with the following:  
 
 $$ \text{New Level of Belief} = \text{Strength of New Evidence} \times \text{Old Level of Belief} $$
 
@@ -195,6 +195,11 @@ where we let
 $$ P(H \mid E) $$
 
 be read as, "Probability of our Hypothesis being true given that our Evidence is true".  And similarly we can fill in the other terms. 
+
+And doing some algebra and expanding out the denominator we get:
+
+$$ P(H \mid E) = \frac{P(E \mid H) \times P(H)} {P(E \mid H) \times P(H) + P(E \mid \lnot H) \times P( \lnot H)} $$
+
 
 
 
