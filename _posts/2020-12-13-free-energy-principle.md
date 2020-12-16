@@ -2,7 +2,8 @@
 title: Notes on the Free Energy Principle
 date: 2020-11-15 00:00:00
 featured_image: '/images/post_pics/free_energy_principle/causality_book_cover.jpg'
-excerpt: A collection of resources, my thoughts, and related ideas regarding the Free Energy Principle
+excerpt: A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle
+usemathjax: true
 ---
 *Updated: 2020-12-13*  
 *Topics: [Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
@@ -148,7 +149,7 @@ Friston conceptualizes the underlying dynamical system as a vector field in thre
 
 <br/>
 
-Whereas the latter *solenoidal* or *divergence-free field* is known for its property that the field has no sources or sinks (and hence the flow of the solenoidal field can't *diverge*), for the purposes of the FEP it is important to note the other former component.  The other component is called the *irrotational vector field* or dissipative flow. Furthermore, when given that the domain is a simply connected open region, a vector field represents forces of a physical system in which energy is conserved (ie - the reason why they are sometimes called *conservative* vector fields).  For such an irrotational system, the work done in moving along a path in [configuration space](https://en.wikipedia.org/wiki/Configuration_space_(physics)) (the space of [all possible positions]()https://physics.stackexchange.com/questions/237278/what-is-the-difference-between-the-meaning-of-state-space-and-configuration-s#:~:text=In%20other%20words%2C%20the%20state,space%20of%20all%20possible%20positions.) depends only on the endpoints of the path, so it is possible to define a potential energy that is independent of the actual path taken (Note to self - Could this be where a portion of the teleology is initially baked-in?) 
+Whereas the latter *solenoidal* or *divergence-free field* is known for its property that the field has no sources or sinks (and hence the flow of the solenoidal field can't *diverge*), for the purposes of the FEP it is important to note the other former component.  The other component is called the *irrotational vector field* or dissipative flow. Furthermore, when given that the domain is a simply connected open region, a vector field represents forces of a physical system in which energy is conserved (ie - the reason why they are sometimes called *conservative* vector fields).  For such an irrotational system, the work done in moving along a path in [configuration space](https://en.wikipedia.org/wiki/Configuration_space_(physics)) (the space of [all possible positions](https://physics.stackexchange.com/questions/237278/what-is-the-difference-between-the-meaning-of-state-space-and-configuration-s#:~:text=In%20other%20words%2C%20the%20state,space%20of%20all%20possible%20positions)) depends only on the endpoints of the path, so it is possible to define a potential energy that is independent of the actual path taken (Note to self - Could this be where a portion of the teleology is initially baked-in?) 
 
 A really great [intuitive explanation](https://en.wikipedia.org/wiki/Conservative_vector_field#Intuitive_explanation) of conservative vs. non-conservative vector fields can be given by M.C. Escher's lithograph print, *Ascending and Descending*:
 
@@ -158,7 +159,7 @@ A really great [intuitive explanation](https://en.wikipedia.org/wiki/Conservativ
 
 <center>
 <a href="https://en.wikipedia.org/wiki/Ascending_and_Descending">
-    <img src="/images/post_pics/free_energy_principle/escherstairs.jpg"
+    <img src="/images/post_pics/free_energy_principle/escher_stairs.jpg"
         width="400" 
         height="400"
         >
@@ -175,6 +176,8 @@ If I'm understanding Friston correctly, he states that the reason we have this s
 
 ### An information-theoretic isomorphism in the inferential interpretation?
 
+
+$$E=mc^2$$
 
 
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
