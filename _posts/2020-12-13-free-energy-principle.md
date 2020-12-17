@@ -18,6 +18,7 @@ I mainly work on this to help consolidate my memories and compile my evolving th
 ### Motivation
 
 ...[^7]
+
 ### Historical Background: The Origins of Teleology?
 
 In tracing the origins of the FEP, a few people like Friston[^3], Hohwy[^5], and Andrews[^6] make the connection between the Free Energy Principle and the [Principle of Maximum Entropy]((https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)) by [E.T. Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes).
@@ -337,6 +338,7 @@ Is the FEP even falsifiable?  Does it propose any mechanisms?  Is it a valid sci
 
 ...
 
+...redo order of citations
 
 ---
 
