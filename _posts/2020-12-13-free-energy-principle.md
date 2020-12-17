@@ -257,7 +257,7 @@ Which gives us our KL divergence equation.  And again to ground ourselves, we kn
 
 To manipulate this into a form where we can begin to distill out some FEP concepts, we can rearrange this using the property of logarithms,
 
-$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\[ \ln q(T) - \ln P(T\|S) \big\] \,dT $$
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T\|S) \big ] \,dT $$
 
 Now because we don't know our true posterior probability *P(T\|S)* since the probability of the temperature given some state is what we are trying to figure out in the first place, we can substitute that term with its equivalent from our Bayesian equation from before.
 
