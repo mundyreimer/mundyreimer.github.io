@@ -312,7 +312,9 @@ And following the FEP argument by saying an organism acts to minimize their free
 We can then tie in the notion of entropy as a measure of how much we expect to be surprised, or our average surprise. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising and hence has higher entropy.  Conversely, a distribution with a very narrow peak would indicate that we know with high probability what our outcomes are, or in other words they lie in a narrow range and so we are more certain and on average less surprised, thus indicating that this distribution would have low entropy.  In mathematical simple terms,
 
 $$ Entropy = \text{Average Surprise} $$
+
 $$ Entropy = \mathbb{E} \big\{ Surprise \big\} $$
+
 $$ Entropy = \mathbb{E} \big\{ -\ln P(S) \big\} $$
 
 And so the aforementioned statement about minimization can be distilled down to the statement that a biological system acts as to create an accurate internal model of the external environment, which is the same thing as acting to decrease its (information) entropy! 
