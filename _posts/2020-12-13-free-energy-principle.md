@@ -300,7 +300,9 @@ We can also notice this separate *ln P(S)* term at the end.  What could that be?
 Further building upon this, Friston noticed that our KL divergence term will always be greater than or equal to zero.  Using this we can rearrange the equation so that our Free Energy term lies on the opposing side of our Surprise term.
 
 $$ D_{KL}( q(T), P(T\|S) ) \geq 0  $$
+
 $$ F + \ln P(S) \geq 0 $$
+
 $$ F \geq -\ln P(S) $$
 
 Now we can interpret the above statement that free energy *is* the maximum amount of surprise an organism can experience upon arriving at some new evidence or sensory data, or more specifically, it is the *upper bound* on that surprise!
