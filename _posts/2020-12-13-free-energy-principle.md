@@ -16,24 +16,8 @@ I mainly work on this to help consolidate my memories and compile my evolving th
 ---
 
 ## Motivation
-- why care about the FEP
-- Bring up intro to homeostasis & living systems, identity, maintain structural integrity within a limited range of configurations of the molecules and atoms that make up your body. What's important to note is that the number of possible configurations that are functional and work are very few when compared to the incredibly vast amount of combinatorial arrangements of molecules and atoms that don't (for instance, there are many more ways to be a puddle of molecular soup).  And why should a biological system like you stay in your configuration?  What gives that particular arrangement its structural integrity to *persist* through some arbitrary amount of time as a singular unit with *Identity* separate from the environment's molecules and atoms?  Why don't biological systems just disperse and dissipate into the environment as soon as the they are formed, like a wisp of smoke diffusing into nothing?
 
-- who brings it up
-    - bring up you first heard of the FEP in the context of Dr. Krichmar's cognitive robotics work at UCI
-    - read Andy Clark's book
-    - then bring up Scott's post here
-    - then bring up some talk in the information and uncertainty group at UCBerkeley
-    - then finally Mel Andrews stuff
-- recent controversies
-- Why it's famous and controversial now
-    - Friston
-    - What are all the fields that use it (see wikipedia)
-        - Behavioral Psychology and generally the sciences surrounding *decision-making*. From [Friston](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00710/full):
-        "...we look specifically at the normative implications for behavior in the context of classical (economic) decision-making problems. Our normative account argues that optimal decisions minimize the relative entropy between likely and desired outcomes. This means that—in some contexts—agents are compelled to seek novel states, whereas in other contexts they maximize expected utility. We hope to show that explorative behavior is not just in accordance with the principle of free energy minimization but is in fact mandated when minimizing surprise (or maximizing model-evidence) in the context of decision-making behavior. In brief, we argue that when a policy (i.e., an action selection rule that entails a sequence of actions) is selected—in a way that includes uncertainty about outcomes—there is necessarily an exploratory drive that accompanies the classical maximization of expected utility."
-
----
-
+...
 ## Historical Background: The Origins of Teleology?
 
 In tracing the origins of the FEP, a few people like Friston[3], Hohwy[5], and Andrews[6] make the connection between the Free Energy Principle and the [Principle of Maximum Entropy]((https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)) by [E.T. Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes).
@@ -105,15 +89,17 @@ A *[Markov blanket](https://en.wikipedia.org/wiki/Markov_blanket)* is essentiall
 
 <br/>
 
-In the graphical language of modeling (ie - a Bayesian Network), a Markov blanket represents the set of nodes of all parents of A, children of A, and all the children's parents other than A.  Each node represents an event in time or particular state of the system.  Each arrow represents the *directed* causal influence one node or event has upon another.  In Friston's particular terminology (which deviates a small bit from [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl)'s [conception](https://www.goodreads.com/book/show/174277.Probabilistic_Reasoning_in_Intelligent_Systems)), he further distinguishes the parent nodes of A as *sensory states* and the children nodes of A as *active states*, where sensory states are causally influenced by *external states* and active states are only influenced by *internal states*.[^12]  This blanket is labeled *Markov* because the blanket separates out from the environment both the variables that do not depend on the central node A and the variables that the central node A itself doesn't depend on.  Each variable in the blanket exhibits the aforementioned *Markov property* and as such, is all the information we need to know about the system. You might begin to think that we can have nested blankets within blankets, potentially continuing on *ad infinitum* and you are correct.  This is where Pearl further defined an additional term called the *[Markov boundary](https://en.wikipedia.org/wiki/Markov_blanket#Markov_boundary)* which is the *minimal* or "smallest" such Markov blanket that we could have.  
+In the graphical language of modeling (ie - a Bayesian Network), a Markov blanket represents the set of nodes of all parents of A, children of A, and all the children's parents other than A.  Each node represents an event in time or particular state of the system.  Each arrow represents the *directed* causal influence one node or event has upon another.  In Friston's particular terminology (which deviates a small bit from [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl)'s [conception](https://www.goodreads.com/book/show/174277.Probabilistic_Reasoning_in_Intelligent_Systems)), he further distinguishes the parent nodes of A as *sensory states* and the children nodes of A as *active states*, where sensory states are causally influenced by *external states* and active states are only influenced by *internal states*.[^12]  Thus, in Friston's language, the existence of a Markov blanket allows us to partition all states into external, sensory, active, and internal states.
+
+This blanket is labeled *Markov* because the blanket separates out from the environment both the variables that do not depend on the central node A and the variables that the central node A itself doesn't depend on.  Each variable in the blanket exhibits the aforementioned *Markov property*, and as such, is all the information we need to know about the system. You might begin to think that we could potentially have nested blankets within blankets, continuing on *ad infinitum* and you are correct.  This is where Pearl further defined an additional term called the *[Markov boundary](https://en.wikipedia.org/wiki/Markov_blanket#Markov_boundary)* which is the *minimal* or "smallest" such Markov blanket that we could have.
 
 So how do we go about encoding some Markov blanket into the language of mathematics?  It is common to encode graphs as mathematical objects called [adjacency matrices](https://en.wikipedia.org/wiki/Adjacency_matrix).  An adjacency matrix is a square matrix where each row header and column header represents a specific node and the cross-sectional entries or elements of the matrix indicate whether or not a pair of nodes in that particular row-column pair are adjacent / connected or not.  The value of this particular element of the matrix is the probability of one state or node *transitioning* to the next state or node.  This is why we sometimes specifically call this a *[transition matrix](https://en.wikipedia.org/wiki/State-transition_matrix)*.  
 
-This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  We specifically would like to construct the matrix that represents the Markov blanket only.  Doing some linear algebraic manipulations to get there, Friston defines our new matrix,
+This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  We specifically would like to construct a matrix *B* that represents the Markov blanket only.  Doing some linear algebraic manipulations to get there, Friston defines our new matrix,
 
 $$ B = A + A^{T} + A^{T}A $$  
 
-To further reduce our graph to only those nodes we care about (for instance, our *minimal* Markov blanket), we can then multiply this matrix B by a binary encoded vector V (a vector of 1s and 0s) representing the nodes we want, giving us [ B·V ].  If you've studied some [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), we can then recall that the *[eigenvector](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)* of a matrix (where a matrix is just a [linear transformation/mapping](https://en.wikipedia.org/wiki/Linear_map) from one space to another) is the vector that maintains its direction under that transformation and only scales to some scalar amount λ.  This principal eigenvector now represents the strength of causal interaction between states, from which we then apply some educated pick of a threshold to group individual states.  
+To further reduce our graph to only those nodes we care about (for instance, our *minimal* Markov blanket), we can then multiply this matrix B by a binary encoded vector V (a vector of 1s and 0s) representing the nodes we want.  If you've studied some [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), we can then recall that the *[eigenvector](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)* of a matrix (where a matrix is just a [linear transformation/mapping](https://en.wikipedia.org/wiki/Linear_map) from one space to another) is the vector that maintains its direction under that transformation and only scales to some scalar amount λ.  This principal eigenvector can now represent the strength of causal interaction between states, from which we then apply some educated pick of a threshold to group individual states.  
 
 At this point, I think this is where I am maybe not as critical as someone like Andrews where they believe this thresholding to be a post-hoc, intuition-guided, individual researcher-based ascription, and most importantly not *"illuminating natural joints"*[^6].  In fact, the [spectral theory](https://en.wikipedia.org/wiki/Spectral_theory) underlying [eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix) and thresholding methods is done all the time in [vibration analysis](https://en.wikipedia.org/wiki/Harmonic_analysis) (eg - ["Can One Hear the Shape of a Drum?"](https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum)), dimensionality reduction / [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), [Google's Page Rank algorithm](https://en.wikipedia.org/wiki/PageRank), collaborative prediction, image compression, general clustering problems, and more.  I agree that there are many assumptions that go into the mathematics of all of this and indeed it might be wise to keep at the back of our minds the divide between the language we use to to describe reality and reality itself, but at the same time I don't think that this implies that the math itself does not elucidate *any* insight into the nature of the physical system in question. As mentioned in the previously examples, these representations definitely can provide real-world utility.  Whether or not mother nature has latched onto a similar causal mechanism in how biological organisms maintain integrity and govern themselves still seems up for debate. (*Note to self that this part of the notes will be updated accordingly*)  
 
@@ -129,15 +115,15 @@ And we can indeed see how our previously defined Markov blanket is a rather *bro
 
 Friston explains that in order to possess a Markov blanket, a system must minimize something we hinted at before called *variational free energy*. It is here where someone like Andrews[^6] comments:
 
-> "There is an unfortunate—though understandable—tendency for those first acquainting themselves with the FEP to interpret ‘free energy,’ and other, similarly confounding terminology from the framework, in physical terms. When we speak of heat, energetics, and entropy it can be difficult to shake the feeling that we are talking about some objective, measurable feature of a material system—particle motion, for example. I took the time at the outset of this paper to trace the history of the framework in Jaynes, Feynman, Hinton, and Beal because having a handle on this history is necessary in order to grasp the subtle turn away from statistical approximations of physical properties of physical systems to a pure, substrate-neutral method of statistical inference. When we speak of annealing a model in statistical mechanics, ratcheting the temperature of the system up and down in the hopes of bumping it out of local minima, this does not refer to an act of literally injecting energy into a physical system to increase the speed of particle motion. It is a statistical analogue of a physical process. Likewise, the energy and entropy of the FEP are formal analogues of concepts defined in thermodynamics and statistical mechanics with a long history of use in information theory, statistics, and machine learning, in which they have lost their correspondence to any measurable properties of physical systems." 
+> "There is an unfortunate—though understandable—tendency for those first acquainting themselves with the FEP to interpret ‘free energy,’ and other, similarly confounding terminology from the framework, in physical terms. When we speak of heat, energetics, and entropy it can be difficult to shake the feeling that we are talking about some objective, measurable feature of a material system—particle motion, for example...[I] trace the history of the framework in Jaynes, Feynman, Hinton, and Beal because having a handle on this history is necessary in order to grasp the subtle turn away from statistical approximations of physical properties of physical systems to a pure, substrate-neutral method of statistical inference. When we speak of annealing a model in statistical mechanics, ratcheting the temperature of the system up and down in the hopes of bumping it out of local minima, this does not refer to an act of literally injecting energy into a physical system to increase the speed of particle motion. It is a statistical analogue of a physical process. Likewise, the energy and entropy of the FEP are formal analogues of concepts defined in thermodynamics and statistical mechanics with a long history of use in information theory, statistics, and machine learning, in which they have lost their correspondence to any measurable properties of physical systems." 
 
-I can definitely sympathize with this criticism.  Adopting mathematics, analogies, metaphors, theories, and jargon from one field to the next doesn't always transfer over in perfect isomorphic fashion.  Some concepts fit.  Some stretch.  And some break.  But just because something breaks or doesn't perfectly map over from one domain to another doesn't necessarily mean we should abandon it.  Nor should we even jump to the conclusion that something *is* necessarily broken with the borrowed formalism or apparatus even if it looks like it from the surface (I am not necessarily accusing Andrews of any of these by the way), but maybe rather something doesn't align in our internal metaphysical beliefs to that of others. Furthermore, generally-speaking, maybe there is a lack of alignment in what we currently demand from mathematics and language itself.  I mean, I certainly have days where I'm a skeptical scientific [Materialist](https://en.wikipedia.org/wiki/Scientistic_materialism), most days where I'm a hardcore [Fictionalist](https://en.wikipedia.org/wiki/Fictionalism), and yes I admit, even some days where I'm a happy-go-lucky-everything-is-oh-so-beautiful-math [Platonist](https://en.wikipedia.org/wiki/Platonism).    
+I can definitely sympathize with this criticism.  Adopting mathematics, analogies, metaphors, theories, and jargon from one field to the next doesn't always transfer over in perfect isomorphic fashion.  Some concepts fit.  Some stretch.  And some break.  But just because something breaks or doesn't perfectly map over from one domain to another doesn't necessarily mean we should abandon it.  Nor should we even jump to the conclusion that something *is* necessarily broken with the borrowed formalism or apparatus even if it looks like it from the surface (I am not necessarily accusing Andrews of any of these by the way), but maybe rather something doesn't match upstream in our internal metaphysical beliefs when compared to that of others. Different people might demand different metaphysical conclusions when dealing with reasoning via mathematics and language itself.  I mean, I certainly have days where I'm a skeptical scientific [Materialist](https://en.wikipedia.org/wiki/Scientistic_materialism), most days where I'm a hardcore [Fictionalist](https://en.wikipedia.org/wiki/Fictionalism), and yes I admit, even some days where I'm a happy-go-lucky-everything-is-oh-so-beautiful-math [Platonist](https://en.wikipedia.org/wiki/Platonism).    
 
-Anyway, the reason I question whether or not it really is a metaphysical deathblow that the FEP has lost its correspondence with physical systems is because in the philosophy of physics there are people even questioning our most primitive (and from what I previously thought) well-accepted terms and concepts.  Questions such as whether *Force* or *Energy* are more real bring up interesting thoughts and consequences[^13] and like before, can possibly act to temper some of our criticisms. 
+Anyway, the reason I question whether or not it really is a metaphysical deathblow that the FEP has lost its correspondence with physical systems is because in the philosophy of physics there are people even questioning our most primitive (and from what I previously thought) well-accepted terms and concepts.  Questions such as whether *Force* or *Energy* are more real bring up interesting thoughts and consequences[^13] and in similar sentiment to before can possibly act to temper some of our criticisms. 
 
-So getting back to the main topic, what exactly is variational free energy and how is it being minimized? To explain this we need to learn about something called the [Fokker-Planck or Kolmogorov Forward Equation](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation).  Just as how the *velocity* of a moving particle is the *rate of change* of the *displacement* at some time, the *probability density* of a continuous real-valued [random variable](https://en.wikipedia.org/wiki/Random_variable) is the *rate of change* of the *cumulative probability* at some *point*.  The *[probability density function](https://en.wikipedia.org/wiki/Probability_density_function)* is used to specify the probability of the random variable falling within a particular range of values as opposed to taking on any one value (in discrete as opposed to continous cases, this is instead called the [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function) or PMF).  And it's key to note that this probability is given by the area or integral of the variable's PDF over that range.  Finally, the Fokker-Planck equation describes how this [probability density function](https://en.wikipedia.org/wiki/Probability_density_function) itself of the state of a system changes over time, in essence, a trajectory through some abstract space of a system's set of states.  
+So getting back to the main topic, what exactly is variational free energy and how is it being minimized? To explain this we need to learn about something called the [Fokker-Planck or Kolmogorov Forward Equation](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation).  Just as how the *velocity* of a moving particle is the *rate of change* of the *displacement* at some time, the *probability density* of a continuous real-valued [random variable](https://en.wikipedia.org/wiki/Random_variable) is the *rate of change* of the *cumulative probability* at some *point*.  The *[probability density function](https://en.wikipedia.org/wiki/Probability_density_function)* is used to specify the probability of the random variable falling within a particular range of values as opposed to taking on any one value (in discrete as opposed to continous cases, this is instead called the [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function) or PMF).  It might be key to note that this probability is given by the area or integral of the variable's PDF over that range.  Finally, the Fokker-Planck equation describes how this [probability density function](https://en.wikipedia.org/wiki/Probability_density_function) of the state of a system changes over time, in essence, how it acts as a trajectory through some abstract space of a system's set of states.  
 
-Our system here is assumed to be under the effect of random perturbations called [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion).  These random perturbations would eventually cause the system to undergo an irreversible process known as *[dissipation](https://en.wikipedia.org/wiki/Dissipation)* in which energy is transformed from some initial form to some final form, where the final form has less capacity to perform mechanical work (ie - although total energy is conserved, not all types of energy are spent equally).  So what's keeping the system from dissipating in its entirety?
+Our system here is assumed to be under the effect of random perturbations called [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion).  These random perturbations are assumed to eventually cause the system to undergo an irreversible process known as *[dissipation](https://en.wikipedia.org/wiki/Dissipation)* in which energy is transformed from some initial form to some final form, where the final form has less capacity to perform mechanical work (ie - although total energy is conserved, not all types of energy are spent equally).  So what's keeping the system from dissipating in its entirety?
 
 Friston conceptualizes the underlying dynamical system as a vector field in three dimensions.  Assuming appropriate smoothness and decaying conditions, there's something called the *[Helmholtz decomposition]*(https://en.wikipedia.org/wiki/Helmholtz_decomposition), otherwise known as the *Fundamental Theorem of Vector Calculus*, which states that a rapidly decaying vector field in three dimensions can be broken up into the sum of two components, an [irrotational (curl-free)](https://en.wikipedia.org/wiki/Conservative_vector_field) vector field and a [solenoidal (divergence-free)](https://en.wikipedia.org/wiki/Solenoidal_vector_field) vector field.
 
@@ -154,7 +140,7 @@ Friston conceptualizes the underlying dynamical system as a vector field in thre
 
 <br/>
 
-Whereas the latter *solenoidal* or *divergence-free field* is known for its property that the field has no sources or sinks (and hence the flow of the solenoidal field can't *diverge*), for the purposes of the FEP it is important to note the other former component.  The other component is called the *irrotational vector field* or dissipative flow. Furthermore, when given that the domain is a simply connected open region, a vector field represents forces of a physical system in which energy is conserved (ie - the reason why they are sometimes called *conservative* vector fields).  For such an irrotational system, the work done in moving along a path in [configuration space](https://en.wikipedia.org/wiki/Configuration_space_(physics)) (the space of [all possible positions](https://physics.stackexchange.com/questions/237278/what-is-the-difference-between-the-meaning-of-state-space-and-configuration-s#:~:text=In%20other%20words%2C%20the%20state,space%20of%20all%20possible%20positions)) depends only on the endpoints of the path, so it is possible to define a potential energy that is independent of the actual path taken (Note to self - Could this be where a portion of the teleology is initially baked-in?) 
+Whereas the latter *solenoidal* or *divergence-free field* is known for its property that the field has no sources or sinks (and hence the flow of the solenoidal field *can't diverge*), for the purposes of the FEP it is important to note the other former component.  The other component is called the *irrotational vector field* or dissipative flow. Additionally, when given that the domain is a [simply connected](https://en.wikipedia.org/wiki/Simply_connected_space) open region, the vector field will represent forces of a physical system in which energy is conserved (ie - the reason why they are sometimes called *conservative* vector fields).  For such an irrotational system, the work done in moving along a path in [configuration space](https://en.wikipedia.org/wiki/Configuration_space_(physics)) (the space of [all possible positions](https://physics.stackexchange.com/questions/237278/what-is-the-difference-between-the-meaning-of-state-space-and-configuration-s#:~:text=In%20other%20words%2C%20the%20state,space%20of%20all%20possible%20positions)) depends only on the endpoints of the path, so it is possible to define a potential energy that is independent of the actual path taken (Note to self - Could this be where a portion of the teleology is initially baked-in?) 
 
 A really great [intuitive explanation](https://en.wikipedia.org/wiki/Conservative_vector_field#Intuitive_explanation) of conservative vs. non-conservative vector fields can be given by M.C. Escher's lithograph print, *Ascending and Descending*:
 
@@ -173,22 +159,21 @@ A really great [intuitive explanation](https://en.wikipedia.org/wiki/Conservativ
 
 <br/>
 
-Friston points out that this dissipative, curl-free flow is the component responsible for counteracting the dissipation caused by the random perturbations of Brownian motion of the underlying vector field (representing the dynamical system).[^14]  This implies that the only remaining [probability current](https://en.wikipedia.org/wiki/Probability_current) is solenoidal, where the term *probability current* describes the flow of probability in terms of probability per unit time per unit area.    
+Friston points out that this dissipative, curl-free flow is the component responsible for counteracting the dissipation caused by the random perturbations of Brownian motion on the underlying vector field (representing the dynamical system).[^14]  This implies that the only remaining [probability current](https://en.wikipedia.org/wiki/Probability_current) is solenoidal, where the term *probability current* describes the flow of probability in terms of probability per unit time per unit area.    
 
-Now this is where things get a bit fuzzy for me.  I don't quite see what is *driving* the system to be maintained in this state with the condition of a rapidly decaying vector field (our condition for the Helmholtz decomposition of the two different vector field components to occur).  
+Now this is where things get a bit fuzzy for me.  I don't quite see what is *driving* the system to be maintained in this state of a rapidly decaying vector field (which is necessary for our condition for the Helmholtz decomposition of the two different vector field components to be allowed).  
 
 If I'm understanding Friston correctly, he states that the reason we have this system being maintained in this state is because the [non-equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) (it is key to note that condition) long-term behavior of any random dynamical system when [weakly mixing](https://en.wikipedia.org/wiki/Mixing_(physics)) will after a sufficient amount of time converge to an invariant set of states called a *pullback* or *[random global attractor](https://en.wikipedia.org/wiki/Pullback_attractor)*.[^14] (I'll have to do more research into this since my understanding is fuzzy and my linguistic-physical intuition is fighting me over random sets even having attractors to begin with). 
 
 ### Is there an isomorphism in the inferential engine interpretation?
 
-
-To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we capture epistemic notions such as belief and evidence.  We also have to formalize a mathematical relationship between how we update our old beliefs with new evidence to get new beliefs.  We can see that relationship with the following:  
+To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we can capture epistemic notions such as belief and evidence.  We also have to formalize a mathematical relationship between how we update our old beliefs with new evidence to get new beliefs.  We can capture this relationship with the following:  
 
 $$ \text{New Level of Belief} = \text{Strength of New Evidence} \times \text{Old Level of Belief} $$
 
-To put it into Bayesian terms,
+And then we can put it into Bayesian terms,
 
-$$ \text{Posterior Belief} = \frac{\text{Likelihood}) \times \text{Prior Belief}} {\text{Marginal Belief}} $$
+$$ \text{Posterior Belief} = \frac{\text{Likelihood} \times \text{Prior Belief}} {\text{Marginal Belief}} $$
 
 Or more formally...
 
@@ -198,90 +183,143 @@ where we let
 
 $$ P(H \mid E) $$
 
-be read as, "Probability of our Hypothesis being true *given* that our Evidence is true".  That vertical bar "\|" means "given" or "assuming", which makes term something called a *[conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)*.  Similarly we can fill in the other terms. 
+be read as the "Probability of our Hypothesis being true *given* that our Evidence is true".  That vertical bar "\|" means "given" or "assuming", which makes the term something called a *[conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)*.  We can similarly fill in the other terms with this interpretation scheme. 
 
-And expanding out the denominator we get:
+We can then expand out the denominator to get:
 
 $$ P(H \mid E) = \frac{P(E \mid H) P(H)} {P(E \mid H) P(H) + P(E \mid \lnot H) P( \lnot H)} $$
 
 You can notice that the denominator now contains the sum of all the different types of hypotheses that are compatible with this evidence (in this case we just simplified down to the statement of whether the hypothesis is true or whether it is false). In more complicated cases, we might have *many* different hypotheses and we'll have to sum over them all.
 
-It's also nice to note that we can collapse this equation down to a simple statement like
+It's also nice to note that we can collapse this equation down to a simple statement that reads that the *"probability of some thing H given E is equal to the probability of both H being true AND E occurring, divided by the probability of just E occurring"*,  
 
 $$ P(H \mid E) = \frac{P(E \cap H)} {P(E)} $$
 
 where 
 
-$$ P(E \cap H) $$
+$$ P(H \cap E) $$
 
-or *P(E,H)* for short, is interpreted as the *[joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution)* of both our Hypothesis and Evidence being true at the same time.
+or written *P(H,E)* for short, is interpreted as the *[joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution)* of both our Hypothesis being true and getting this Evidence.
 
-Friston explains that our term *P(H,E)*, which he calls the *G-density* can be interpreted as the joint probability of experiencing some belief with a corresponding evidence or environmental state.  And the internal model that specifies how we expect our beliefs to correlate with our environmental states is known as the *[Generative Model](https://en.wikipedia.org/wiki/Generative_model)*.  
+We can recast this into terms of biological systems by thinking of our Hypothesis as what we believe a particular environmental variable currently is, while we can think of Evidence as incoming sensory data.  Let's say we had an organism who cares about a particular environmental variable called temperature, *T*.  And let's say it receives incoming sensory data *S*.  Then just replacing the variables we can recast Baye's equation from before into the following:
 
-Why do we need a Generative model?  Friston builds his overarching framework on something called a [Helmholtz machine](https://en.wikipedia.org/wiki/Helmholtz_machine) (otherwise known as a [Variational Autoencoder](https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)).  A Helmholtz machine is a statistical engine that can infer the probable causes of sensory input.  Every Helmholtz machine is composed of two parts: a bottom-up recognition model that infers causes from sensory input + a top-down generative model that generates values that will train the recognition model.  
+$$ P(T \mid S) = \frac{P(S \mid T) P(T)} {P(S)} $$
 
-Intuitively we can think of the generative model as predicting sensory data based upon *alternative* hypotheses about their causes, in essence a giant table that assigns a probability to each pair composed of a *potential* belief + environmental state.  In other words, it is a probability distribution.  Similarly, we can think of the recognition component as something that sorts through all these pairs to find a best-fit to our environment, or in other words, a best guess as to the environmental causes of our beliefs.  Friston calls this latter component our *Recognition-density* (shortened to  *R-density*) or Q(H).  It's essentially another probability distribution.
+We should note that Friston builds his overarching FEP framework based on influence from a colleague of his at the time, [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), considered to be one of the founding fathers of the modern Deep Learning paradigm. This framework is based on something called a [Helmholtz machine](https://en.wikipedia.org/wiki/Helmholtz_machine) (otherwise known as a [Variational Autoencoder](https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)) when trained via the [backpropagation algorithm](https://en.wikipedia.org/wiki/Backpropagation)).  A Helmholtz machine is a statistical engine that can infer the probable causes of sensory input.  Every Helmholtz machine is composed of two parts: 
 
-Building further upon this we would like some sort of mathematical machinery that allows us to see how different our two probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence, otherwise known as *[relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)*.
+1) **Bottom-up Recognition Model**:  This is an internal model of what the organism's best guess is of the relevant variables that make up its environment. When an organism receives sensory signals it updates this to better reflect and model the surrounding world.  This model is formally represented by a probability distribution over all possible values of those environmental variables.  Friston calls this probability distribution the *"recognition density"* or *R-density*. In our particular example with the environmental variable of concern being temperature, we will denote this R-density as *q(T)*.  This model is what is updated over time.    
 
-So how do we derive the KL divergence machinery?  Let's say we had to compare our generative model *P(x)* to our candidate best-guess model *Q(x)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
+2) **Top-down Generative Model**:  This model reflects an organism's assumptions about how various environmental variables shape sensory input. It basically reflects how the organism seems to correlate sensory data with environmental states.  In our example, this would be interpreted as the organism predicting that if it moves closer to some source of heat, then it'll receive sensory data signaling that it will get hotter.  Like before, this can be formally represented as another probability distribution called a joint density.  In Bayesian terms, this is called a joint density because it is calculated as the product of two other densities in turn, the *likelihood* describing the probability of sensory data given some environmental variable, multiplied by the *prior* describing the organism's current belief of the distribution of environmental states.  Friston calls this entire joint density or probability distribution as the *"[Generative Model](https://en.wikipedia.org/wiki/Generative_model)"* or *G-density*.  In our example, it can be represented as the joint probability of the environmental variable temperature and its corresponding sensory signal, or *P(T,S)*.  This model is what tries to approximate the former bottom-up model, R-density.       
 
-$$ LR = \frac{P(x)} {Q(x)} $$
+Because the Helmholtz machine framework envisions organisms as simultaneously receiving sensory data to further model their world in addition to using their internal model of the world to shape how that sensory data is interpreted, we would like some sort of mathematical machinery that would allow us to compare how different our two models or probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence (aka - *[relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)*).
+
+So how do we derive the KL divergence machinery?  Let's say we wanted to compare the posterior probability *P(T\|S)* (what we think the temperature is when given some sensory signal) to our bottom-up recognition model *q(T)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
+
+$$ LR = \frac{q(T)} {P(T\|S)} $$
 
 Given some set of data composed of a bunch of independent samples, we can take the likelihood ratio for each sample and then multiply them all together like so:
 
-$$ LR = \prod \limits_{i=0}^{n} \frac{P(x_i)} {Q(x_i)} $$
+$$ LR = \prod \limits_{i=0}^{n} \frac{q(T_i)} {P(T_i\|S_i)} $$
 
 We can then simplify the computation from multiplication to addition by taking the log:
 
-$$ \log_{10} LR = \sum_{i=0}^{n} \log_{10} \frac{P(x_i)} {Q(x_i)} $$
+$$ \ln LR = \sum_{i=0}^{n} \ln \frac{q(T_i)} {P(T_i\|S_i)} $$
 
-To quickly ground ourselves here, if the above spits out values greater than 0 then our *P(x)* generative distribution fits the real-world data better, and if the values are less than 0 then our *Q(x)* best-guess distribution fits the real-world data better, and finally if the value is 0 then they fit the data equally well.  
+To quickly ground ourselves here, let's note that if the above spits out values greater than 0 then our *q(T)* recognition model fits the real-world sensory data better, and if the values are less than 0 then our *P(T\|S)* posterior model fits the real-world sensory data better, and finally if the value is 0 then they fit the data equally well.  In summary, the likelihood ratio tells us how many times more probable one model is to another given some data.
 
-However, let's say we had a large set of sampled data from P(x).  On average, how much would each sample of our generative *P(x)* contribute to better describing the data than our best-guess *Q(x)*?  In essence, we want to calculate the average predictive power each sample from *P(x)* will bring us when trying to distinguish between *P(x)* and *Q(x)*.  We can formalize this by sampling N points from P(x) and then normalizing that.
+However, let's say we had a large set of sampled data from *q(T)*.  On average, how much would each sample of our *q(T)* recognition model contribute to better describing the data than our *P(T\|S)* posterior probability model?  In essence, we want to calculate the average predictive power each sample from *q(T)* will bring us when trying to distinguish between *q(T)* and *P(T\|S)*.  We can formalize this by sampling N points from *q(T)* and then normalizing that through division by N.
 
-$$ \log_{10} LR = \frac{1}{N} \sum_{i=0}^{N} \log_{10} \frac{P(x_i)} {Q(x_i)} $$
+$$ \ln LR = \frac{1}{N} \sum_{i=0}^{N} \ln \frac{q(T_i)} {P(T_i\|S_i)} $$
 
-Then assuming we do this for an infinite amount of samples from *P(x)*, taking the limit as N -> Infinity we then arrive at the expected value,
+Then assuming we do this for an infinite amount of samples from *q(T)*, taking the limit as N -> Infinity we then arrive at the expected value,
 
-$$ \lim_{n\to\infty} \log_{10} LR = \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} $$
-
+$$ \lim_{N\to\infty} \ln LR = \mathbb{E} \big\{ \ln \frac{q(T_i)} {P(T_i\|S_i)} \big\} $$
+  
 Which in the continuous case can be defined as, 
 
-$$ \mathbb{E} \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} = \int_{}^{} P(x) \big\{ \log_{10} \frac{P(x)} {Q(x)} \big\} \,dx $$
+$$ \mathbb{E} \big\{ \ln \frac{q(T)} {P(T,S)} \big\} = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T\|S)} \big\} \,dT $$
 
-Which gives us our KL Divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two distributions.  The higher the KL value, the more they are different. 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T\|S)} \big\} \,dT $$
 
+Which gives us our KL divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two models.  The higher the KL value, the more they are different. 
 
+To manipulate this into a form where we can begin to distill out some FEP concepts, we can rearrange this using the property of logarithms,
 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\[ \ln q(T) - \ln P(T\|S) \big\] \,dT $$
 
-Surprise = -ln(P(x)) ...ie - the lower the probability of the event, the more you should be surprised to have seen that event
+Now because we don't know our true posterior probability *P(T\|S)* since the probability of the temperature given some state is what we are trying to figure out in the first place, we can substitute that term with its equivalent from our Bayesian equation from before.
 
-In other words, the entropy is a measure of how much we expect to be surprised. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising, whereas a distribution with a very narrow peak would indicate that we know with high probability that our outcomes are in a narrow range and so we are more certain and on average less surprised and thus this distribution would have low entropy.  In more simple, mathematical writing,
+$$ P(T\|S) = \frac{P(T,S)} {P(S)} $$
 
-Entropy = Average Surprise
-Entropy = Expected value of Surprise
-Entropy = Expected value of -ln(P(x))
+Then taking the natural log and using the same property from before we get,
 
+$$ \ln P(T\|S) = \ln \frac{P(T,S)} {P(S)} $$
 
+$$ \ln P(T\|S) = \ln P(T,S) - \ln P(S) $$
 
+And then subsituting this equation for *ln P(T\|S)* back into our KL divergence equation,
 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\[ \ln q(T) - \ln P(T,S) + \ln P(S) \big\] \,dT $$
 
+We can then do our log property from before in reverse to bring the joint density under as the denominator,
 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\[ \frac{q(T)} {P(T,S)} + \ln P(S) \big\] \,dT $$
 
-*** Then connect this back with the dynamical systems perspective using Mel Andrew's explanations by distilling her quotes 
+And following this up with splitting up the integral,
 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
 
+Rearranging the dT terms,
 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
 
+Then noting that the total probability of the recognition model sums to 1,
 
+$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
 
+From here we can might begin to recognize how we can map our separate terms back to their original high-level concepts.  Notice that just like our Helmholtz machine concept required, we are able to now compare our bottom-up recognition model, *q(T)*, with our top-down generative model or joint density, *P(T,S)*.  And voilà!  This entire term which we can encapsulate as a single variable called *F* is our one-and-only *Free Energy* that makes up Friston's famous theory.
 
+$$ F = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)} $$
 
+$$ D_{KL}( q(T), P(T\|S)) ) = F + \ln P(S)  $$
 
+We can also notice this separate *ln P(S)* term at the end.  What could that be?  Well if we were to visualize the graph of *-ln P(S)*, we'd notice that as the value of *P(S)* goes up the value of *-ln P(S)* goes sharply down, and likewise as the value of *P(S)* decreases the value of *-ln P(S)* sharply increases.  In essence, as the probability of some sensory signal occuring is high, an organism is less likely to become surprised if they do indeed receive that signal.  And if the probability of some sensory signal occuring is low but that organism gets a signal anyways, then it'll sure as heck be surprised to even have received it.  As such, we can conceptualize this *-ln P(S)* term as the *Surprise* that we received some data.
 
+Further building upon this, Friston noticed that our KL divergence term will always be greater than or equal to zero.  Using this we can rearrange the equation so that our Free Energy term lies on the opposing side of our Surprise term.
 
+$$ D_{KL}( q(T), P(T\|S)) ) \geq 0  $$
+$$ F + \ln P(S) \geq 0 $$
+$$ F \geq -\ln P(S) $$
 
+Now we can interpret the above statement that free energy *is* the maximum amount of surprise an organism can experience upon arriving at some new evidence or sensory data, or more specifically, it is the *upper bound* on that surprise!
+
+And following the FEP argument by saying an organism acts to minimize their free energy, it is the same thing as saying a biological system acts as to minimize its surprise.  In essence, the biological system acts as to create an accurate internal model of the external environment.  
+
+We can then tie in the notion of entropy as a measure of how much we expect to be surprised, or our average surprise. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising and hence has higher entropy.  Conversely, a distribution with a very narrow peak would indicate that we know with high probability what our outcomes are, or in other words they lie in a narrow range and so we are more certain and on average less surprised, thus indicating that this distribution would have low entropy.  In mathematical simple terms,
+
+$$ Entropy = \text{Average Surprise} $$
+$$ Entropy = \mathbb{E} \big\{ Surprise \big\} $$
+$$ Entropy = \mathbb{E} \big\{ -\ln P(S) \big\} $$
+
+And so the aforementioned statement about minimization can be distilled down to the statement that a biological system acts as to create an accurate internal model of the external environment, which is the same thing as acting to decrease its (information) entropy! 
+
+## Mixing Dynamical Systems + Information Theory 
+
+So now that we have a dynamical systems perspective of how a biological system maintains its state and persists throughout some amount of time, and have just shown how a biological system seeks to minimize its free energy, how do we combine these two perspectives? 
+
+We can combine these two perspectives by noting something regarding the *flow of causal information*.  Friston notices that we can express the flow of states as a function of their *[non-equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) [steady-state](https://en.wikipedia.org/wiki/Steady_state)* (NESS) density.  And it is the integrity of this NESS density that is maintained by the irrotational component of the flow under the Helmholtz decomposition.  It is important to note this NESS assumption since I think that is the main thing that Friston leverages to identify *thing-ness*.[^14]  From Andrews[^6]:
+
+> "NESS is best understood as the breaking of detailed balance. Detailed balance is a condition in which the temporal evolution of any variable is the same forwards as it is backwards (the system’s dynamics are fully time-reversible). Detailed balance holds only at thermodynamic equilibrium. In nonequilibrium steady state, balance holds in that none of the variables that define the system will undergo change on average over time, but there is entropy production, and there are flows in and out of the system. "
+
+In fact, Friston himself notes that *"This is the key result upon which most of this monograph rests"*[^14], mainly that of being able to express the flow in terms of NESS density or *surprise*.  Friston points out from another paper/book[^15] that the associated NESS density *p(x)* is the solution to the Fokker-Planck equation, and furthermore that *p(x) = exp(P)* where *P* is the [scalar potential](https://en.wikipedia.org/wiki/Scalar_potential), which in itself is related to the vector field by way of *-∇P*, where *∇P* is the [gradient](https://en.wikipedia.org/wiki/Gradient) of *P* with respect to some Cartesian coordinates *x*, *y*, and *z*.  We also just derived above how surprise can be represented by the term *-ln p(S)*.  In other words, the NESS density's integrity depends upon the irrotatational flow component of the Helmholtz decomposition counteracting the effects of the random perturbations of Brownian motion trying to disperse this NESS density, which implies that we can express the flow into either terms of NESS density or surprise through some basic algebraic manipulations such that our scalar potential *P = -ln p(S)*.
+
+...
+
+### Philosophy of Science 
+
+Is the FEP even falsifiable?  Does it propose any mechanisms?  Is it a valid scientific principle?  What kind of object is the FEP?  Is it better seen as a guiding framework?  What are the different types of models?
+
+...
 
 
 ---
@@ -316,6 +354,9 @@ You can also often find them posting [their thoughts on Twitter](https://twitter
 [^13]: [Force and energy: which is more real?](https://gravityandlevity.wordpress.com/2009/04/13/force-and-energy-which-is-more-real/) is post from *On Gravity and Levity* by Brian Skinner, a professor in theoretical condensed matter physics. In it he discusses the question of whether *Force* or *Energy* is more real? He notes that the question "is one to which my answer has changed over the years.  The change was a difficult one: force and energy are such profoundly important concepts in physics that to change your view of them is to change your view of all topics that are built upon them (basically, everything).  But for me it has been extremely important.  Shifting my position from “force is more real” to “energy is more real” was essential for understanding and enjoying advanced topics in physics."  Another somewhat relevant post to the FEP's inherent teleology is his post on [The Universe is a giant energy minimization machine](https://gravityandlevity.wordpress.com/2010/01/30/the-universe-is-a-giant-energy-minimization-machine/).   
 
 [^14]:  [A free energy principle for a particular physics](https://arxiv.org/abs/1906.10184) by Karl Friston.  This is probably the most informative write-up on Friston's theory, but as such it suffers from the fact that it is 148 pages long! From the abstract: "This monograph attempts a theory of every 'thing' that can be distinguished from other things in a statistical sense. The ensuing statistical independencies, mediated by Markov blankets, speak to a recursive composition of ensembles (of things) at increasingly higher spatiotemporal scales. This decomposition provides a description of small things; e.g., quantum mechanics - via the Schrodinger equation, ensembles of small things - via statistical mechanics and related fluctuation theorems, through to big things - via classical mechanics. These descriptions are complemented with a Bayesian mechanics for autonomous or active things. Although this work provides a formulation of every thing, its main contribution is to examine the implications of Markov blankets for self-organisation to nonequilibrium steady-state. In brief, we recover an information geometry and accompanying free energy principle that allows one to interpret the internal states of something as representing or making inferences about its external states. The ensuing Bayesian mechanics is compatible with quantum, statistical and classical mechanics and may offer a formal description of lifelike particles."
+
+[^15]:  Frank, T.D., 2004. Nonlinear Fokker-Planck Equations: Fundamentals and Applications. Springer
+Series in Synergetics. Springer, Berlin.
 
 
 [^]: [Surfing Uncertainty: Prediction, Action, and the Embodied Mind](https://www.goodreads.com/book/show/25823558-surfing-uncertainty) is a book by [Andy Clark](https://en.wikipedia.org/wiki/Andy_Clark), a philosopher of logic, metaphysics, and cognitive science.  In it he explains the predictive processing framework and how it can be used to explain the role of the mind in the intersection of neuroscience, psychology, and robotics.   
