@@ -9,7 +9,7 @@ excerpt: A collection of my thoughts, resources, and related ideas regarding the
 *Confidence: Uncertain*  
 *Status: Still in progress* 
 
-TL;DR - A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle. Discusses Helmholtz machines, causal flow, dynamical systems, markov blankets, thermodynamics, entropy, dynamical systems, variational methods, teleology, philosophy of science, & more. 
+TL;DR - A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle. Discusses Helmholtz machines, causal flow, dynamical systems, markov blankets, thermodynamics, entropy, dynamical systems, variational principles, teleology, philosophy of science, & more. 
 
 I write this to help consolidate my memories and clarify my thoughts while cataloging which resources I was influenced by.  It's a set of personal notes that are an evolving work-in-progress.  Feel free to get in contact if I've missed something or you see an error somewhere.
 
