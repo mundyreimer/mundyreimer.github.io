@@ -271,11 +271,11 @@ $$ \ln P(T\|S) = \ln P(T,S) - \ln P(S) $$
 
 And then subsituting this equation for *ln P(T\|S)* back into our KL divergence equation,
 
-$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big\[ \ln q(T) - \ln P(T,S) + \ln P(S) \big\] \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T,S) + \ln P(S) \big] \,dT $$
 
 We can then do our log property from before in reverse to bring the joint density under as the denominator,
 
-$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big\[ \frac{q(T)} {P(T,S)} + \ln P(S) \big\] \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big[ \frac{q(T)} {P(T,S)} + \ln P(S) \big] \,dT $$
 
 And following this up with splitting up the integral,
 
