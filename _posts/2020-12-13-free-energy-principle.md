@@ -71,7 +71,7 @@ A stochastic or random system/process can be said to exhibit something called th
 
 <br/>
 
-A *[Markov blanket](https://en.wikipedia.org/wiki/Markov_blanket)* is essentially a way of statistically demarcating the boundaries of a system of interest separate from its environment.  It is a statistical partitioning of a system into internal states and external states, where the blanket itself consists of the states that separate the two.  We can define a state to be any variable that locates the system at a particular point in [state space](https://en.wikipedia.org/wiki/State_space) (which itself is the set of all possible configurations of a system).[^12]  
+A *[Markov blanket](https://en.wikipedia.org/wiki/Markov_blanket)* is essentially a way of statistically demarcating the boundaries of a system of interest separate from its environment.  It is a statistical partitioning of a system into internal states and external states, where the blanket itself consists of the states that separate the two.[^12]  We can define a state to be any variable that locates the system at a particular point in [state space](https://en.wikipedia.org/wiki/State_space) (which itself is the set of all possible configurations of a system).  
 
 <br/>
 
