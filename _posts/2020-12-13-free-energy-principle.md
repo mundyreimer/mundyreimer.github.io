@@ -1,5 +1,5 @@
 ---
-title: Notes on the Free Energy Principle
+title: On the Free Energy Principle
 date: 2020-11-15 00:00:00
 featured_image: '/images/post_pics/free_energy_principle/causality_book_cover.jpg'
 excerpt: A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle
