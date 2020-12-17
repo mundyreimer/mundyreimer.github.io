@@ -271,35 +271,35 @@ $$ \ln P(T\|S) = \ln P(T,S) - \ln P(S) $$
 
 And then subsituting this equation for *ln P(T\|S)* back into our KL divergence equation,
 
-$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\[ \ln q(T) - \ln P(T,S) + \ln P(S) \big\] \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big\[ \ln q(T) - \ln P(T,S) + \ln P(S) \big\] \,dT $$
 
 We can then do our log property from before in reverse to bring the joint density under as the denominator,
 
-$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \big\[ \frac{q(T)} {P(T,S)} + \ln P(S) \big\] \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big\[ \frac{q(T)} {P(T,S)} + \ln P(S) \big\] \,dT $$
 
 And following this up with splitting up the integral,
 
-$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
 
 Rearranging the dT terms,
 
-$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
 
 Then noting that the total probability of the recognition model sums to 1,
 
-$$ D_{KL}( q(T), P(T\|S)) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
 
 From here we can might begin to recognize how we can map our separate terms back to their original high-level concepts.  Notice that just like our Helmholtz machine concept required, we are able to now compare our bottom-up recognition model, *q(T)*, with our top-down generative model or joint density, *P(T,S)*.  And voilà!  This entire term which we can encapsulate as a single variable called *F* is our one-and-only *Free Energy* that makes up Friston's famous theory.
 
 $$ F = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)} $$
 
-$$ D_{KL}( q(T), P(T\|S)) ) = F + \ln P(S)  $$
+$$ D_{KL}( q(T), P(T\|S) ) = F + \ln P(S)  $$
 
 We can also notice this separate *ln P(S)* term at the end.  What could that be?  Well if we were to visualize the graph of *-ln P(S)*, we'd notice that as the value of *P(S)* goes up the value of *-ln P(S)* goes sharply down, and likewise as the value of *P(S)* decreases the value of *-ln P(S)* sharply increases.  In essence, as the probability of some sensory signal occuring is high, an organism is less likely to become surprised if they do indeed receive that signal.  And if the probability of some sensory signal occuring is low but that organism gets a signal anyways, then it'll sure as heck be surprised to even have received it.  As such, we can conceptualize this *-ln P(S)* term as the *Surprise* that we received some data.
 
 Further building upon this, Friston noticed that our KL divergence term will always be greater than or equal to zero.  Using this we can rearrange the equation so that our Free Energy term lies on the opposing side of our Surprise term.
 
-$$ D_{KL}( q(T), P(T\|S)) ) \geq 0  $$
+$$ D_{KL}( q(T), P(T\|S) ) \geq 0  $$
 $$ F + \ln P(S) \geq 0 $$
 $$ F \geq -\ln P(S) $$
 
