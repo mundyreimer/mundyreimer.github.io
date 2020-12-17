@@ -17,7 +17,7 @@ I mainly work on this to help consolidate my memories and compile my evolving th
 
 ### Motivation
 
-...
+...[^7]
 ### Historical Background: The Origins of Teleology?
 
 In tracing the origins of the FEP, a few people like Friston[^3], Hohwy[^5], and Andrews[^6] make the connection between the Free Energy Principle and the [Principle of Maximum Entropy]((https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)) by [E.T. Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes).
@@ -333,8 +333,7 @@ Resources:
 
 [^5]: [Self-supervision, normativity and the free energy principle](https://www.researchgate.net/publication/339918179_Self-supervision_normativity_and_the_free_energy_principle)
 
-[^6]: [The Math is not the Territory: Navigating the Free Energy Principle](http://philsci-archive.pitt.edu/18315/1/Andrews_25.10.20_TMINTT.pdf) by Mel Andrews, a PhD student working in the intersection of the philosophy of biology and cognitive science.  This is a, 
-You can also often find them posting [their thoughts on Twitter](https://twitter.com/bayesianboy) :)
+[^6]: [The Math is not the Territory: Navigating the Free Energy Principle](http://philsci-archive.pitt.edu/18315/1/Andrews_25.10.20_TMINTT.pdf) by Mel Andrews, a PhD student working in the intersection of the philosophy of biology and cognitive science.You can also often find them posting [their thoughts on Twitter](https://twitter.com/bayesianboy)
 
 [^7]: [It’s Bayes All The Way Up](https://slatestarcodex.com/2016/09/12/its-bayes-all-the-way-up/) and [God Help Us, Let’s Try To Understand Friston On Free Energy](https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/) Blog posts by Scott from SlateStarCodex that one should read if you a tad math-averse as they help motivate why we might care about this topic from a neuroscience standpoint and they do this in a very intuitive way. Scott is a psychiatrist and famous blogger in online Rationalist community. 
 
