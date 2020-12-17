@@ -15,10 +15,10 @@ I mainly work on this to help consolidate my memories and compile my evolving th
 
 ---
 
-## Motivation
+### Motivation
 
 ...
-## Historical Background: The Origins of Teleology?
+### Historical Background: The Origins of Teleology?
 
 In tracing the origins of the FEP, a few people like Friston[3], Hohwy[5], and Andrews[6] make the connection between the Free Energy Principle and the [Principle of Maximum Entropy]((https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)) by [E.T. Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes).
 
@@ -52,9 +52,6 @@ Leibniz himself was following a lineage of similar thought generally going under
 Whereas differential equations are statements about quantities localized to a single point in space or a single moment in time, action principles are not localized to points but rather involve summing over an interval of time or a region of space where it is required that you **fix a final state** of the system.  (Apparently, this seems to be eliminated in the quantum mechanical version of the action principle (*note to self to expand on this*)) And indeed, similar controversies were brought up against Fermat in 1662(!) because of this principle seemingly ascribing knowledge, purpose, and intent to nature.  As we can see, if we accept this historical tracing of lineage of thought, the averse reaction some may have going under the general banner of *"[A map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)"* might be tempered a bit by knowledge that this concept and associated critics have been around for quite some time.  Whether or not the teleogical argument is solved seems to depend upon your underlying metaphysical assumptions of the world and potentially your particular philosophical thoughts surrounding the interaction of mathematics and reality.[^11]
 
 ---
-
-## Mathematics:
-
 ### Sweeping problems underneath the Markov blanket?
 
 To begin investigating how this teleology crops up, we need to figure out where it is being used and how.  To do that we first need to see how Friston mathematically captures the notion of a system of interacting parts that can be distinguished from its environment.  To do that we need to begin explain the mathematical object that seems to wrap up all our problems into nice little bundles--the Markov blanket.
