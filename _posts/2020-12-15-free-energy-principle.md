@@ -433,79 +433,79 @@ Because the Helmholtz machine framework envisions organisms as simultaneously re
 
 So how do we derive the KL divergence machinery?[^15][^21]  Let's say we wanted to compare the posterior probability *P(T\|S)* (what we think the temperature is when given some sensory signal) to our bottom-up recognition model *q(T)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
 
-$$ LR = \frac{q(T)} {P(T\midS)} $$
+$$ LR = \frac{q(T)} {P(T \mid S)} $$
 
 Given some set of data composed of a bunch of independent samples, we can take the likelihood ratio for each sample and then multiply them all together like so:
 
-$$ LR = \prod \limits_{i=0}^{n} \frac{q(T_i)} {P(T_i\midS_i)} $$
+$$ LR = \prod \limits_{i=0}^{n} \frac{q(T_i)} {P(T_i \mid S_i)} $$
 
 We can then simplify the computation from multiplication to addition by taking the log:
 
-$$ \ln LR = \sum_{i=0}^{n} \ln \frac{q(T_i)} {P(T_i\midS_i)} $$
+$$ \ln LR = \sum_{i=0}^{n} \ln \frac{q(T_i)} {P(T_i \mid S_i)} $$
 
 To quickly ground ourselves here, let's note that if the above spits out values greater than 0 then our *q(T)* recognition model fits the real-world sensory data better, and if the values are less than 0 then our *P(T\|S)* posterior model fits the real-world sensory data better, and finally if the value is 0 then they fit the data equally well.  In summary, the likelihood ratio tells us how many times more probable one model is to another given some data.[^15]
 
 However, let's say we had a large set of sampled data from *q(T)*.  On average, how much would each sample of our *q(T)* recognition model contribute to better describing the data than our *P(T\|S)* posterior probability model?  In essence, we want to calculate the average predictive power each sample from *q(T)* will bring us when trying to distinguish between *q(T)* and *P(T\|S)*.  We can formalize this by sampling N points from *q(T)* and then normalizing that through division by N.[^15]
 
-$$ \ln LR = \frac{1}{N} \sum_{i=0}^{N} \ln \frac{q(T_i)} {P(T_i\midS_i)} $$
+$$ \ln LR = \frac{1}{N} \sum_{i=0}^{N} \ln \frac{q(T_i)} {P(T_i \mid S_i)} $$
 
 Then assuming we do this for an infinite amount of samples from *q(T)*, taking the limit as N -> Infinity we then arrive at the expected value,
 
-$$ \lim_{N\to\infty} \ln LR = \mathbb{E} \big\{ \ln \frac{q(T_i)} {P(T_i\midS_i)} \big\} $$
+$$ \lim_{N\to\infty} \ln LR = \mathbb{E} \big\{ \ln \frac{q(T_i)} {P(T_i \mid S_i)} \big\} $$
   
 Which in the continuous case can be defined as, 
 
-$$ \mathbb{E} \big\{ \ln \frac{q(T)} {P(T,S)} \big\} = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T\midS)} \big\} \,dT $$
+$$ \mathbb{E} \big\{ \ln \frac{q(T)} {P(T,S)} \big\} = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T \mid S)} \big\} \,dT $$
 
-$$ D_{KL}( q(T), P(T\midS)) ) = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T\midS)} \big\} \,dT $$
+$$ D_{KL}( q(T), P(T \mid S)) ) = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T \mid S)} \big\} \,dT $$
 
 Which gives us our KL divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two models.  The higher the KL value, the more they are different.[^15] 
 
 To manipulate this into a form where we can begin to distill out some FEP concepts, we can rearrange this using the property of logarithms[^14],
 
-$$ D_{KL}( q(T), P(T\midS)) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T\midS) \big ] \,dT $$
+$$ D_{KL}( q(T), P(T \mid S)) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T \mid S) \big ] \,dT $$
 
 Now because we don't know our true posterior probability *P(T\|S)* since the probability of the temperature given some state is what we are trying to figure out in the first place, we can substitute that term with its equivalent from our Bayesian equation from before.[^14]
 
-$$ P(T\midS) = \frac{P(T,S)} {P(S)} $$
+$$ P(T \mid S) = \frac{P(T,S)} {P(S)} $$
 
 Then taking the natural log and using the same property from before we get,
 
-$$ \ln P(T\midS) = \ln \frac{P(T,S)} {P(S)} $$
+$$ \ln P(T \mid S) = \ln \frac{P(T,S)} {P(S)} $$
 
-$$ \ln P(T\midS) = \ln P(T,S) - \ln P(S) $$
+$$ \ln P(T \mid S) = \ln P(T,S) - \ln P(S) $$
 
 And then subsituting this equation for *ln P(T\|S)* back into our KL divergence equation,
 
-$$ D_{KL}( q(T), P(T\midS) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T,S) + \ln P(S) \big] \,dT $$
+$$ D_{KL}( q(T), P(T \mid S) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T,S) + \ln P(S) \big] \,dT $$
 
 We can then do our log property from before in reverse to bring the joint density under as the denominator,
 
-$$ D_{KL}( q(T), P(T\midS) ) = \int_{}^{} q(T) \big[ \ln \frac{q(T)} {P(T,S)} + \ln P(S) \big] \,dT $$
+$$ D_{KL}( q(T), P(T \mid S) ) = \int_{}^{} q(T) \big[ \ln \frac{q(T)} {P(T,S)} + \ln P(S) \big] \,dT $$
 
 And following this up with splitting up the integral,
 
-$$ D_{KL}( q(T), P(T\midS) ) = \int_{}^{} q(T) \ln \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
+$$ D_{KL}( q(T), P(T \mid S) ) = \int_{}^{} q(T) \ln \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
 
 Rearranging the dT terms,
 
-$$ D_{KL}( q(T), P(T\midS) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
+$$ D_{KL}( q(T), P(T \mid S) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
 
 Then noting that the total probability of the recognition model sums to 1[^14],
 
-$$ D_{KL}( q(T), P(T\midS) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
+$$ D_{KL}( q(T), P(T \mid S) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
 
 From here we can might begin to recognize how we can map our separate terms back to their original high-level concepts.  Notice that just like our Helmholtz machine concept required, we are able to now compare our bottom-up recognition model, *q(T)*, with our top-down generative model or joint density, *P(T,S)*.  And voilà!  This entire term which we can encapsulate as a single variable called *F* is our one-and-only *Free Energy* that makes up Friston's famous theory.[^14]
 
 $$ F = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)} $$
 
-$$ D_{KL}( q(T), P(T\midS) ) = F + \ln P(S)  $$
+$$ D_{KL}( q(T), P(T \mid S) ) = F + \ln P(S)  $$
 
 We can also notice this separate *ln P(S)* term at the end.  What could that be?  Well if we were to visualize the graph of *-ln P(S)*, we'd notice that as the value of *P(S)* goes up the value of *-ln P(S)* goes sharply down, and likewise as the value of *P(S)* decreases the value of *-ln P(S)* sharply increases.  In essence, as the probability of some sensory signal occuring is high, an organism is less likely to become surprised if they do indeed receive that signal.  And if the probability of some sensory signal occuring is low but that organism gets a signal anyways, then it'll sure as heck be surprised to even have received it.  As such, we can conceptualize this *-ln P(S)* term as the *Surprise* that we received some data.
 
 Further building upon this, Friston noticed that our KL divergence term will always be greater than or equal to zero.  Using this we can rearrange the equation so that our Free Energy term lies on the opposing side of our Surprise term.[^14]
 
-$$ D_{KL}( q(T), P(T\midS) ) \geq 0  $$
+$$ D_{KL}( q(T), P(T \mid S) ) \geq 0  $$
 
 $$ F + \ln P(S) \geq 0 $$
 
