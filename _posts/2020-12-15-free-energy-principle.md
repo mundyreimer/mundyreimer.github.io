@@ -315,7 +315,7 @@ Friston conceptualizes the underlying dynamical system as a vector field in thre
 
 <br/>
 
-Whereas the *solenoidal* or *divergence-free field* is known for its property that the field has no sources or sinks (and hence the flow of the solenoidal field *can't diverge*), for the purposes of the FEP it is important to note the other former component.  
+Whereas the *solenoidal* or *divergence-free field* is known for its property that the field has no sources or sinks (and hence the flow of the solenoidal field *can't diverge*), for the purposes of the FEP it is important to note the other former component, the *irrotational divergent* component.  
 
 <br/>
 
