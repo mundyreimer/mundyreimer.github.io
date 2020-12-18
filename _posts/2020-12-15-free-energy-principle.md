@@ -27,6 +27,7 @@ So I stumbled upon this thing called the [Free Energy Principle](https://en.wiki
         width="400" 
         height="400"
         >
+    <em>What Is Life? The Physical Aspect of the Living Cell is a 1944 science book written for the lay reader by physicist Erwin Schrödinger. The book was based on a course of public lectures delivered by Schrödinger in February 1943. His lectures focused on one important question: "how can the events in space and time which take place within the spatial boundary of a living organism be accounted for by physics and chemistry?"</em>
 </a>
 </center>
 
