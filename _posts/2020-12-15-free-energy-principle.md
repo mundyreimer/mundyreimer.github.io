@@ -17,7 +17,7 @@ TL;DR - A collection of my thoughts, resources, and related ideas regarding the 
 
 ### Motivation
 
-So I stumbled upon this thing called the [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP) back around 2013 when I was looking into how we can distinguish biological living systems from non-living ones.  It was a question I was always fascinated by ever since reading books like Schrödinger's famous [What is Life?](https://en.wikipedia.org/wiki/What_Is_Life%3F) and Hofstadter's [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) among many others[^0] in an attempt to bring meaning to the deluge of chemistry courses I was taking.  
+So I stumbled upon this thing called the [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP) back around 2013 when I was looking into how we can distinguish biological living systems from non-living ones.  It was a question I was always fascinated by ever since reading books like Schrödinger's famous [What is Life?](https://en.wikipedia.org/wiki/What_Is_Life%3F) and Hofstadter's [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) among many others[^0] in an attempt to bring meaning to the deluge of chemistry courses I was taking at the time.  
 
 <br/>
 
@@ -36,7 +36,20 @@ Most importantly, I wanted to come up with a way to distinguish these systems in
 
 Over the years I slowly worked my way through the various papers that were pumped out by this person named [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston), who was apparently a superstar in the academic neuroscience world.  By coincidence or some self-selection mechanism, I soon began to see his name pop up everywhere.  Whether it was during my literature search into this random cognitive robotics [professor](http://www.socsci.uci.edu/~jkrichma/) at UC Irvine whom I previously wanted to work with, or one of my favorite blogs going by the hip name SlateStarCodex[^1], this Berkeley-based *Information & Uncertainty* discussion group[^2] I occasionally joined, this philosopher I really liked[^3], or even appearing on something as popular as WIRED magazine[^4], Friston's FEP just started to show up more and more!
 
-What's special about the FEP is that it claims that biological systems are able to maintain their structural integrity as a *singular* system by acting as to minimize their surprise of future events.  And the way they did this was by minimizing this term called *Free Energy*.  Friston was claiming that the reason living systems are able to *persist* through time and thus possess a notion of *identity* separate from the environment was because they not only inherently modeled the world around them, but they also possessed a fundamental drive to minimize the difference between their internal model of the world and their actual sensory data coming from the external world.  And they performed this continuous correction mechanism through both perception and action, either striving to learn more about their world or by actively changing the world to fit within their expectations.  Essentially, Friston conceived of biological systems as inference engines.      
+What's special about the FEP is that it claims that biological systems are able to maintain their structural integrity as a *singular* system by acting as to minimize their surprise of future events.  And the way they did this was by minimizing this term called *Free Energy*.  Friston was claiming that the reason living systems are able to *persist* through time and thus possess a notion of *identity* separate from the environment was because they not only inherently modeled the world around them, but they also possessed a fundamental drive to minimize the difference between their internal model of the world and their actual sensory data coming from the external world.  And they performed this continuous correction mechanism through both perception and action, either striving to learn more about their world or by actively changing the world to fit within their expectations.  Essentially, Friston conceived of biological systems as inference engines.  
+
+<br/>
+
+<center>
+<a href="https://www.researchgate.net/figure/Tenants-of-the-free-energy-principle-and-the-predictability-of-surprise-based-on_fig1_316633557">
+    <img src="/images/post_pics/free_energy_principle/homeostasis_surprise.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>    
 
 Now at the time I absolutely *fell in love* with the FEP.  And don't get me wrong, it still ranks as one of my all-time favorite frameworks of how I perceive the world.  But fortunately and unfortunately, as the years progressed I began to specifically seek out criticism against the FEP, and this document serves as a compilation of those associated arguments and my understanding over time.  I mainly write this to help clarify my thoughts and consolidate my memories, while also cataloging which resources I was influenced by.  Thus, it's a set of personal notes that are an evolving work-in-progress.  With that said, feel free to get in contact if I've missed something or made an error somewhere.
   
@@ -45,6 +58,21 @@ Now at the time I absolutely *fell in love* with the FEP.  And don't get me wron
 In tracing the origins of the FEP, a few people like Friston[^6], Hohwy[^10], and Andrews[^11] make the connection between the Free Energy Principle and the [Principle of Maximum Entropy]((https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)) by [E.T. Jaynes](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes).
 
 The former academics note that Jaynes transformed an originally [scientific-materialist](https://en.wikipedia.org/wiki/Materialism), thermodynamic-based set of concepts and associated formalisms and casted them into a more general, probabilistic theory of how we can arrive at some knowledge.  This newly created concept was called the principle of maximum entropy and can be considered to be a form of statistical [Occam's Razor](https://en.wikipedia.org/wiki/Occam%27s_razor).  In the original physics-based thermodynamics conception, this acted as a preference for measuring the macroscopic variables of a system like the canonical pressure, temperature, and volume rather than a potentially vast number of underlying microscopic variables such as every particle's momentum, velocity, and kinetic energy, etc.  In the more general, *[epistemological](https://en.wikipedia.org/wiki/Epistemology)* and probalistic interpretation by Jaynes, it states that we should strive to model the prior data using a probability distribution with the fewest number of assumptions than we have evidence for.  It is essentially a claim of epistemic modesty in that the *"simplest explanation is usually the right one"*.  And indeed, this seems to be a principle that many scientists and statistical modelers put to use.[^2]
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Occam%27s_razor">
+    <img src="/images/post_pics/free_energy_principle/occamsrazor.jpg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>  
+
+> Part of a page from John Duns Scotus's book Commentaria oxoniensia ad IV libros magistri Sententiarus, showing the words: "Pluralitas non est ponenda sine necessitate", i.e., "Plurality is not to be posited without necessity"
 
 It is key to note that the repurposing of this particular mathematical "simplification" apparatus and "minimization" formalism originating in the field of physics has not been isolated to Jaynes alone.  In fact, time and time again complex physical systems such as those found in the field of thermodynamics with a vast number of interacting particles have been difficult to model using only classical [Newtonian mechanics](https://en.wikipedia.org/wiki/Classical_mechanics) due to the mathematics getting rather calculation heavy, sometimes even intractably so.  One of my favorite scientists of all time, German physicist and physician, [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) originally conceptualized in his 1881 lecture, *On the thermodynamics of chemical processes*, something called the thermodynamic potential that measures the useful work obtainable from a closed thermodynamic system at constant temperature and volume, which later became known as [Helmholtz free energy](https://en.wikipedia.org/wiki/Helmholtz_free_energy) (whereas a closely associated [Gibbs free energy](https://en.wikipedia.org/wiki/Gibbs_free_energy) or *free enthalpy* is most commonly convenient for systems at constant *pressure*).  
 
