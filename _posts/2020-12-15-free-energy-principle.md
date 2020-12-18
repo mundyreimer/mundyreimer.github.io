@@ -197,7 +197,21 @@ In the graphical language of modeling (ie - a Bayesian Network), a Markov blanke
 
 Our blanket is labeled *Markov* because the blanket separates out from the environment both the variables that do not depend on the central node A and the variables that the central node A itself doesn't depend on.  Each variable in the blanket exhibits the aforementioned *Markov property*, and as such, is all the information we need to know about the system. You might begin to think that we could potentially have nested blankets within blankets, continuing on *ad infinitum* and you are correct.  This is where Pearl further defined an additional term called the *[Markov boundary](https://en.wikipedia.org/wiki/Markov_blanket#Markov_boundary)* which is the *minimal* or "smallest" such Markov blanket that we could have.
 
-So how do we go about encoding some Markov blanket into the language of mathematics?  It is common to encode graphs as mathematical objects called [adjacency matrices](https://en.wikipedia.org/wiki/Adjacency_matrix).  An adjacency matrix is a square matrix where each row header and column header represents a specific node and the cross-sectional entries or elements of the matrix indicate whether or not a pair of nodes in that particular row-column pair are adjacent / connected or not.  The value of this particular element of the matrix is the probability of one state or node *transitioning* to the next state or node.  This is why we sometimes call this a *[transition matrix](https://en.wikipedia.org/wiki/State-transition_matrix)* because it represents the transitions from one state to the next.  
+So how do we go about encoding some Markov blanket into the language of mathematics?  It is common to encode graphs as mathematical objects called [adjacency matrices](https://en.wikipedia.org/wiki/Adjacency_matrix).  An adjacency matrix is a square matrix where each row header and column header represents a specific node and the cross-sectional entries or elements of the matrix indicate whether or not a pair of nodes in that particular row-column pair are adjacent / connected or not.  The value of this particular element of the matrix is the probability of one state or node *transitioning* to the next state or node.  This is why we sometimes call this a *[transition matrix](https://en.wikipedia.org/wiki/State-transition_matrix)* because it represents the transitions from one state to the next.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/State-transition_matrix">
+    <img src="/images/post_pics/free_energy_principle/transition_matrix.jpg"
+        width="300" 
+        height="300"
+        >
+    <em>Converting between the language of causal graphs and the language of matrices.</em>
+</a>
+</center>
+
+<br/>  
 
 This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  From this we can construct a matrix *B* that represents the Markov blanket only[^11].  Doing some linear algebraic manipulations to get there, Friston defines our new matrix,
 
