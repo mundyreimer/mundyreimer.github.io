@@ -501,7 +501,23 @@ $$ F = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)} $$
 
 $$ D_{KL}( q(T), P(T \mid S) ) = F + \ln P(S)  $$
 
-We can also notice this separate *ln P(S)* term at the end.  What could that be?  Well if we were to visualize the graph of *-ln P(S)*, we'd notice that as the value of *P(S)* goes up the value of *-ln P(S)* goes sharply down, and likewise as the value of *P(S)* decreases the value of *-ln P(S)* sharply increases.  In essence, as the probability of some sensory signal occuring is high, an organism is less likely to become surprised if they do indeed receive that signal.  And if the probability of some sensory signal occuring is low but that organism gets a signal anyways, then it'll sure as heck be surprised to even have received it.  As such, we can conceptualize this *-ln P(S)* term as the *Surprise* that we received some data.
+We can also notice this separate *ln P(S)* term at the end.  What could that be?  Well if we were to visualize the graph of *-ln P(S)*, we'd notice that as the value of *P(S)* goes up the value of *-ln P(S)* goes sharply down, and likewise as the value of *P(S)* decreases the value of *-ln P(S)* sharply increases.  
+
+<br/>
+
+<center>
+<a href="https://jaredtumiel.github.io/blog/2020/08/08/free-energy1.html">
+    <img src="/images/post_pics/free_energy_principle/surprise_probability.png"
+        width="400" 
+        height="400"
+        >
+    <em>This image is from Jared Tumiel's excellent explanation of the mathematics of the FEP.  See references below for more.</em>
+</a>
+</center>
+
+<br/> 
+
+In essence, as the probability of some sensory signal occuring is high, an organism is less likely to become surprised if they do indeed receive that signal.  And if the probability of some sensory signal occuring is low but that organism gets a signal anyways, then it'll sure as heck be surprised to even have received it.  As such, we can conceptualize this *-ln P(S)* term as the *Surprise* that we received some data.
 
 Further building upon this, Friston noticed that our KL divergence term will always be greater than or equal to zero.  Using this we can rearrange the equation so that our Free Energy term lies on the opposing side of our Surprise term.[^14]
 
@@ -528,7 +544,20 @@ And following the FEP argument by saying an organism acts to minimize their free
 
 <br/>  
 
-We can then tie in the notion of entropy as a measure of how much we expect to be surprised, or our average surprise. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising and hence has higher entropy.  
+We can then tie in the notion of entropy as a measure of how much we expect to be surprised, or our average surprise. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising and hence has higher entropy.
+
+<br/>
+
+<center>
+<a href="https://jaredtumiel.github.io/blog/2020/08/08/free-energy1.html">
+    <img src="/images/post_pics/free_energy_principle/entropy_surprise.png"
+        width="400" 
+        height="400"
+        >    
+</a>
+</center>
+
+<br/> 
 
 Conversely, a distribution with a very narrow peak would indicate that we know with high probability what our outcomes are, or in other words they lie in a narrow range and so we are more certain and on average less surprised, thus indicating that this distribution would have low entropy.  In mathematical simple terms,
 
