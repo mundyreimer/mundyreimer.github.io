@@ -275,8 +275,8 @@ So getting back to the main topic, what exactly is variational free energy and h
 <center>
 <a href="https://en.wikipedia.org/wiki/Dynamical_system">
     <img src="/images/post_pics/free_energy_principle/dynamicalsystems.jpg"
-        width="400" 
-        height="400"
+        width="600" 
+        height="600"
         >
 </a>
 </center>
