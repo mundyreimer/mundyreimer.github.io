@@ -204,8 +204,8 @@ So how do we go about encoding some Markov blanket into the language of mathemat
 <center>
 <a href="https://en.wikipedia.org/wiki/State-transition_matrix">
     <img src="/images/post_pics/free_energy_principle/transition_matrix.jpg"
-        width="300" 
-        height="300"
+        width="400" 
+        height="400"
         >
     <em>Converting between the language of causal graphs and the language of matrices.</em>
 </a>
