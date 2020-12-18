@@ -245,8 +245,8 @@ At this point, I think this is where I am maybe not as critical as someone like 
 <center>
 <a href="https://en.wikipedia.org/wiki/Attractor">
     <img src="/images/post_pics/free_energy_principle/dynamicalsystems_attractor.jpg"
-        width="300" 
-        height="300"
+        width="400" 
+        height="400"
         >
     <em>In the mathematical field of dynamical systems, an attractor is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system. System values that get close enough to the attractor values remain close even if slightly disturbed.  In finite-dimensional systems, the evolving variable may be represented algebraically as an n-dimensional vector. The attractor is a region in n-dimensional space. In physical systems, the n dimensions may be, for example, two or three positional coordinates for each of one or more physical entities. An attractor can be a point, a finite set of points, a curve, a manifold, or even a complicated set with a fractal structure known as a strange attractor.</em>
 </a>
@@ -275,8 +275,8 @@ So getting back to the main topic, what exactly is variational free energy and h
 <center>
 <a href="https://en.wikipedia.org/wiki/Dynamical_system">
     <img src="/images/post_pics/free_energy_principle/dynamicalsystems.jpg"
-        width="300" 
-        height="300"
+        width="400" 
+        height="400"
         >
 </a>
 </center>
@@ -290,8 +290,8 @@ Our system here is assumed to be under the effect of random perturbations called
 <center>
 <a href="https://en.wikipedia.org/wiki/Brownian_motion">
     <img src="/images/post_pics/free_energy_principle/brownianmotion.gif"
-        width="300" 
-        height="300"
+        width="400" 
+        height="400"
         >
     <em>Brownian motion is the random motion of particles suspended in a medium (a liquid or a gas). This is a simulation of the Brownian motion of a big particle (dust particle) that collides with a large set of smaller particles (molecules of a gas) which move with different velocities in different random directions.</em>
 </a>
@@ -420,8 +420,8 @@ We should note that Friston builds his overarching FEP framework based on influe
 <center>
 <a href="https://slatestarcodex.com/blog_images/dalmatian_cow2.png">
     <img src="/images/post_pics/free_energy_principle/dalmatian_cow.png"
-        width="400" 
-        height="400"
+        width="600" 
+        height="600"
         >
     <em>An excellent example from SlateStarCodex that might help prime your intuition: "This demonstrates the degree to which the brain depends on [generated] hypotheses to make sense of [incoming sensory] data. To most people, these two pictures start off looking like incoherent blotches of light and darkness. Once they figure out what they are the scene becomes obvious and coherent." (click image for spoiler)</em>
 </a>
