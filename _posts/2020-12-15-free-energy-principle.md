@@ -207,7 +207,7 @@ So how do we go about encoding some Markov blanket into the language of mathemat
         width="400" 
         height="400"
         >
-    <em>Converting between the language of causal graphs and the language of matrices.</em>
+    <em>Converting between the language of state-transition graphs and the language of matrices. Each node represents an event in time or particular state of the system.  Each directed arrow represents the probability of moving from one node or event to the next.</em>
 </a>
 </center>
 
