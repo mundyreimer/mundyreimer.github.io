@@ -583,8 +583,8 @@ As such, I think when it comes to the FEP it might be best to maybe adopt an [an
 <center>
 <a href="https://xkcd.com/">
     <img src="/images/post_pics/free_energy_principle/xkcd_religions.png"
-        width="400" 
-        height="400"
+        width="600" 
+        height="600"
         >
 </a>
 </center>
