@@ -501,6 +501,19 @@ Now we can interpret the above statement that free energy *is* the maximum amoun
 
 And following the FEP argument by saying an organism acts to minimize their free energy, it is the same thing as saying a biological system acts as to minimize its surprise.  In essence, the biological system acts as to create an accurate internal model of the external environment.  
 
+<br/>
+
+<center>
+<a href="https://www.researchgate.net/figure/Tenants-of-the-free-energy-principle-and-the-predictability-of-surprise-based-on_fig1_316633557">
+    <img src="/images/post_pics/free_energy_principle/homeostasis_surprise.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>  
+
 We can then tie in the notion of entropy as a measure of how much we expect to be surprised, or our average surprise. A wide, uniform looking distribution where we are more equally unsure of the probabilities of each outcome has more uncertainty and thus on average is more surprising and hence has higher entropy.  
 
 Conversely, a distribution with a very narrow peak would indicate that we know with high probability what our outcomes are, or in other words they lie in a narrow range and so we are more certain and on average less surprised, thus indicating that this distribution would have low entropy.  In mathematical simple terms,
@@ -547,10 +560,22 @@ And what do we get out?
 * An interpretation of two different subsystems within our entire system and the relationship they have between recognizing and generating
 * An interconnected formal mathematical framework for parsing our phenomena either in terms of dynamics systems theory or causal inference
 
-Overall, I don't see anything specific with biology that the FEP spits out, but I do see it potentially carving out a class of models that in turn can provide their biological specifics.  We can thus envision the FEP as a type of general framework that specific, higher-granularity biological models might want to slot into and be extended by and constrained by, rather than be a falsifiable model itself.  Indeed I think most this seeming concern regarding unfalsifiability[^11] seems to come baked-in with the assumptions we've made, specifically by adopting other general objects that are principles themselves, chief among them being the variational principle and the NESS condition.  I single these out because they are the only ones which in my mind have seemingly strong metaphysical consequences associated with each.  They each pick out some sort of *ideal* of which the system moves or strives toward, inherently implying a direction for our causal arrow, of which I can see many academics being wary of since it smells of something like a *purpose* or *goal* or essentially a *teleology*, which does not align with the current and dominant brand of modern-day science.
+Overall, I don't see anything specific with biology that the FEP spits out, but I do see it potentially carving out a class of models that in turn can provide their biological specifics.  We can thus envision the FEP as a type of general framework that specific, higher-granularity biological models might want to slot into and be extended by and constrained by, rather than be a falsifiable model itself.  Indeed I think most this seeming concern regarding unfalsifiability[^11] seems to come baked-in with the assumptions we've made, specifically by adopting other general objects that are principles themselves, chief among them being the variational principle and the NESS condition.  I single these out because they are the only ones which in my mind have seemingly strong metaphysical consequences associated with each.  They each pick out some sort of *ideal* of which the system moves or strives toward, inherently implying a direction for our causal arrow, of which I can see many academics being wary of since it smelxcdls of something like a *purpose* or *goal* or essentially a *teleology*, which does not align with the current and dominant brand of modern-day science.
 
-As such, I think when it comes to the FEP it might be best to maybe adopt an [anti-realist](https://en.wikipedia.org/wiki/Anti-realism) or *agnostic* stance.  Maybe instead of the requirement that we demand that the FEP necessarily assert the real *existence* of anything that might be falsifiable, we can maybe see it in terms providing a [useful fiction](https://en.wikipedia.org/wiki/Fictionalism), thus prioritizing something like *utility* over *Truth* in our personal philosophy of science.  And more specifically, a utility born with respect to other scientific models that can be gathered underneath its framework (or perhaps even inspired by its framework), rather than singularly providing use by itself.[^19]  
+As such, I think when it comes to the FEP it might be best to maybe adopt an [anti-realist](https://en.wikipedia.org/wiki/Anti-realism) or *agnostic* stance.  Maybe instead of the requirement that we demand that the FEP necessarily assert the real *existence* of anything that might be falsifiable, we can maybe see it in terms providing a [useful fiction](https://en.wikipedia.org/wiki/Fictionalism), thus prioritizing something like *utility* over *Truth* in our personal [philosophy of science](https://en.wikipedia.org/wiki/Philosophy_of_science).  And more specifically, a utility born with respect to other scientific models that can be gathered underneath its framework (or perhaps even inspired by its framework), rather than singularly providing use by itself.[^19]  
 
+<br/>
+
+<center>
+<a href="https://xkcd.com/">
+    <img src="/images/post_pics/free_energy_principle/xkcd_religions.png"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>  
 
 ---
 
