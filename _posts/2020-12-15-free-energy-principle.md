@@ -409,7 +409,7 @@ We should note that Friston builds his overarching FEP framework based on influe
         width="400" 
         height="400"
         >
-    <em>An excellent example from SlateStarCodex that might help prime your intuition: "This demonstrates the degree to which the brain depends on top-down hypotheses to make sense of the bottom-up data. To most people, these two pictures start off looking like incoherent blotches of light and darkness. Once they figure out what they are the scene becomes obvious and coherent." (click image for spoiler)</em>
+    <em>An excellent example from SlateStarCodex that might help prime your intuition: "This demonstrates the degree to which the brain depends on [generated] hypotheses to make sense of [incoming sensory] data. To most people, these two pictures start off looking like incoherent blotches of light and darkness. Once they figure out what they are the scene becomes obvious and coherent." (click image for spoiler)</em>
 </a>
 </center>
 
