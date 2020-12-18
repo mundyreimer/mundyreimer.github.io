@@ -399,7 +399,21 @@ We should note that Friston builds his overarching FEP framework based on influe
 
 1) **Bottom-up Recognition Model**:  This is an internal model of what the organism's best guess is of the relevant variables that make up its environment. When an organism receives sensory signals it updates this to better reflect and model the surrounding world.  This model is formally represented by a probability distribution over all possible values of those environmental variables.  Friston calls this probability distribution the *"recognition density"* or *R-density*. In our particular example with the environmental variable of concern being temperature, we will denote this R-density as *q(T)*.  This is the model that will be updated over time.[^16]    
 
-2) **Top-down Generative Model**:  This model reflects an organism's assumptions about how various environmental variables shape sensory input. It basically reflects how the organism seems to correlate sensory data with environmental states.  In our example, this would be interpreted as the organism predicting that if it moves closer to some source of heat, then it'll receive sensory data signaling that it will get hotter.  Like before, this can be formally represented as another probability distribution called a joint density.  In Bayesian terms, this is called a joint density because it is calculated as the product of two other densities in turn, the *likelihood* describing the probability of sensory data given some environmental variable, multiplied by the *prior* describing the organism's current belief of the distribution of environmental states.  Friston calls this entire joint density or probability distribution as the *"[Generative Model](https://en.wikipedia.org/wiki/Generative_model)"* or *G-density*.  In our example, it can be represented as the joint probability of the environmental variable temperature and its corresponding sensory signal, or *P(T,S)*.  This model is what tries to approximate the former bottom-up model, R-density.[^16]       
+2) **Top-down Generative Model**:  This model reflects an organism's assumptions about how various environmental variables shape sensory input. It basically reflects how the organism seems to correlate sensory data with environmental states.  In our example, this would be interpreted as the organism predicting that if it moves closer to some source of heat, then it'll receive sensory data signaling that it will get hotter.  Like before, this can be formally represented as another probability distribution called a joint density.  In Bayesian terms, this is called a joint density because it is calculated as the product of two other densities in turn, the *likelihood* describing the probability of sensory data given some environmental variable, multiplied by the *prior* describing the organism's current belief of the distribution of environmental states.  Friston calls this entire joint density or probability distribution as the *"[Generative Model](https://en.wikipedia.org/wiki/Generative_model)"* or *G-density*.  In our example, it can be represented as the joint probability of the environmental variable temperature and its corresponding sensory signal, or *P(T,S)*.  This model is what tries to approximate the former bottom-up model, R-density.[^16]
+
+<br/>
+
+<center>
+<a href="https://slatestarcodex.com/blog_images/dalmatian_cow2.png">
+    <img src="/images/post_pics/free_energy_principle/dalmatian_cow.png"
+        width="400" 
+        height="400"
+        >
+    <em>An excellent example from SlateStarCodex that might help prime your intuition: "This demonstrates the degree to which the brain depends on top-down hypotheses to make sense of the bottom-up data. To most people, these two pictures start off looking like incoherent blotches of light and darkness. Once they figure out what they are the scene becomes obvious and coherent." (click image for spoiler)</em>
+</a>
+</center>
+
+<br/>
 
 Because the Helmholtz machine framework envisions organisms as simultaneously receiving sensory data to further model their world in addition to using their internal model of the world to shape how that sensory data is interpreted, we would like some sort of mathematical machinery that would allow us to compare how different our two models or probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence (aka - *[relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)*).
 
