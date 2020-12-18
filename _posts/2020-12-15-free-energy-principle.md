@@ -181,6 +181,20 @@ A *[Markov blanket](https://en.wikipedia.org/wiki/Markov_blanket)* is essentiall
 
 In the graphical language of modeling (ie - a Bayesian Network), a Markov blanket represents the set of nodes of all parents of A, children of A, and all the children's parents other than A.  Each node represents an event in time or particular state of the system.  Each arrow represents the *directed* causal influence one node or event has upon another.  In Friston's particular terminology (which deviates a small bit from [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl)'s [conception](https://www.goodreads.com/book/show/174277.Probabilistic_Reasoning_in_Intelligent_Systems)), he further distinguishes the parent nodes of A as *sensory states* and the children nodes of A as *active states*, where sensory states are causally influenced by *external states* and active states are only influenced by *internal states*.[^8]  Thus, in Friston's language the existence of a Markov blanket allows us to partition all states into external, sensory, active, and internal states.
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Judea_Pearl">
+    <img src="/images/post_pics/free_energy_principle/judeapearl_book.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>In Probabilistic Reasoning in Intelligent Systems, philosoper and computer scientist Judea Pearl developed computational methods that underlie plausible reasoning under uncertainty based on bayesian belief networks, ultimately creating a theory of causal and counterfactual inference.</em>
+</a>
+</center>
+
+<br/>  
+
 This blanket is labeled *Markov* because the blanket separates out from the environment both the variables that do not depend on the central node A and the variables that the central node A itself doesn't depend on.  Each variable in the blanket exhibits the aforementioned *Markov property*, and as such, is all the information we need to know about the system. You might begin to think that we could potentially have nested blankets within blankets, continuing on *ad infinitum* and you are correct.  This is where Pearl further defined an additional term called the *[Markov boundary](https://en.wikipedia.org/wiki/Markov_blanket#Markov_boundary)* which is the *minimal* or "smallest" such Markov blanket that we could have.
 
 So how do we go about encoding some Markov blanket into the language of mathematics?  It is common to encode graphs as mathematical objects called [adjacency matrices](https://en.wikipedia.org/wiki/Adjacency_matrix).  An adjacency matrix is a square matrix where each row header and column header represents a specific node and the cross-sectional entries or elements of the matrix indicate whether or not a pair of nodes in that particular row-column pair are adjacent / connected or not.  The value of this particular element of the matrix is the probability of one state or node *transitioning* to the next state or node.  This is why we sometimes call this a *[transition matrix](https://en.wikipedia.org/wiki/State-transition_matrix)* because it represents the transitions from one state to the next.  
