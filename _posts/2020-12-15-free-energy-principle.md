@@ -429,7 +429,7 @@ We should note that Friston builds his overarching FEP framework based on influe
 
 <br/>
 
-Because the Helmholtz machine framework envisions organisms as simultaneously receiving sensory data to further model their world in addition to using their internal model of the world to shape how that sensory data is interpreted, we would like some sort of mathematical machinery that would allow us to compare how different our two models or probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence (aka - *[relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)*).
+Because the Helmholtz machine framework envisions organisms as simultaneously receiving sensory data to further model their world in addition to using their internal model of the world to shape how that sensory data is interpreted, we would like some sort of mathematical machinery that would allow us to compare how different our two models or probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence (aka - [relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)).
 
 So how do we derive the KL divergence machinery?[^15][^21]  Let's say we wanted to compare the posterior probability *P(T\|S)* (what we think the temperature is when given some sensory signal) to our bottom-up recognition model *q(T)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
 
@@ -449,7 +449,7 @@ However, let's say we had a large set of sampled data from *q(T)*.  On average, 
 
 $$ \ln LR = \frac{1}{N} \sum_{i=0}^{N} \ln \frac{q(T_i)} {P(T_i \mid S_i)} $$
 
-Then assuming we do this for an infinite amount of samples from *q(T)*, taking the limit as N -> Infinity we then arrive at the expected value,
+Then assuming we do this for an infinite amount of samples from *q(T)*, taking the limit as N -> infinity we then arrive at the expected value,
 
 $$ \lim_{N\to\infty} \ln LR = \mathbb{E} \big\{ \ln \frac{q(T_i)} {P(T_i \mid S_i)} \big\} $$
   
@@ -495,7 +495,7 @@ Then noting that the total probability of the recognition model sums to 1[^14],
 
 $$ D_{KL}( q(T), P(T \mid S) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
 
-From here we can might begin to recognize how we can map our separate terms back to their original high-level concepts.  Notice that just like our Helmholtz machine concept required, we are able to now compare our bottom-up recognition model, *q(T)*, with our top-down generative model or joint density, *P(T,S)*.  And voilà!  This entire term which we can encapsulate as a single variable called *F* is our one-and-only *Free Energy* that makes up Friston's famous theory.[^14]
+From here we might begin to recognize how we can map our separate terms back to their original high-level concepts.  Notice that just like our Helmholtz machine concept required, we are able to now compare our bottom-up recognition model, *q(T)*, with our top-down generative model or joint density, *P(T,S)*.  And voilà!  This entire term which we can encapsulate as a single variable called *F* is our one-and-only *Free Energy* that makes up Friston's famous theory.[^14]
 
 $$ F = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)} $$
 
