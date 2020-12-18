@@ -393,7 +393,7 @@ Because the probability of the evidence being true is the same whether the hypot
 
 $$ P(H \mid E) = \frac{P(E \mid H) P(H)} {P(E \mid H) P(H) + P(E \mid \lnot H) P( \lnot H)} $$
 
-You can notice that the denominator now contains the sum of all the different types of hypotheses that are compatible with this evidence (in this case we just simplified down to the statement of whether the hypothesis is true or whether it is false). In more complicated cases, we might have *many* different hypotheses and we'll have to *OR* them together / sum over them all.
+You can notice that the denominator now contains the sum of all the different types of hypotheses that are compatible with this evidence (in this case we just simplified down to the statement of whether the hypothesis is true or whether it is false). In more complicated cases, we might have *many* different hypotheses and we'll have to *OR* all them together / sum over them all.
 
 It's also nice to note that we can collapse this equation down to a simple statement that reads that the *"probability of some thing H given E is equal to the probability of both H being true AND E occurring, divided by the probability of just E occurring"*,  
 
