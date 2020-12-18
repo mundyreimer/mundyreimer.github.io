@@ -79,8 +79,8 @@ It is key to note that the repurposing of this particular mathematical "simplifi
 <br/>
 
 <center>
-<a href="https://en.wikipedia.org/wiki/Occam%27s_razor">
-    <img src="/images/post_pics/free_energy_principle/occamsrazor.jpg"
+<a href="https://en.wikipedia.org/wiki/Hermann_von_Helmholtz">
+    <img src="/images/post_pics/free_energy_principle/helmholtzyoung.jpg"
         width="400" 
         height="400"
         >
