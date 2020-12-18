@@ -226,6 +226,20 @@ At this point, I think this is where I am maybe not as critical as someone like 
 
 ### Introducing the language of Dynamical Systems
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Attractor">
+    <img src="/images/post_pics/free_energy_principle/dynamicalsystems_attractor.jpg"
+        width="300" 
+        height="300"
+        >
+    <em>In the mathematical field of dynamical systems, an attractor is a set of numerical values toward which a system tends to evolve, for a wide variety of starting conditions of the system. System values that get close enough to the attractor values remain close even if slightly disturbed.  In finite-dimensional systems, the evolving variable may be represented algebraically as an n-dimensional vector. The attractor is a region in n-dimensional space. In physical systems, the n dimensions may be, for example, two or three positional coordinates for each of one or more physical entities. An attractor can be a point, a finite set of points, a curve, a manifold, or even a complicated set with a fractal structure known as a strange attractor.</em>
+</a>
+</center>
+
+<br/> 
+
 Okay, so Friston posits the claim that Markov blankets are pretty much everywhere.  From his paper[^8]:
 
 > "Here we consider how a collective of Markov blankets can self-assemble into a global system that itself has a Markov blanket; thereby providing an illustration of how autonomous systems can be understood as having layers of nested and self-sustaining boundaries. This allows us to show that: (i) any living system is a Markov blanketed system and (ii) the boundaries of such systems need not be co-extensive with the biophysical boundaries of a living organism. In other words, autonomous systems are hierarchically composed of Markov blankets of Markov blankets—all the way down to individual cells, all the way up to you and me, and all the way out to include elements of the local environment."
@@ -240,9 +254,36 @@ I can definitely sympathize with this criticism.  Adopting mathematics, analogie
 
 Anyway, the reason I question whether or not it really is a metaphysical deathblow that the FEP has lost its correspondence with physical systems is because in the philosophy of physics there are people even questioning our most primitive (and from what I previously thought) well-accepted terms and concepts.  Questions such as whether its *Force* or *Energy* that is the more real fundamental entity bring up interesting thoughts and consequences[^13] and in similar sentiment to before can possibly act to temper some of our criticisms. 
 
-So getting back to the main topic, what exactly is variational free energy and how is it being minimized? To explain this we need to learn about something called the [Fokker-Planck or Kolmogorov Forward Equation](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation).  Just as how the *velocity* of a moving particle is the *rate of change* of the *displacement* at some time, the *probability density* of a continuous real-valued [random variable](https://en.wikipedia.org/wiki/Random_variable) is the *rate of change* of the *cumulative probability* at some *point*.  The [probability density function](https://en.wikipedia.org/wiki/Probability_density_function) is used to specify the probability of the random variable falling within a particular range of values as opposed to taking on any one value (in discrete as opposed to continous cases, this is instead called the [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function) or PMF).  It might be key to note that this probability is given by the area or integral of the variable's PDF over that range.  The Fokker-Planck equation describes how this [probability density function](https://en.wikipedia.org/wiki/Probability_density_function) of the state of a system changes over time, in essence, how it acts as a trajectory through some abstract space of a system's set of states.  
+So getting back to the main topic, what exactly is variational free energy and how is it being minimized? To explain this we need to learn about something called the [Fokker-Planck or Kolmogorov Forward Equation](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation).  Just as how the *velocity* of a moving particle is the *rate of change* of the *displacement* at some time, the *probability density* of a continuous real-valued [random variable](https://en.wikipedia.org/wiki/Random_variable) is the *rate of change* of the *cumulative probability* at some *point*.  The [probability density function](https://en.wikipedia.org/wiki/Probability_density_function) is used to specify the probability of the random variable falling within a particular range of values as opposed to taking on any one value (in discrete as opposed to continous cases, this is instead called the [Probability Mass Function](https://en.wikipedia.org/wiki/Probability_mass_function) or PMF).  It might be key to note that this probability is given by the area or integral of the variable's PDF over that range.  The Fokker-Planck equation describes how this [probability density function](https://en.wikipedia.org/wiki/Probability_density_function) of the state of a system changes over time, in essence, how it acts as a trajectory through some abstract space of a system's set of states.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Dynamical_system">
+    <img src="/images/post_pics/free_energy_principle/dynamicalsystems.jpg"
+        width="300" 
+        height="300"
+        >
+</a>
+</center>
+
+<br/> 
 
 Our system here is assumed to be under the effect of random perturbations called [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion).[^9]  These random perturbations are assumed to eventually cause the system to undergo an irreversible process known as [dissipation](https://en.wikipedia.org/wiki/Dissipation) in which energy is transformed from some initial form to some final form, where the final form has less capacity to perform mechanical work (ie - although total energy is conserved, not all types of energy are spent equally).  So what's keeping the system from dissipating in its entirety?
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Brownian_motion">
+    <img src="/images/post_pics/free_energy_principle/brownianmotion.gif"
+        width="300" 
+        height="300"
+        >
+    <em>Brownian motion is the random motion of particles suspended in a medium (a liquid or a gas). This is a simulation of the Brownian motion of a big particle (dust particle) that collides with a large set of smaller particles (molecules of a gas) which move with different velocities in different random directions.</em>
+</a>
+</center>
+
+<br/> 
 
 Friston conceptualizes the underlying dynamical system as a vector field in three dimensions.  Assuming appropriate smoothness and decaying conditions, there's something called the [Helmholtz decomposition](https://en.wikipedia.org/wiki/Helmholtz_decomposition), otherwise known as the *Fundamental Theorem of Vector Calculus*, which states that a rapidly decaying vector field in three dimensions can be broken up into the sum of two components, an [irrotational (curl-free)](https://en.wikipedia.org/wiki/Conservative_vector_field) vector field and a [solenoidal (divergence-free)](https://en.wikipedia.org/wiki/Solenoidal_vector_field) vector field.[^9]  This latter solenoidal divergence-free field is shown below:
 
@@ -254,6 +295,7 @@ Friston conceptualizes the underlying dynamical system as a vector field in thre
         width="400" 
         height="400"
         >
+    <em>An example of a solenoidal "divergence-free" vector field</em>
 </a>
 </center>
 
@@ -269,6 +311,7 @@ Whereas the *solenoidal* or *divergence-free field* is known for its property th
         width="400" 
         height="400"
         >
+    <em>An example of divergence or an "irrotational" component from a source</em>
 </a>
 </center>
 
@@ -278,8 +321,6 @@ The other component is called the *irrotational vector field* or dissipative flo
 
 A really great [intuitive explanation](https://en.wikipedia.org/wiki/Conservative_vector_field#Intuitive_explanation) of conservative vs. non-conservative vector fields can be given by M.C. Escher's lithograph print, *Ascending and Descending*:
 
-> "Ascending and Descending illustrates a non-conservative vector field, impossibly made to appear to be the gradient of the varying height above ground as one moves along the staircase. It is rotational in that one can keep getting higher or keep getting lower while going around in circles. It is non-conservative in that one can return to one's starting point while ascending more than one descends or vice versa. On a real staircase, the height above the ground is a scalar potential field: If one returns to the same place, one goes upward exactly as much as one goes downward. Its gradient would be a conservative vector field and is irrotational. The situation depicted in the painting is impossible."
-
 <br/>
 
 <center>
@@ -288,6 +329,7 @@ A really great [intuitive explanation](https://en.wikipedia.org/wiki/Conservativ
         width="400" 
         height="400"
         >
+    <em>"Ascending and Descending illustrates a non-conservative vector field, impossibly made to appear to be the gradient of the varying height above ground as one moves along the staircase. It is rotational in that one can keep getting higher or keep getting lower while going around in circles. It is non-conservative in that one can return to one's starting point while ascending more than one descends or vice versa. On a real staircase, the height above the ground is a scalar potential field: If one returns to the same place, one goes upward exactly as much as one goes downward. Its gradient would be a conservative vector field and is irrotational. The situation depicted in the painting is impossible."</em>
 </a>
 </center>
 
@@ -300,6 +342,20 @@ Now this is where things get a bit fuzzy for me.  I don't quite see what is *dri
 If I'm understanding Friston correctly, he states that the reason we have this system being maintained in this state is because the [non-equilibrium](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics) (it is key to note that condition) long-term behavior of any random dynamical system when [weakly mixing](https://en.wikipedia.org/wiki/Mixing_(physics)) will after a sufficient amount of time converge to an invariant set of states called a *pullback* or *[random global attractor](https://en.wikipedia.org/wiki/Pullback_attractor)*.[^9] (*I'll have to do more research into this since my understanding is fuzzy and my linguistic-physical intuition is fighting me over random sets even having attractors to begin with*). 
 
 ### Is there an isomorphism in the inferential engine interpretation?
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Bayes%27_theorem">
+    <img src="/images/post_pics/free_energy_principle/bayescurves.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>In probability theory and statistics, Bayes' theorem, named after Reverend Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event.</em>
+</a>
+</center>
+
+<br/>
 
 To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we can capture [epistemic](https://en.wikipedia.org/wiki/Epistemology) notions such as belief and evidence.  We also have to formalize a mathematical relationship between how we update our old beliefs with new evidence to get new beliefs.  We can capture this relationship with the following:  
 
