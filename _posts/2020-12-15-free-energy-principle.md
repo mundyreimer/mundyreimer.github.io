@@ -586,7 +586,7 @@ As such, I think when it comes to the FEP it might be best to maybe adopt an [an
         width="600" 
         height="600"
         >
-    <em>From XKCD, "A webcomic of romance, sarcasm, math, and language"</em>
+    <em>From xkcd, "A webcomic of romance, sarcasm, math, and language"</em>
 </a>
 </center>
 
