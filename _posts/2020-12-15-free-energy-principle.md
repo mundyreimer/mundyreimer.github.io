@@ -67,12 +67,11 @@ The former academics note that Jaynes transformed an originally [scientific-mate
         width="400" 
         height="400"
         >
+    <em>Part of a page from John Duns Scotus's book Commentaria oxoniensia ad IV libros magistri Sententiarus, showing the words: "Pluralitas non est ponenda sine necessitate", i.e., "Plurality is not to be posited without necessity"</em>
 </a>
 </center>
 
 <br/>  
-
-> Part of a page from John Duns Scotus's book Commentaria oxoniensia ad IV libros magistri Sententiarus, showing the words: "Pluralitas non est ponenda sine necessitate", i.e., "Plurality is not to be posited without necessity"
 
 It is key to note that the repurposing of this particular mathematical "simplification" apparatus and "minimization" formalism originating in the field of physics has not been isolated to Jaynes alone.  In fact, time and time again complex physical systems such as those found in the field of thermodynamics with a vast number of interacting particles have been difficult to model using only classical [Newtonian mechanics](https://en.wikipedia.org/wiki/Classical_mechanics) due to the mathematics getting rather calculation heavy, sometimes even intractably so.  One of my favorite philosopher-scientists of all time, German physicist and physician, [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) originally conceptualized in his 1881 lecture, *On the thermodynamics of chemical processes*, something called the thermodynamic potential that measures the useful work obtainable from a closed thermodynamic system at constant temperature and volume, which later became known as [Helmholtz free energy](https://en.wikipedia.org/wiki/Helmholtz_free_energy) (whereas a closely associated [Gibbs free energy](https://en.wikipedia.org/wiki/Gibbs_free_energy) or *free enthalpy* is most commonly convenient for systems at constant *pressure*).  
 
