@@ -97,7 +97,7 @@ This blanket is labeled *Markov* because the blanket separates out from the envi
 
 So how do we go about encoding some Markov blanket into the language of mathematics?  It is common to encode graphs as mathematical objects called [adjacency matrices](https://en.wikipedia.org/wiki/Adjacency_matrix).  An adjacency matrix is a square matrix where each row header and column header represents a specific node and the cross-sectional entries or elements of the matrix indicate whether or not a pair of nodes in that particular row-column pair are adjacent / connected or not.  The value of this particular element of the matrix is the probability of one state or node *transitioning* to the next state or node.  This is why we sometimes call this a *[transition matrix](https://en.wikipedia.org/wiki/State-transition_matrix)* because it represents the transitions from one state to the next.  
 
-This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  From this we can construct a matrix *B* that represents the Markov blanket only.  Doing some linear algebraic manipulations to get there, Friston defines our new matrix[^11],
+This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  From this we can construct a matrix *B* that represents the Markov blanket only[^11].  Doing some linear algebraic manipulations to get there, Friston defines our new matrix,
 
 $$ B = A + A^{T} + A^{T}A $$  
 
