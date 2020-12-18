@@ -74,7 +74,21 @@ The former academics note that Jaynes transformed an originally [scientific-mate
 
 > Part of a page from John Duns Scotus's book Commentaria oxoniensia ad IV libros magistri Sententiarus, showing the words: "Pluralitas non est ponenda sine necessitate", i.e., "Plurality is not to be posited without necessity"
 
-It is key to note that the repurposing of this particular mathematical "simplification" apparatus and "minimization" formalism originating in the field of physics has not been isolated to Jaynes alone.  In fact, time and time again complex physical systems such as those found in the field of thermodynamics with a vast number of interacting particles have been difficult to model using only classical [Newtonian mechanics](https://en.wikipedia.org/wiki/Classical_mechanics) due to the mathematics getting rather calculation heavy, sometimes even intractably so.  One of my favorite scientists of all time, German physicist and physician, [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) originally conceptualized in his 1881 lecture, *On the thermodynamics of chemical processes*, something called the thermodynamic potential that measures the useful work obtainable from a closed thermodynamic system at constant temperature and volume, which later became known as [Helmholtz free energy](https://en.wikipedia.org/wiki/Helmholtz_free_energy) (whereas a closely associated [Gibbs free energy](https://en.wikipedia.org/wiki/Gibbs_free_energy) or *free enthalpy* is most commonly convenient for systems at constant *pressure*).  
+It is key to note that the repurposing of this particular mathematical "simplification" apparatus and "minimization" formalism originating in the field of physics has not been isolated to Jaynes alone.  In fact, time and time again complex physical systems such as those found in the field of thermodynamics with a vast number of interacting particles have been difficult to model using only classical [Newtonian mechanics](https://en.wikipedia.org/wiki/Classical_mechanics) due to the mathematics getting rather calculation heavy, sometimes even intractably so.  One of my favorite philosopher-scientists of all time, German physicist and physician, [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) originally conceptualized in his 1881 lecture, *On the thermodynamics of chemical processes*, something called the thermodynamic potential that measures the useful work obtainable from a closed thermodynamic system at constant temperature and volume, which later became known as [Helmholtz free energy](https://en.wikipedia.org/wiki/Helmholtz_free_energy) (whereas a closely associated [Gibbs free energy](https://en.wikipedia.org/wiki/Gibbs_free_energy) or *free enthalpy* is most commonly convenient for systems at constant *pressure*).  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Occam%27s_razor">
+    <img src="/images/post_pics/free_energy_principle/occamsrazor.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>Helmholtz in 1848</em>
+</a>
+</center>
+
+<br/>  
 
 To help solve similar problems that Helmholtz faced with physical systems composed of an incredibly complex amount of interactions, alternative reformulations of classical mechanics were developed throughout the history of physics such as that of [Lagrangian mechanics](https://en.wikipedia.org/wiki/Lagrangian_mechanics) that either treated constraints explicitly as extra equations or incorporated them directly via a particular choice of [generalized coordinates](https://en.wikipedia.org/wiki/Generalized_coordinates). Similarly, another alternative reformulation was that of [Hamiltonian mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics) which conceptualized something known as the Hamiltonian, which can be said to correspond to the total energy of the system (indeed it is quite useful for describing systems where energy keeps oscillating between kinetic and potential forms, and of which is itself just essentially the [Legendre tranform](https://en.wikipedia.org/wiki/Legendre_transformation) of the former Langragian (function) where the generalized coordinates *q_i* and time are fixed).  
 
