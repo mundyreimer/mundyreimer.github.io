@@ -365,7 +365,7 @@ If I'm understanding Friston correctly, he states that the reason we have this s
         width="400" 
         height="400"
         >
-    <em>In probability theory and statistics, Bayes' theorem, named after Reverend Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event.</em>
+    <em>In probability theory and statistics, Bayes' theorem, named after Reverend Thomas Bayes, describes the probability of an event based on prior knowledge of conditions that might be related to the event, and how we can arrive at our new posterior belief given some evidence.</em>
 </a>
 </center>
 
