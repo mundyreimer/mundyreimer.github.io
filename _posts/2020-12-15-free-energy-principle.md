@@ -403,7 +403,7 @@ where
 
 $$ P(H \cap E) $$
 
-or written *P(H,E)* for short, is interpreted as the *[joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution)* of both our Hypothesis being true and getting this Evidence.
+or written *P(H,E)* for short, is interpreted as the [joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution) of both our Hypothesis being true *AND* getting this Evidence.
 
 We can recast this into terms of biological systems by thinking of our Hypothesis as what we believe a particular environmental variable currently is, while we can think of Evidence as incoming sensory data.  Let's say we had an organism who cares about a particular environmental variable called temperature, *T*.  And let's say it receives incoming sensory data *S*.  Then just replacing the variables we can recast Baye's equation from before into the following[^14]:
 
