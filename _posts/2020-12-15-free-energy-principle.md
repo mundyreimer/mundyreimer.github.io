@@ -89,7 +89,21 @@ It is key to note that the repurposing of this particular mathematical "simplifi
 
 <br/>  
 
-To help solve similar problems that Helmholtz faced with physical systems composed of an incredibly complex amount of interactions, alternative reformulations of classical mechanics were developed throughout the history of physics such as that of [Lagrangian mechanics](https://en.wikipedia.org/wiki/Lagrangian_mechanics) that either treated constraints explicitly as extra equations or incorporated them directly via a particular choice of [generalized coordinates](https://en.wikipedia.org/wiki/Generalized_coordinates). Similarly, another alternative reformulation was that of [Hamiltonian mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics) which conceptualized something known as the Hamiltonian, which can be said to correspond to the total energy of the system (indeed it is quite useful for describing systems where energy keeps oscillating between kinetic and potential forms, and of which is itself just essentially the [Legendre tranform](https://en.wikipedia.org/wiki/Legendre_transformation) of the former Langragian (function) where the generalized coordinates *q_i* and time are fixed).  
+To help solve similar problems that Helmholtz faced with physical systems composed of an incredibly complex amount of interactions, alternative reformulations of classical mechanics were developed throughout the history of physics such as that of [Lagrangian mechanics](https://en.wikipedia.org/wiki/Lagrangian_mechanics) that either treated constraints explicitly as extra equations or incorporated them directly via a particular choice of [generalized coordinates](https://en.wikipedia.org/wiki/Generalized_coordinates). Similarly, another alternative reformulation was that of [Hamiltonian mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics) which conceptualized something known as the Hamiltonian, which can be said to correspond to the total energy of the system (indeed it is quite useful for describing systems where energy keeps oscillating between kinetic and potential forms, and of which is itself just essentially the [Legendre tranform](https://en.wikipedia.org/wiki/Legendre_transformation) of the former Langragian (function) where the generalized coordinates *q_i* and time are fixed).
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Lagrangian_mechanics">
+    <img src="/images/post_pics/free_energy_principle/least_action_principle.png"
+        width="400" 
+        height="400"
+        >
+    <em>As the system evolves, q traces a path through configuration space (only some are shown). The path taken by the system (red) has a stationary action (δS = 0) under small changes in the configuration of the system (δq).</em>
+</a>
+</center>
+
+<br/>  
 
 Similar to the above, physicists such as [Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) were able to use a minimization technique known as a [variational method](https://en.wikipedia.org/wiki/Calculus_of_variations) applied to free energy (which originally was physically interpreted as Helmholtz free energy) to solve previous calculation intensive problems.  It is important to note that a *variational* principle in physics is a method for determining the state or dynamics of a physical system by identifying it as an *extremum* (ie - a minimum, maximum, or saddle point) of a function or [functional](https://en.wikipedia.org/wiki/Functional_(mathematics)) such as in the case of the previously mentioned time integral of the Lagrangian called the [action](https://en.wikipedia.org/wiki/Action_(physics)) which takes a trajectory, path, or history of a system as input and spits out a real number as output.  It is key to note the vocabularly of extremums of functions, functionals, paths, etc, which all presuppose a notion that there could be a multitude of possible paths of which one of those could be the optimal path.  Indeed talk of multiple variations of paths bakes in a need for a language like the *Calculus of Variations* which analyzes the variations of a path/functional (ie - by looking at the small changes in a functional's value due to small changes in the function that is its argument).  
 
@@ -101,6 +115,7 @@ Similar to the above, physicists such as [Feynman](https://en.wikipedia.org/wiki
         width="400" 
         height="400"
         >
+    <em>A brachistochrone curve (from Ancient Greek for 'shortest time'), or curve of fastest descent, is the one lying on the plane between a point A and a lower point B, where B is not directly below A, on which a bead slides frictionlessly under the influence of a uniform gravitational field to a given end point in the shortest time. The problem was posed by Johann Bernoulli in 1696.  In 1697 he used Fermat's principle of least time to derive the brachistochrone curve by considering the trajectory of a beam of light in a medium where the speed of light increases following a constant vertical acceleration (that of gravity g).</em>
 </a>
 </center>
 
