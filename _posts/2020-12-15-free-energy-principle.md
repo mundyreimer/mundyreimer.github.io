@@ -130,6 +130,20 @@ Leibniz himself was following a lineage of similar thought generally going under
 
 Whereas differential equations are statements about quantities localized to a single point in space or a single moment in time, action principles are not localized to points but rather involve summing over an interval of time or a region of space where it is required that you *fix a final state* of the system.[^20]  And indeed, similar controversies were brought up against Fermat in 1662(!) because of this principle seemingly ascribing knowledge, purpose, and intent to nature.  As we can see, if we accept this historical tracing of lineage of thought, the averse reaction some may have going under the general banner of *"[A map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)"* might be tempered a bit by knowledge that this concept and associated critics have been around for quite some time.  Whether or not the teleogical argument is solved seems to depend upon your underlying metaphysical assumptions of the world and potentially your particular philosophical thoughts surrounding the interaction of mathematics and reality.[^12]
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences">
+    <img src="/images/post_pics/free_energy_principle/wigner_effectiveness_math.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>"The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift...[a] striking nature to the miracle that the human mind can string a thousand arguments together without getting itself into contradictions, or to the two miracles of laws of nature and of the human mind's capacity to divine them [shall intersect]"</em>
+</a>
+</center>
+
+<br/>
+
 ---
 ### Sweeping problems underneath the Markov blanket?
 
