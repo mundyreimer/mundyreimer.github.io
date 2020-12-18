@@ -17,7 +17,22 @@ TL;DR - A collection of my thoughts, resources, and related ideas regarding the 
 
 ### Motivation
 
-So I stumbled upon this thing called the [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP) back around 2013 when I was looking into how we can distinguish biological living systems from non-living ones.  It was a question I was always fascinated by ever since reading books like Schrödinger's famous [What is Life?](https://en.wikipedia.org/wiki/What_Is_Life%3F) and Hofstadter's [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) among many others[^0] in an attempt to bring meaning to the deluge of chemistry courses I was taking.  Most importantly, I wanted to come up with a way to distinguish these systems in a rigorous, *mathematical* language.  And this mysterious framework kept popping up on my radar when searching through papers.  It purportedly was a statement that explained how living systems are special because they can restrict themselves to a limited number of states.  Since this resonated well with my own [personal theories](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) at the time regarding the key property of life centering around homeostasis and maintaining a particular configuration of molecular arrangements rather than dispersing into the environment, I was immediately hooked.  
+So I stumbled upon this thing called the [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP) back around 2013 when I was looking into how we can distinguish biological living systems from non-living ones.  It was a question I was always fascinated by ever since reading books like Schrödinger's famous [What is Life?](https://en.wikipedia.org/wiki/What_Is_Life%3F) and Hofstadter's [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) among many others[^0] in an attempt to bring meaning to the deluge of chemistry courses I was taking.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/What_Is_Life">
+    <img src="/images/post_pics/thermodynamics_agency_livingsystems/what_is_life_book.jpeg"
+        width="400" 
+        height="400"
+        >
+</a>
+</center>
+
+<br/>
+
+Most importantly, I wanted to come up with a way to distinguish these systems in a rigorous, *mathematical* language.  And this mysterious framework kept popping up on my radar when searching through papers.  It purportedly was a statement that explained how living systems are special because they can restrict themselves to a limited number of states.  Since this resonated well with my own [personal theories](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) at the time regarding the key property of life centering around homeostasis and maintaining a particular configuration of molecular arrangements rather than dispersing into the environment, I was immediately hooked.  
 
 Over the years I slowly worked my way through the various papers that were pumped out by this person named [Karl Friston](https://en.wikipedia.org/wiki/Karl_J._Friston), who was apparently a superstar in the academic neuroscience world.  By coincidence or some self-selection mechanism, I soon began to see his name pop up everywhere.  Whether it was during my literature search into this random cognitive robotics [professor](http://www.socsci.uci.edu/~jkrichma/) at UC Irvine whom I previously wanted to work with, or one of my favorite blogs going by the hip name SlateStarCodex[^1], this Berkeley-based *Information & Uncertainty* discussion group[^2] I occasionally joined, this philosopher I really liked[^3], or even appearing on something as popular as WIRED magazine[^4], Friston's FEP just started to show up more and more!
 
@@ -232,7 +247,7 @@ We should note that Friston builds his overarching FEP framework based on influe
 
 Because the Helmholtz machine framework envisions organisms as simultaneously receiving sensory data to further model their world in addition to using their internal model of the world to shape how that sensory data is interpreted, we would like some sort of mathematical machinery that would allow us to compare how different our two models or probability distribution are.  This machinery is known as the Kullback-Leibler (KL) divergence (aka - *[relative entropy](https://en.wikipedia.org/wiki/Relative_entropy)*).
 
-So how do we derive the KL divergence machinery?[^15]  Let's say we wanted to compare the posterior probability *P(T\|S)* (what we think the temperature is when given some sensory signal) to our bottom-up recognition model *q(T)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
+So how do we derive the KL divergence machinery?[^15][^21]  Let's say we wanted to compare the posterior probability *P(T\|S)* (what we think the temperature is when given some sensory signal) to our bottom-up recognition model *q(T)*.  A simple comparison could be to take the ratio between the two, and indeed this is something called the Likelihood Ratio (*LR*):
 
 $$ LR = \frac{q(T)} {P(T\midS)} $$
 
@@ -411,4 +426,6 @@ Resources:
  
 [^19]:  Indeed, addressing the aforementioned problems is where I think a paper like Andrews shines, drawing from the literature of both [Barandiaran](https://xabier.barandiaran.net/research/) and [Chemero](https://uc.academia.edu/TonyChemero). They go over the various types of models that exist in the realm of science and explain each with respect to their pros and cons. They essentially explain how the FEP fits into this entire taxonomy.  Also tangential note, but Tony Chemero was a former cognitive science professor of mine when I attended [Eötvös Loránd University](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University) in Budapest, Hungary.  My friends [Brian Rivera](https://www.researchgate.net/profile/Brian-Rivera-3) and [Mark Wang](https://www.linkedin.com/in/markkwang) introduced him to me.  Not only did I think he had an incredibly hip hairstyle at the time, but his friendly demeanor even extended to when I randomly bumped into him years later via [Twitter](https://twitter.com/tonychemero) and he offered to help me when it came to grad school applications (even after reminding me that I rejected his offer of doing a PhD with him to his face back when I was a cheeky little undergrad 😅). 
 
-[^20]: Apparently, this seems to be eliminated in the quantum mechanical version of the action principle (*note to self to expand on this*)
+[^20]:  Apparently, this seems to be eliminated in the quantum mechanical version of the action principle (*note to self to expand on this*)
+
+[^21]:  Oleg Solopchuk has two really good posts on more applicable process models that use the Free Energy framework.  The first being his [Tutorial on Active Inference](https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc) and the second his [Intuitions on predictive coding and the free energy principle](https://medium.com/@solopchuk/intuitions-on-predictive-coding-and-the-free-energy-principle-3fc5bcedc754).  Each of them are accompanied by a graphics + a nice derivation of the mathematics.   
