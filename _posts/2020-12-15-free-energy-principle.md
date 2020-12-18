@@ -282,23 +282,23 @@ $$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big[ \ln q(T) - \ln P(T,S) + \ln P
 
 We can then do our log property from before in reverse to bring the joint density under as the denominator,
 
-$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big[ \frac{q(T)} {P(T,S)} + \ln P(S) \big] \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \big[ \ln \frac{q(T)} {P(T,S)} + \ln P(S) \big] \,dT $$
 
 And following this up with splitting up the integral,
 
-$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \ln \frac{q(T)}{P(T,S)} \,dT  + \int_{}^{} q(T) \ln P(S) \,dT $$
 
 Rearranging the dT terms,
 
-$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + \int_{}^{} q(T) \,dT \ln P(S)  $$
 
 Then noting that the total probability of the recognition model sums to 1[^14],
 
-$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
+$$ D_{KL}( q(T), P(T\|S) ) = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)}  + 1 \times \ln P(S)  $$
 
 From here we can might begin to recognize how we can map our separate terms back to their original high-level concepts.  Notice that just like our Helmholtz machine concept required, we are able to now compare our bottom-up recognition model, *q(T)*, with our top-down generative model or joint density, *P(T,S)*.  And voilà!  This entire term which we can encapsulate as a single variable called *F* is our one-and-only *Free Energy* that makes up Friston's famous theory.[^14]
 
-$$ F = \int_{}^{} q(T) \,dT \frac{q(T)}{P(T,S)} $$
+$$ F = \int_{}^{} q(T) \,dT \ln \frac{q(T)}{P(T,S)} $$
 
 $$ D_{KL}( q(T), P(T\|S) ) = F + \ln P(S)  $$
 
