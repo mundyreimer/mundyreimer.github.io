@@ -186,8 +186,8 @@ In the graphical language of modeling (ie - a Bayesian Network), a Markov blanke
 <center>
 <a href="https://en.wikipedia.org/wiki/Judea_Pearl">
     <img src="/images/post_pics/free_energy_principle/judeapearl_book.jpg"
-        width="400" 
-        height="400"
+        width="300" 
+        height="300"
         >
     <em>In Probabilistic Reasoning in Intelligent Systems, philosoper and computer scientist Judea Pearl developed computational methods that underlie plausible reasoning under uncertainty based on bayesian belief networks, ultimately creating a theory of causal and counterfactual inference.</em>
 </a>
@@ -195,7 +195,7 @@ In the graphical language of modeling (ie - a Bayesian Network), a Markov blanke
 
 <br/>  
 
-This blanket is labeled *Markov* because the blanket separates out from the environment both the variables that do not depend on the central node A and the variables that the central node A itself doesn't depend on.  Each variable in the blanket exhibits the aforementioned *Markov property*, and as such, is all the information we need to know about the system. You might begin to think that we could potentially have nested blankets within blankets, continuing on *ad infinitum* and you are correct.  This is where Pearl further defined an additional term called the *[Markov boundary](https://en.wikipedia.org/wiki/Markov_blanket#Markov_boundary)* which is the *minimal* or "smallest" such Markov blanket that we could have.
+Our blanket is labeled *Markov* because the blanket separates out from the environment both the variables that do not depend on the central node A and the variables that the central node A itself doesn't depend on.  Each variable in the blanket exhibits the aforementioned *Markov property*, and as such, is all the information we need to know about the system. You might begin to think that we could potentially have nested blankets within blankets, continuing on *ad infinitum* and you are correct.  This is where Pearl further defined an additional term called the *[Markov boundary](https://en.wikipedia.org/wiki/Markov_blanket#Markov_boundary)* which is the *minimal* or "smallest" such Markov blanket that we could have.
 
 So how do we go about encoding some Markov blanket into the language of mathematics?  It is common to encode graphs as mathematical objects called [adjacency matrices](https://en.wikipedia.org/wiki/Adjacency_matrix).  An adjacency matrix is a square matrix where each row header and column header represents a specific node and the cross-sectional entries or elements of the matrix indicate whether or not a pair of nodes in that particular row-column pair are adjacent / connected or not.  The value of this particular element of the matrix is the probability of one state or node *transitioning* to the next state or node.  This is why we sometimes call this a *[transition matrix](https://en.wikipedia.org/wiki/State-transition_matrix)* because it represents the transitions from one state to the next.  
 
@@ -205,7 +205,22 @@ $$ B = A + A^{T} + A^{T}A $$
 
 To further reduce our graph to only those nodes we care about (for instance, our *minimal* Markov blanket), we can then multiply this matrix B by a binary encoded vector V (a vector of 1s and 0s) representing the nodes we want.  If you've studied some [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), we can then recall that the *[eigenvector](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)* of a matrix (where a matrix is just a [linear transformation / mapping](https://en.wikipedia.org/wiki/Linear_map) from one space to another) is the vector that maintains its direction under that transformation and only scales to some scalar amount λ.  This principal eigenvector can now represent the strength of causal interaction between states, from which we then apply some educated pick of a threshold to group individual states.[^11]  
 
-At this point, I think this is where I am maybe not as critical as someone like Andrews where they believe this thresholding to be a post-hoc, intuition-guided, individual researcher-based ascription, and most importantly not *"illuminating natural joints"*[^11].  In fact, the [spectral theory](https://en.wikipedia.org/wiki/Spectral_theory) underlying [eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix) and thresholding methods is done all the time in [vibration analysis](https://en.wikipedia.org/wiki/Harmonic_analysis) (eg - ["Can One Hear the Shape of a Drum?"](https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum)), dimensionality reduction / [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), [Google's Page Rank algorithm](https://en.wikipedia.org/wiki/PageRank), collaborative prediction, image compression, general clustering problems, and more.  I agree that there are many assumptions that go into the mathematics of all of this and indeed it might be wise to keep at the back of our minds the divide between the language we use to describe reality and reality itself, but at the same time I don't think that this implies that the math itself does not elucidate *any* insight into the nature of the physical system in question. As mentioned in the previously examples, these representations definitely can provide real-world utility.  Whether or not mother nature has latched onto a similar causal mechanism in how biological organisms maintain integrity and govern themselves still seems up for debate.   
+At this point, I think this is where I am maybe not as critical as someone like Andrews where they believe this thresholding to be a post-hoc, intuition-guided, individual researcher-based ascription, and most importantly not *"illuminating natural joints"*[^11].  In fact, the [spectral theory](https://en.wikipedia.org/wiki/Spectral_theory) underlying [eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix) and thresholding methods is done all the time in [vibration analysis](https://en.wikipedia.org/wiki/Harmonic_analysis) (eg - ["Can One Hear the Shape of a Drum?"](https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum)), dimensionality reduction / [Principle Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), [Google's Page Rank algorithm](https://en.wikipedia.org/wiki/PageRank), collaborative prediction, image compression, general clustering problems, and more.  I agree that there are many assumptions that go into the mathematics of all of this and indeed it might be wise to keep at the back of our minds the divide between the language we use to describe reality and reality itself, but at the same time I don't think that this implies that the math itself does not elucidate *any* insight into the nature of the physical system in question. As mentioned in the previously examples, these representations definitely can provide real-world utility.  Whether or not mother nature has latched onto a similar causal mechanism in how biological organisms maintain integrity and govern themselves still seems up for debate.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum">
+    <img src="/images/post_pics/free_energy_principle/hear_shape_drum.jpg"
+        width="300" 
+        height="300"
+        >
+    <em>"Can One Hear the Shape of a Drum?" is the title of a 1966 article by Mark Kac in the American Mathematical Monthly.  To hear the shape of a drum is to infer information about the shape of the drumhead from the sound it makes, i.e., from the list of overtones.  The frequencies at which a drumhead can vibrate depend on its shape. The Helmholtz equation calculates the frequencies if the shape is known. These frequencies are the eigenvalues of the Laplacian in the space. A central question is whether the shape can be predicted if the frequencies are known. </em>
+</a>
+</center>
+
+<br/> 
+
 
 ---
 
