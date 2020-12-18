@@ -511,7 +511,7 @@ We can also notice this separate *ln P(S)* term at the end.  What could that be?
         width="400" 
         height="400"
         >
-    <em>Image sourced from Jared Tumiel's excellent explanation of the mathematics of the FEP.  Much of my explanation incorporates his distillation combined with Friston's original papers.  See references below for more.</em>
+    <em>See Jared Tumiel's excellent explanation of the mathematics of the FEP.  Much of my explanation incorporates his distillation combined with Friston's original papers.  See references below for more.</em>
 </a>
 </center>
 
