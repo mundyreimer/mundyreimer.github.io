@@ -511,7 +511,7 @@ We can also notice this separate *ln P(S)* term at the end.  What could that be?
         width="400" 
         height="400"
         >
-    <em>This image is from Jared Tumiel's excellent explanation of the mathematics of the FEP.  Much of my explanation incorporates his distillation combined with Friston's original works.  See references below for more.</em>
+    <em>Image sourced from Jared Tumiel's excellent explanation of the mathematics of the FEP.  Much of my explanation incorporates his distillation combined with Friston's original works.  See references below for more.</em>
 </a>
 </center>
 
@@ -551,8 +551,8 @@ We can then tie in the notion of entropy as a measure of how much we expect to b
 <center>
 <a href="https://jaredtumiel.github.io/blog/2020/08/08/free-energy1.html">
     <img src="/images/post_pics/free_energy_principle/entropy_surprise.png"
-        width="400" 
-        height="400"
+        width="600" 
+        height="600"
         >    
 </a>
 </center>
