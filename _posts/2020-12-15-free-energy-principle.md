@@ -371,7 +371,7 @@ If I'm understanding Friston correctly, he states that the reason we have this s
 
 <br/>
 
-To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we can capture [epistemic](https://en.wikipedia.org/wiki/Epistemology) notions such as belief and evidence.  We also have to formalize a mathematical relationship between how we update our old beliefs with new evidence to get new beliefs.  We can capture this relationship with the following:  
+To cast the aforementioned dynamical systems interpretation into the language of probability and information theory we first have to explain how we can capture [epistemic](https://en.wikipedia.org/wiki/Epistemology) notions such as belief and evidence.  We also have to formalize a mathematical relationship between how we update our old beliefs with evidence to get new beliefs.  We can capture this relationship with the following:  
 
 $$ \text{New Level of Belief} = \text{Strength of New Evidence} \times \text{Old Level of Belief} $$
 
