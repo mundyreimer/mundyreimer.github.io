@@ -213,7 +213,7 @@ Or when the objects are graphs, like in Stephen [Wolfram's Physics Project](http
 
 <br/> 
 
-With that said, for right now we will study a particular type of rewrite systems called *Lindenmayer Systems*...
+With that said, for right now we will study a particular type of rewrite system called a *Lindenmayer System*...
 
 <br/>
 
