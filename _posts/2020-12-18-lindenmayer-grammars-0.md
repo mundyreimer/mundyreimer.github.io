@@ -281,7 +281,7 @@ In particular, an L-system is an RS that can be defined as the tuple:
 
 Where that tuple consists of 3-4 things:
 
-1) An **Alphabet**, **V**, of symbols that can be used to make [strings](https://en.wikipedia.org/wiki/String_(computer_science)) (a sequence of characters).  This alphabet in turn consists of symbols that can be replaced (*variables*) and symbols that cannot be replaced (*constants* or *terminals*).  Furthermore, let **V\*** represent the set of all words over **V**, and **V+** represent the set of all non-empty words over **V**.
+1) An **Alphabet**, **V**, of symbols that can be used to make [strings](https://en.wikipedia.org/wiki/String_(computer_science)) (a sequence of characters).  This alphabet in turn consists of symbols that can be replaced (*variables*) and symbols that cannot be replaced (*constants* or *terminals*).  Furthermore, we let **V\*** represent the set of all words over **V**, and **V+** represent the set of all non-empty words over **V**.
 
 2) An initial **Axiom** string, **ω**, from which to begin construction (similar to our starting line of colored fish from above). It defines the *initial state* of the system.
 
