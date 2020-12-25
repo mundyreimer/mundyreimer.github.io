@@ -363,7 +363,7 @@ The formalism above is used to capture and simulate the notion of the developmen
 
 Where the symbols *a* and *b* represent the different states of the cells (their sizes and readiness to divide), and the subscripts *l* and *r* specify the positions in which daughter cells of type *a* and *b* will be produced.  This particular mapping was chosen because it was observed that underneath a microscope, the filaments appear as a sequence of cylinders of various lengths, with *a*-type cells longer than *b*-type cells.[^1]
 
-So what other phenomena can be captured by this particular L-system formalism? Because L-systems were originally intended to model the growth of systems in a directed, recrusive fashion, we know that they can be represented visually by directed graphs in a *tree-like* structure.  As such they can be used to model *dendritic* or *arboreal* geometries found in nature.
+So what other phenomena can be captured by this particular L-system formalism? Because L-systems were originally intended to model the growth of systems in a directed, recursive fashion, we know that they can be represented visually by directed graphs in a *tree-like* structure.  As such they can be used to model *dendritic* or *arboreal* geometries found in nature.
 
 <br/>
 
