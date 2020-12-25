@@ -425,15 +425,11 @@ Similarly, in physics we have lightning and [Lichtenberg figures](https://en.wik
 
 <br/> 
 
-### Major Assumptions
-
-*...in progress*
+And because of the ubiquity of arboreal phenomena in nature, we can see that with just a few tweaks to the underlying representative data structure and topological embedding, we can perhaps take on a new perspective[^5] of viewing a portion of these phenomena as [toroidal graphs](https://en.wikipedia.org/wiki/Toroidal_graph) (graphs that can be embedded onto some [toroidal topology](https://en.wikipedia.org/wiki/Torus)).  Perhaps more speculatively, this perspective might [grant us a few key insights](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) into the study of the transitions between living systems and non-living systems and the development of a *singular Identity* that persists through time.
 
 ### Moving Forward
 
-*...in progress*
-
-[See here]() for the next part of this sequence offering a tutorial on how to experiment and simulate L-systems in Python.
+In the [next article of this series](), we'll lean more into the practical side, and dive into the nitty-gritty showing how to experiment and simulate L-systems in Python.
 
 ---
 
@@ -446,3 +442,5 @@ Resources:
 [^3]: As a side note, rewrite systems are known to possess the *"full power of Turing machines and may be thought of as non-deterministic Markov algorithms over terms, rather than strings"*[^0].
 
 [^4]: [Math StackExchange question: What are the relations and differences between formal systems, rewriting systems, formal grammars and automata?](https://math.stackexchange.com/questions/3778087/what-are-the-relations-and-differences-between-formal-systems-rewriting-systems)
+
+[^5]: Indeed, although [toroidal graphs](https://en.wikipedia.org/wiki/Toroidal_graph) are more complicated than simple planar graphs, they have found many applications, especially since many computer networks have a toroidal structure.  [See here](https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=3227&context=etd) which discusses graph embedding onto toroidal topologies and [Kuratowski's theorem](https://en.wikipedia.org/wiki/Kuratowski%27s_theorem), which is a test of graph planarity.
