@@ -393,7 +393,7 @@ So what other phenomena can be captured by this particular L-system formalism? B
 
 <br/> 
 
-These *tree-like* structures are rather ubiquitous in nature.  Obviously, many biological structures like blood vessels, neurons, mycological growth, slime-molds, etc can be at least visually seen to follow this scheme.  
+These *tree-like* structures are rather ubiquitous in nature.  Obviously, many biological structures like blood vessels, neurons, mycological growth, slime-molds, etc can at the very least be visually said to follow this scheme.  
 
 <br/>
 
