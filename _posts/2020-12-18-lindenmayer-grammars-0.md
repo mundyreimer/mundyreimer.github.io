@@ -1,8 +1,8 @@
 ---
-title: Part 0 - "In the beginning was the Word", An Introduction to Lindenmayer Grammars
+title: In the beginning was the Word, An Intro to L-Grammars
 date: 2020-12-15 00:00:00
 featured_image: '/images/post_pics/lindenmayer/biblebook_0.jpg'
-excerpt: An introduction to abstract rewriting systems, lindenmayer systems, formal grammars, etc
+excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.
 ---
 *Updated: 2020-12-17*  
 *Topics: [Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
@@ -11,7 +11,7 @@ excerpt: An introduction to abstract rewriting systems, lindenmayer systems, for
 
 ## Rewriting Systems Sequence - Part 0
 
-TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, formal grammars, etc.  It will cover the philosophy & motivation, mathematical theory, practical applications, and major assumptions.  
+TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, formal grammars, etc, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.  
 
 (*Note: If the LaTeX / math equations don't render the first time around, you just need to refresh the page once.  Still have to figure that one out, sorry!* 🤷)
 
