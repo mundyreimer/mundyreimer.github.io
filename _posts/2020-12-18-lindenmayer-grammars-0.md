@@ -70,7 +70,7 @@ With that said, without necessarily strongly claiming the truth of such a princi
 
 We all learn that equations are composed of a string of symbols or terms written down.  For example, in the equation *2+3+4=9*, we have seven different symbols or terms: *'2', '+', '3', '+', '4', '=', and '9'*.  We know that we can *simplify* this formula by replacing certain subterms in this formula with equivalent terms, namely by replacing the three symbols of *'2+3'* with the single symbol *'5'*, etc, eventually boiling down to the expression *'9=9'*.  
 
-In essence, what we are doing above is *rewriting* certain terms as other terms, and we are doing this in an attempt to *simplify* things.  But what if we were to reverse our direction and *generate* terms by expanding out our expressions?  Or what if we didn't necessarily care about a particular direction, but rather just keep simply rewriting or *replacing* certain combinations of terms with other terms and see what eventually happens?[^.]      
+In essence, what we are doing above is *rewriting* certain terms as other terms, and we are doing this in an attempt to *simplify* things.  But what if we were to reverse our direction and *generate* terms by expanding out our expressions?  Or what if we didn't necessarily care about a particular direction, but rather we just simply keep rewriting or *replacing* certain combinations of terms with other terms and then see how the dynamics of our system eventually play out?[^.]      
 
 For an example of rewrite systems in action, let's imagine we have a set of red and blue candied jelly fish *laid out in a horizontal line* on the table in front of you.  Let's represent that system by the following:
 
