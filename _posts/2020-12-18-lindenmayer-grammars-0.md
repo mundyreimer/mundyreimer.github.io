@@ -417,6 +417,7 @@ Similarly, in physics we have lightning and [Lichtenberg figures](https://en.wik
 ### Moving Forward
 
 *...in progress*
+
 [See here]() for the next part of this sequence offering a tutorial on how to experiment and simulate L-systems in Python.
 
 ---
