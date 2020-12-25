@@ -1,5 +1,5 @@
 ---
-title: In the beginning was the Word: An Intro to L-Grammars
+title: In the beginning was the Word - An Intro to L-Grammars
 date: 2020-12-15 00:00:00
 featured_image: '/images/post_pics/lindenmayer/biblebook_0.jpg'
 excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.
