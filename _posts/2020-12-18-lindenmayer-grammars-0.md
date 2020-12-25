@@ -304,12 +304,12 @@ If an L-system is both *deterministic* and *context-free* then it is called an [
 <br/>
 
 <center>
-<a href="https://en.wikipedia.org/wiki/Anabaena">
+<a href="http://www.spatial-computing.org/mgs/gallery/lsystem/start">
     <img src="/images/post_pics/lindenmayer/algae1.jpeg"
         width="400" 
         height="400"
         >
-    <em>A tiling with squares whose side lengths are successive Fibonacci numbers: 1, 1, 2, 3, 5, 8, 13 and 21.  An approximation of the golden spiral is created by drawing circular arcs connecting the opposite corners of squares in the Fibonacci tiling.</em>
+    <em>Cells in the filament divide in a asymmetric manner: one of the daughters is longer than the other; more over the two possibilities for ordering the daughters (small-long or long-small) obey to a specific rule.</em>
 </a>
 </center>
 
