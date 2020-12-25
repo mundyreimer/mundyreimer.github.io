@@ -243,7 +243,7 @@ With all that said, we will limit ourselves to the study of a particular type of
 
 <br/> 
 
-A [Lindenmayer System](https://en.wikipedia.org/wiki/L-system) (sometimes called *L-grammars*, *parametric* L-Systems, or *L-systems* for short) is a specific type of rewrite system.  L-systems were created by a Hungarian theoretical biologist and botanist named [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer) in 1968, independent of work done in symbolic dynamics at the time.  Aristid originally worked with yeast, fungi, and algae, and studied how they grew into various filamentous patterns, later moving on to more advanced organisms like plants.
+A [Lindenmayer System](https://en.wikipedia.org/wiki/L-system) (sometimes called *L-grammars*, *parametric* L-Systems, or *L-systems* for short) is a specific type of rewrite system.  L-systems were created by a Hungarian theoretical biologist and botanist named [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer) in 1968, independent of work done in [symbolic dynamics](https://en.wikipedia.org/wiki/Symbolic_dynamics) at the time.  Aristid originally worked with yeast, fungi, and algae, and studied how they grew into various filamentous patterns, later moving on to more advanced organisms like plants.
 
 <br/>
 
