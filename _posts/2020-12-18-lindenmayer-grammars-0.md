@@ -283,7 +283,7 @@ Where that tuple consists of 3-4 things:
 
 1) An **Alphabet**, **V**, of symbols that can be used to make [strings](https://en.wikipedia.org/wiki/String_(computer_science)) (a sequence of characters).  This alphabet in turn consists of symbols that can be replaced (*variables*) and symbols that cannot be replaced (*constants* or *terminals*).  Furthermore, we let **V\*** represent the set of all words over **V**, and **V+** represent the set of all non-empty words over **V**.
 
-2) An initial **Axiom** string, **ω**, from which to begin construction (similar to our starting line of colored fish from above). It defines the *initial state* of the system.
+2) An initial **Axiom** string, **ω**, from which to begin construction from (similar to our starting line of colored fish from above). It defines the *initial state* of the system.
 
 3) A collection of **[Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science))** or *Productions*, **P**, that expand each symbol into some larger string of symbols.  Specifically it is a set of rewrite rules that can be recursively performed to generate new symbol sequences.  In turn, each production rule consists of two strings, the *predecessor* and the *successor*, that string which is to be replaced and that string which it is replaced by respectively.   If no production is explicitly specified for a given predecessor *a ∈ V* , the identity production *a → a* is assumed to belong to the set of productions *P*.
 
