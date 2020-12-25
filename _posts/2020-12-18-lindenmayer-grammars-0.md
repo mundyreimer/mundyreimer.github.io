@@ -425,11 +425,11 @@ Similarly, in physics we have lightning and [Lichtenberg figures](https://en.wik
 
 <br/> 
 
-And because of the ubiquity of arboreal phenomena in nature, we can see that with just a few tweaks to the underlying representative data structure and topological embedding, we can perhaps take on a new perspective[^5] of viewing a portion of these phenomena as [toroidal graphs](https://en.wikipedia.org/wiki/Toroidal_graph) (graphs that can be embedded onto some [toroidal topology](https://en.wikipedia.org/wiki/Torus)).  Perhaps more speculatively, this perspective might [grant us a few key insights](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) into the study of the transitions between living systems and non-living systems and the development of a *singular Identity* that persists through time.
+And because of the [ubiquity of arboreal phenomena](https://en.wikipedia.org/wiki/Patterns_in_nature#Trees,_fractals) in nature[^6], we can see that with just a few tweaks to the underlying representative data structure and topological embedding, we can perhaps take on a new perspective[^5] of viewing a portion of these phenomena as [toroidal graphs](https://en.wikipedia.org/wiki/Toroidal_graph) (graphs that can be embedded onto some [toroidal topology](https://en.wikipedia.org/wiki/Torus)).  Perhaps more speculatively, this perspective might [grant us a few key insights](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) into the study of the transitions between living systems and non-living systems and the development of a *singular Identity* that persists through time.
 
 ### Moving Forward
 
-In the [next article of this series](), we'll lean more into the practical side, and dive into the nitty-gritty showing how to experiment and simulate L-systems in Python.
+In the [next article of this series](), we'll lean into the more practical side, and dive into the nitty-gritty showing how to experiment and simulate L-systems in Python.
 
 ---
 
@@ -443,4 +443,6 @@ Resources:
 
 [^4]: [Math StackExchange question: What are the relations and differences between formal systems, rewriting systems, formal grammars and automata?](https://math.stackexchange.com/questions/3778087/what-are-the-relations-and-differences-between-formal-systems-rewriting-systems)
 
-[^5]: Indeed, although [toroidal graphs](https://en.wikipedia.org/wiki/Toroidal_graph) are more complicated than simple planar graphs, they have found many applications, especially since many computer networks have a toroidal structure.  [See here](https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=3227&context=etd) which discusses graph embedding onto toroidal topologies and [Kuratowski's theorem](https://en.wikipedia.org/wiki/Kuratowski%27s_theorem), which is a test of graph planarity.
+[^5]: Indeed, although [toroidal graphs](https://en.wikipedia.org/wiki/Toroidal_graph) are more complicated than simple planar graphs, they have found many applications, especially since many computer networks have a toroidal structure.  [See here](https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=3227&context=etd) which discusses graph embedding onto toroidal topologies, in addition to talking about [Kuratowski's theorem](https://en.wikipedia.org/wiki/Kuratowski%27s_theorem) which is a test of graph planarity.
+
+[^6]: While phenomena possessing tree-like geometries seem to be common due underlying feedback mechanisms, non-linearity, and evolutionary drives towards data compression using iterative schemes, it should be noted that this is still a drastic simplification for the purposes of mathematical modeling.  To add more nuance and complexity to the model, we should also take into account the extra energetic and biomechanical demands and constraints upon growth which shapes branching arrangement.  [See here for a discussion](https://www.sciencedirect.com/science/article/pii/S2095263514000363) on the mechanical properties of a tree and the efficiency of the branching pattern. 
