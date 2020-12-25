@@ -165,7 +165,7 @@ Rewriting systems can take make forms and act on a number of different objects. 
 
 <br/> 
 
-Or when the objects are strings in natural language, they can be used in linguistics as models of [grammatical structure](https://en.wikipedia.org/wiki/Generative_grammar) like [Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)'s work in formal grammars,
+Or when the objects are strings in a natural language, they can be used in linguistics as models of [grammatical structure](https://en.wikipedia.org/wiki/Generative_grammar) like [Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)'s work in formal grammars,
 
 <br/>
 
