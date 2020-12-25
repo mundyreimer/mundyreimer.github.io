@@ -429,6 +429,6 @@ Resources:
  
 [^1]: [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf) by [Przemysław Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz) (director of the Computer Graphics group studying Fibonacci numbers and modeling using grammars) and [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer)(a theoretical biologist studying sequence generators). This textbook is based off Lindenmayer's original notes discusssing the theory and practice of Lindenmayer (L-)Systems for modeling plant growth. It provides much of the theoretical material from which I "draw" from (heh).
 
-[^3]  As a side note, rewrite systems are known to possess the *"full power of Turing machines and may be thought of as non-deterministic Markov algorithms over terms, rather than strings"*[^0].
+[^3]: As a side note, rewrite systems are known to possess the *"full power of Turing machines and may be thought of as non-deterministic Markov algorithms over terms, rather than strings"*[^0].
 
 [^4]: [Math StackExchange question: What are the relations and differences between formal systems, rewriting systems, formal grammars and automata?](https://math.stackexchange.com/questions/3778087/what-are-the-relations-and-differences-between-formal-systems-rewriting-systems)
