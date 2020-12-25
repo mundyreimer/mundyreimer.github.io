@@ -293,9 +293,9 @@ From here we apply the production rules to the axiom in an interative fashion, w
 
 Similar to before with the more general rewrite systems, our more specific L-systems have 2 additional properties:
 
-1) An L-system is **Context-free** if each production rule refers only to an individual symbol and not its neighboring symbols.  If a rule requires that it check not only that single symbol, but also that of its neighbors, then we say that it is **context-sensitive**.
+1) An L-system is **Context-Free** if each production rule refers only to an individual symbol and not its neighboring symbols.  If instead a rule requires that it check not only that single symbol, but also that of its neighbors, then we say that it is **context-sensitive**.
 
-2) An L-system is **deterministic** if there is exactly one production rule per symbol.  If there are several rules that can apply to a certain symbol and we choose a particular rule according to some probability each iteration, then we instead call the L-system **stochastic**.  
+2) An L-system is **Deterministic** if there is exactly one production rule per symbol.  If instead there are several rules that can apply to a certain symbol and we choose a particular rule according to some probability each iteration, then we instead call the L-system **stochastic**.  
 
 If an L-system is both *deterministic* and *context-free* then it is called an [DOL System](https://en.wikipedia.org/wiki/Morphic_word#D0L_system).
 
