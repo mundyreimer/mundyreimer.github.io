@@ -425,7 +425,7 @@ Similarly, in physics we have lightning and [Lichtenberg figures](https://en.wik
 
 Resources:
  
-[^0]: [Handbook of Theoretical Computer Science, Chapter 6: Rewrite Systems](https://github.com/mundyreimer/mundyreimer.github.io/blob/master/docs/kesselman-2008.pdf) by Nachum Dershowitz and Jean-Pierre Jouannaud.  This provided much of the theory behind the theory of [Rewriting](https://en.wikipedia.org/wiki/Rewriting) and [abstract rewrite systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system).  It specifically goes into depth on ARSs from algebraic, logical, and operational perspectives.  
+[^0]: [Handbook of Theoretical Computer Science, Chapter 6: Rewrite Systems](https://www.cs.tau.ac.il/~nachum/papers/survey-draft.pdf) by Nachum Dershowitz and Jean-Pierre Jouannaud.  This provided much of the theory behind the theory of [Rewriting](https://en.wikipedia.org/wiki/Rewriting) and [abstract rewrite systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system).  It specifically goes into depth on ARSs from algebraic, logical, and operational perspectives.  
  
 [^1]: [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf) by [Przemysław Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz) (director of the Computer Graphics group studying Fibonacci numbers and modeling using grammars) and [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer)(a theoretical biologist studying sequence generators). This textbook is based off Lindenmayer's original notes discusssing the theory and practice of Lindenmayer (L-)Systems for modeling plant growth. It provides much of the theoretical material from which I "draw" from (heh).
 
