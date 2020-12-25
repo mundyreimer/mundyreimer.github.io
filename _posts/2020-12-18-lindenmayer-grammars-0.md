@@ -309,7 +309,7 @@ If an L-system is both *deterministic* and *context-free* then it is called an [
         width="400" 
         height="400"
         >
-    <em>Cells in the filament divide in a asymmetric manner: one of the daughters is longer than the other; more over the two possibilities for ordering the daughters (small-long or long-small) obey to a specific rule.</em>
+    <em>Cells in the filament divide in a asymmetric manner: one of the daughters is longer than the other. Additionally, the two possibilities for ordering the daughters (small-long or long-small) obey a specific rule.</em>
 </a>
 </center>
 
