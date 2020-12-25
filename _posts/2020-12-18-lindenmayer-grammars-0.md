@@ -1,5 +1,5 @@
 ---
-title: In the Beginning was the Word - An Intro to L-Grammars
+title: In the Beginning was the Word, An Intro to L-Grammars
 date: 2020-12-15 00:00:00
 featured_image: '/images/post_pics/lindenmayer/biblebook_0.jpg'
 excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.
@@ -89,15 +89,15 @@ And let's set our rewrite rules as follows:
 
 The above basically states that whenever we see two blue fish in a row, we can replace them both with a single red fish.  Similarly, whenever we see a blue fish and then a red fish, we can replace them both with a single blue fish, etc.  The following shows what happens to our line of fish when applying any one single rule at that stage.
 
-*red red blue **blue red** red blue blue*
+*red red blue* **blue red** *red blue blue*
 
-*red red **blue blue** red blue blue*
+*red red* **blue blue** *red blue blue*
 
-*red red red **red blue** blue*
+*red red red* **red blue** *blue*
 
-*red red **red blue** blue*
+*red red* **red blue** *blue*
 
-*red **red blue** blue*
+*red* **red blue** *blue*
 
 **red blue** *blue*
 
