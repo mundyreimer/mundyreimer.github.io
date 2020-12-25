@@ -113,9 +113,9 @@ where anytime we see an ellipsis, we can fill in that with any number of fish as
 
 As an aid to generalizing, from here we can define a few *properties* of rewrite systems:
 
-1. **Normal / Canonical / Standard Form**: This basically means that our object composed of a sequence of terms cannot be simplified any further.  An object is said to be **weakly normalizing** if it can be rewritten *somehow* into a normal form, that is, if *some* rewrite sequence of steps starting from it cannot be extended any further.  An object is said to be **strongly normalizing** if it can be rewritten in *any way* into a normal form, that is, if *every* rewrite sequence starting from it eventually cannot be extended any further. 
+1) **Normal / Canonical / Standard Form**: This basically means that our object composed of a sequence of terms cannot be simplified any further.  An object is said to be **weakly normalizing** if it can be rewritten *somehow* into a normal form, that is, if *some* rewrite sequence of steps starting from it cannot be extended any further.  An object is said to be **strongly normalizing** if it can be rewritten in *any way* into a normal form, that is, if *every* rewrite sequence starting from it eventually cannot be extended any further. 
 
-2. **Confluence**: This describes which terms can be rewritten in more than one way, to yield the same result.  For instance, let's take our rules of addition in multiplication in arithmetic.  We can either evaluate (or rewrite) our equation starting from the left or starting from the right, as shown in the below example.  Since both routes evaluate to the same thing, then we can say that our arithmetic rewriting system is *confluent*.  In other words, no matter how two paths diverge from a common ancestor (w), the paths are joining at some common successor. 
+2) **Confluence**: This describes which terms can be rewritten in more than one way, to yield the same result.  For instance, let's take our rules of addition in multiplication in arithmetic.  We can either evaluate (or rewrite) our equation starting from the left or starting from the right, as shown in the below example.  Since both routes evaluate to the same thing, then we can say that our arithmetic rewriting system is *confluent*.  In other words, no matter how two paths diverge from a common ancestor (w), the paths are joining at some common successor. 
 
 <br/>
 
@@ -131,9 +131,9 @@ As an aid to generalizing, from here we can define a few *properties* of rewrite
 
 <br/> 
 
-3. **Terminating / Noetherian**: A rewrite system (RS) is *terminating* or *noetherian* if there is no infinite chain of rewrite steps.  In other words, in a terminating RS every object is required to have at least one normal form that it reduces to.  This property is crucial if we are to use a RS for computation or as a decision procedure for the validity of identities.   
+3) **Terminating / Noetherian**: A rewrite system (RS) is *terminating* or *noetherian* if there is no infinite chain of rewrite steps.  In other words, in a terminating RS every object is required to have at least one normal form that it reduces to.  This property is crucial if we are to use a RS for computation or as a decision procedure for the validity of identities.   
 
-4. **Convergent**: If our RS is *terminating* AND *confluent*, then we can also call it **convergent**.  In other words, every object has a unique normal form.
+4) **Convergent**: If our RS is *terminating* AND *confluent*, then we can also call it **convergent**.  In other words, every object has a unique normal form.
 
 Rewriting systems can take make forms and act on a number of different objects.  If acting on polygons, they can be used to produce fractal images like the [Koch Snowflake]() where one has two shapes, an *initiator* and a *generator*,
 
@@ -284,21 +284,21 @@ In particular, an L-system is an RS that can be defined as the tuple:
 
 Where that tuple consists of 3-4 things:
 
-1. An **Alphabet**, **V**, of symbols that can be used to make [strings](https://en.wikipedia.org/wiki/String_(computer_science)) (a sequence of characters).  This alphabet in turn consists of symbols that can be replaced (*variables*) and symbols that cannot be replaced (*constants* or *terminals*).  Furthermore, let **V\*** represent the set of all words over **V**, and **V+** represent the set of all non-empty words over **V**.
+1) An **Alphabet**, **V**, of symbols that can be used to make [strings](https://en.wikipedia.org/wiki/String_(computer_science)) (a sequence of characters).  This alphabet in turn consists of symbols that can be replaced (*variables*) and symbols that cannot be replaced (*constants* or *terminals*).  Furthermore, let **V\*** represent the set of all words over **V**, and **V+** represent the set of all non-empty words over **V**.
 
-2. An initial **Axiom** string, **ω**, from which to begin construction (similar to our starting line of colored fish from above). It defines the *initial state* of the system.
+2) An initial **Axiom** string, **ω**, from which to begin construction (similar to our starting line of colored fish from above). It defines the *initial state* of the system.
 
-3. A collection of **[Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science))** or *Productions*, **P**, that expand each symbol into some larger string of symbols.  Specifically it is a set of rewrite rules that can be recursively performed to generate new symbol sequences.  In turn, each production rule consists of two strings, the *predecessor* and the *successor*, that string which is to be replaced and that string which it is replaced by respectively.   If no production is explicitly specified for a given predecessor *a ∈ V* , the identity production *a → a* is assumed to belong to the set of productions *P*.
+3) A collection of **[Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science))** or *Productions*, **P**, that expand each symbol into some larger string of symbols.  Specifically it is a set of rewrite rules that can be recursively performed to generate new symbol sequences.  In turn, each production rule consists of two strings, the *predecessor* and the *successor*, that string which is to be replaced and that string which it is replaced by respectively.   If no production is explicitly specified for a given predecessor *a ∈ V* , the identity production *a → a* is assumed to belong to the set of productions *P*.
 
-4. A **Mechanism** for translating the generated strings into geometric structures. (This is a weak requirement and only used in the case of visualization or other applied purposes)
+4) A **Mechanism** for translating the generated strings into geometric structures. (This is a weak requirement and only used in the case of visualization or other applied purposes)
 
 From here we apply the production rules to the axiom in an interative fashion, with as many rules as possible being applied simultaneously per iteration.  This latter requirement of applying as many rules as possible per iteration rather than applying only one rule per iteration is what separates L-systems from *formal languages* generated by *formal grammars*, and that is why they are sometimes called *parallel* rewriting systems.  Thus, L-systems are strict *subsets* of languages.  This parallel nature was originally meant to capture the cell divisions that occur in multicellular organisms, where many divisions can occur at the same time.[^1]  *This is a key distinguishing feature going forward.*
 
 Similar to before with the more general rewrite systems, L-systems have 2 additional properties:
 
-1. An L-system is **Context-free** if each production rule refers only to an individual symbol and not its neighboring symbols.  If a rule requires that it check not only that single symbol, but also that of its neighbors, then we say that it is **context-sensitive**.
+1) An L-system is **Context-free** if each production rule refers only to an individual symbol and not its neighboring symbols.  If a rule requires that it check not only that single symbol, but also that of its neighbors, then we say that it is **context-sensitive**.
 
-2. An L-system is **deterministic** if there is exactly one production rule per symbol.  If there are several rules that can apply to a certain symbol and we choose a particular rule according to some probability each iteration, then we instead call the L-system **stochastic**.  
+2) An L-system is **deterministic** if there is exactly one production rule per symbol.  If there are several rules that can apply to a certain symbol and we choose a particular rule according to some probability each iteration, then we instead call the L-system **stochastic**.  
 
 If an L-system is both *deterministic* and *context-free* then it is called an [DOL System](https://en.wikipedia.org/wiki/Morphic_word#D0L_system).
 
