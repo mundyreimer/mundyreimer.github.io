@@ -181,7 +181,7 @@ Or when the objects are strings in a natural language, they can be used in lingu
 
 <br/> 
 
-Or when the objects are arrays, as can be found in [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) where they form the cornerstone of the diverse phenomena witnessed,
+Or when the objects are arrays, like in [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) where they form the cornerstone of the diverse phenomena witnessed,
 
 <br/>
 
