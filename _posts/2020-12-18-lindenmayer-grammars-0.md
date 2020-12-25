@@ -301,7 +301,7 @@ If an L-system is both *deterministic* and *context-free* then it is called an [
 
 ### Applications
 
-So let's investigate how Lindenmayer used his L-systems to model the growth of algae. We can see that he defined his systems components as follows:
+So let's investigate how Lindenmayer originally used his L-systems to model the growth of algae. We can see that he defined his systems components as follows:
 
 **Alphabet**: A B (both variables, no constants)
 
