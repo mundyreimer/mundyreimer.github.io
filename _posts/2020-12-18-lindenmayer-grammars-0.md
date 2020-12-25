@@ -325,15 +325,15 @@ So let's investigate how Lindenmayer originally used his L-systems to model the 
 
 At each stage of iteration *n* we can see that this produces the following:
 
-n=0:               A             start (axiom/initiator)
+n=0:               A             (start axiom/initiator)
 
-n=1:             A   B           initial single A spawned into AB 
+n=1:             A   B           (initial single A spawned into AB) 
 
 n=2:           A B      A        (A → AB), (B → A)
 
-n=3:         A B A       A B     ...
+n=3:         A B A       A B     
 
-n=4:       A B A A B     A B A   ... 
+n=4:       A B A A B     A B A    
 
 n=5: ABAABABAABAAB
 
