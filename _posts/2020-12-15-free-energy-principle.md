@@ -2,7 +2,7 @@
 title: On the Free Energy Principle
 date: 2020-12-15 00:00:00
 featured_image: '/images/post_pics/free_energy_principle/causality_book_cover.jpg'
-excerpt: A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle. Discusses Helmholtz machines, causal flow, dynamical systems, markov blankets, thermodynamics, entropy, dynamical systems, variational methods, teleology, philosophy of science, & more.
+excerpt: A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle. Discusses Helmholtz machines, causal flow, dynamical systems, markov blankets, thermodynamics, entropy, variational methods, teleology, philosophy of science, & more.
 ---
 *Updated: 2020-12-17*  
 *Topics: [Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
