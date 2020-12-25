@@ -69,7 +69,7 @@ With that said, without necessarily strongly claiming the truth of such a princi
 
 <br/> 
 
-### Theory of Rewrite Systems
+### Theory of Rewriting Systems
 
 We all learn that equations are composed of a string of symbols or terms written down.  For example, in the equation *2+3+4=9*, we have seven different symbols or terms: *'2', '+', '3', '+', '4', '=', and '9'*.  We know that we can *simplify* this formula by replacing certain subterms in this formula with equivalent terms, namely by replacing the three symbols of *'2+3'* with the single symbol *'5'*, etc, eventually boiling down to the expression *'9=9'*.  
 
