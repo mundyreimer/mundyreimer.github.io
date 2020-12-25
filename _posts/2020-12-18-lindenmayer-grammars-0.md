@@ -207,7 +207,7 @@ Or when the objects are graphs, like in Stephen [Wolfram's Physics Project](http
         width="400" 
         height="400"
         >
-    <em>A generative parse tree: the sentence is divided into a noun phrase (subject), and a verb phrase which includes the object.</em>
+    <em></em>
 </a>
 </center>
 
