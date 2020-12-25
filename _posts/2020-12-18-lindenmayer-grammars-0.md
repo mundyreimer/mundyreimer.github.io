@@ -26,8 +26,8 @@ Could simple rules govern how living structures build themselves out of non-livi
 <center>
 <a href="https://en.wikipedia.org/wiki/Drawing_Hands">
     <img src="/images/post_pics/lindenmayer/escher_hands.jpeg"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>Drawing Hands is a lithograph by the Dutch artist M. C. Escher.  It is referenced in the book Gödel, Escher, Bach, by Douglas Hofstadter, who calls it an example of a strange loop.</em>
 </a>
@@ -44,8 +44,8 @@ It is key to note that we are not envisoning all of Nature as literally a comput
 <center>
 <a href="https://en.wikipedia.org/wiki/Rule_30">
     <img src="/images/post_pics/lindenmayer/conusshell.jpeg"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>A Conus textile shell similar in appearance to Rule 30. Rule 30 is an elementary cellular automaton that displays complex aperiodic, chaotic behavior, similar to patterns like that of this shell.</em>
 </a>
@@ -60,8 +60,8 @@ With that said, without necessarily strongly claiming the truth of such a princi
 <center>
 <a href="https://www.felienne.com/archives/2974">
     <img src="/images/post_pics/lindenmayer/turingmachine.gif"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em></em>
 </a>
@@ -122,8 +122,8 @@ As an aid to generalizing, from here we can define a few *properties* of rewrite
 <center>
 <a href="https://en.wikipedia.org/wiki/Confluence_(abstract_rewriting)">
     <img src="/images/post_pics/lindenmayer/confluence_example.png"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>In arithmetic we can either simplify our expression via the left path or the right path.</em>
 </a>
@@ -172,8 +172,8 @@ Or when the objects are strings in natural language, they can be used in linguis
 <center>
 <a href="https://en.wikipedia.org/wiki/Generative_grammar">
     <img src="/images/post_pics/lindenmayer/grammartree.png"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>A generative parse tree: the sentence is divided into a noun phrase (subject), and a verb phrase which includes the object.</em>
 </a>
@@ -188,8 +188,8 @@ Or when the objects are arrays, as can be found in [Conway's Game of Life](https
 <center>
 <a href="https://www.samcodes.co.uk/project/game-of-life/">
     <img src="/images/post_pics/lindenmayer/gameoflife.gif"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>An interactive implementation of John Conway's Game of Life built in WebGL by Sam Twidale.</em>
 </a>
@@ -204,8 +204,8 @@ Or when the objects are graphs, like in Stephen [Wolfram's Physics Project](http
 <center>
 <a href="https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/">
     <img src="/images/post_pics/lindenmayer/wolframgraph.png"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>A generative parse tree: the sentence is divided into a noun phrase (subject), and a verb phrase which includes the object.</em>
 </a>
@@ -220,8 +220,8 @@ With that said, for right now we will study a particular type of rewrite systems
 <center>
 <a href="http://algorithmicbotany.org/papers/abop/abop.pdf">
     <img src="/images/post_pics/lindenmayer/nestedrewritesystems.png"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em></em>
 </a>
@@ -237,8 +237,8 @@ With that said, for right now we will study a particular type of rewrite systems
 <center>
 <a href="https://en.wikipedia.org/wiki/L-system">
     <img src="/images/post_pics/lindenmayer/Lsystem0.jpg"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>L-system trees form realistic models of natural patterns.</em>
 </a>
@@ -253,8 +253,8 @@ A [Lindenmayer System](https://en.wikipedia.org/wiki/L-system) (sometimes called
 <center>
 <a href="https://en.wikipedia.org/wiki/L-system">
     <img src="/images/post_pics/lindenmayer/Lsystem1.jpg"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>'Weeds', generated using an L-system in 3D.</em>
 </a>
@@ -269,8 +269,8 @@ L-systems grew in popularity due to the beauty of how simple [recursive](https:/
 <center>
 <a href="https://en.wikipedia.org/wiki/L-system">
     <img src="/images/post_pics/lindenmayer/Lsystem2.gif"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>Recursively growing a plant.</em>
 </a>
@@ -337,8 +337,8 @@ What's interesting to note is that with these rules if we count the length of ea
 <center>
 <a href="https://en.wikipedia.org/wiki/Fibonacci_sequence">
     <img src="/images/post_pics/lindenmayer/fibonaccispiral.png"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>A tiling with squares whose side lengths are successive Fibonacci numbers: 1, 1, 2, 3, 5, 8, 13 and 21.  An approximation of the golden spiral is created by drawing circular arcs connecting the opposite corners of squares in the Fibonacci tiling.</em>
 </a>
@@ -353,8 +353,8 @@ The formalism above is used to capture and simulate the notion of the developmen
 <center>
 <a href="http://algorithmicbotany.org/papers/abop/abop.pdf">
     <img src="/images/post_pics/lindenmayer/algae.png"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em></em>
 </a>
@@ -403,8 +403,8 @@ Similarly, in physics we have lightning and [Lichtenberg figures](https://en.wik
 <center>
 <a href="https://www.woodworkersjournal.com/evan-blomquist-high-voltage-woodburning/">
     <img src="/images/post_pics/lindenmayer/treepattern2.gif"
-        width="500" 
-        height="500"
+        width="400" 
+        height="400"
         >
     <em>A Lichtenberg figure is a branching electric discharge that sometimes appears on the surface or in the interior of insulating materials.  It is an example of natural phenomena which exhibit fractal properties.  This particular video was taken by Evan Blomquist from *Electrostatic Wood*.</em>
 </a>
