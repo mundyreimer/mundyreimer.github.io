@@ -111,7 +111,7 @@ We can see that with an odd number of blue fish, the sequence will always end in
 
 where anytime we see an ellipsis, we can fill in that with any number of fish as long as the other ellipsis is the same amount.  These variations upon rules can continue on and on.
 
-As an aid to generalizing, from here we can define a few *properties* of rewrite systems:
+To help us generalize, let's define a few *properties* of rewrite systems:
 
 1) **Normal / Canonical / Standard Form**: This basically means that our object composed of a sequence of terms cannot be simplified any further.  An object is said to be **weakly normalizing** if it can be rewritten *somehow* into a normal form, that is, if *some* rewrite sequence of steps starting from it cannot be extended any further.  An object is said to be **strongly normalizing** if it can be rewritten in *any way* into a normal form, that is, if *every* rewrite sequence starting from it eventually cannot be extended any further. 
 
