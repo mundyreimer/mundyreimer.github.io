@@ -16,7 +16,7 @@ TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, and 
 
 ### Motivation
 
-Could simple rules govern how living structures build themselves out of non-living structures?  Can these simple rules generate much of the biological, chemical, and physical phenomena we see today?  In other words, can these complex systems be reduced to just the interaction of simple rules?  More generally, could these rules allow us to blur the arbitrary Newtonian distinction made between objects and the background from which they are situated in, such that the objects are *composed of* the background itself?
+Could simple rules govern how living structures build themselves out of non-living structures?  Can these simple rules generate much of the biological, chemical, and physical phenomena we see around us?  In other words, can these complex systems be reduced to just the interaction of simple rules?  More generally, could these rules allow us to blur the arbitrary Newtonian distinction made between objects and the background from which they are situated in, such that the objects are *composed of* the background itself?
 
 <br/>
 
