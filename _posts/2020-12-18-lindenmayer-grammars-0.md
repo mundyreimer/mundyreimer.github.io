@@ -102,7 +102,7 @@ The above basically states that whenever we see two blue fish in a row, we can r
 
 **red**
 
-We can see that with an odd number of blue fish, the sequence will always end in one blue fish.  We can modify the rules so that the outcome is totally independent of the particular rule we choose to apply when.  We can also modify the rules so that as mentioned before, instead of having every rule simplify the line of fish, some rules can generate new fish, etc.  Additionally, we can modify our rules so that they take the form of a *template* such as,
+We can see that with an even number of blue fish, the sequence will always end in red fish.  We can modify the rules so that the outcome is totally independent of the particular rule we choose to apply when.  We can also modify the rules so that as mentioned before, instead of having every rule simplify the line of fish, some rules can generate new fish, etc.  Additionally, we can modify our rules so that they take the form of a *template* such as,
 
 *blue ... blue -> red ...*
 
