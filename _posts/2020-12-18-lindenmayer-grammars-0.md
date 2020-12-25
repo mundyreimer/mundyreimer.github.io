@@ -2,7 +2,7 @@
 title: An Introduction to Lindenmayer Grammars
 date: 2020-12-18 00:00:00
 featured_image: '/images/post_pics/lindenmayer/biblebook_0.jpg'
-excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.
+excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions. 
 ---
 *Updated: 2020-12-24*  
 *Topics: [Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
@@ -10,7 +10,7 @@ excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and
 *Status: Still in progress* 
 ## Rewriting Systems Sequence - Part 0
 
-TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, formal grammars, etc, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.  
+TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.  
 
 ---
 
