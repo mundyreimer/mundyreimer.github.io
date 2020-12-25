@@ -82,18 +82,27 @@ For an example of rewrite systems in action, let's imagine we have a set of red 
 And let's set our rewrite rules as follows:
 
 *blue blue -> red*
+
 *blue red -> blue*
+
 *red blue -> blue*
 
 The above basically states that whenever we see two blue fish in a row, we can replace them both with a single red fish.  Similarly, whenever we see a blue fish and then a red fish, we can replace them both with a single blue fish, etc.  The following shows what happens to our line of fish when applying any one single rule at that stage.
 
 *red red blue **blue red** red blue blue*
+
 *red red **blue blue** red blue blue*
+
 *red red red **red blue** blue*
+
 *red red **red blue** blue*
+
 *red **red blue** blue*
+
 **red blue** *blue*
+
 **blue blue**
+
 **red**
 
 We can see that with an odd number of blue fish, the sequence will always end in one blue fish.  We can modify the rules so that the outcome is totally independent of the particular rule we choose to apply when.  We can also modify the rules so that as mentioned before, instead of having every rule simplify the line of fish, some rules can generate new fish, etc.  Additionally, we can modify our rules so that they take the form of a *template* such as,
@@ -298,7 +307,9 @@ If an L-system is both *deterministic* and *context-free* then it is called an [
 So let's investigate how Lindenmayer used his L-systems to model the growth of algae. We can see that he defined his systems components as follows:
 
 **Alphabet**: A B (both variables, no constants)
+
 **Axiom**: A (what we start with)
+
 **Rules**: (A → AB), (B → A)
 
 At each stage of iteration *n* we can see that this produces the following:
