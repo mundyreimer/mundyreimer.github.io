@@ -301,6 +301,20 @@ If an L-system is both *deterministic* and *context-free* then it is called an [
 
 ### Applications
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Anabaena">
+    <img src="/images/post_pics/lindenmayer/algae1.jpeg"
+        width="400" 
+        height="400"
+        >
+    <em>A tiling with squares whose side lengths are successive Fibonacci numbers: 1, 1, 2, 3, 5, 8, 13 and 21.  An approximation of the golden spiral is created by drawing circular arcs connecting the opposite corners of squares in the Fibonacci tiling.</em>
+</a>
+</center>
+
+<br/> 
+
 So let's investigate how Lindenmayer originally used his L-systems to model the growth of algae. We can see that he defined his systems components as follows:
 
 **Alphabet**: A B (both variables, no constants)
