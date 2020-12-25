@@ -112,7 +112,7 @@ To help us generalize, let's define a few *properties* of rewrite systems:
 
 1) **Normal / Canonical / Standard Form**: This basically means that our object composed of a sequence of terms cannot be simplified any further.  An object is said to be **weakly normalizing** if it can be rewritten *somehow* into a normal form, that is, if *some* rewrite sequence of steps starting from it cannot be extended any further.  An object is said to be **strongly normalizing** if it can be rewritten in *any way* into a normal form, that is, if *every* rewrite sequence starting from it eventually cannot be extended any further. 
 
-2) **Confluence**: This describes which terms can be rewritten in more than one way, to yield the same result.  For instance, let's take our rules of addition in multiplication in arithmetic.  We can either evaluate (or rewrite) our equation starting from the left or starting from the right, as shown in the below example.  Since both routes evaluate to the same thing, then we can say that our arithmetic rewriting system is *confluent*.  In other words, no matter how two paths diverge from a common ancestor (w), the paths are joining at some common successor. 
+2) **Confluence**: This describes which terms can be rewritten in more than one way, to yield the same result.  For instance, let's take our rules of addition and multiplication in arithmetic.  We can either evaluate (or rewrite) our equation starting from the left or starting from the right, as shown in the below example.  Since both routes evaluate to the same thing, then we can say that our arithmetic rewriting system is *confluent*.  In other words, no matter how two paths diverge from a common ancestor (w), the paths are joining at some common successor. 
 
 <br/>
 
