@@ -359,7 +359,7 @@ What's interesting to note is that with these rules if we count the length of ea
 
 <br/> 
 
-The formalism above is used to capture and simulate the notion of the development of a fragment of a multicellular filament such as that found in the blue-green bacteria *Anabaena catenula* and other various algae.[^1].  
+The formalism above is used to capture and simulate the notion of the development of a fragment of a multicellular filament such as that found in the blue-green bacteria *Anabaena catenula* and other various algae,[^1]  
 
 <br/>
 
