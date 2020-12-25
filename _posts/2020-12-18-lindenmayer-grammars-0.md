@@ -9,11 +9,10 @@ excerpt: An introduction to abstract rewriting systems, lindenmayer systems, and
 *Confidence: Probable*  
 *Status: Still in progress* 
 
+(*Note: If the LaTeX / math equations don't render the first time around, you just need to refresh the page once.  Still have to figure that one out, sorry!* 🤷)
 ## Rewriting Systems Sequence - Part 0
 
 TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, formal grammars, etc, covering the philosophy & motivation, mathematical theory, practical applications, and major assumptions.  
-
-(*Note: If the LaTeX / math equations don't render the first time around, you just need to refresh the page once.  Still have to figure that one out, sorry!* 🤷)
 
 ---
 
