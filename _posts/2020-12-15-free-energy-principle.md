@@ -11,8 +11,6 @@ excerpt: A collection of my thoughts, resources, and related ideas regarding the
 
 TL;DR - A collection of my thoughts, resources, and related ideas regarding the Free Energy Principle. Discusses Helmholtz machines, causal flow, dynamical systems, markov blankets, thermodynamics, entropy, dynamical systems, variational principles, teleology, philosophy of science, & more. 
 
-(*Note: If the LaTeX / math equations don't render the first time around, you just need to refresh the page once.  Still have to figure that one out, sorry!* 🤷)
-
 ---
 
 ### Motivation
@@ -216,6 +214,8 @@ So how do we go about encoding some Markov blanket into the language of mathemat
 This adjacency matrix, which we can call *A*, represents the causal graph of the entire system.  From this we can construct a matrix *B* that represents the Markov blanket only[^11].  Doing some linear algebraic manipulations to get there, Friston defines our new matrix,
 
 $$ B = A + A^{T} + A^{T}A $$  
+
+(*Note: If the LaTeX / math equations don't render the first time around, you just need to refresh the page once.  Still have to figure that one out, sorry!* 🤷)
 
 To further reduce our graph to only those nodes we care about (for instance, our *minimal* Markov blanket), we can then multiply this matrix B by a binary encoded vector V (a vector of 1s and 0s) representing the nodes we want.  If you've studied some [linear algebra](https://en.wikipedia.org/wiki/Linear_algebra), we can then recall that the [eigenvector](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors) of a matrix (where a matrix is just a [linear transformation / mapping](https://en.wikipedia.org/wiki/Linear_map) from one space to another) is the vector that maintains its direction under that transformation and only scales to some scalar amount λ.  This principal eigenvector can now represent the strength of causal interaction between states, from which we then apply some educated pick of a threshold to group individual states.[^11]  
 
