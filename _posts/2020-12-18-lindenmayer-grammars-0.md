@@ -194,7 +194,7 @@ Or when the objects are arrays, like in [Conway's Game of Life](https://en.wikip
 
 <br/> 
 
-Or when the objects are graphs, like in Stephen [Wolfram's Physics Project](https://en.wikipedia.org/wiki/Wolfram_Physics_Project) where he is trying to create a new fundamental theory of physics and *derive* physical laws from the bottom-up,
+Or when the objects are graphs, like in Stephen [Wolfram's Physics Project](https://en.wikipedia.org/wiki/Wolfram_Physics_Project) where he is trying to create a new fundamental theory of physics and *derive* physical laws from the bottom-up (while [other people](https://arxiv.org/abs/1901.00592) are also using graph rewriting systems to analyze causality in molecular systems),
 
 <br/>
 
