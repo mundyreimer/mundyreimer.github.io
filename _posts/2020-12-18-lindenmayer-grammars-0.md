@@ -297,8 +297,8 @@ Similar to before with the more general rewrite systems, our more specific L-sys
 
 2) An L-system is **Deterministic** if there is exactly one production rule per symbol.  If instead there are several rules that can apply to a certain symbol and we choose a particular rule according to some probability each iteration, then we call the L-system **stochastic**.  
 
-If an L-system is both *deterministic* and *context-free* then it is called a [DOL System](https://en.wikipedia.org/wiki/Morphic_word#D0L_system).
-
+If an L-system is both *deterministic* and *context-free* then it is called a [DOL System](https://en.wikipedia.org/wiki/Morphic_word#D0L_system).  It also might be key to note that [rewriting systems are not necessarily algorithms](https://ncatlab.org/nlab/show/rewriting)!  They can however be turned into algorithms if they have the following conditions: we can apply the rules in a *deterministic* way, use a [reduction strategy](https://en.wikipedia.org/wiki/Reduction_strategy_(lambda_calculus)) showing how we can simplify a complex expression by successive steps, and finally  
+showing that there is a unique normal form (ie - a unique set of terms that can no longer be reduced) that can be found for each word such that the algorithm will *terminate*.  
 ### Applications
 
 <br/>
