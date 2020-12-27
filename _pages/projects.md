@@ -59,7 +59,7 @@ Used: Optical Character Recognition (OCR), Mathematical Syntax Analysis, Lexical
 
 ### bioinformatics
 
- As part of our [Genomic Data Science Series](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e) of tutorials, my friend, [Nick Parker](https://www.linkedin.com/in/nicholas-j-parker) and I analyzed microbiome genetic sequencing data from simple swabs of surfaces to reverse engineer the location of where these swabs came from without knowing the location beforehand.  We investigated the genetic differences of these communities of microorganisms using unsupervised machine learning and visualization methods based on various [dimensionality reduction techniques](https://towardsdatascience.com/visualizing-high-dimensional-microbiome-data-eacf02526c3a).
+ As part of our [Genomic Data Science Series](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e) of tutorials, my friend [Nick Parker](https://www.linkedin.com/in/nicholas-j-parker) and I analyzed microbiome genetic sequencing data from simple swabs of surfaces to reverse engineer the location of where these swabs came from without knowing the location beforehand.  We investigated the genetic differences of these communities of microorganisms using unsupervised machine learning and visualization methods based on various [dimensionality reduction techniques](https://towardsdatascience.com/visualizing-high-dimensional-microbiome-data-eacf02526c3a).
 
  Used:  Uniform Approximation and Projection (UMAP), t-Distributed Stochastic Neighbor Embedding (t-SNE), Principal Component Analysis (PCA) 
 
