@@ -189,7 +189,7 @@ Likewise, if we apply our production / rewriting rules twice for *n* = 2, where 
         width="400" 
         height="400"
         >
-    <em>Turtle drawing a n=2 Minkowski Island.</em>
+    <em>Turtle drawing an n=2 Minkowski Island.</em>
 </a>
 </center>
 
