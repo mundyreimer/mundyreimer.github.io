@@ -2,7 +2,7 @@
 title: Generating a Garden with Python
 date: 2020-12-20 00:00:00
 featured_image: '/images/post_pics/lindenmayer/eden0.jpg'
-excerpt: Part 1 of my Rewriting Systems Sequence. A Python tutorial on experimenting with Lindenmayer systems to generate biological structures of various plants.
+excerpt: Second part of my Rewriting Systems Sequence. A Python tutorial on experimenting with Lindenmayer systems to generate biological structures of various plants.
 ---
 *Created: 2020-12-20*
 *Updated: 2020-12-24*  
