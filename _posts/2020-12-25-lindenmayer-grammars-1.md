@@ -68,7 +68,7 @@ After importing Turtle, the first thing you need to do is create a separate wind
 {% highlight python %}
 import turtle
 
-sc = Screen()
+screen = Screen()
 {% endhighlight %}
 
 If you'd like, you can also change the color of the background from the default white to some other color by,
