@@ -19,7 +19,23 @@ If you haven't already, check out [part 0 of this sequence](https://mundyreimer.
 
 ### Background Review
 
-We started off this series wondering if the complex phenomena we see around us could be reduced to just the interaction of simple rules.  In general, we were motivated by wondering how living structures build themselves out of non-living structures.  Specifically, we wanted to see if we could model biological systems using a type of [formal grammar](https://en.wikipedia.org/wiki/Formal_grammar) and parallel [rewriting system](https://en.wikipedia.org/wiki/Rewriting) known as a *Lindenmayer system* (L-system).
+We started off this series wondering if the complex phenomena we see around us could be reduced to just the interaction of simple rules.  In general, we were motivated by wondering how living structures build themselves out of non-living structures.  
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Drawing_Hands">
+    <img src="/images/post_pics/lindenmayer/escher_hands.jpeg"
+        width="400" 
+        height="400"
+        >
+    <em>Drawing Hands is a lithograph by the Dutch artist M. C. Escher.  It is referenced in the book Gödel, Escher, Bach, by Douglas Hofstadter, who calls it an example of a strange loop.</em>
+</a>
+</center>
+
+<br/> 
+
+Specifically, we wanted to see if we could model biological systems using a type of [formal grammar](https://en.wikipedia.org/wiki/Formal_grammar) and parallel [rewriting system](https://en.wikipedia.org/wiki/Rewriting) known as a *Lindenmayer system* (L-system).
 
 We can recall that an L-system is composed of 4 things:
 
