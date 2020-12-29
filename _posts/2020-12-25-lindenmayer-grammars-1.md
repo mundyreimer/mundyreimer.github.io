@@ -53,7 +53,7 @@ From here we need to choose a package that allows us to visualize our output thr
 
 <center>
 <a href="https://en.wikipedia.org/wiki/Turtle_(robot)">
-    <img src="/images/post_pics/lindenmayer/n1_island.gif"
+    <img src="/images/post_pics/lindenmayer/turtlerobot.jpg"
         width="400" 
         height="400"
         >
