@@ -349,8 +349,8 @@ And a sample tree illustrating this axis property in action[^1],
 <center>
 <a href="">
     <img src="/images/post_pics/lindenmayer/exampleaxialtree.png"
-        width="400" 
-        height="400"
+        width="500" 
+        height="500"
         >
     <em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
 </a>
