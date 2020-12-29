@@ -13,6 +13,8 @@ excerpt: Part 0 of my Rewriting Systems Sequence. An introduction to abstract re
 
 TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, exploring the philosophical motivation, mathematical theory, practical applications, and major assumptions.  
 
+Feel free to skip the background + theory and head to the [next part of this sequence](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) of articles where we implement Lindenmayer systems in Python to generate plant-like structures.
+
 ---
 
 ### Motivation
@@ -430,7 +432,7 @@ And because of the [ubiquity of arboreal phenomena](https://en.wikipedia.org/wik
 
 ### Moving Forward
 
-In the [next article of this series](), we'll lean into the more practical side, and dive into the nitty-gritty showing how to experiment and simulate L-systems in Python.
+In the [next article of this series](https://mundyreimer.github.io/blog/lindenmayer-grammars-1), we'll lean into the more practical side, and dive into the nitty-gritty showing how to experiment and simulate L-systems in Python to generate plant-like structures.
 
 ---
 
