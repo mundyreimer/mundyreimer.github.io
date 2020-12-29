@@ -834,6 +834,8 @@ And our plant is generated! :)
 
 <br/> 
 
+Go ahead and play around with inputting other various starting axioms, productions rules, iteration numbers, and angles.  Each of the pictures above should give you the required parameters to generate them.  Happy Gardening🌿 :)
+
 ### Moving Forward
 
 In summary, we've learned:
