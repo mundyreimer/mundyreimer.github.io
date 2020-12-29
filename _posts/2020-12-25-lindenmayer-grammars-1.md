@@ -213,7 +213,7 @@ And bumping it up to *n* = 3 we get,
 
 ...etc.
 
-As you can see, this *Mechanism* for translating strings to geometric objects can be specified in a rather simple way to generate seemingly complex objects.  And in our example we only had a *single* production rule!  
+As you can see, this *Mechanism* for translating strings to geometric objects can be specified in a rather simple way to generate seemingly complex objects.  And we did all this with a *single* production rule in our examples!  
 
 Using the same starting *Axiom* **ω** and just switching up our production rules, Prusinkiewicz and Lindenmayer show how we can generate a startling amount of beautiful structures[^1],
 
