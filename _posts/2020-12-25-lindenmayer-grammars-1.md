@@ -7,7 +7,7 @@ excerpt: Second part of my Rewriting Systems Sequence. A Python tutorial on expe
 *Created: 2020-12-20*  
 *Updated: 2020-12-24*  
 *Topics: [Computer Science](https://mundyreimer.github.io/archive),[Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
-*Confidence: Probable*  
+*Confidence: Likely*  
 *Status: Still in progress* 
 ## Rewriting Systems Sequence - Part 1
 
