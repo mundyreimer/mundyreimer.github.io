@@ -523,8 +523,8 @@ Overall, we'd like to simulate the *interaction between plant parts* or between 
 <center>
 
 <img src="/images/post_pics/lindenmayer/contextsensitive.png"
-    width="400" 
-    height="400"
+    width="500" 
+    height="500"
     >
 <em>An example of a context-sensitive L-System from pg 31 of *The Algorithmic Beauty of Plants*.</em>
 
