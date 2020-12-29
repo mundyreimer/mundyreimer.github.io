@@ -47,7 +47,7 @@ Once you've got that done you can install whatever versions of Python you'd like
 
 ### How to Draw
 
-From here we need to choose a package that allows us to visualize our output through some graphical plotting method.  There are multiple options to choose from like [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), and [Pygame](https://www.pygame.org/wiki/about), but I chose to go with the humble [Turtle](https://docs.python.org/3/library/turtle.html) package since it follows the ["batteries-included philosophy"](https://protocolostomy.com/2010/01/22/what-batteries-included-means/) and comes pre-installed with Python.[^]  I'm next going to go over a few important things you should know about Turtle.
+From here we need to choose a package that allows us to visualize our output through some graphical plotting method.  There are multiple options to choose from like [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), and [Pygame](https://www.pygame.org/wiki/about), but I chose to go with the humble [Turtle](https://docs.python.org/3/library/turtle.html) package since it follows the ["batteries-included philosophy"](https://protocolostomy.com/2010/01/22/what-batteries-included-means/) and comes pre-installed with Python.[^]  I'm next going to go over a few fundamentals you should know about Turtle.
 
 <br/>
 
