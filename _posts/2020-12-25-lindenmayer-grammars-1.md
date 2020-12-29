@@ -141,7 +141,7 @@ Our initial state or *Axiom* **ω** is given by the string:
 
 Which means our initial string tells us to go *Forward, Right, Forward, Right, Forward, Right, Forward*.  In other words, our initial state tells us that we'll be drawing a box.
 
-And our **Production Rule** **p** that explains how we *rewrite* our given current state to output the next state is given by the rule:
+And our *Production Rule* **p** that explains how we *rewrite* our given current state to output the next state is given by the rule:
 
 *p :  F → F − F + F + F F − F − F + F*
 
@@ -260,16 +260,6 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 <br/> 
 
 ### Edge vs. Node Rewriting
-
-- see here http://www.selcukergen.net/ncca_lsystems_research/lsystems.html
-
-- also see pg 18 of textbok
-
-- appending new parts instead of replacing
-
-- used to fill a region by a *self-avoiding* curve which is biologicall relevant if we don't want things to intersect / overlap
-
-- The "X" is just a variable to ignore when drawing, but it is logically relevant (just not "physically relevant")
 
 So now that we know how rewriting systems *replace* some character, substring, or set of symbols with another string of symbols, what if we wanted to *append* that new string instead?  This is where Prusinkiewicz and Lindenmayer explain that there are two types of rewriting mechanisms.  The first type is called *Edge Rewriting* and is what we did before with *replacing* symbol(s) with other symbols.  The second type is called *Node Rewriting* and occurs when we *append* new symbol(s) instead.  We can specify the latter formally by using a variable such as *X* like in the following example by [Ergen](http://www.selcukergen.net/ncca_lsystems_research/lsystems.html),   
 
