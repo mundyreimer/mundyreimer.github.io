@@ -274,7 +274,7 @@ All that variable *X* does is act like a logical place-holder for symbols that d
 
 <center>
 <a href="http://www.selcukergen.net/ncca_lsystems_research/lsystems.html">
-    <img src="/images/post_pics/lindenmayer/noterewrite.jpg"
+    <img src="/images/post_pics/lindenmayer/noderewrite.jpg"
         width="400" 
         height="400"
         >
