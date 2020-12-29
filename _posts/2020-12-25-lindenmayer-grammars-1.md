@@ -532,7 +532,7 @@ Overall, we'd like to simulate the *interaction between plant parts* or between 
 
 <br/> 
 
-This latter context-sensitive property grants us more than one might realize at first glance.  Probably the most important biologically relevant phenomenon that it allows us to capture is that of [signal propagation](https://en.wikipedia.org/wiki/Cell_signaling) (which is especially relevant in the neuronal case!  I know people have already been playing with evolving neural networks with L-systems[^7][^8][^9], but imagine implementing an *entire* neural network, signal propagation and all, in terms of L-systems!)  
+This latter context-sensitive property grants us more than one might realize at first glance.  Probably the most important biologically relevant phenomenon that it allows us to capture is that of [signal propagation](https://en.wikipedia.org/wiki/Cell_signaling) (which has found many applications[^7][^8][^9], but imagine implementing an *entire* neural network, signal propagation and all, in terms of L-systems!)  
 
 As an example, let us use this context-sensitivity to simulate signal propagation through a string of symbols,
 
