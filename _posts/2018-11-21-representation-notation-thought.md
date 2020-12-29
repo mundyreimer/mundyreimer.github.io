@@ -4,6 +4,7 @@ date: 2018-12-10 00:00:00
 featured_image: '/images/post_pics/representation_notation/inupiaq.png'
 excerpt: Compilation of resources featuring the interplay of mathematics, language, and notation
 ---
+*Created: 2018-12-10*    
 *Updated: 2019-08-23*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Speculative*  

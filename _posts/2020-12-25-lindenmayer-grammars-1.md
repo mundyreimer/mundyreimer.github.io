@@ -4,7 +4,7 @@ date: 2020-12-20 00:00:00
 featured_image: '/images/post_pics/lindenmayer/eden0.jpg'
 excerpt: Second part of my Rewriting Systems Sequence. A Python tutorial on experimenting with Lindenmayer systems to generate biological structures of various plants.
 ---
-*Created: 2020-12-20*
+*Created: 2020-12-20*  
 *Updated: 2020-12-24*  
 *Topics: [Computer Science](https://mundyreimer.github.io/archive),[Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
 *Confidence: Probable*  
@@ -47,7 +47,7 @@ Once you've got that done you can install whatever versions of Python you'd like
 
 ### How to Draw
 
-From here we need to choose a package that allows us to visualize our output through some graphical plotting method.  There are multiple options to choose from like [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), and [Pygame](https://www.pygame.org/wiki/about), but I chose to go with the humble [Turtle](https://docs.python.org/3/library/turtle.html) package since it follows the ["batteries-included philosophy"](https://protocolostomy.com/2010/01/22/what-batteries-included-means/) and comes pre-installed with Python.[^]  I'm next going to go over a few fundamentals you should know about Turtle.
+From here we need to choose a package that allows us to visualize our output through some graphical plotting method.  There are multiple options to choose from like [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), [Processing.py](https://py.processing.org/) and [Pygame](https://www.pygame.org/wiki/about), but I chose to go with the humble [Turtle](https://docs.python.org/3/library/turtle.html) package since it follows the ["batteries-included philosophy"](https://protocolostomy.com/2010/01/22/what-batteries-included-means/) and comes pre-installed with Python.[^]  I'm next going to go over a few fundamentals you should know about Turtle.
 
 <br/>
 

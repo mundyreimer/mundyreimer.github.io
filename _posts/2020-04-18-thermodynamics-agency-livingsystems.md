@@ -4,7 +4,7 @@ date: 2020-04-18 00:00:00
 featured_image: '/images/post_pics/thermodynamics_agency_livingsystems/hopf_fibration.jpg'
 excerpt: Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin of a Proto-Self using concepts such as dissipative systems, toroidal geometries, and variational free energy.   
 ---
-*Created: 2013-06-15*
+*Created: 2013-06-15*  
 *Updated: 2020-11-08*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Highly Speculative*  

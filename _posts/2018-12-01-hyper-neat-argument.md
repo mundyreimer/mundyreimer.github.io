@@ -4,7 +4,7 @@ date: 2018-12-01 00:00:00
 featured_image: '/images/post_pics/hyper_neat_argument/octonions.jpg'
 excerpt: Is the Universe in its totality structure-less?
 ---
-
+*Created: 2018-12-01*    
 *Updated: 2019-06-23*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: Speculative*  
