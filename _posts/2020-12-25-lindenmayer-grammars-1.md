@@ -536,23 +536,23 @@ This latter context-sensitive property grants us more than one might realize at 
 
 As an example, let us use this context-sensitivity to simulate signal propagation through a string of symbols,
 
-*ω : baaaaaaaa*
+*ω : Baaaaaaaa*
 
-*p1 : b<a → b*
+*p1 : B<a → B*
 
-*p2 : b → a*
+*p2 : B → a*
 
-If you notice in our first production rule, we have a conditional built into it to check the local surrounding context.  This allows us to move the letter *b* from the left side of a string to the right side through comparisons done between neighboring symbols,
+If you notice in our first production rule, we have a conditional built into it to check the local surrounding context.  This allows us to move the letter **B** from the left side of a string to the right side through comparisons done between neighboring symbols,
 
-**b***aaaaaaaa*
+**B***aaaaaaaa*
 
-*a***b***aaaaaaa*
+*a***B***aaaaaaa*
 
-*aa***b***aaaaaa*
+*aa***B***aaaaaa*
 
-*aaa***b***aaaaa*
+*aaa***B***aaaaa*
 
-*aaaa***b***aaaa*
+*aaaa***B***aaaa*
 
 *···*
 
