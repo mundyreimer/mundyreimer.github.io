@@ -278,8 +278,11 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 So now that we know how rewriting systems *replace* some character, substring, or set of symbols with another string of symbols, what if we wanted to *append* that new string instead?  This is where Prusinkiewicz and Lindenmayer explain that there are two types of rewriting mechanisms.  The first type is called *Edge Rewriting* and is what we did before with *replacing* symbol(s) with other symbols.  The second type is called *Node Rewriting* and occurs when we *append* new symbol(s) instead.  We can specify the latter formally by using a variable such as *X* like in the following example[^8],   
 
 **L-System**:  *Simple Example of Node Rewriting*
+
 **Axiom**:  *FX*
+
 **Rule**:  *X = +F-F-F+FX*
+
 **Angle**:  *45*
 
 All that variable *X* does is act like a logical place-holder for symbols that do matter like *F*, *+*, and *-*.  In other words, it is *logically relevant* to the L-system, but not *graphically* or *physically relevant*.  Our Turtle program does not move nor draw anything when it sees it.  In summary, that variable *X* does not have a *graphical interpretation* and does not show up in our final image,
