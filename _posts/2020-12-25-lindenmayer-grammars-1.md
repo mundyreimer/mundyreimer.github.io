@@ -226,7 +226,21 @@ And bumping it up to *n* = 3 we get,
 
 ...etc.
 
-As you can see, this *Mechanism* for translating strings to geometric objects can be specified in a rather simple way to generate seemingly complex objects.  And we did all this with a *single* production rule in our examples!  
+As you can see, this *Mechanism* for translating strings to geometric objects can be specified in a rather simple way to generate seemingly complex objects.  And we did all this with a *single* production rule in our examples!
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Minkowski_sausage">
+    <img src="/images/post_pics/lindenmayer/minkowskisausage.png"
+        width="400" 
+        height="400"
+        >
+    <em>How each part of the Minkowski sausage is just a smaller version of the previous stage.</em>
+</a>
+</center>
+
+<br/> 
 
 Using the same starting *Axiom* **ω** and just switching up our production rules, Prusinkiewicz and Lindenmayer show how we can generate a startling amount of beautiful structures[^1],
 
