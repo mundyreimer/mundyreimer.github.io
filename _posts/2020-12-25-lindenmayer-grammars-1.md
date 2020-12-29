@@ -479,7 +479,7 @@ def create_pen(initial_angle):
     return pen
 {% endhighlight %}
 
-Next, we'll create a helper function to check if our predecessor string is present.  If so we replace it with its corresponding successor string,
+Next, we'll create a helper function to check if our predecessor string is present.  If so, then we'll replace it with its corresponding successor string,
 
 {% highlight python %}
 def production_rule(sequence):
