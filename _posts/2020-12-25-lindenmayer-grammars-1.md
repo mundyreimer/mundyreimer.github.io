@@ -749,7 +749,7 @@ def main():
     # Set the color of that background
     window.bgcolor('black')
     # Set the size of that background
-    window.screensize(1500, 1500)
+    window.screensize(1000, 1000)
 
     # Turn the list representing the entire L-system
     # into an actual geometric drawing
@@ -855,3 +855,5 @@ Resources:
 [^10]: [This person](https://hackaday.io/project/11721-python-l-system) explores L-Systems in Python using another graphical / visualization package called [Pygame](https://www.pygame.org/wiki/about).  It too is rather easy to learn and would be recommended if you want to get into graphics / game programming because the way they structure their code at the low level uses many similar concepts. I chose to forego this for the sole fact that *Turtle* came pre-installed in Python, so it would be more friendly towards beginners due to the *"batteries included"* philosophy. 
 
 [^11]:  Much of the rendering template I used was built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook[^1] and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).  Other tutorials that I did not use, but could prove helpful can be found [here](https://medium.com/analytics-vidhya/generating-fractals-using-lindenmayer-systems-6214dddbe223) and [here](https://medium.com/@abhinav.mahapatra10/python-beginner-diy-make-fractal-trees-b1a0903414a9). 
+
+[^12]:  Feel free to check out [my book review]() of *The Algorithmic Beauty of Plants* on Goodreads!
