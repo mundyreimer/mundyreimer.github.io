@@ -618,7 +618,8 @@ def main():
     # Asks user to input the desired segment length that is created by Turtle 
     segment_length = int(input('Enter segment length: '))
 
-    # Asks user to input Turtle's draw_angle to start drawing towards
+    # Asks user to input Turtle's initial angle to start drawing towards
+    # Angle starts at 3 o'clock and moves in the counterclockwise direction
     initial_angle = float(input('Enter initial angle: '))
 
     # Asks user to input Turtle's draw_angle to use each time when turning right '+' or left '-'
