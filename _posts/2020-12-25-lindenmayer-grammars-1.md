@@ -121,15 +121,15 @@ Now that we know the basics of how to draw with Turtle, let's figure out how we 
 
 We can define the *state* of the turtle using the triplet *(x, y, α)*, where the first two arguments are the Cartesian coordinates representing the turtle's position in our window, and the third argument is the angle or *heading* representing the direction the turtle is facing.  Given some step size *d* and angle increment *δ*, we can represent the turtle's path as a string of symbols using the following 4 character mappings[^1]:
 
-**F**:  Move forward a step length *d*.  The state of the turtle changes to *(x', y', α)*, where *x' = x + dcos(α)* and *y' = y + dsin(α)*. A line segment between points *(x, y)* and
-*(x', y')* is drawn.  This is our `turtle.foward()` command.
+**F**:  Move forward a step length *d*.  This allows the state of the turtle to change to *(x', y', α)*, where *x' = x + dcos(α)* and *y' = y + dsin(α)*. A line segment between points *(x, y)* and
+*(x', y')* will be drawn.  This is our `turtle.foward()` command.
 
 **f**:  Move forward a step of length *d* without drawing a line. This is our `turtle.penup()` command.
 
-**+**:  Turn left by angle *δ*. The next state of the turtle is
-*(x, y, α+δ)*. The positive orientation of angles is counterclockwise. This is our `turtle.left()` command.
+**+**:  Turn left by angle *δ*. The next state of the turtle will now be
+*(x, y, α+δ)*. The positive orientation of angles will be counterclockwise. This is our `turtle.left()` command.
 
-**-**:  Turn right by angle *δ*. The next state of the turtle is *(x, y, α − δ)*.  This is our `turtle.right()` command.
+**-**:  Turn right by angle *δ*. The next state of the turtle will now be *(x, y, α − δ)*.  This is our `turtle.right()` command.
 
 What's neat about this mapping is that we can now interpret a specific *state* of the system as string composed of some combination of these 4 symbols.  
 
