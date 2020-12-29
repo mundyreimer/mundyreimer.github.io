@@ -441,8 +441,8 @@ Thus, in essence, these brackets are acting as a type of *memory* or storage mec
 <center>
 <a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)">
     <img src="/images/post_pics/lindenmayer/pushpopplates.jpg"
-        width="400" 
-        height="400"
+        width="300" 
+        height="300"
         >
     <em>Similar to a stack of plates, adding or removing is only possible at the top.  In our metaphor, each plate represents a substring of symbol(s) composed of F, f, +, -, etc.</em>
 </a>
