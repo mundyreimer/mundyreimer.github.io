@@ -1,9 +1,10 @@
 ---
 title: 'Book Review - The Causal Angel'
-date: 2020-04-25 00:00:00
+date: 2020-02-25 00:00:00
 featured_image: '/images/post_pics/book_reviews/geometry_of_music.png'
 excerpt: My review of the science fiction novel by Hannu Rajaniemi. A novel that combines Game Theory 🎲 + Tulpas + Replicators Tiling the Multiverse 👾 + Computational Complexity + Viral Spacetime ⏳ + Musica Universalis 🎶 + a discussion of Free-Will & Causality ❤️  
 ---
+*Created: 2020-02-25*
 *Updated: 2020-04-25*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: N/A*  

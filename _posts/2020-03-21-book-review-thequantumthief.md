@@ -1,9 +1,10 @@
 ---
 title: 'Book Review - The Quantum Thief'
-date: 2020-3-19 00:00:00
+date: 2020-01-21 00:00:00
 featured_image: '/images/post_pics/book_reviews/escher_stairs.jpg'
 excerpt: My review of the science fiction novel by Hannu Rajaniemi.  Dilemma Prisons where you play infinite copies of yourself and expands by tiling the universe in perfect game-theoretic harmony, mind piracy, optogenetic viruses, cryptographic exomemory, & more!
 ---
+*Created: 2020-01-21*
 *Updated: 2020-03-21*  
 *Topics: [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Linguistics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: N/A*  

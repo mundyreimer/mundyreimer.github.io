@@ -1,10 +1,11 @@
 ---
 title: An Introduction to Lindenmayer Grammars
-date: 2020-12-18 00:00:00
+date: 2020-12-15 00:00:00
 featured_image: '/images/post_pics/lindenmayer/biblebook_0.jpg'
 excerpt: Part 0 of my Rewriting Systems Sequence. An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, exploring the philosophical motivation, mathematical theory, practical applications, and major assumptions. 
 ---
-*Updated: 2020-12-24*  
+*Created: 2020-12-15*
+*Updated: 2020-12-20*  
 *Topics: [Computer Science](https://mundyreimer.github.io/archive),[Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
 *Confidence: Probable*  
 *Status: Still in progress* 
@@ -437,7 +438,7 @@ Resources:
  
 [^0]: [Handbook of Theoretical Computer Science, Chapter 6: Rewrite Systems](https://www.cs.tau.ac.il/~nachum/papers/survey-draft.pdf) by Nachum Dershowitz and Jean-Pierre Jouannaud.  This provided much of the theory behind the theory of [Rewriting](https://en.wikipedia.org/wiki/Rewriting) and [abstract rewrite systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system).  It specifically goes into depth on ARSs from algebraic, logical, and operational perspectives.  
  
-[^1]: [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf) by [Przemysław Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz) (director of the Computer Graphics group studying Fibonacci numbers and modeling using grammars) and [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer)(a theoretical biologist studying sequence generators). This textbook is based off Lindenmayer's original notes discusssing the theory and practice of Lindenmayer (L-)Systems for modeling plant growth. It provides much of the theoretical material from which I "draw" from (heh).
+[^1]: [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf) by [Przemysław Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz) (director of the Computer Graphics group studying Fibonacci numbers and modeling using grammars) and [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer)(a theoretical biologist studying sequence generators). This textbook is based off Lindenmayer's original notes discusssing the theory and practice of Lindenmayer (L-)Systems for modeling plant growth. It provides much of the material from which I "draw" from (heh) for this sequence of articles.  Seriously though, I HIGHLY recommend at least glancing through this book.  It has some beautiful diagrams and the explanations are written in a simple, easy to understand language.  It is also incredibly practical and beginner-focused with its explanations given in the Python Turtle-language.  Any theory or math is either explained really well or kept to a minimum. I really appreciate the authors for writing such an awesome resource :)
 
 [^3]: As a side note, rewrite systems are known to possess the *"full power of Turing machines and may be thought of as non-deterministic Markov algorithms over terms, rather than strings"*[^0].
 

@@ -1,10 +1,11 @@
 ---
 title: 'Book Review - Perdido Street Station'
-date: 2020-11-05 00:00:00
+date: 2019-11-05 00:00:00
 featured_image: '/images/post_pics/book_reviews/perdidocover.jpg'
 excerpt: My review of the fictional novel by China Miéville
 ---
-*Updated: 2020-11-05*  
+*Created: 2019-11-05*
+*Updated: 2020-11-11*  
 *Topics: [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
 *Confidence: N/A*  
 *Status: Complete* 

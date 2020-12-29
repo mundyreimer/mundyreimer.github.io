@@ -1,9 +1,10 @@
 ---
 title: 'Theory of Constraints & Kynes-style Analysis of Dune'
-date: 2020-11-06 00:00:00
+date: 2020-03-06 00:00:00
 featured_image: '/images/post_pics/theory_of_constraints/lindenmayer_system_1.png'
 excerpt: Philosophical-scientific analysis of the sci-fi book Dune by Frank Herbert using a *Theory of Constraints* found in biological complexity-theoretic readings of Erwin Schrödinger, Robert Rosen, & Stuart Kauffman. 
 ---
+*Created: 2020-03-06*
 *Updated: 2020-11-06*  
 *Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive)*  
 *Confidence: N/A*  
