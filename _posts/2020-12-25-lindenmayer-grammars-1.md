@@ -173,7 +173,7 @@ However, if let our Axiom undergo one iteration or apply the production rule / r
         width="400" 
         height="400"
         >
-    <em>Turtle drawing a n=1 Minkowski Island.</em>
+    <em>Turtle drawing an n=1 Minkowski Island.</em>
 </a>
 </center>
 
@@ -205,7 +205,7 @@ And bumping it up to *n* = 3 we get,
         width="400" 
         height="400"
         >
-    <em>Final Turtle drawing of a n=3 Minkowski Island.</em>
+    <em>Final Turtle drawing of an n=3 Minkowski Island.</em>
 </a>
 </center>
 
