@@ -682,19 +682,11 @@ And our plant is generated! :)
         width="400" 
         height="400"
         >
-    <em>An example of a bracketed L-System representing a type of grass.</em>
+    <em>Completed image.</em>
 </a>
 </center>
 
 <br/> 
-
-
-
-
-
-
-
-
 
 
 
