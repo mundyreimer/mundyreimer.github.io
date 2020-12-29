@@ -166,13 +166,13 @@ Now if we let our iterations *n* = 0, this means that no production rules will b
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/n0_island.png"
-        width="400" 
-        height="400"
-        >
-    <em>Final Turtle drawing of a n=0 Minkowski Island.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/n0_island.png"
+    width="400" 
+    height="400"
+    >
+<em>Final Turtle drawing of a n=0 Minkowski Island.</em>
+
 </center>
 
 <br/> 
@@ -182,13 +182,13 @@ However, if let our Axiom undergo one iteration or apply the production rule / r
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/n1_island.gif"
-        width="400" 
-        height="400"
-        >
-    <em>Turtle drawing an n=1 Minkowski Island.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/n1_island.gif"
+    width="400" 
+    height="400"
+    >
+<em>Turtle drawing an n=1 Minkowski Island.</em>
+
 </center>
 
 <br/> 
@@ -198,13 +198,13 @@ Likewise, if we apply our production / rewriting rules twice for *n* = 2, where 
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/n2_island.gif"
-        width="400" 
-        height="400"
-        >
-    <em>Turtle drawing an n=2 Minkowski Island.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/n2_island.gif"
+    width="400" 
+    height="400"
+    >
+<em>Turtle drawing an n=2 Minkowski Island.</em>
+
 </center>
 
 <br/> 
@@ -214,13 +214,13 @@ And bumping it up to *n* = 3 we get,
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/n3_island.png"
-        width="400" 
-        height="400"
-        >
-    <em>Final Turtle drawing of an n=3 Minkowski Island.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/n3_island.png"
+    width="400" 
+    height="400"
+    >
+<em>Final Turtle drawing of an n=3 Minkowski Island.</em>
+
 </center>
 
 <br/> 
@@ -234,13 +234,13 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/rules0.png"
-        width="400" 
-        height="400"
-        >
-    <em>From *The Algorithmic Beauty of Plants* pg. 9</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/rules0.png"
+    width="400" 
+    height="400"
+    >
+<em>From *The Algorithmic Beauty of Plants* pg. 9</em>
+
 </center>
 
 <br/> 
@@ -248,13 +248,13 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/rules1.png"
-        width="400" 
-        height="400"
-        >
-    <em>From *The Algorithmic Beauty of Plants* pg. 10</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/rules1.png"
+    width="400" 
+    height="400"
+    >
+<em>From *The Algorithmic Beauty of Plants* pg. 10</em>
+
 </center>
 
 <br/> 
@@ -262,13 +262,13 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/rules2.png"
-        width="400" 
-        height="400"
-        >
-    <em>From *The Algorithmic Beauty of Plants* pg. 11</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/rules2.png"
+    width="400" 
+    height="400"
+    >
+<em>From *The Algorithmic Beauty of Plants* pg. 11</em>
+
 </center>
 
 <br/> 
@@ -331,13 +331,13 @@ To keep track of our axes / branches, we'll need to order them.  We call the axi
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/axialtree.png"
-        width="400" 
-        height="400"
-        >
-    <em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/axialtree.png"
+    width="400" 
+    height="400"
+    >
+<em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
+
 </center>
 
 <br/> 
@@ -347,13 +347,13 @@ And a sample tree illustrating this axis property in action[^1],
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/exampleaxialtree.png"
-        width="500" 
-        height="500"
-        >
-    <em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/exampleaxialtree.png"
+    width="500" 
+    height="500"
+    >
+<em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
+
 </center>
 
 <br/> 
@@ -373,13 +373,13 @@ Below are a few examples of what these new bracket symbols allow us to do,
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/bracketexamples.png"
-        width="600" 
-        height="600"
-        >
-    <em>From pg. 25 of *The Algorithmic Beauty of Plants*.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/bracketexamples.png"
+    width="600" 
+    height="600"
+    >
+<em>From pg. 25 of *The Algorithmic Beauty of Plants*.</em>
+
 </center>
 
 <br/> 
@@ -389,13 +389,13 @@ Below are a few examples of what these new bracket symbols allow us to do,
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/3Dbush.png"
-        width="400" 
-        height="400"
-        >
-    <em>Showing a 3-dimensional bush-like plant from pg. 26 of *The Algorithmic Beauty of Plants.  The &, ∧, \, /, and | symbols handle the newly added 3D directions.  The ! symbol decrements the diameter of segments.  The ` symbol increments the current index of the color table for the leaves. And the { and } handle the boundaries of the leaves.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/3Dbush.png"
+    width="400" 
+    height="400"
+    >
+<em>Showing a 3-dimensional bush-like plant from pg. 26 of *The Algorithmic Beauty of Plants.  The &, ∧, \, /, and | symbols handle the newly added 3D directions.  The ! symbol decrements the diameter of segments.  The ` symbol increments the current index of the color table for the leaves. And the { and } handle the boundaries of the leaves.</em>
+
 </center>
 
 <br/> 
@@ -407,13 +407,13 @@ In all the examples we have shown so far, we have dealt with production rules th
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/stochasticsystem.png"
-        width="300" 
-        height="300"
-        >
-    <em>An example stochastic L-System.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/stochasticsystem.png"
+    width="300" 
+    height="300"
+    >
+<em>An example stochastic L-System.</em>
+
 </center>
 
 <br/> 
@@ -423,13 +423,13 @@ To add further realism, we also might want to deal with *context-sensitive* L-sy
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/contextsensitive.png"
-        width="400" 
-        height="400"
-        >
-    <em>An example of a context-sensitive L-System from pg 31 of *The Algorithmic Beauty of Plants*.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/contextsensitive.png"
+    width="400" 
+    height="400"
+    >
+<em>An example of a context-sensitive L-System from pg 31 of *The Algorithmic Beauty of Plants*.</em>
+
 </center>
 
 <br/> 
@@ -681,13 +681,13 @@ And our plant is generated! :)
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/wheatgrasspersonal0.gif"
-        width="400" 
-        height="400"
-        >
-    <em>An example of a bracketed L-System representing a type of grass.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/wheatgrasspersonal0.gif"
+    width="400" 
+    height="400"
+    >
+<em>An example of a bracketed L-System representing a type of grass.</em>
+
 </center>
 
 <br/> 
@@ -695,20 +695,16 @@ And our plant is generated! :)
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/wheatgrasspersonal0.png"
-        width="400" 
-        height="400"
-        >
-    <em>Completed image.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/wheatgrasspersonal0.png"
+    width="400" 
+    height="400"
+    >
+<em>Completed image.</em>
+
 </center>
 
 <br/> 
-
-
-
-
 
 
 ### Moving Forward
