@@ -330,7 +330,7 @@ There are many interesting things to note about *Node Rewriting*[^6], but the bi
 
 <br/> 
 
-With that said, you can choose to interpret your system either using an Edge rewriting scheme, or Node rewriting scheme, or both.  Neither approach is general, nor are they disjoint from each other.[^1]  
+With that said, you can choose to interpret your system by either using an Edge rewriting scheme, or Node rewriting scheme, or both.  Neither approach is general, nor are they disjoint from each other.[^1]  
 
 <br/>
 
