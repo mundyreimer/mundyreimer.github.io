@@ -507,8 +507,8 @@ To add further realism, we also might want to deal with *context-sensitive* L-sy
 <center>
 
 <img src="/images/post_pics/lindenmayer/planthormone0.png"
-    width="400" 
-    height="400"
+    width="500" 
+    height="500"
     >
 <em>Auxins play a role in the coordination of many growth and behavioral processes in plant.</em>
 
