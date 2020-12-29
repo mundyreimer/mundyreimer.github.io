@@ -90,13 +90,13 @@ Where that last command `screen.exitonclick()` allows the window to stay open un
 <br/>
 
 <center>
-<a href="">
-    <img src="/images/post_pics/lindenmayer/turtle_square.gif"
-        width="400" 
-        height="400"
-        >
-    <em>Turtle drawing a square.</em>
-</a>
+
+<img src="/images/post_pics/lindenmayer/turtle_square.gif"
+    width="400" 
+    height="400"
+    >
+<em>Turtle drawing a square.</em>
+
 </center>
 
 <br/> 
