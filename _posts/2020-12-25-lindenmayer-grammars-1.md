@@ -47,7 +47,7 @@ Once you've got that done you can install whatever versions of Python you'd like
 
 ### How to Draw
 
-From here we need to choose a package that allows us to visualize our output through some graphical plotting method.  There are multiple options to choose from like [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), [Processing.py](https://py.processing.org/) and [Pygame](https://www.pygame.org/wiki/about), but I chose to go with the humble [Turtle](https://docs.python.org/3/library/turtle.html) package since it follows the ["batteries-included philosophy"](https://protocolostomy.com/2010/01/22/what-batteries-included-means/) and comes pre-installed with Python.[^]  I'm next going to go over a few fundamentals you should know about Turtle.
+From here we need to choose a package that allows us to visualize our output through some graphical plotting method.  There are multiple options to choose from like [Pycairo](https://pycairo.readthedocs.io/en/latest/), [Pillow](https://pillow.readthedocs.io/en/stable/), [Processing.py](https://py.processing.org/) and [Pygame](https://www.pygame.org/wiki/about)[^10], but I chose to go with the humble [Turtle](https://docs.python.org/3/library/turtle.html) package since it follows the ["batteries-included philosophy"](https://protocolostomy.com/2010/01/22/what-batteries-included-means/) and comes pre-installed with Python.[^3]  I'm next going to go over a few fundamentals you should know about Turtle.
 
 <br/>
 
@@ -131,12 +131,11 @@ Other than that, I'd encourage you to check out this Turtle tutorial [here](http
 
 ### Implementing our Production Rules
 
-Now that we know the basics of how to draw with Turtle, let's figure out how we can map our aforementioned L-system concept of *Production Rules* to our Turtle drawings.  This is what we mean by having a *Mechanism* that generates geometric objects from our original data structure of strings.  This is also where much of [Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz)'s contribution was made to the work of the original textbook, [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf).[^^]   
+Now that we know the basics of how to draw with Turtle, let's figure out how we can map our aforementioned L-system concept of *Production Rules* to our Turtle drawings.  This is what we mean by having a *Mechanism* that generates geometric objects from our original data structure of strings.  This is also where much of [Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz)'s contribution was made to the work of the original textbook, [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf).[^4]   
 
 We can define the *state* of the turtle using the triplet *(x, y, α)*, where the first two arguments are the Cartesian coordinates representing the turtle's position in our window, and the third argument is the angle or *heading* representing the direction the turtle is facing.  Given some step size *d* and angle increment *δ*, we can represent the turtle's path as a string of symbols using the following 4 character mappings[^1]:
 
-**F**:  Move forward a step length *d*.  This allows the state of the turtle to change to *(x', y', α)*, where *x' = x + dcos(α)* and *y' = y + dsin(α)*. A line segment between points *(x, y)* and
-*(x', y')* will be drawn.  This is our `turtle.foward()` command.
+**F**:  Move forward a step length *d*.  This allows us to change the former state of the turtle to the new state *(x', y', α)*, where *x' = x + dcos(α)* and *y' = y + dsin(α)*. A line segment between points *(x, y)* and *(x', y')* will be drawn.  This is our `turtle.foward()` command.
 
 **f**:  Move forward a step of length *d* without drawing a line. This is our `turtle.penup()` command.
 
@@ -275,7 +274,7 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 
 ### Edge vs. Node Rewriting
 
-So now that we know how rewriting systems *replace* some character, substring, or set of symbols with another string of symbols, what if we wanted to *append* that new string instead?  This is where Prusinkiewicz and Lindenmayer explain that there are two types of rewriting mechanisms.  The first type is called *Edge Rewriting* and is what we did before with *replacing* symbol(s) with other symbols.  The second type is called *Node Rewriting* and occurs when we *append* new symbol(s) instead.  We can specify the latter formally by using a variable such as *X* like in the following example[^8],   
+So now that we know how rewriting systems *replace* some character, substring, or set of symbols with another string of symbols, what if we wanted to *append* that new string instead?  This is where Prusinkiewicz and Lindenmayer explain that there are two types of rewriting mechanisms.  The first type is called *Edge Rewriting* and is what we did before with *replacing* symbol(s) with other symbols.  The second type is called *Node Rewriting* and occurs when we *append* new symbol(s) instead.  We can specify the latter formally by using a variable such as *X* like in the following example[^5],   
 
 **L-System**:  *Simple Example of Node Rewriting*
 
@@ -301,16 +300,57 @@ All that variable *X* does is act like a logical place-holder for symbols that d
 
 <br/> 
 
-There are many interesting things to note about *Node Rewriting*[^^^], but the biologically relevant property of this rewriting scheme is that it allows us to fill a given region by a [self-avoiding](https://en.wikipedia.org/wiki/Self-avoiding_walk) curve.  This self-avoiding property is important if we don't want our trees to intersect at later points or overlap (for example, it would be like a leaf growing into another leaf and then maybe a new branch coming off of that merger).[^1]  
+There are many interesting things to note about *Node Rewriting*[^6], but the biologically relevant property of this rewriting scheme is that it allows us to fill a given region by a [self-avoiding](https://mathworld.wolfram.com/Self-AvoidingWalk.html) curve.  This self-avoiding property is important if we don't want our trees to intersect at later points or overlap (for example, it would be like a leaf growing into another leaf and then maybe a new branch coming off of that merger).  
+
+<br/>
+
+<center>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rspa.2018.0549">
+    <img src="/images/post_pics/lindenmayer/selfavoidingwalk.gif"
+        width="400" 
+        height="400"
+        >
+    <em>Self-avoiding walks on a square lattice by Nathan Clisby from a paper discussing its connection to physics topics like spin systems and renormalization.</em>
+</a>
+</center>
+
+<br/> 
 
 With that said, you can choose to interpret your system either using an Edge rewriting scheme, or Node rewriting scheme, or both.  Neither approach is general, nor are they disjoint from each other.[^1]  
 
+<br/>
+
+<center>
+<a href="https://opensource.com/article/18/12/linux-toy-snake">
+    <img src="/images/post_pics/lindenmayer/snakegame.gif"
+        width="400" 
+        height="400"
+        >
+    <em>Self-avoiding walks can also be popularly seen in the classic 1970s game of Snake where a player maneuvers a line which grows in length and has to avoid crashing into itself.</em>
+</a>
+</center>
+
+<br/> 
 
 ### Making Tree-like Structures
 
 So far, our geometric mapping mechanism allows us to interpret a character string as a sequence of individual line segments denoted by **F**, alternating the direction with **+** and **-** respectively.  Ultimately, this mapping will only allow us to topologically sketch out a *single* line.  To be able to model something more complex like the tree-like *branching* (aka - *dendritic* or *arboreal*) nature of plants, we'll need a way to add a little more [graph-theoretic](https://en.wikipedia.org/wiki/Graph_theory) structure to our mapping mechanism.  
 
-We can do this by specifying the splitting up of a line segment from a *root* or *base* into one or more edges that we'll call *branch segments*.  We'll call a line segment followed by one or more line segments an *internode*, and a terminal line segment an *apex*.[^1]      
+We can do this by specifying the splitting up of a line segment from a *root* or *base* into one or more edges that we'll call *branch segments*.  We'll call a line segment followed by one or more line segments an *internode*, and a terminal line segment an *apex*.[^1]  
+
+<br/>
+
+<center>
+<a href="https://horticulture.tekura.school.nz/plant-management/plant-management-1/ht1101-plant-management-1-study-plan/plant-parts/">
+    <img src="/images/post_pics/lindenmayer/plantinternode.gif"
+        width="400" 
+        height="400"
+        >
+    <em>The lateral bud is found at the node on a stem allowing sideways growth. The apical bud (sometimes called the terminal bud) is the top bud at the main growing point of the plant.</em>
+</a>
+</center>
+
+<br/> 
 
 If our tree possesses a direction (like in our real world where plants grow *upwards* and *outwards* from a common base), then we'll specify that our edges have to be *labeled* and *directed*, and we can call this tree a *rooted tree*.[^1]  
 
@@ -366,7 +406,35 @@ New symbols[^1]:
 
 **]**:  Pop the state from the stack and make it the current state of the turtle.  No line is drawn.  In general, the position of the turtle might change.  It functions like an *output* from our *storage mechanism*.
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)">
+    <img src="/images/post_pics/lindenmayer/pushpopstack.png"
+        width="400" 
+        height="400"
+        >
+    <em>Simple representation of a stack runtime with push and pop operations.</em>
+</a>
+</center>
+
+<br/> 
+
 Thus, in essence, these brackets are acting as a type of *memory* or storage mechanism for our strings.  And if you recall, each string is a *state*.  So this memory mechanism is a variable that basically records states of our system.
+
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)">
+    <img src="/images/post_pics/lindenmayer/pushpopplates.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>Similar to a stack of plates, adding or removing is only possible at the top.  In our metaphor, each plate represents a substring of symbol(s) composed of F, f, +, -, etc.</em>
+</a>
+</center>
+
+<br/> 
 
 Below are a few examples of what these new bracket symbols allow us to do,
 
@@ -402,7 +470,7 @@ Below are a few examples of what these new bracket symbols allow us to do,
 
 ### Adding Further Realism
 
-In all the examples we have shown so far, we have dealt with production rules that are *deterministic*.  That is, they always occur when we can apply them.  This determinism though allows no room for *variation* between specimen to specimen.  To add a quality of uniqueness to each plant we can follow production rules that are stochastic instead.  That is, each production rule *p* occurs with some probability *π(p)*.  These systems are thus called *Stochastic L-Systems*.
+In all the examples we have shown so far, we have dealt with production rules that are *deterministic*.  That is, they always occur when we can apply them.  This determinism though allows no room for *variation* between specimen to specimen.  To add a quality of uniqueness to each plant we can follow production rules that are stochastic instead.  That is, each production rule *p* occurs with some probability *π(p)*.  These systems are thus called *Stochastic L-Systems*.[^1]
 
 <br/>
 
@@ -418,7 +486,23 @@ In all the examples we have shown so far, we have dealt with production rules th
 
 <br/> 
 
-To add further realism, we also might want to deal with *context-sensitive* L-systems, rather than the *context-free* ones we created before.  This means that for each application of the production rule, we care about the context of the predecessor string.  For instance, what if a particular branch is pruned off, or has an excess of plant growth hormones, or recieves more nutrients or sunlight.  Overall, we'd like to simulate the *interaction between plant parts* or between neighboring substrings.  This particular property makes it such that our L-system is closer to that of a [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) which is context-sensitive or where each cell cares about the values in its neighboring cells.
+To add further realism, we also might want to deal with *context-sensitive* L-systems, rather than the *context-free* ones we created before.  This means that for each application of the production rule, we care about the context of the predecessor string.[^1]  For instance, what if a particular branch is pruned off, or has an excess of plant growth hormones, or recieves more nutrients or sunlight.  
+
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/planthormone0.png"
+    width="400" 
+    height="400"
+    >
+<em>Auxins play a role in the coordination of many growth and behavioral processes in plant.</em>
+
+</center>
+
+<br/> 
+
+Overall, we'd like to simulate the *interaction between plant parts* or between neighboring substrings.  This particular property makes it such that our L-system is closer to that of a [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) which is context-sensitive or where each cell cares about the values in its neighboring cells.
 
 <br/>
 
@@ -434,7 +518,7 @@ To add further realism, we also might want to deal with *context-sensitive* L-sy
 
 <br/> 
 
-This latter context-sensitive property grants us more than one might realize at first glance.  Probably the most important biologically relevant phenomenon that it allows us to capture is that of [signal propagation](https://en.wikipedia.org/wiki/Cell_signaling) (which is especially relevant in the neuronal case!  I know people have already been playing with evolving neural networks with L-systems[^^^^][^^^^^][^^^^^^], but imagine implementing an *entire* neural network, signal propagation and all, in terms of L-systems!)  
+This latter context-sensitive property grants us more than one might realize at first glance.  Probably the most important biologically relevant phenomenon that it allows us to capture is that of [signal propagation](https://en.wikipedia.org/wiki/Cell_signaling) (which is especially relevant in the neuronal case!  I know people have already been playing with evolving neural networks with L-systems[^7][^8][^9], but imagine implementing an *entire* neural network, signal propagation and all, in terms of L-systems!)  
 
 As an example, let us use this context-sensitivity to simulate signal propagation through a string of symbols,
 
@@ -446,33 +530,63 @@ As an example, let us use this context-sensitivity to simulate signal propagatio
 
 If you notice in our first production rule, we have a conditional built into it to check the local surrounding context.  This allows us to move the letter *b* from the left side of a string to the right side through comparisons done between neighboring symbols,
 
-*baaaaaaaa*
+**b***aaaaaaaa*
 
-*abaaaaaaa*
+*a***b***aaaaaaa*
 
-*aabaaaaaa*
+*aa***b***aaaaaa*
 
-*aaabaaaaa*
+*aaa***b***aaaaa*
 
-*aaaabaaaa*
+*aaaa***b***aaaa*
 
 *···*
 
 To extend this topologically 1-dimensional case to that of a more complicated tree structure, we can instead perform comparisons between a *path l* and an *axial tree r* and then replacing it with an *edge S*.  This asymmetry between the left context and right context was done because it captures the notion that there is only a single path from the root of a tree to a given edge, but there can be many paths from this edge to different terminal nodes.  
 
-This context comparison gets slightly more trickier in the case of bracketed trees.  This is because the bracketed string representation does not preserve string neighborhood (rather the brackets are like a memory of past neighborhoods).  To solve this we can skip over symbols representing branches or branch portions.  The left context in this case would represent signals that propagate *outward* from the parent root to the children nodes, and the right context would represent signals that propagate *inward* from the children nodes towards the parent roots.[^1]    
+This context comparison gets slightly more trickier in the case of bracketed trees.  This is because the bracketed string representation does not preserve string neighborhood (rather the brackets are like a memory of past neighborhoods).  To solve this we can skip over symbols representing branches or branch portions.  The left context in this case would represent signals that propagate *outward* from the parent root to the children nodes, and the right context would represent signals that propagate *inward* from the children nodes towards the parent roots.[^1]
 
-Various other realistic properties can be layered on top of here.  Prusinkiewicz and Lindenmayer go on to explain how to implement concepts like *exponential growth* and other growth functions, *diffusion of substances* through parametric methods, extending context to overall structure and the *external environment* through continuous density fields (similar to cellular automata) which allows us to model effects like wind, phototropism and gravity, adding space-time dependent *phase effects* like that found in different stages of development, adding *control mechanisms* (like cellular lineage, cell-types, and epigenetic effects), adding *cell layers* / higher-ordered tissue structure through use of planar graphs with cycles, and more!  I can't seem to say this enough, but really do check out the free copy of [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop) when you get a chance, since the authors explain all this in much more depth and beauty than I am at the moment (Professor Prusinkiewicz kindly makes it available for free on his website).  In the book they even go on to explain how one should organize their *"virtual laboratory"* or software environment so as to best experiment and explore these different concepts (see pg 193).  Various tools and programs that they've already written are available too (pg 198).           
+<br/>
+
+<center>
+<a href="https://www.ugaoo.com/knowledge-center/role-of-growth-regulators-and-plant-hormones-in-plants/">
+    <img src="/images/post_pics/lindenmayer/planthormone1.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>Different growth regulating hormones found in plants.</em>
+</a>
+</center>
+
+<br/> 
+
+Various other realistic properties can be layered on top of here.  Prusinkiewicz and Lindenmayer go on to explain how to implement concepts like *exponential growth* and other growth functions, *diffusion of substances* through parametric methods, extending context to overall structure and the *external environment* through continuous density fields (similar to cellular automata) which allows us to model effects like wind, phototropism and gravity, adding space-time dependent *phase effects* like that found in different stages of development, adding *control mechanisms* (like cellular lineage, cell-types, and epigenetic effects), adding *cell layers* / higher-ordered tissue structure through use of planar graphs with cycles, and more!  
+
+I can't seem to say this enough, but really do check out the free copy of [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop) when you get a chance, since the authors explain all this in much more depth and beauty than I can at the moment (Professor Prusinkiewicz kindly makes it available for free on [his website](http://algorithmicbotany.org/)).  In the book they even go on to explain how one should organize their *"virtual laboratory"* or software environment so as to best experiment and explore these different concepts (pg 193).  You can also find various tools and programs that they've already written (pg 198).           
 
 ### Breaking down the main plotting code
 
 So now that we understand how the various string compositions that make up our production rules capture different biophysical properties of real-world plants, how do we generate these using Python's Turtle package?  
 
-Following the software philosophy of ["Don't Repeat Yourself"](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (DRY) we can aim to reduce repetition in coding the above by creating a general purpose program to interpret and generate our strings.  This will allow us to reuse the same program and feed it in our different parameters of starting Axiom, Production Rules, Iteration number, Angles, etc, everytime we want to run it with some new combination to generate a different kind of plant structure.  
+Following the software philosophy of ["Don't Repeat Yourself"](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (DRY) we can aim to reduce repetition in coding the above by creating a general purpose program to interpret and generate our strings.  This will allow us to reuse the same program and feed it in our different parameters of starting Axiom, Production Rules, Iteration number, Angles, etc, everytime we want to run it with some new combination to generate a different kind of plant structure.
 
-I'll be breaking down the main plotting code below, but if you want to go straight to experimenting you can go ahead and download the program in [my repo here](https://github.com/mundyreimer/rewriting_systems) and follow the instructions in the *README.md* on how to input your parameters.  
+<br/>
 
-Alternatively, for those that don't want to do any Python programming, feel free to use an [online L-system generator](http://www.kevs3d.co.uk/dev/lsystems/) where all you have to do is just input your values (iteration, angle, constants, axiom, and rules) and the plotting will be done instantly within your browser.  Pretty handy!
+<center>
+<a href="https://en.wikipedia.org/wiki/The_Pragmatic_Programmer">
+    <img src="/images/post_pics/lindenmayer/the_pragmatic_programmer_book.jpg"
+        width="400" 
+        height="400"
+        >
+    <em>The DRY Principle was formulated by Andy Hunt and Dave Thomas in their book 'The Pragmatic Programmer'.  Many widely used programming idioms and phrases were named or popularised by this book such as code katas and rubber duck debugging.</em>
+</a>
+</center>
+
+<br/> 
+
+I'll be breaking down the main plotting code below, but if you want to go straight to experimenting you can go ahead and download the program in [my repo here](https://github.com/mundyreimer/rewriting_systems)[^11] and follow the instructions in the *README.md* on how to input your parameters.  
+
+Alternatively, for those that don't want to do any Python programming, feel free to use an [online L-system generator](http://www.kevs3d.co.uk/dev/lsystems/) where all you have to do is just input your values (iteration, angle, constants, axiom, and rules) and the plotting will be done instantly within your browser.  Nifty!
 
 So getting to our python code, let's first define some useful functions.  We'll need to create our initial turtle object or pen,
 
@@ -724,30 +838,20 @@ Resources:
  
 [^1]: [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf) by [Przemysław Prusinkiewicz](https://en.wikipedia.org/wiki/Przemys%C5%82aw_Prusinkiewicz) (director of the Computer Graphics group studying Fibonacci numbers and modeling using grammars) and [Aristid Lindenmayer](https://en.wikipedia.org/wiki/Aristid_Lindenmayer)(a theoretical biologist studying sequence generators). This textbook is based off Lindenmayer's original notes discusssing the theory and practice of Lindenmayer (L-)Systems for modeling plant growth. It provides much of the material from which I "draw" from (heh) for this sequence of articles.  Seriously though, I HIGHLY recommend at least glancing through this book.  It has some beautiful diagrams and the explanations are written in a simple, easy to understand language.  It is also incredibly practical and beginner-focused with its explanations given in the Python Turtle-language.  Any theory or math is either explained really well or kept to a minimum. I really appreciate the authors for writing such an awesome resource :)
 
+[^3]: Turtle is a cute name that came from the [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) educational programming language which was designed to allow for the ability to "create a mathematical land where children could play with words and sentences".  Modeled on LISP and [inspired](https://web.archive.org/web/20090310020335/http://www.erzwiss.uni-hamburg.de/Sonstiges/Logo/logofaqx.htm#FAQ2) by work from AI pioneer, Seymour Papert, and child psychologist, Jean Piaget, it allowed the use of virtual turtles for immediate visual feedback and debugging of graphical programming.  A working turtle robot was soon created and could allow the creation of physical drawings on paper.
 
+[^4]:  Prusinkiewicz focused on an interpretation based on a LOGO-style turtle and presented more examples of fractals and plant-like structures modeled using L-systems. He further explored applications of L-systems with turtle interpretations through realistic modeling of herbaceous plants, description of [kolam patterns](https://en.wikipedia.org/wiki/Kolam) (an art form from Southern India), [synthesis of musical scores](http://algorithmicbotany.org/papers/score.icmc86.pdf), and automatic [generation of spacefilling curves](http://algorithmicbotany.org/papers/fass.html).
 
+[^5]: [How L-Systems Work?](http://www.selcukergen.net/ncca_lsystems_research/lsystems.html) explores the personal research of Selcuk Ergen into L-systems and their applications towards computer graphics.  Though a bit *dated*, I appreciate it for its pockets of information in a really niche area.  It also notably implements 3-dimensional L-systems, but sadly in the outdated [SideFX Houdini v8.1](https://www.sidefx.com/). 
 
-[^]: Turtle is a cute name that came from the [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) educational programming language which was designed to allow for the ability to "create a mathematical land where children could play with words and sentences".  Modeled on LISP and [inspired](https://web.archive.org/web/20090310020335/http://www.erzwiss.uni-hamburg.de/Sonstiges/Logo/logofaqx.htm#FAQ2) by work from AI pioneer, Seymour Papert, and child psychologist, Jean Piaget, it allowed the use of virtual turtles for immediate visual feedback and debugging of graphical programming.  A working turtle robot was soon created and could allow the creation of physical drawings on paper.
+[^6]:  Another interesting relationship that pops out of *Node Rewriting* is its correspondence to [Tiling or Tesselation Problems](https://en.wikipedia.org/wiki/Tessellation) and [Voronoi partitioning](https://en.wikipedia.org/wiki/Voronoi_diagram#Applications) found in a wide variety of fields.  In my particular case, I'd be interested in something like the phenomenon of [Neuronal Tiling](https://en.wikipedia.org/wiki/Neuronal_tiling) in which neurons innervate the same surface or tissue in a nonredundant and tiled pattern that maximizes coverage of the surface and minimizes overlap like found in the case of cell bodies of [retinal cells](https://en.wikipedia.org/wiki/Retinal_ganglion_cell).    
 
-[^^]:  Prusinkiewicz focused on an interpretation based on a LOGO-style turtle and presented more examples of fractals and plant-like structures modeled using L-systems. He further explored applications of L-systems with turtle interpretations through realistic modeling of herbaceous plants, description of [kolam patterns](https://en.wikipedia.org/wiki/Kolam) (an art form from Southern India), [synthesis of musical scores](http://algorithmicbotany.org/papers/score.icmc86.pdf), and automatic [generation of spacefilling curves](http://algorithmicbotany.org/papers/fass.html).
+[^7]:  In the paper, [Evolving Artificial Neural Networks through L-System and Evolutionary Computation](https://www.researchgate.net/publication/275964617_Evolving_Artificial_Neural_Networks_through_L-System_and_Evolutionary_Computation_to_be_published_at_IJCNN_2015) by Oliveira et al., they evolve Artificial Neural Networks (ANNs) using a Lindenmayer System with memory that implements the principles of organization, modularity, repetition (multiple use of the same sub-structure), hierarchy (recursive composition of sub-structures), as a metaphor for development of neurons and its connections. In our method, this basic neural codification is integrated to a Genetic Algorithm (GA) that implements the constructive approach found in the evolutionary process, making it closest to the biological ones.
 
+[^8]:  In the paper, [Genetic L-System Programming](https://link.springer.com/chapter/10.1007/3-540-58484-6_277) by Christian Jacob, they present a Genetic L-System Programming (GLP) paradigm for evolutionary creation and development of parallel rewrite systems (L-systems, Lindenmayer-systems) which provide a commonly used formalism to describe developmental processes of natural organisms.  Controlled evolution of complex structures is exemplified by the development of tree structures generated by the movement of a 3D-turtle.
 
-[^^^]:  Another interesting relationship that pops out of *Node Rewriting* is its correspondence to [Tiling or Tesselation Problems](https://en.wikipedia.org/wiki/Tessellation) and [Voronoi partitioning](https://en.wikipedia.org/wiki/Voronoi_diagram#Applications) found in a wide variety of fields.  In my particular case, I'd be interested in something like the phenomenon of [Neuronal Tiling](https://en.wikipedia.org/wiki/Neuronal_tiling) in which neurons innervate the same surface or tissue in a nonredundant and tiled pattern that maximizes coverage of the surface and minimizes overlap like found in the case of cell bodies of [retinal cells](https://en.wikipedia.org/wiki/Retinal_ganglion_cell).    
+[^9]:  In the paper, [Evolving L-systems to generate virtual creatures](http://www0.cs.ucl.ac.uk/staff/p.bentley/teaching/L6_reading/hornbygalsystems.pdf) by Hornby et al., uses Lindenmayer systems (L-systems) as the encoding of an evolutionaryalgorithm (EA) for creating virtual creatures. Creatures evolved by this system have hundreds of parts, and the use of an L-system as the encoding results in creatures with a more natural look.
 
+[^10]: [This person](https://hackaday.io/project/11721-python-l-system) explores L-Systems in Python using another graphical / visualization package called [Pygame](https://www.pygame.org/wiki/about).  It too is rather easy to learn and would be recommended if you want to get into graphics / game programming because the way they structure their code at the low level uses many similar concepts. I chose to forego this for the sole fact that *Turtle* came pre-installed in Python, so it would be more friendly towards beginners due to the *"batteries included"* philosophy. 
 
-[^^^^]:  In the paper, [Evolving Artificial Neural Networks through L-System and Evolutionary Computation](https://www.researchgate.net/publication/275964617_Evolving_Artificial_Neural_Networks_through_L-System_and_Evolutionary_Computation_to_be_published_at_IJCNN_2015) by Oliveira et al., they evolve Artificial Neural Networks (ANNs) using a Lindenmayer System with memory that implements the principles of organization, modularity, repetition (multiple use of the same sub-structure), hierarchy (recursive composition of sub-structures), as a metaphor for development of neurons and its connections. In our method, this basic neural codification is integrated to a Genetic Algorithm (GA) that implements the constructive approach found in the evolutionary process, making it closest to the biological ones.
-
-[^^^^^]:  In the paper, [Genetic L-System Programming](https://link.springer.com/chapter/10.1007/3-540-58484-6_277) by Christian Jacob, they present a Genetic L-System Programming (GLP) paradigm for evolutionary creation and development of parallel rewrite systems (L-systems, Lindenmayer-systems) which provide a commonly used formalism to describe developmental processes of natural organisms.  Controlled evolution of complex structures is exemplified by the development of tree structures generated by the movement of a 3D-turtle.
-
-[^^^^^^]:  In the paper, [Evolving L-systems to generate virtual creatures](http://www0.cs.ucl.ac.uk/staff/p.bentley/teaching/L6_reading/hornbygalsystems.pdf) by Hornby et al., uses Lindenmayer systems (L-systems) as the encoding of an evolutionaryalgorithm (EA) for creating virtual creatures. Creatures evolved by this system have hundreds of parts, and the use of an L-system as the encoding results in creatures with a more natural look.
-
-[^8]: [How L-Systems Work?]((http://www.selcukergen.net/ncca_lsystems_research/lsystems.html))
-
-
-
-
-[]: If you are a beginner just starting out programming in Python, I'd highly recommend you to check out this [Beginner's Guide to Turtle](https://realpython.com/beginners-guide-python-turtle/) by *Real Python* which goes over the basics of how to work Turtle from the perspective of something just starting their programming experience.
-
-[]: [This person](https://hackaday.io/project/11721-python-l-system) explores L-Systems in Python using another graphical / visualization package called [Pygame](https://www.pygame.org/wiki/about).  It too is rather easy to learn and would be recommended if you want to get into graphics / game programming because the way they structure their code at the low level uses many similar concepts. I chose to forego this for the sole fact that *Turtle* came pre-installed in Python, so it would be more friendly towards beginners due to the *"batteries included"* philosophy. 
-
-[]:  Much of the rendering template I used is built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook[^1] and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).  Other tutorials that I did not use, but could prove helpful can be found [here](https://medium.com/analytics-vidhya/generating-fractals-using-lindenmayer-systems-6214dddbe223) and [here](https://medium.com/@abhinav.mahapatra10/python-beginner-diy-make-fractal-trees-b1a0903414a9). 
+[^11]:  Much of the rendering template I used was built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook[^1] and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).  Other tutorials that I did not use, but could prove helpful can be found [here](https://medium.com/analytics-vidhya/generating-fractals-using-lindenmayer-systems-6214dddbe223) and [here](https://medium.com/@abhinav.mahapatra10/python-beginner-diy-make-fractal-trees-b1a0903414a9). 
