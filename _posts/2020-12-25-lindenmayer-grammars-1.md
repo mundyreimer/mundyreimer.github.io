@@ -284,7 +284,7 @@ All that variable *X* does is act like a logical place-holder for symbols that d
 
 <br/> 
 
-There are many interesting things to note about *Node Rewriting*[^^^], but the biologically relevant property of this rewriting scheme is that it allows us to fill a given region by a *self-avoiding* curve.  This self-avoiding property is important if we don't want our trees to intersect at later points or overlap (for example, it would be like a leaf growing into another leaf and then maybe a new branch coming off of that merger).[^1]  
+There are many interesting things to note about *Node Rewriting*[^^^], but the biologically relevant property of this rewriting scheme is that it allows us to fill a given region by a [self-avoiding](https://en.wikipedia.org/wiki/Self-avoiding_walk) curve.  This self-avoiding property is important if we don't want our trees to intersect at later points or overlap (for example, it would be like a leaf growing into another leaf and then maybe a new branch coming off of that merger).[^1]  
 
 With that said, you can choose to interpret your system either using an Edge rewriting scheme, or Node rewriting scheme, or both.  Neither approach is general, nor are they disjoint from each other.[^1]  
 
