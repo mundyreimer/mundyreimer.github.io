@@ -275,7 +275,7 @@ Using the same starting *Axiom* **ω** and just switching up our production rule
 
 ### Edge vs. Node Rewriting
 
-So now that we know how rewriting systems *replace* some character, substring, or set of symbols with another string of symbols, what if we wanted to *append* that new string instead?  This is where Prusinkiewicz and Lindenmayer explain that there are two types of rewriting mechanisms.  The first type is called *Edge Rewriting* and is what we did before with *replacing* symbol(s) with other symbols.  The second type is called *Node Rewriting* and occurs when we *append* new symbol(s) instead.  We can specify the latter formally by using a variable such as *X* like in the following example by [Ergen](http://www.selcukergen.net/ncca_lsystems_research/lsystems.html),   
+So now that we know how rewriting systems *replace* some character, substring, or set of symbols with another string of symbols, what if we wanted to *append* that new string instead?  This is where Prusinkiewicz and Lindenmayer explain that there are two types of rewriting mechanisms.  The first type is called *Edge Rewriting* and is what we did before with *replacing* symbol(s) with other symbols.  The second type is called *Node Rewriting* and occurs when we *append* new symbol(s) instead.  We can specify the latter formally by using a variable such as *X* like in the following example[^8],   
 
 **L-System**:  *Simple Example of Node Rewriting*
 **Axiom**:  *FX*
@@ -736,7 +736,7 @@ Resources:
 
 [^^^^^^]:  In the paper, [Evolving L-systems to generate virtual creatures](http://www0.cs.ucl.ac.uk/staff/p.bentley/teaching/L6_reading/hornbygalsystems.pdf) by Hornby et al., uses Lindenmayer systems (L-systems) as the encoding of an evolutionaryalgorithm (EA) for creating virtual creatures. Creatures evolved by this system have hundreds of parts, and the use of an L-system as the encoding results in creatures with a more natural look.
 
-
+[^8]: [How L-Systems Work?]((http://www.selcukergen.net/ncca_lsystems_research/lsystems.html))
 
 
 
