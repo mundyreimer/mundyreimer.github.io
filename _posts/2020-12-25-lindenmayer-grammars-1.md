@@ -664,7 +664,7 @@ And our plant is generated! :)
 
 <center>
 <a href="">
-    <img src="/images/post_pics/lindenmayer/wheatgrasspersonal.gif"
+    <img src="/images/post_pics/lindenmayer/wheatgrasspersonal0.gif"
         width="400" 
         height="400"
         >
@@ -678,7 +678,7 @@ And our plant is generated! :)
 
 <center>
 <a href="">
-    <img src="/images/post_pics/lindenmayer/wheatgrasspersonal.png"
+    <img src="/images/post_pics/lindenmayer/wheatgrasspersonal0.png"
         width="400" 
         height="400"
         >
