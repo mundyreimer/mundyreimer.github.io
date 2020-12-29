@@ -592,7 +592,7 @@ This context comparison gets slightly more trickier in the case of bracketed tre
 
 Various other realistic properties can be layered on top of here.  Prusinkiewicz and Lindenmayer go on to explain how to implement concepts like *exponential growth* and other growth functions, *diffusion of substances* through parametric methods, extending context to overall structure and the *external environment* through continuous density fields (similar to cellular automata) which allows us to model effects like wind, phototropism and gravity, adding space-time dependent *phase effects* like that found in different stages of development, adding *control mechanisms* (like cellular lineage, cell-types, and epigenetic effects), adding *cell layers* / higher-ordered tissue structure through use of planar graphs with cycles, and more!  
 
-I can't seem to say this enough, but really do check out the free copy of [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop) when you get a chance, since the authors explain all this in much more depth and beauty than I can at the moment (Professor Prusinkiewicz kindly makes it available for free on [his website](http://algorithmicbotany.org/)).  In the book they even go on to explain how one should organize their *"virtual laboratory"* or software environment so as to best experiment and explore these different concepts (pg 193).  You can also find various tools and programs that they've already written (pg 198).           
+I can't seem to say this enough[^12], but really do check out the free copy of [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop) when you get a chance, since the authors explain all this in much more depth and beauty than I can at the moment (Professor Prusinkiewicz kindly makes it available for free on [his website](http://algorithmicbotany.org/)).  In the book they even go on to explain how one should organize their *"virtual laboratory"* or software environment so as to best experiment and explore these different concepts (pg 193).  You can also find various tools and programs that they've already written (pg 198).           
 
 ### Breaking down the main plotting code
 
@@ -862,6 +862,8 @@ In summary, we've learned:
 
 In the next few articles in this sequence, I'm planning on exploring everything from Cellular Automata, Evolutionary Algorithms, and Neural Networks all from the perspective of Lindenmayer Systems.  
 
+Feel free to also check out [my book review]() of *The Algorithmic Beauty of Plants* on Goodreads!
+
 ---
 
 ## Resources:
@@ -888,4 +890,4 @@ In the next few articles in this sequence, I'm planning on exploring everything 
 
 [^11]:  Much of the rendering template I used was built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook[^1] and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).  Other tutorials that I did not use, but could prove helpful can be found [here](https://medium.com/analytics-vidhya/generating-fractals-using-lindenmayer-systems-6214dddbe223) and [here](https://medium.com/@abhinav.mahapatra10/python-beginner-diy-make-fractal-trees-b1a0903414a9). 
 
-[^12]:  Feel free to check out [my book review]() of *The Algorithmic Beauty of Plants* on Goodreads!
+[^12]: Feel free to also check out [my book review]() of *The Algorithmic Beauty of Plants* on Goodreads!
