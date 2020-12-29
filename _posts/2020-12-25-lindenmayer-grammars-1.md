@@ -632,22 +632,22 @@ if __name__ == "__main__":
     main()
 {% endhighlight %}
 
-We finally run our program on the command line,
+And last but not least, we can run our program on the command line by typing in the following command,
 
 ```bash
 python intro_L_systems.py
 ```
 
-And enter the desired inputs,
+And entering the desired inputs,
 
 ```bash
 Enter starting axiom (w): X
 
-Enter production rule #1 (Input 0 if no more rules): X->F-[[X]+X]+F[+FX]-X
+Enter production rule 1 (Input 0 if no more rules): X->F-[[X]+X]+F[+FX]-X
 
-Enter production rule #2 (Input 0 if no more rules): F->FF
+Enter production rule 2 (Input 0 if no more rules): F->FF
 
-Enter production rule #3 (Input 0 if no more rules): 0
+Enter production rule 3 (Input 0 if no more rules): 0
 
 Enter number of iterations n: 5
 
