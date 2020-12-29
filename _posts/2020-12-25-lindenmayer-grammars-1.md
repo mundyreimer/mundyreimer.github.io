@@ -324,7 +324,7 @@ There are many interesting things to note about *Node Rewriting*[^6], but the bi
         width="400" 
         height="400"
         >
-    <em>Self-avoiding walks on a square lattice by Nathan Clisby from a paper discussing its connection to physics topics like spin systems and renormalization.</em>
+    <em>Self-avoiding walks on a square lattice by Nathan Clisby.  This is from a paper discussing its connection to physics topics like spin systems and renormalization.</em>
 </a>
 </center>
 
