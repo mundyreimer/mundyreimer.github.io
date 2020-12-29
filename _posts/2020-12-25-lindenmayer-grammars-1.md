@@ -706,10 +706,15 @@ And our plant is generated! :)
 
 <br/> 
 
-
 ### Moving Forward
 
-*(in progress)*
+In summary, we've learned:
+- Good practices with Python version management
+- How to use the Turtle graphical plotting package
+- How to convert between our abstract string rewriting system to a geometric interpretation
+- How to implement all this in Python
+
+In the next few articles in this sequence, I'm planning on exploring everything from Cellular Automata, Evolutionary Algorithms, and Neural Networks all from the perspective of Lindenmayer Systems.  
 
 ---
 
