@@ -484,7 +484,7 @@ Below are a few examples of what these new bracket symbols allow us to do,
 
 ### Adding Further Realism
 
-In all the examples we have shown so far, we have dealt with production rules that are *deterministic*.  That is, they always occur whenever it is possible that we can apply them.  This determinism though allows no room for *variation* between specimen to specimen.  To add a quality of uniqueness to each plant we can follow production rules that are stochastic instead.  That is, each production rule *p* occurs with some probability *π(p)*.  These systems are thus called *Stochastic L-Systems*.[^1]
+In all the examples we have shown so far, we have dealt with production rules that are *deterministic*.  That is, they always occur whenever it is possible that we can apply them.  Unfortunately, this determinism allows no room for *variation* between specimen to specimen.  To add a quality of uniqueness to each plant we can follow production rules that are stochastic instead.  That is, each production rule *p* occurs with some probability *π(p)*.  These systems are thus called *Stochastic L-Systems*.[^1]
 
 <br/>
 
