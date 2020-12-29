@@ -589,8 +589,8 @@ Following the software philosophy of ["Don't Repeat Yourself"](https://en.wikipe
 <center>
 <a href="https://en.wikipedia.org/wiki/The_Pragmatic_Programmer">
     <img src="/images/post_pics/lindenmayer/the_pragmatic_programmer_book.jpg"
-        width="400" 
-        height="400"
+        width="300" 
+        height="300"
         >
     <em>The DRY Principle was formulated by Andy Hunt and Dave Thomas in their book 'The Pragmatic Programmer'.  Many widely used programming idioms and phrases were named or popularised by this book such as code katas and rubber duck debugging.</em>
 </a>
