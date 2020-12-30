@@ -862,7 +862,7 @@ In summary, we've learned:
 
 In the next few articles in this sequence, I'm planning on exploring everything from Cellular Automata, Evolutionary Algorithms, and Neural Networks all from the perspective of Lindenmayer Systems.  
 
-Feel free to also check out [my book review]() of *The Algorithmic Beauty of Plants* on Goodreads!
+Feel free to also check out [my book review](https://www.goodreads.com/review/show/3726733180) of *The Algorithmic Beauty of Plants* on Goodreads!
 
 ---
 
@@ -890,4 +890,4 @@ Feel free to also check out [my book review]() of *The Algorithmic Beauty of Pla
 
 [^11]:  Much of the rendering template I used was built from Gianni Perez's [original implementation](https://github.com/ambron60/l-system-drawing), with fixes and comments based on Prusinkiewicz & Lindenmayer's original textbook[^1] and [this tutorial](https://cgjennings.ca/articles/l-systems/) from Christopher Jennings.  Extra *Production Rules* were based off of an implementation done in an entirely different package [found here](https://hackaday.io/project/11721-python-l-system) and [here](https://cdn.hackaday.io/files/11721501471264/baum.py).  Other tutorials that I did not use, but could prove helpful can be found [here](https://medium.com/analytics-vidhya/generating-fractals-using-lindenmayer-systems-6214dddbe223) and [here](https://medium.com/@abhinav.mahapatra10/python-beginner-diy-make-fractal-trees-b1a0903414a9). 
 
-[^12]: Feel free to also check out [my book review]() of *The Algorithmic Beauty of Plants* on Goodreads!
+[^12]: Feel free to also check out [my book review](https://www.goodreads.com/review/show/3726733180) of *The Algorithmic Beauty of Plants* on Goodreads!
