@@ -7,7 +7,7 @@ excerpt: My review of Przemyslaw Prusinkiewicz and Aristid Lindenmayer's book ex
 *Created: 2019-11-29*  
 *Updated: 2020-12-31*  
 *Topics: [Computer Science](https://mundyreimer.github.io/archive),[Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
-*Confidence: Probable*  
+*Confidence: Certain*  
 *Status: N/A* 
 
 TL;DR - My review of Przemyslaw Prusinkiewicz and Aristid Lindenmayer's book exploring the computational modeling of plant structures using parallel rewriting systems. 5/5
