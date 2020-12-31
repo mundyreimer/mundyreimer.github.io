@@ -185,3 +185,7 @@ My first tutorial is [An Introduction to Lindenmayer Grammars](https://mundyreim
 Thank you to Prusinkiewicz and Lindenmayer and their team for creating a remarkably beautiful (in more ways than one) book!
 
 Happy Gardening everyone :) 🌹🌲🌻🌿
+
+---
+
+*Cover art created by Lioudmila Perry.*
