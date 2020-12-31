@@ -32,11 +32,11 @@ Overall, a really fun book! I really wish this author wrote more :)
 
 ---
 
-- As a side note, besides actively engaging with the book with a pencil in hand and writing up this review, I also took the time to record some flashcards of the material I learned in this book. Over the years I've found that I actually forget quite a bit of material(!) and that doing the aforementioned while additionally using spaced-repetition systems all help curb this. Feel free to check out those flashcards [here](https://www.brainscape.com/p/212G3-LH-9EJ5Y).
+1) As a side note, besides actively engaging with the book with a pencil in hand and writing up this review, I also took the time to record some flashcards of the material I learned in this book. Over the years I've found that I actually forget quite a bit of material(!) and that doing the aforementioned while additionally using spaced-repetition systems all help curb this. Feel free to check out those flashcards [here](https://www.brainscape.com/p/212G3-LH-9EJ5Y).
 
-- For a summary of Thurston's evidence, this author recommends the article Three dimensional manifolds, Kleinian groups and hyperbolic geometry (Bulletin of AMS 6(1982), pp. 357-381). An interesting corollary of Thurston's ideas is that a randomly chosen three-manifold is unlikely to be a connected sum (see p. 255 in book).
+2) For a summary of Thurston's evidence, this author recommends the article Three dimensional manifolds, Kleinian groups and hyperbolic geometry (Bulletin of AMS 6(1982), pp. 357-381). An interesting corollary of Thurston's ideas is that a randomly chosen three-manifold is unlikely to be a connected sum (see p. 255 in book).
 
-- Another notable review by the Mathematical Association of America (MAA) is given [here](https://www.maa.org/press/maa-reviews/the-shape-of-space).
+3) Another notable review by the Mathematical Association of America (MAA) is given [here](https://www.maa.org/press/maa-reviews/the-shape-of-space).
 
 ---
 
