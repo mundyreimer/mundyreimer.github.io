@@ -21,8 +21,8 @@ Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/re
 <center>
 <a href="https://en.wikipedia.org/wiki/The_Algorithmic_Beauty_of_Plants">
     <img src="/images/post_pics/lindenmayer/algorithmicplantbook.jpeg"
-        width="300" 
-        height="300"
+        width="250" 
+        height="250"
         >
     <em></em>
 </a>
