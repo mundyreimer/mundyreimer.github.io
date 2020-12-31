@@ -1,7 +1,7 @@
 ---
 title: 'Book Review - The Algorithmic Beauty of Plants'
 date: 2020-11-29 00:00:00
-featured_image: '/images/post_pics/lindenmayer/celtictree0.jpg'
+featured_image: '/images/post_pics/lindenmayer/celtictree3.jpg'
 excerpt: My review of Przemyslaw Prusinkiewicz and Aristid Lindenmayer's book exploring the computational modeling of plant structures using parallel rewriting systems.  
 ---
 *Created: 2019-11-29*  
