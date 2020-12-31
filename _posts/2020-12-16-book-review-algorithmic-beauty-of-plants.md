@@ -16,6 +16,10 @@ Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/re
 
 ---
 
+**Required Reader Level**:
+
+Accessible to a motivated high school student. No further knowledge is needed other than basic algebra 2 and a smidgen of trigonometry. To be able to implement the concepts in here, a rudimentary working-level knowledge of Python or some other programming language is best, though the authors walk you through partial pseudo-implementation in [Turtle](https://docs.python.org/3/library/turtle.html) which is a pre-installed package that comes with Python. Alternatively, you can stick to just the [Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science)) and enter them into an online L-system generator which requires zero programming.
+
 <br/>
 
 <center>
@@ -29,10 +33,6 @@ Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/re
 </center>
 
 <br/> 
-
-**Required Reader Level**:
-
-Accessible to a motivated high school student. No further knowledge is needed other than basic algebra 2 and a smidgen of trigonometry. To be able to implement the concepts in here, a rudimentary working-level knowledge of Python or some other programming language is best, though the authors walk you through partial pseudo-implementation in [Turtle](https://docs.python.org/3/library/turtle.html) which is a pre-installed package that comes with Python. Alternatively, you can stick to just the [Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science)) and enter them into an online L-system generator which requires zero programming.
 
 With that said, a person who has studied the fundamentals of computer science would get a lot more out of this. Common discrete mathematics concepts like string manipulation, recursion, and elementary graph theory would be really useful. Botany and Biology-adjacent majors would love this book as the authors lead you by the hand through every concept. Nothing is too mathematical (in fact, I'd say there are no typically scary equations unless you'd want to dive more into animation and 3D modeling). As a disclaimer, I myself am trained in the biological sciences with hearty servings of computer science, mathematics, and philosophy. Anyways, other than that I'd also recommend checking out the other sources mentioned at the end of this review to complement your reading :)
 
