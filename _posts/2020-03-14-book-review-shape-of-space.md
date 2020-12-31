@@ -40,4 +40,4 @@ Overall, a really fun book! I really wish this author wrote more :)
 
 ---
 
-*Cover art created by [Brian Weinstein](https://twitter.com/brimaster3000) at [FouriestSeries](https://fouriestseries.tumblr.com/about).*
+*Cover art created by [Brian Weinstein](https://twitter.com/brimaster3000) at [Fouriest Series](https://fouriestseries.tumblr.com/about).*
