@@ -16,6 +16,20 @@ Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/re
 
 ---
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/The_Algorithmic_Beauty_of_Plants">
+    <img src="/images/post_pics/lindenmayer/algorithmicplantbook.jpeg"
+        width="300" 
+        height="300"
+        >
+    <em></em>
+</a>
+</center>
+
+<br/> 
+
 **Required Reader Level**:
 
 Accessible to a motivated high school student. No further knowledge is needed other than basic algebra 2 and a smidgen of trigonometry. To be able to implement the concepts in here, a rudimentary working-level knowledge of Python or some other programming language is best, though the authors walk you through partial pseudo-implementation in [Turtle](https://docs.python.org/3/library/turtle.html) which is a pre-installed package that comes with Python. Alternatively, you can stick to just the [Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science)) and enter them into an online L-system generator which requires zero programming.
@@ -28,7 +42,35 @@ I was coming at this book hoping to like it and I came out of it absolutely lovi
 
 For those that aren't aware, the main topic of this book is something called a [Lindenmayer (L-)System](https://en.wikipedia.org/wiki/L-system) which is a type of abstract [rewriting system](https://en.wikipedia.org/wiki/Rewriting). L-Systems basically are composed of a string of character(s) that are fed into a series of rules that replace those character(s) with other combinations of character(s), ie - "rewriting". This is then done over and over and over again, with each round of output being fed into the next round as input to generate a long string composed of complicated combinations of characters. Each character is then mapped to some logical operator, geometrical movement, biological mechanism, or physical phenomenon, etc.
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Minkowski_sausage">
+    <img src="/images/post_pics/lindenmayer/minkowskisausage.png"
+        width="400" 
+        height="400"
+        >
+    <em>How each part of the Minkowski sausage is just a smaller version of the previous stage.</em>
+</a>
+</center>
+
+<br/> 
+
 Ultimately, this is all done to show how seemingly complex structures can arise out of just the interaction between a few simple rules. Lindenmayer himself was originally a theoretical biologist interested in mathematically modeling the variety of complex structures of plants, and the other author Prusinkiewicz excels in the graphical modeling and programming part. Together they make a formidable pedagogical team. I myself am interested in this from an *Artificial Life*, *Complexity-Theoretic*, and *Digital Physics* perspective. Other notable interests that were fulfilled by this book were the mentions of the connections between fractals, phase-effects + dynamics, and cellular automata.
+
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/n2_island.gif"
+    width="400" 
+    height="400"
+    >
+<em>Turtle drawing an n=2 Minkowski Island.</em>
+
+</center>
+
+<br/> 
 
 Overall, the authors start from the bottom-up, building out your basics of how abstract rewriting systems work, then moving on to showing you how we can map these symbols to some geometrical representation, and then finally extending the representation by layering on some more structure, getting more complex as you move through the chapters. This is all accompanied by lots and lots of pictures and diagrams to aid your intuition. This latter point proved really helpful, especially in helping build the visual intuition needed to convert strings of characters to tree-like graph structures. My absolute favorite section was learning how L-systems could be used to represent signal propagation and other similar biophysical phenomena like diffusion. This was the main piece of meat I was after due to its wide-ranging modeling applicability throughout nature and I'm glad the authors explained this well.
 
@@ -36,9 +78,51 @@ Overall, the authors start from the bottom-up, building out your basics of how a
 
 **Ch 1**: The authors introduce you to the basic theory behind rewriting systems as string replacement mechanisms. They start off with a visually intuitive fractal representation, and then move on to how we can practically draw this with Turtle. They go over the differences between node + edge rewriting, 3D modeling, axial trees, using [push-pop stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) mechanics (called "bracketing"), adding stochastic rules, differences between [context-free](https://en.wikipedia.org/wiki/Context-free_grammar) and [context-sensitive grammars](https://en.wikipedia.org/wiki/Context-sensitive_grammar), adding growth functions, and finally operating on parameters (allowing real-valued numbers). Overall, as a beginner if you only read this chapter you would have already gotten your money's worth of the time you invested. This is probably the single most important chapter as it gives you the fundamentals to start exploring things on your own. And while this first chapter builds itself up in a linear fashion, after this the chapters get somewhat topical and modular, so you can skip and jump around to whatever serves your interests best if desired. With that said, I basically just read the entire book linearly from start to end. Everything else is just icing on the cake from here.
 
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/bracketexamples.png"
+    width="600" 
+    height="600"
+    >
+<em>From pg. 25 of *The Algorithmic Beauty of Plants*.</em>
+
+</center>
+
+<br/> 
+
 **Ch 2**: In this chapter they move on to approaches that emphasize the interactions between parts of the growing structure. Such effects like adding differences in girths to trunks versus branches/limbs, adding the effect of gravity to some branch plane, adding various [tropism](https://en.wikipedia.org/wiki/Tropism) effects (like light or nutrients), etc. This section is probably the most important if you are desiring models that are more physically realistic in an artificial setting.
 
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/axialtree.png"
+    width="400" 
+    height="400"
+    >
+<em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
+
+</center>
+
+<br/> 
+
 **Ch 3**: Besides the first chapter, this section is one of my favorites. It goes over how to model biologically relevant phenomena like the space-time relation between different plant parts (phase effects) and differential growth capabilities of different sections of the plants. If you are creative enough, this allows you to model some really cool stuff like the differences between cell types and cell lineages as well as the consequences of herbaceous / non-woody plants versus woody plants. This is also where we can now model the effects of growth hormones (which if you've studied plants you know there are a wide variety of!) and cool compound flowering structures / inflorescences.
+
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/exampleaxialtree.png"
+    width="500" 
+    height="500"
+    >
+<em>From pg. 22 of *The Algorithmic Beauty of Plants*.</em>
+
+</center>
+
+<br/> 
 
 **Ch 4**: This chapter was a bit more mathematically challenging, but well-rewarding. In it the authors go over the plant phenomenon known as [phyllotaxis](https://en.wikipedia.org/wiki/Phyllotaxis) which is the arrangement of leaves on a plant stem like alternating sides, whorled, and spiral patterns (which I thought was super neat! I mean, the vast variety of geometries of spiral structures of plants is one of the most beautifully geometric things mother nature has to offer here on Earth). Fibonacci numbers and floret designs feature heavily here. This is the chapter where my intuition was greatly enhanced regarding the connections between geometric packing problems / tiling, recursion, and number theory.
 
@@ -46,9 +130,37 @@ Overall, the authors start from the bottom-up, building out your basics of how a
 
 **Ch 6**: I was less interested in this chapter, but those of you who are into video games and computer animation might enjoy this a lot more. It basically focused on the animation of the stages of development of a plant. The parts I did find interesting were the introduction of growth functions since this plays a big role in how we can introduce concepts from dynamical systems at multiple perspectives of L-Systems (not only from the 1-dimensional topological string case for example, but also to the branching case). This chapter was short too.
 
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/3Dbush.png"
+    width="400" 
+    height="400"
+    >
+<em>Showing a 3-dimensional bush-like plant from pg. 26 of *The Algorithmic Beauty of Plants.</em>
+
+</center>
+
+<br/> 
+
 **Ch 7**: This chapter might be more relevant to the botanist and cellular biologists, but it mainly had to do with modeling the different cellular layers of a plant. Tissue distinction and physical structure is no joke, and I think this chapter was the most mathematically challenging out of all the sections. It is also arguably the most physiologically realistic section from a physical structure standpoint. Everything from modeling laminar layers, to spherical cell layers, to 3D cellular structures is covered here. Again, I found this section the most difficult, and will have to probably read through it multiple times to understand it fully.
 
 **Ch 8**: This chapter was really fun. It was basically a chapter entirely spent on how L-systems intersect with the study of fractals! [Hausdorff dimensions](https://en.wikipedia.org/wiki/Hausdorff_dimension) were mentioned, self-similarity, iterated function systems, scaling, etc. Although it wasn't mentioned, I was also reading about some Group Theory on the side as part of my self-studies in Abstract Algebra (so that I in turn can understand how important symmetry is to Noether's invariant laws in physics) and I felt like this was the most relevant section to that. I was disheartened by how short it was, but oh well, haha.
+
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/rules1.png"
+    width="400" 
+    height="400"
+    >
+<em>From *The Algorithmic Beauty of Plants* pg. 10</em>
+
+</center>
+
+<br/> 
 
 *The Appendices, References, and Bibliography sections are also a treasure-trove for those that have yet to make it a habit to mine these sections for hidden gems. In this particular case, Prusinkiewicz's lab offers some great (though dated) software packages that they've built, as well as the more important references to other papers that might prove useful for further exploring this material (or for contacts to future lab colleagues 😉)
 
