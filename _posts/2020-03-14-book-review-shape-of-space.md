@@ -6,7 +6,7 @@ excerpt: My review of Jeffrey Week's book exploring low-dimensional topology, no
 ---
 *Created: 2019-03-14*  
 *Updated: 2020-12-31*  
-*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive)
+*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive)*  
 *Confidence: Certain*  
 *Status: N/A* 
 
