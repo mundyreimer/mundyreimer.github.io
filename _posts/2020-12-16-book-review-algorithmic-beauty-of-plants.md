@@ -16,7 +16,7 @@ Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/re
 
 ---
 
-## Required Reader Level:
+### Required Reader Level:
 
 Accessible to a motivated high school student. No further knowledge is needed other than basic algebra 2 and a smidgen of trigonometry. To be able to implement the concepts in here, a rudimentary working-level knowledge of Python or some other programming language is best, though the authors walk you through partial pseudo-implementation in [Turtle](https://docs.python.org/3/library/turtle.html) which is a pre-installed package that comes with Python. Alternatively, you can stick to just the [Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science)) and enter them into an online L-system generator which requires zero programming.
 
@@ -36,7 +36,7 @@ Accessible to a motivated high school student. No further knowledge is needed ot
 
 With that said, a person who has studied the fundamentals of computer science would get a lot more out of this. Common discrete mathematics concepts like string manipulation, recursion, and elementary graph theory would be really useful. Botany and Biology-adjacent majors would love this book as the authors lead you by the hand through every concept. Nothing is too mathematical (in fact, I'd say there are no typically scary equations unless you'd want to dive more into animation and 3D modeling). As a disclaimer, I myself am trained in the biological sciences with hearty servings of computer science, mathematics, and philosophy. Anyways, other than that I'd also recommend checking out the other sources mentioned at the end of this review to complement your reading :)
 
-## Personal Thoughts:
+### Personal Thoughts:
 
 I was coming at this book hoping to like it and I came out of it absolutely loving it! In fact, it's being added as one of my all-time favorite textbooks for self-study. My main motivation in reading this was dual-purposed: to understand what L-systems were from both an intuitive theory perspective and how to practically implement them in a programming language.
 
@@ -74,7 +74,7 @@ Ultimately, this is all done to show how seemingly complex structures can arise 
 
 Overall, the authors start from the bottom-up, building out your basics of how abstract rewriting systems work, then moving on to showing you how we can map these symbols to some geometrical representation, and then finally extending the representation by layering on some more structure, getting more complex as you move through the chapters. This is all accompanied by lots and lots of pictures and diagrams to aid your intuition. This latter point proved really helpful, especially in helping build the visual intuition needed to convert strings of characters to tree-like graph structures. My absolute favorite section was learning how L-systems could be used to represent signal propagation and other similar biophysical phenomena like diffusion. This was the main piece of meat I was after due to its wide-ranging modeling applicability throughout nature and I'm glad the authors explained this well.
 
-## Chapter Breakdown:
+### Chapter Breakdown:
 
 **Ch 1**: The authors introduce you to the basic theory behind rewriting systems as string replacement mechanisms. They start off with a visually intuitive fractal representation, and then move on to how we can practically draw this with Turtle. They go over the differences between node + edge rewriting, 3D modeling, axial trees, using [push-pop stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) mechanics (called "bracketing"), adding stochastic rules, differences between [context-free](https://en.wikipedia.org/wiki/Context-free_grammar) and [context-sensitive grammars](https://en.wikipedia.org/wiki/Context-sensitive_grammar), adding growth functions, and finally operating on parameters (allowing real-valued numbers). Overall, as a beginner if you only read this chapter you would have already gotten your money's worth of the time you invested. This is probably the single most important chapter as it gives you the fundamentals to start exploring things on your own. And while this first chapter builds itself up in a linear fashion, after this the chapters get somewhat topical and modular, so you can skip and jump around to whatever serves your interests best if desired. With that said, I basically just read the entire book linearly from start to end. Everything else is just icing on the cake from here.
 
@@ -166,7 +166,7 @@ Overall, the authors start from the bottom-up, building out your basics of how a
 
 Overall, although this book is intended to be about plants, I think if you are creative enough to see the implications beyond this you can start applying this broadly, as many fields feature arboreal or "tree-like" phenomena. With some careful tweaks I can see this being applied to model work in mycology, neuroscience(!), geology, and more.
 
-## Availability:
+### Availability:
 
 This book is offered free online by one of the authors himself!!!
 
@@ -174,7 +174,7 @@ You can find the [book here](http://algorithmicbotany.org/papers/abop/abop.pdf) 
 
 I'm also actually rather jealous I can't take a class with this professor. From just his pedagogical style offered in this book, the amount of open-sourced tools and material he offers online, and his great teaching ratings, I think he'd be a really cool mentor and guide :)
 
-## Other:
+### Other:
 
 Some other things I think might complement your reading experience would be this online browser-based [L-system generator here](http://www.kevs3d.co.uk/dev/lsystems/). This should allow the beginner programmers / coding-averse of you out there to enjoy this book by just typing in a few parameters into your browser and out pops the image of your L-system, without doing any programming on your own.
 
