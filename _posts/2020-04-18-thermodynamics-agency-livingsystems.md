@@ -406,7 +406,7 @@ This is why I think current artificial neural network research should start movi
 
 <br/>
 
-Now where can we start?  We know that our framework must be grounded[^3] in the laws of thermodynamics and potentially the free-energy principle framework[^0].  A good first step would be to start with defining our taxonomy of geometric objects, or alternatively, what kind of geometric spaces do these objects live in?  Is it Euclidean Space? Is it Hyperbolic Space? Does it use some Fractal Dimension?  Fleshing that out will then inform us of how the laws of thermodynamics operate on such an environment and how information can flow or propagate throughout the system.  This would then allow us to talk about saddle points, curvatures in information space, geodesics, local minima, and later on what effects (like those fluid dynamics ones from before) can we make testable physiological or behavioral predictions on.
+Now where can we start?  We know that our framework must be grounded[^3] in the laws of thermodynamics and potentially the free-energy principle framework[^0].  A good first step would be to start with defining our taxonomy of geometric objects, or alternatively, what kind of geometric spaces do these objects live in?  Is it Euclidean Space? Is it Hyperbolic Space?[^2] Does it use some Fractal Dimension?  Fleshing that out will then inform us of how the laws of thermodynamics operate on such an environment and how information can flow or propagate throughout the system.  This would then allow us to talk about saddle points, curvatures in information space, geodesics, local minima, and later on what effects (like those fluid dynamics ones from before) can we make testable physiological or behavioral predictions on.
 
 <br/>
 
