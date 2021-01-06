@@ -212,7 +212,7 @@ This is where the formalism given above that Jost[^1] maps out might prove usefu
 
 This is where Jost speculates[^1] that because any information encoded in the environment does not need to be encoded in the genome, there should be a relatively small amount this.  In other words, *SI* should be small or minimized.  Furthermore, because it seems to be rather rare for biological organisms to develop autonomously and completely independent of the environment, our value *UI* should also contribute little.  Thus, the only thing left is for there to be an evolutionary tendency to increase complementary or synergistic information *CI* as this best makes use of what the environment can provide.  
 
-## Predictions
+### Predictions
 
 A few predictions are thus generated from this framework of maximizing complementary or synergistic information *CI* (one explicitly mentioned by Jost[^1] and others speculated by myself):
 
