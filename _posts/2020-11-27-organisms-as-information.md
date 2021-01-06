@@ -178,7 +178,7 @@ $$ H(X \mid Y) =  - \sum_{j}^{} \sum_{i}^{}  p(x_{i}, y_{i}) \log p(x_{i} \mid y
 $$ MI(X : Y) =  H(X) - H(X \mid Y) = H(Y) - H(Y \mid X) $$ 
 
 9) **Conditional Mutual Information** (the mutual information between X and Y gained with knowledge Z)
-$$ MI(X : Y\midZ) =  H(X\midZ) - H(X \mid Y,Z) $$ 
+$$ MI(X : Y \mid Z) =  H(X \mid Z) - H(X \mid Y,Z) $$ 
 
 10) **Mutual Information with another context** variable Z
 $$ MI(X : Y,Z) $$
@@ -187,7 +187,7 @@ $$ MI(X : Y,Z) $$
 $$ SI(X : Y,Z) $$
 
 12) **Unique Information** (solely to that variable)
-$$ UI(X: Y\Z) or UI(X: Z\Y) $$
+$$ UI(X: Y \ Z) or UI(X: Z \ Y) $$
 
 13) **Complementary** or **Synergistic Information** (obtained *only* in the presence of both variables)
 $$ CI(X : Y,Z) $$
