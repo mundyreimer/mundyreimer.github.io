@@ -240,9 +240,9 @@ More speculatively,
 
 *Personal notes:*
 
-- Add discussion from Pierce's [An Introduction to Information Theory: Symbols, Signals, and Noise](https://www.goodreads.com/book/show/433443.An_Introduction_to_Information_Theory) regarding the part where information theory melds with physics.  Specifically discuss the authors's construction of a single-molecule variant of Maxwell's Demon and show how Information could possibly relate to the laws of thermodynamics.
+1) Add discussion from Pierce's [An Introduction to Information Theory: Symbols, Signals, and Noise](https://www.goodreads.com/book/show/433443.An_Introduction_to_Information_Theory) regarding the part where information theory melds with physics.  Specifically discuss the authors's construction of a single-molecule variant of Maxwell's Demon and show how Information could possibly relate to the laws of thermodynamics.
 
-- Add some examples from Hoffman's [Life's Rachet: How Molecular Machines Extract Order from Chaos](https://www.goodreads.com/book/show/16691583-life-s-ratchet)
+2) Add some examples from Hoffman's [Life's Rachet: How Molecular Machines Extract Order from Chaos](https://www.goodreads.com/book/show/16691583-life-s-ratchet)
 
 ---
 Resources:
