@@ -76,9 +76,9 @@ $$ \text{Uncertainty} = \text{Information Entropy} = H(M) = \text{Average Inform
 
 $$ H(M) = \mathbb{E} \left I(M) \right $$
 
-$$ H(M) = \sum_{m}^{} p_{m} I(M) $$
+$$ H(M) = \sum_{m}^{} p(m) I(M) $$
 
-$$ H(M) = - \sum_{m}^{} p_{m} \log_{2} (p_{m}) $$
+$$ H(M) = - \sum_{m}^{} p(m) \log_{2} (p(m)) $$
 
 The reason why that *p(m)* term is inserted in front of the log is because not all messages are equally likely to be received.  Some messages might be more probable than others, so we multiply the *probability of getting that message* times the *information* from that message, to get the *probability of getting that information*.  What's nice about this formulation is that if all the messages are equally likely or *equiprobable* then that *p(m)* term equals *1/M* which makes *H(M) = log(M)*. 
 
