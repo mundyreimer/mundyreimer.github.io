@@ -6,7 +6,7 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 ---
 
 cognitive science
-{: #cognitive-science}
+{: id="cognitive-science"}
 
 blah blah blah
 
@@ -19,7 +19,7 @@ blah blah blah
 blah blah blah
 
 computer science
-{: #computer-science}
+{: id="computer-science"}
 
 blah blah blah
 
@@ -61,7 +61,7 @@ blah blah blah
 blah blah blah
 
 philosophy
-{: #philosophy}
+{: id="philosophy"}
 
 blah blah blah
 
