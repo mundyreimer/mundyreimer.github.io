@@ -1,11 +1,11 @@
 ---
 title: Organisms as a Special Kind of Information
-date: 2020-11-27 00:00:00
+date: 2020-12-05 00:00:00
 featured_image: '/images/post_pics/organisms_information/haeckel_jellyfish.jpg'
 excerpt: Long-form notes recording attempts to model biological organisms using Shannon's concept of Entropy & Information. This is an effort to disentangle thoughts and see where metaphors + jargon fit, stretch, and break during the mapping.  
 ---
 *Created: 2020-11-27*  
-*Updated: 2020-01-05*  
+*Updated: 2020-01-06*  
 *Topics: [Biology](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive),[Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
 *Confidence: Speculative*  
 *Status: Still in progress* 
