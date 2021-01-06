@@ -168,42 +168,55 @@ where knowledge of both variables y and z determines the third variable x, but k
 So let's summarize really quick what we learned:
 
 1) **Information**, Shannon Information, or Surprisal 
+
 $$ I(m) = -log(p(m)) $$
 
 2) **Entropy**, Reduction of Uncertainty, or Average Information 
+
 $$ H(M) = \mathbb{E} \left[ I(M) \right] = \sum_{m}^{} p(m) I(M) = - \sum_{m}^{} p(m) \log_{2} (p(m)) $$
 
 3) **Conditional Probability** (probability of one event occurring in the presence of a second event)
+
 $$ p(x_{i} \mid y_{j}) $$
 
 4) Relative Information or **Conditional Information**
+
 $$ p(x_{i}) =  \sum_{j}^{} p(x_{i} \mid y_{j}) q(y_{j}) $$ 
 
 5) **Joint Probability** (probability of two events occurring simultaneously)
+
 $$ p(x_{i}, y_{i}) =  p(x_{i} \mid y_{j}) q(y_{j}) $$
 
 6) **Marginal Probability** (probability of an event irrespective of the outcome of another variable)
+
 $$ p(x_{i}) =  \sum_{j}^{} p(x_{i}, y_{i}) $$ 
 
 7) **Conditional Entropy** (reduction of uncertainly upon given value of another variable)
+
 $$ H(X \mid Y) =  - \sum_{j}^{} \sum_{i}^{}  p(x_{i}, y_{i}) \log p(x_{i} \mid y_{j}) $$ 
 
 8) **Mutual Information** or **Information Gain** (measures the information that X and Y share, or how much knowing one of these variables reduces uncertainty about the other)
+
 $$ MI(X : Y) =  H(X) - H(X \mid Y) = H(Y) - H(Y \mid X) $$ 
 
 9) **Conditional Mutual Information** (the mutual information between X and Y gained with knowledge Z)
+
 $$ MI(X : Y \mid Z) =  H(X \mid Z) - H(X \mid Y,Z) $$ 
 
 10) **Mutual Information with another context** variable Z
+
 $$ MI(X : Y,Z) $$
 
 11) Mutual Information with **Shared Information** 
+
 $$ SI(X : Y,Z) $$
 
 12) **Unique Information** (solely to that variable)
+
 $$ UI(X: Y \ Z) or UI(X: Z \ Y) $$
 
 13) **Complementary** or **Synergistic Information** (obtained *only* in the presence of both variables)
+
 $$ CI(X : Y,Z) $$
 
 Now that we know what each term corresponds to conceptually and mathematically, let's see how we can map these to biological concepts...
