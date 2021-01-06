@@ -104,7 +104,7 @@ It is also key to note that the information obtained is not an *absolute* object
 
 $$ p(x_{i}) =  \sum_{j}^{} p(x_{i} \mid y_{j}) q(y_{j}) $$ 
 
-where in addition to *X* we have another random variable Y that can take on a specific value *y<sub>j</sub>* with a probability *q<sub>j</sub>*.  The conditional probability *p(x<sub>i</sub>|y<sub>j</sub>)* is interpreted as the probability of *x<sub>i</sub>* *given* that *y<sub>j</sub>* has occurred.  
+where in addition to *X* we have another random variable Y that can take on a specific value *y<sub>j</sub>* with a probability *q<sub>j</sub>*.  The conditional probability *p(x<sub>i</sub>\|y<sub>j</sub>)* is interpreted as the probability of *x<sub>i</sub>* *given* that *y<sub>j</sub>* has occurred.  
 
 We know from probability that the statement inside that summation above is called the [joint probability](https://en.wikipedia.org/wiki/Joint_probability_distribution) or the probability that both events ocurr at the same time:
 
@@ -116,7 +116,7 @@ $$ p(x_{i}) =  \sum_{j}^{} p(x_{i}, y_{i}) $$
 
 This gives us what is called the [marginal probability](https://en.wikipedia.org/wiki/Marginal_distribution) or the probability *p(x<sub>i</sub>)* occuring regardless of whether or not we know the outcome of the other variable.  
 
-Thus, we can define the [conditional entropy](https://en.wikipedia.org/wiki/Conditional_entropy) as the average uncertainty in X given some knowledge of Y.  In other words, it is the average amount of information obtained given some knowledge Y.  We do this by taking the conditional information *-log(p(x<sub>i</sub>|y<sub>j</sub>))* and multiplying each of those messages by its corresponding probability of occurring *p(x<sub>i</sub>)* (given by our marginal directly above):
+Thus, we can define the [conditional entropy](https://en.wikipedia.org/wiki/Conditional_entropy) as the average uncertainty in X given some knowledge of Y.  In other words, it is the average amount of information obtained given some knowledge Y.  We do this by taking the conditional information *-log(p(x<sub>i</sub>\|y<sub>j</sub>))* and multiplying each of those messages by its corresponding probability of occurring *p(x<sub>i</sub>)* (given by our marginal directly above):
 
 $$ H(X \mid Y) =  - \sum_{j}^{} \sum_{i}^{}  p(x_{i}, y_{i}) \log p(x_{i} \mid y_{j}) $$ 
 
