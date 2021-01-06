@@ -18,21 +18,23 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 
 	</div>
 
-</section>
 
-<!-- Adds ability to show tags/categories on each post page --> 
-<!-- See here for instructions: https://blog.webjeda.com/jekyll-categories/ -->
-<div class="post-categories">
-	{% if post %}
-	  {% assign categories = post.categories %}
-	{% else %}
-	  {% assign categories = page.categories %}
-	{% endif %}
-	{% for category in categories %}
-	<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-	{% unless forloop.last %}&nbsp;{% endunless %}
-	{% endfor %}
-  </div>
+	<!-- Adds ability to show tags/categories on each post page --> 
+	<!-- See here for instructions: https://blog.webjeda.com/jekyll-categories/ -->
+	<div class="post-categories">
+		{% if post %}
+		{% assign categories = post.categories %}
+		{% else %}
+		{% assign categories = page.categories %}
+		{% endif %}
+		{% for category in categories %}
+		<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+		{% unless forloop.last %}&nbsp;{% endunless %}
+		{% endfor %}
+	</div>
+
+
+</section>
 
 
 <!-- Leave alone / came with original template --> 
