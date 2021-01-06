@@ -274,7 +274,7 @@ More speculatively,
 ---
 ### Resources:
 
-The absolutely beautiful biological illustrations that serve as cover art were done by (in-)famous naturalist and artist [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel).
+The gorgeous biological illustration that serves as cover art was done by (in-)famous naturalist and artist [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel).
 
 [^1]:  [Biological Information](https://link.springer.com/article/10.1007/s12064-020-00327-1) by [Jürgen Jost](https://en.wikipedia.org/wiki/J%C3%BCrgen_Jost) discusses how [Shannon’s concept of information](https://en.wikipedia.org/wiki/Information_content) (aka - self-information, information content, or surprisal) is useful in biology.  In it he discusses how a recently developed theory of information decomposition can shed much light on the complementarity between coding and regulatory, or internal and environmental information.
 
