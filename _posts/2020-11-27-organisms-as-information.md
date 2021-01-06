@@ -112,21 +112,21 @@ $$ p(x_{i}, y_{i}) =  p(x_{i} \mid y_{j}) q(y_{j}) $$
 
 Knowing this, we can substitute the above inside the summation in the equation prior to that,
 
-$$ p(x_{i}) =  \sum_{j}^{} p(x_{i}, y_{i}) $$ 
+$$ p(x_{i}) =  \sum_{j}^{} p(x_{i}, y_{j}) $$ 
 
 This gives us what is called the [marginal probability](https://en.wikipedia.org/wiki/Marginal_distribution) or the probability *p(x<sub>i</sub>)* occuring regardless of whether or not we know the outcome of the other variable.  
 
 Thus, we can define the [conditional entropy](https://en.wikipedia.org/wiki/Conditional_entropy) as the average uncertainty in X given some knowledge of Y.  In other words, it is the average amount of information obtained given some knowledge Y.  We do this by taking the conditional information *-log(p(x<sub>i</sub>\|y<sub>j</sub>))* and multiplying each of those messages by its corresponding probability of occurring *p(x<sub>i</sub>)* (given by our marginal directly above):
 
-$$ H(X \mid Y) =  - \sum_{j}^{} \sum_{i}^{}  p(x_{i}, y_{i}) \log p(x_{i} \mid y_{j}) $$ 
+$$ H(X \mid Y) =  - \sum_{j}^{} \sum_{i}^{}  p(x_{i}, y_{j}) \log p(x_{i} \mid y_{j}) $$ 
 
 Knowing the above lets us now quantify *"the amount of information"* (in bits) obtained from one random variable through observing another random variable.  We do this through what is called the [mutual information](https://en.wikipedia.org/wiki/Mutual_information) between X and Y given by,
 
 $$ MI(X : Y) =  H(X) - H(X \mid Y) = H(Y) - H(Y \mid X) $$ 
 
-Where we can substitute for *H(X)* and *H(X|Y)* respectively.
+Where we can substitute for *H(X)* and *H(X\|Y)* respectively.
 
-Intuitively we can think of the above equation as saying that if we did not know Y at all, our uncertainty comes solely from H(X) (also known as our entropy).  However, if we do know Y, then the *H(X|Y)* term now comes into play and reduces our uncertainty.  Anything that is left after this difference is the information that they already shared.  In essence, the mutual information is how much knowledge of one of these variables reduces the uncertainty about the other variable, and vice versa.  If knowledge of X does not give any knowledge about Y and vice versa, than their mutual information is zero.  We should note that no matter what, this mututal information term is alway non-negative, or in other words, if we learn something we cannot increase our uncertainty/entropy, we can only decrease it.  
+Intuitively we can think of the above equation as saying that if we did not know Y at all, our uncertainty comes solely from H(X) (also known as our entropy).  However, if we do know Y, then the *H(X\|Y)* term now comes into play and reduces our uncertainty.  Anything that is left after this difference is the information that they already shared.  In essence, the mutual information is how much knowledge of one of these variables reduces the uncertainty about the other variable, and vice versa.  If knowledge of X does not give any knowledge about Y and vice versa, than their mutual information is zero.  We should note that no matter what, this mututal information term is alway non-negative, or in other words, if we learn something we cannot increase our uncertainty/entropy, we can only decrease it.  
 
 To build upon this further, let's consider adding another random variable *Z*.  Following the same derivation steps as the above, we can define the *conditional mutual infomation* as,
 
