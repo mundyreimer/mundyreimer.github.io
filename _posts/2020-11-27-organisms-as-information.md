@@ -245,7 +245,7 @@ More speculatively,
 2) Add some examples from Hoffman's [Life's Rachet: How Molecular Machines Extract Order from Chaos](https://www.goodreads.com/book/show/16691583-life-s-ratchet)
 
 ---
-Resources:
+### Resources:
 
 The absolutely beautiful biological illustrations that serve as cover art were done by (in-)famous naturalist and artist [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel).
 
