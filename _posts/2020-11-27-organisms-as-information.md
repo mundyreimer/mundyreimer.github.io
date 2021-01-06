@@ -236,7 +236,7 @@ More speculatively,
 
 ---
 
-*Work still in progress*
+*~~Work still in progress~~*
 
 *Personal notes:*
 
