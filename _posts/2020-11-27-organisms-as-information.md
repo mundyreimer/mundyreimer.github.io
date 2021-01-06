@@ -213,7 +213,7 @@ $$ SI(X : Y,Z) $$
 
 12) **Unique Information** (solely to that variable)
 
-$$ UI(X: Y \ Z) or UI(X: Z \ Y) $$
+$$ UI(X: Y \ Z) \text{ or } UI(X: Z \ Y) $$
 
 13) **Complementary** or **Synergistic Information** (obtained *only* in the presence of both variables)
 
