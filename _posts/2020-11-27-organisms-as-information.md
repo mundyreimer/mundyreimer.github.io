@@ -74,7 +74,7 @@ To make this formalism useful, we need to however go a bit farther than this.  S
 
 $$ \text{Uncertainty} = \text{Information Entropy} = H(M) = \text{Average Information} $$
 
-$$ H(M) = \mathbb{E} \big\[ I(M) \big\] $$
+$$ H(M) = \mathbb{E} \left I(M) \right $$
 
 $$ H(M) = \sum_{m}^{} p_{m} I(M) $$
 
@@ -157,7 +157,7 @@ So let's summarize really quick what we learned:
 $$ I(m) = -log(p(m)) $$
 
 2) **Entropy**, Reduction of Uncertainty, or Average Information 
-$$ H(M) = \mathbb{E} \big\[ I(M) \big\] = \sum_{m}^{} p_{m} I(M) = - \sum_{m}^{} p_{m} \log_{2} (p_{m}) $$
+$$ H(M) = \mathbb{E} \left I(M) \right = \sum_{m}^{} p_{m} I(M) = - \sum_{m}^{} p_{m} \log_{2} (p_{m}) $$
 
 3) **Conditional Probability** (probability of one event occurring in the presence of a second event)
 $$ p(x_{i} \mid y_{j}) $$
