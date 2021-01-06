@@ -130,7 +130,7 @@ Intuitively we can think of the above equation as saying that if we did not know
 
 To build upon this further, let's consider adding another random variable *Z*.  Following the same derivation steps as the above, we can define the *conditional mutual infomation* as,
 
-$$ MI(X : Y\midZ) =  H(X\midZ) - H(X \mid Y,Z) $$ 
+$$ MI(X : Y \mid Z) =  H(X \mid Z) - H(X \mid Y,Z) $$ 
 
 This statement represents the mutual information between X and Y gained with knowledge Z.  We need this Z term to explicitly represent any background knowledge onto which we should condition on, but generally speaking Z can represent any other knowledge like the background context of a situation or even the receiver's own memory (ie - other facts held in the head).
 
@@ -157,7 +157,7 @@ So let's summarize really quick what we learned:
 $$ I(m) = -log(p(m)) $$
 
 2) **Entropy**, Reduction of Uncertainty, or Average Information 
-$$ H(M) = \mathbb{E} \left I(M) \right = \sum_{m}^{} p_{m} I(M) = - \sum_{m}^{} p_{m} \log_{2} (p_{m}) $$
+$$ H(M) = \mathbb{E} \left I(M) \right = \sum_{m}^{} p(m) I(M) = - \sum_{m}^{} p(m) \log_{2} (p(m)) $$
 
 3) **Conditional Probability** (probability of one event occurring in the presence of a second event)
 $$ p(x_{i} \mid y_{j}) $$
