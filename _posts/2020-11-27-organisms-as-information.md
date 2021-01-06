@@ -42,7 +42,7 @@ In his famous 1948 paper titled [A Mathematical Theory of Communication](https:/
 
 <center>
 <a href="https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication">
-    <img src="/images/post_pics/lindenmayer/shannonflowchart.png"
+    <img src="/images/post_pics/organisms_information/shannonflowchart.png"
         width="400" 
         height="400"
         >
