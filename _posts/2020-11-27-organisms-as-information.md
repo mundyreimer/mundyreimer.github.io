@@ -150,9 +150,9 @@ This statement represents the mutual information between X and Y gained with kno
 
 A somewhat similar looking term *MI(X : Y,Z)* tells us how much information is gained about X when we know Y and Z together.  The *theory of information decomposition*[^1] shows us how Y and Z both *individually* each on their own and *jointly* together contribute to this information.  It is given by,
 
-$$ \text{Mutual Info} = \text{Shared Info} + \text{Unique Y Info} + \text{Unique Z Info} + \text{Complementary/Synergistic Info}  $$
+$$ \text{Mutual Info} = \text{Shared Info} + \text{Unique Y Info} + \text{Unique Z Info} + \text{Complementary/Synergistic Info} $$
 
-$$ MI(X : Y,Z) = SI(X : Y,Z) + UI(X: Y \ Z) + UI(X: Z \ Y) + CI(X : Y,Z)  $$
+$$ MI(X : Y,Z) = SI(X : Y,Z) + UI(X: Y \ Z) + UI(X: Z \ Y) + CI(X : Y,Z) $$
 
 where *SI(X : Y,Z)* is the information that both of them have individually (including redundant information is it exists), *UI(X: Y\Z)* is the information that Y has exclusively, and *CI(X : Y,Z)* is the information that can only be seen from the combination of Y and Z but from neither of them alone.  An example case of the latter *synergistic information* would be if we took an [XOR gate](https://en.wikipedia.org/wiki/XOR_gate),
 
