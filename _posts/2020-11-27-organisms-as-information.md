@@ -247,6 +247,8 @@ More speculatively,
 ---
 Resources:
 
+The absolutely beautiful biological illustrations that serve as cover art were done by (in-)famous naturalist and artist [Ernst Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel).
+
 [^1]:  [Biological Information](https://link.springer.com/article/10.1007/s12064-020-00327-1) by [Jürgen Jost](https://en.wikipedia.org/wiki/J%C3%BCrgen_Jost) discusses how [Shannon’s concept of information](https://en.wikipedia.org/wiki/Information_content) (aka - self-information, information content, or surprisal) is useful in biology.  In it he discusses how a recently developed theory of information decomposition can shed much light on the complementarity between coding and regulatory, or internal and environmental information.
 
 [^2]:  [Famously](https://en.wikipedia.org/wiki/History_of_entropy#Information_theory) Shannon was at a loss as to what to call his *"measure of uncertainty"*:  "My greatest concern was what to call it. I thought of calling it ‘information’, but the word was overly used, so I decided to call it ‘uncertainty’. When I discussed it with John von Neumann, he had a better idea. Von Neumann told me, ‘You should call it entropy, for two reasons: In the first place your uncertainty function has been used in statistical mechanics under that name, so it already has a name. In the second place, and more important, nobody knows what entropy really is, so in a debate you will always have the advantage.'"
