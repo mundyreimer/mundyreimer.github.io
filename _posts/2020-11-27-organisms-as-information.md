@@ -134,6 +134,20 @@ $$ MI(X : Y \mid Z) =  H(X \mid Z) - H(X \mid Y,Z) $$
 
 This statement represents the mutual information between X and Y gained with knowledge Z.  We need this Z term to explicitly represent any background knowledge onto which we should condition on, but generally speaking Z can represent any other knowledge like the background context of a situation or even the receiver's own memory (ie - other facts held in the head).
 
+<br/>
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Conditional_entropy">
+    <img src="/images/post_pics/organisms_information/entropy_venn_diagram.png"
+        width="400" 
+        height="400"
+        >
+    <em>Venn diagram showing the area contained by both circles is the joint entropy H(X,Y). The circle on the left (red and violet) is the individual entropy H(X), with the red being the conditional entropy H(X|Y). The circle on the right (blue and violet) is H(Y), with the blue being H(Y|X). The violet is the mutual information I(X;Y).</em>
+</a>
+</center>
+
+<br/> 
+
 A somewhat similar looking term *MI(X : Y,Z)* tells us how much information is gained about X when we know Y and Z together.  The *theory of information decomposition*[^1] shows us how Y and Z both *individually* each on their own and *jointly* together contribute to this information.  It is given by,
 
 $$ \text{Mutual Info} = \text{Shared Info} + \text{Unique Y Info} + \text{Unique Z Info} + \text{Complementary/Synergistic Info}  $$
