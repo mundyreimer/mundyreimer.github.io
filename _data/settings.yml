@@ -10,6 +10,8 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'archive'
+      url: '/archive'
     - title: 'writing'
       url: '/'
     - title: 'projects'
