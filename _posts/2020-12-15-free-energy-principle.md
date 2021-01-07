@@ -574,7 +574,7 @@ $$ Entropy = \mathbb{E} \big\{ -\ln P(S) \big\} $$
 
 And so the aforementioned statement about minimization can be distilled down to the statement that a biological system acts as to create an accurate internal model of the external environment, which is the same thing as acting to decrease its (information) entropy![^17] 
 
-## Mixing Dynamical Systems + Information Theory 
+### Mixing Dynamical Systems + Information Theory 
 
 So now that we have a dynamical systems perspective of how a biological system maintains its state and persists throughout some amount of time, and have just shown how a biological system seeks to minimize its free energy, how do we combine these two perspectives? 
 
