@@ -5,8 +5,8 @@ description:
 featured_image: /images/profilepic/geometry_of_logic_2.jpg
 ---
 
-Some of my posts categorized by topic:
-## biology {#biology} 
+Some of my posts categorized by topic...
+### biology {#biology} 
 
 [Organisms as a Special Kind of Information](https://mundyreimer.github.io/blog/organisms-as-information) 
 
@@ -28,7 +28,7 @@ Some of my posts categorized by topic:
 
 [Book Review - Theory of Constraints & Kynes-style Analysis of Dune](https://mundyreimer.github.io/blog/theory-of-constraints-dune) 
 
-## cognitive science {#cognitive-science} 
+### cognitive science {#cognitive-science} 
 
 [The Hyperbolic Geometry of Mental Space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space) 
 
@@ -50,7 +50,7 @@ Some of my posts categorized by topic:
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
-## computer science {#computer-science} 
+### computer science {#computer-science} 
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
@@ -78,7 +78,7 @@ Some of my posts categorized by topic:
 
 
 
-## history {#history} 
+### history {#history} 
 
 [On the Free Energy Principle](https://mundyreimer.github.io/blog/free-energy-principle) 
 
@@ -92,14 +92,14 @@ Some of my posts categorized by topic:
 
 [Book Review - Theory of Constraints & Kynes-style Analysis of Dune](https://mundyreimer.github.io/blog/theory-of-constraints-dune) 
 
-## linguistics {#linguistics} 
+### linguistics {#linguistics} 
 
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
 
-## mathematics {#mathematics} 
+### mathematics {#mathematics} 
 
 [The Hyperbolic Geometry of Mental Space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space) 
 
@@ -124,7 +124,7 @@ Some of my posts categorized by topic:
 [Book Review - The Shape of Space: How to Visualize Surfaces and Three-Dimensional Manifolds](https://mundyreimer.github.io/blog/book-review-shape-of-space) 
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
-## philosophy {#philosophy} 
+### philosophy {#philosophy} 
 
 [On the Free Energy Principle](https://mundyreimer.github.io/blog/free-energy-principle) 
 
@@ -147,7 +147,7 @@ Some of my posts categorized by topic:
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
 
-## physics {#physics} 
+### physics {#physics} 
 
 [On the Free Energy Principle](https://mundyreimer.github.io/blog/free-energy-principle) 
 
@@ -166,7 +166,7 @@ Some of my posts categorized by topic:
 [Book Review - The Shape of Space: How to Visualize Surfaces and Three-Dimensional Manifolds](https://mundyreimer.github.io/blog/book-review-shape-of-space) 
 
 
-## books reviews {#book-review}
+### books reviews {#book-review}
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
