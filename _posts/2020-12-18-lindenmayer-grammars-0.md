@@ -9,7 +9,7 @@ excerpt: Part 0 of my Rewriting Systems Sequence. An introduction to abstract re
 *Topics: [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Biology](https://mundyreimer.github.io/archive#biology), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science), [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [History](https://mundyreimer.github.io/archive#history)*  
 *Confidence: Probable*  
 *Status: Still in progress* 
-## Rewriting Systems Sequence - Part 0
+### Rewriting Systems Sequence - Part 0
 
 TL;DR - An introduction to abstract rewriting systems, lindenmayer systems, and formal grammars, exploring the philosophical motivation, mathematical theory, practical applications, and major assumptions.  
 
