@@ -14,6 +14,10 @@ TL;DR - A collection of my thoughts, resources, and related ideas regarding the 
 
 ---
 
+* TOC
+{:toc}
+
+---
 ### Motivation
 
 So I stumbled upon this thing called the [Free Energy Principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP) back around 2013 when I was looking into how we can distinguish biological living systems from non-living ones.  It was a question I was always fascinated by ever since reading books like Schrödinger's famous [What is Life?](https://en.wikipedia.org/wiki/What_Is_Life%3F) and Hofstadter's [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) among many others[^0] in an attempt to bring meaning to the deluge of chemistry courses I was taking at the time.  

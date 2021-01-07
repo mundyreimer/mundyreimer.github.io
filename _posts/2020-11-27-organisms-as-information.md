@@ -14,6 +14,10 @@ TL;DR - Long-form notes recording attempts to model biological organisms using S
 
 ---
 
+* TOC
+{:toc}
+
+---
 ### Motivation
 
 When someone first hears of the concept of applying the notion of *'information'* and its associated methods to biology, they might come up with a few potential routes of application:

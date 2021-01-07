@@ -16,6 +16,10 @@ TL;DR - 🐁🏜️⏳🧬🧘‍♂️ Philosophical-scientific analysis of the
 
 ---
 
+* TOC
+{:toc}
+
+---
 ### Intro
 
 I just finished re-reading this book 15 years later with my younger sister. It's hard to believe that the last time I read it I was in my early teenage years. At the time it was one of my favorite books, and even though I think it has been eclipsed in many ways by newer sci-fi pieces that cover a richer and more nuanced part of the philosophical-thematic landscape, this book still holds a special place of endearment for having shaped much of my early inner mental development.

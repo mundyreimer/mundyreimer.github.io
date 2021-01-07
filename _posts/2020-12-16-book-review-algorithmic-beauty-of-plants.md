@@ -16,6 +16,10 @@ Cross-posted from my Goodreads reviews [found here](https://www.goodreads.com/re
 
 ---
 
+* TOC
+{:toc}
+
+---
 ### Required Reader Level:
 
 Accessible to a motivated high school student. No further knowledge is needed other than basic algebra 2 and a smidgen of trigonometry. To be able to implement the concepts in here, a rudimentary working-level knowledge of Python or some other programming language is best, though the authors walk you through partial pseudo-implementation in [Turtle](https://docs.python.org/3/library/turtle.html) which is a pre-installed package that comes with Python. Alternatively, you can stick to just the [Production Rules](https://en.wikipedia.org/wiki/Production_(computer_science)) and enter them into an online L-system generator which requires zero programming.

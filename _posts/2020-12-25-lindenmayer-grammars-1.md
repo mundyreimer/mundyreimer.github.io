@@ -9,7 +9,7 @@ excerpt: Second part of my Rewriting Systems Sequence. A Python tutorial on expe
 *Topics: [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Biology](https://mundyreimer.github.io/archive#biology), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science), [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [History](https://mundyreimer.github.io/archive#history)*  
 *Confidence: Likely*  
 *Status: Still in progress* 
-## Rewriting Systems Sequence - Part 1
+### Rewriting Systems Sequence - Part 1
 
 TL;DR - Part 1 of my Rewriting Systems Sequence. A tutorial on experimenting with Lindenmayer systems in Python.
 
@@ -19,6 +19,8 @@ If you haven't already, check out [part 0 of this sequence](https://mundyreimer.
 
 * TOC
 {:toc}
+
+---
 
 ### Background Review
 
@@ -871,7 +873,7 @@ Feel free to also check out [my book review](https://www.goodreads.com/review/sh
 
 ---
 
-## Resources:
+### Resources:
  
 [^0]: [Handbook of Theoretical Computer Science, Chapter 6: Rewrite Systems](https://www.cs.tau.ac.il/~nachum/papers/survey-draft.pdf) by Nachum Dershowitz and Jean-Pierre Jouannaud.  This provided much of the theory behind the theory of [Rewriting](https://en.wikipedia.org/wiki/Rewriting) and [abstract rewrite systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system).  It specifically goes into depth on ARSs from algebraic, logical, and operational perspectives.  
  
