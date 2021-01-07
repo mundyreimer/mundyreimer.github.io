@@ -17,6 +17,9 @@ If you haven't already, check out [part 0 of this sequence](https://mundyreimer.
 
 ---
 
+* TOC
+{:toc}
+
 ### Background Review
 
 We started off this series wondering if the complex phenomena we see around us could be reduced to just the interaction of simple rules.  In general, we were motivated by wondering how living structures build themselves out of non-living structures.  
