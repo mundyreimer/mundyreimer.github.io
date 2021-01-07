@@ -8,6 +8,19 @@ featured_image: /images/profilepic/geometry_of_logic_2.jpg
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <!-- ^ Add MathJax support to Jekyll for LaTeX ability--> 
 
+<!-- Attempt to fix MathJax refreshing page error --> 
+<!-- See here: https://stackoverflow.com/questions/32928303/mathjax-not-rendering-equation-unless-page-reloaded --> 
+<script type="text/javascript">
+	if (window.MathJax) {
+	  MathJax.Hub.Queue(
+		["Typeset",MathJax.Hub]
+	  );
+	}
+	</script>
+
+
+
+
 <!-- Leave alone / came with original template --> 
 <section class="intro">
 
