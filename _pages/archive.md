@@ -19,7 +19,7 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
-[Rewriting Systems Sequence, Part 2: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1)
+[Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1)
 
 [Introduction to Genomics Data Science Tutorial Series](https://mundyreimer.github.io/projects#bioinformatics) 
 
@@ -44,7 +44,7 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
-[Rewriting Systems Sequence, Part 2: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
+[Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
 
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
@@ -59,7 +59,7 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
-[Rewriting Systems Sequence, Part 2: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
+[Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
 
 [Introduction to Genomics Data Science Tutorial Series](https://mundyreimer.github.io/projects#bioinformatics) 
 
@@ -116,7 +116,7 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
-[Rewriting Systems Sequence, Part 2: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
+[Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
 
 [Organisms as a Special Kind of Information](https://mundyreimer.github.io/blog/organisms-as-information) 
 
@@ -145,7 +145,7 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
-[Rewriting Systems Sequence, Part 2: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
+[Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
 
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
