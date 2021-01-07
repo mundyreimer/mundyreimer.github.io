@@ -873,7 +873,7 @@ Feel free to also check out [my book review](https://www.goodreads.com/review/sh
 
 ---
 
-### Resources:
+### Resources
  
 [^0]: [Handbook of Theoretical Computer Science, Chapter 6: Rewrite Systems](https://www.cs.tau.ac.il/~nachum/papers/survey-draft.pdf) by Nachum Dershowitz and Jean-Pierre Jouannaud.  This provided much of the theory behind the theory of [Rewriting](https://en.wikipedia.org/wiki/Rewriting) and [abstract rewrite systems](https://en.wikipedia.org/wiki/Abstract_rewriting_system).  It specifically goes into depth on ARSs from algebraic, logical, and operational perspectives.  
  
