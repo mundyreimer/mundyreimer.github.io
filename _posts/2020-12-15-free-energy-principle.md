@@ -6,7 +6,7 @@ excerpt: A collection of my thoughts, resources, and related ideas regarding the
 ---
 *Created: 2020-07-20*  
 *Updated: 2020-12-17*  
-*Topics: [Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
+*Topics: [Biology](https://mundyreimer.github.io/archive#biology), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science), [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [History](https://mundyreimer.github.io/archive#history)*  
 *Confidence: Uncertain*  
 *Status: Still in progress* 
 

@@ -6,7 +6,7 @@ excerpt: My review of the science fiction novel by Hannu Rajaniemi. A novel that
 ---
 *Created: 2020-02-25*  
 *Updated: 2020-04-25*  
-*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
+*Topics: [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science)*  
 *Confidence: N/A*  
 *Status: Complete* 
 

@@ -6,7 +6,7 @@ excerpt: Discussing the nature of Life vs. Non-Life, Abiogenesis, and the origin
 ---
 *Created: 2013-06-15*  
 *Updated: 2020-11-08*  
-*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
+*Topics: [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science)*  
 *Confidence: Highly Speculative*  
 *Status: Still in progress* 
 

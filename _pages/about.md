@@ -13,16 +13,16 @@ Just a playful compilation of my *seemingly* eclectic thoughts, interests, & wor
 
 Some of the things I enjoy thinking about:
 
-* [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
-* Self-Organizing Systems, Biological Complexity Theory, and [Good Regulators](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf)
-* Biological applications of [L-Grammars](https://en.wikipedia.org/wiki/L-system)
+* [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) 
+* Self-Organizing Systems, [Biological Complexity Theory](https://mundyreimer.github.io/blog/organisms-as-information), and [Good Regulators](https://mundyreimer.github.io/blog/free-energy-principle)
+* Biological applications of [L-Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 * Data compression theories of [symmetry in biological systems](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
-* [Biosemiotic](https://en.wikipedia.org/wiki/Biosemiotics) perspectives
+* [Biosemiotic](https://mundyreimer.github.io/blog/organisms-as-information) perspectives
 * Generative output of evolutionary algorithms across spatiotemporal levels
 * Learning & inference as higher-ordered homeostatic regulation
-* Predictive processing theories of brain function
-* Data compression & thermodynamic theories of sleep 
-* Formal theories of Consciousness
+* [Predictive processing theories](https://mundyreimer.github.io/blog/free-energy-principle) of brain function
+* [Data compression & thermodynamic theories]((https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)) of sleep 
+* Formal [theories of Consciousness](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 * Biomathematical theories of [Klüver constants](https://en.wikipedia.org/wiki/Form_constant) + [psychedelic experiences](https://qualiacomputing.com/2020/07/23/self-locatingly-uncertain-psilocybin-trip-report-by-an-anonymous-reader/) ([1](https://www.math.uh.edu/~dynamics/reprints/papers/nc.pdf))([2](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/))([3](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/))
 * Underlying geometries of biological motivational systems, [taxis](https://en.wikipedia.org/wiki/Taxis), and organismal behavior
 * Non-classical logical systems, Heyting Algebras, & Lattices
@@ -35,7 +35,7 @@ Some of the things I enjoy thinking about:
 * History of languages & etymologies of words
 * [Philosophy of Science + Foundations of Math](https://mundyreimer.github.io/blog/hyper-neat-argument)
 * World-building alternative ecologies, biologies, & psychologies
-* Mining sci-fi books for technological inspiration & societal consequences
+* Mining sci-fi books for technological inspiration & [societal consequences](https://mundyreimer.github.io/blog/theory-of-constraints-dune) 
 
 ---
 

@@ -6,7 +6,7 @@ excerpt: Is the Universe in its totality structure-less?
 ---
 *Created: 2018-12-01*    
 *Updated: 2019-06-23*  
-*Topics: [Mathematics](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
+*Topics: [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Physics](https://mundyreimer.github.io/archive#physics), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science)*  
 *Confidence: Speculative*  
 *Status: Still in progress* 
 

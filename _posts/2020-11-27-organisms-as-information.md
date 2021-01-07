@@ -6,7 +6,7 @@ excerpt: Long-form notes recording attempts to model biological organisms using 
 ---
 *Created: 2020-11-27*  
 *Updated: 2020-01-06*  
-*Topics: [Biology](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive),[Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
+*Topics: [Biology](https://mundyreimer.github.io/archive#biology), [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science), [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [History](https://mundyreimer.github.io/archive#history)*  
 *Confidence: Speculative*  
 *Status: Still in progress* 
 

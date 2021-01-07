@@ -6,7 +6,7 @@ excerpt: Do you want to know how shadows, lettuce, brains, Escher, and Alice in 
 ---
 *Created: 2020-03-20*  
 *Updated: 2020-11-07*  
-*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Computer Science](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive)*  
+*Topics: [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science)*  
 *Confidence: Highly Speculative*  
 *Status: Still in progress* 
 

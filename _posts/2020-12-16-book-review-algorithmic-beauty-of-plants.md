@@ -6,7 +6,7 @@ excerpt: My review of Przemyslaw Prusinkiewicz and Aristid Lindenmayer's book ex
 ---
 *Created: 2019-11-29*  
 *Updated: 2020-12-31*  
-*Topics: [Computer Science](https://mundyreimer.github.io/archive),[Biology](https://mundyreimer.github.io/archive), [Cognitive Science](https://mundyreimer.github.io/archive), [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive), [History](https://mundyreimer.github.io/archive)*  
+*Topics: [Computer Science](https://mundyreimer.github.io/archive#computer-science), [Biology](https://mundyreimer.github.io/archive#biology), [Cognitive Science](https://mundyreimer.github.io/archive#cognitive-science), [Physics](https://mundyreimer.github.io/archive#physics), [Mathematics](https://mundyreimer.github.io/archive#mathematics), [Philosophy](https://mundyreimer.github.io/archive#philosophy), [History](https://mundyreimer.github.io/archive#history)*  
 *Confidence: Certain*  
 *Status: N/A* 
 

@@ -6,7 +6,7 @@ excerpt: Philosophical-scientific analysis of the sci-fi book Dune by Frank Herb
 ---
 *Created: 2020-03-06*  
 *Updated: 2020-11-06*  
-*Topics: [Physics](https://mundyreimer.github.io/archive), [Mathematics](https://mundyreimer.github.io/archive), [Philosophy](https://mundyreimer.github.io/archive)*  
+*Topics: [Biology](https://mundyreimer.github.io/archive#biology), [Physics](https://mundyreimer.github.io/archive#physics), [Philosophy](https://mundyreimer.github.io/archive#philosophy)*  
 *Confidence: N/A*  
 *Status: Complete* 
 
