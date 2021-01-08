@@ -2,7 +2,7 @@
 title: archive
 subtitle: 
 description: 
-featured_image: /images/profilepic/geometry_of_logic_2.jpg
+featured_image: /images/profilepic/library4.jpg
 ---
 
 Some of my posts categorized by topic...
