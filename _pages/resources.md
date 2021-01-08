@@ -2,7 +2,7 @@
 title: resources
 subtitle: 
 description: 
-featured_image: /images/profilepic/geometry_of_logic_2.jpg
+featured_image: /images/profilepic/ferns.jpeg
 ---
 
 *I use this as a personal notebook of curated content and thus try to update as often as I can, so feel free to check back regularly if interested.*
