@@ -8,8 +8,6 @@ featured_image: /images/profilepic/ferns.jpeg
 *The resources below might be especially useful if you are an academic, student, or scientist.*
 
 ---
-## tools:
-
 ### _~ for studying_
 
 [spaced-repetition flashcards](https://www.brainscape.com/profiles/3408543)
