@@ -48,7 +48,7 @@ For free versions of textbooks and fiction, you could take a look at [Library Ge
 
 [too many tabs?](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=en)
 
-Like so many others, I am the type of person to constantly open up new tabs in my browser whenever I research a particular subject or just casually browse the web.  To keep your tabs neat and tidy (and help prevent your pc from slowing down due to too many open tabs), this ***better-onetab*** browser extension allows you to temporarily tuck away those tabs into lists with one easy click from which you can restore later.  You can also organize these lists for future reference. 
+Like so many others, I am the type of person to constantly open up new tabs in my browser whenever I research a particular subject or just casually browse the web.  To keep your tabs neat and tidy (and help prevent your pc from slowing down), this ***better-onetab*** browser extension allows you to temporarily tuck away those tabs into lists with one easy click from which you can restore later.  You can also organize these lists for future reference. 
 
 [navigating your browser w/ vimium](https://vimium.github.io/)
 
