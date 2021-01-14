@@ -68,6 +68,8 @@ You can also find my...
 
 Feel free to reach out :)
 
+Thanks!
+
 ---
 
 
