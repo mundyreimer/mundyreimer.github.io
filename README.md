@@ -2,7 +2,7 @@
 
 You can check out my [blog here](https://mundyreimer.github.io/)!
 
-You'll probably encounter a hodge-podge of a few disciplines including biology, cognitive science, physics, mathematics, computer science, and philosophy.  
+You'll probably encounter a hodge-podge of write-ups spanning a few disciplines such biology, cognitive science, physics, mathematics, computer science, and philosophy.  
 
 Specifically, I'm interested in questions like these:
 
