@@ -66,8 +66,6 @@ Similarly, Shannon wanted to capture the idea that if we received a compound mes
 
 So what base is this logarithm?  The base only affects how much we *scale* our information and thus represents our *units* in which we express our information content.  By convention we usually go with base 2 so that information is expressed in units of [bits](https://en.wikipedia.org/wiki/Bit) (binary digits, 1 or 0).  If desired we can also keep this in our usual base 10 decimal digits and use [hartleys](https://en.wikipedia.org/wiki/Hartley_(unit)) or go with the natural log and use [nats](https://en.wikipedia.org/wiki/Nat_(unit)), etc.
 
-(*Note: If the LaTeX / math equations don't render the first time around, you just need to refresh the page once.  Still have to figure that one out, sorry!* 🤷)
-
 So right now we have,
 
 $$ Information = - \log{ p(m) } $$
