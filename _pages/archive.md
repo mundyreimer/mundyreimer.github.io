@@ -190,3 +190,5 @@ Some of my posts categorized by topic...
 [Book Review - The Fractal Prince](https://mundyreimer.github.io/blog/book-review-thefractalprince) 
 
 [Book Review - The Machineries of Empire](https://www.goodreads.com/review/show/3584149656) 
+
+[Book Review - The Human Template](https://www.goodreads.com/review/show/3609448346)
