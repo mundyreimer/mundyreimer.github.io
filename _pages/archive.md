@@ -177,9 +177,11 @@ Some of my posts categorized by topic...
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
-[Book Review - The Shape of Space: How to Visualize Surfaces and Three-Dimensional Manifolds](https://mundyreimer.github.io/blog/book-review-shape-of-space) 
+[Book Review - The Shape of Space: How to Visualize Surfaces and Three-Dimensional Manifolds](https://mundyreimer.github.io/blog/book-review-shape-of-space)
 
 [Book Review - Theory of Constraints & Kynes-style Analysis of Dune](https://mundyreimer.github.io/blog/theory-of-constraints-dune) 
+
+[Book Review - The Freeze-Frame Revolution](https://www.goodreads.com/review/show/3790369757) 
 
 [Book Review - Perdido Street Station](https://mundyreimer.github.io/blog/book-review-perdidostreetstation) 
 
