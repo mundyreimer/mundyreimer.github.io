@@ -15,6 +15,8 @@ To-Do Notes:
 - Use dusty old library / bookshelf as the featured image
 
 This Archive curates my various articles and projects by topic.  It contains works both finished and in-progress.
+
+Inspired by [Gwern](https://www.gwern.net/About) each work is prefaced with my current *Confidence* level in the claims made in the article, or how likely they are to be right, with levels being denoted by terms found in Kesselman's [List of Esimative Words](/docs/kesselman-2008.pdf).  Additionally, since each piece functions more like a set of notes that gets updated over time, there is also a status level that gives when it was last updated.  Finally, each work is also prefaced with the following tags denoting any topics they cover:
 ## Biology
 
 **Individual Works:**
@@ -23,8 +25,16 @@ This Archive curates my various articles and projects by topic.  It contains wor
 [Analyzing Microbiome Data](https://towardsdatascience.com/analyzing-microbiome-data-320728b56b8e)
 [Classifying Sepsis Patients with Reinforcement Learning](https://github.com/mundyreimer/RL-Sepsis-Prediction)
 
-**Lindenmayer Systems Sequence**
-[In the beginning was the Word: An Introduction to Lindenmayer Grammars with Python]()
+[Organisms as a specific kind of Information]() 
+See many of the papers by Jürgen Jost and this one here as the basis for writing your article: https://link.springer.com/article/10.1007/s12064-020-00327-1  Also cite from the following Information Theory book (specifically look at Alex Zahkarvov's review on Goodreads): https://www.goodreads.com/book/show/433443.An_Introduction_to_Information_Theory and show the part where information theory melds with physics to construct a single-molecule variant of Maxwell's Demon and show how this could possibly relate to the laws of thermodynamics.  Also cite the book Life's Rachet and include some concepts from there.
+
+**Rewriting Systems Sequence**
+[An Introduction to Lindenmayer Grammars]()
+[Generating our Garden with Python]()
+Part 1 - use garden of eden with a snake, this is a coding tutorial with turtle
+
+
+
 
 **Biological Circuits Sequence:**
 [Book Discussion: Chapter 1 - Transcription Networks]()
@@ -63,15 +73,24 @@ This Archive curates my various articles and projects by topic.  It contains wor
 **Individual Works:**
 [On Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought)
 
-**Lindenmayer Systems Sequence**
-["In the beginning was the Word": An Introduction to Lindenmayer Grammars with Python]()
+**Rewriting Systems Sequence**
+[An Introduction to Lindenmayer Grammars]()
+[Generating our Garden with Python]()
+Part 1 - use garden of eden with a snake, this is a coding tutorial with turtle
+[Turtles All the Way Down - Fractals, Ferns, and Iterated Functions]()
+Part 2 - use world turtle image, delves into other rewrite systems other other l-grammars, like barnsley ferns
+
 
 ## Philosophy
 
 **Individual Works:**
 [A Hyper Neat Argument](https://mundyreimer.github.io/blog/hyper-neat-argument)
 
-## Science Fiction
+## History
+[Notes on the Free Energy Principle]()
+[On Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought)
+
+# Science Fiction
 
 **Individual Works:**
 [Book Review: Theory of Constraints & Kynes-style Analysis of Dune](https://mundyreimer.github.io/blog/theory-of-constraints-dune)
