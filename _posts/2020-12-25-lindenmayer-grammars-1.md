@@ -859,6 +859,20 @@ Go ahead and play around with inputting other various starting axioms, productio
 
 Happy Gardening :) 🌹🌲🌻🌿
 
+<br/>
+
+<center>
+
+<img src="/images/post_pics/lindenmayer/generate_fern1.gif"
+    width="400" 
+    height="400"
+    >
+<em>Generating another type of fern.</em>
+
+</center>
+
+<br/> 
+
 ### Moving Forward
 
 In summary, we've learned:
