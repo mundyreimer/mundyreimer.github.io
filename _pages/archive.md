@@ -185,6 +185,8 @@ Some of my posts categorized by topic...
 
 [Book Review - The Freeze-Frame Revolution & Ashby's Law of Requisite Variety](https://www.goodreads.com/review/show/3790369757) 
 
+[Book Review - The Island & Homogeneity of Resource Distribution](https://www.goodreads.com/review/show/3807842599) 
+
 [Book Review - Perdido Street Station](https://mundyreimer.github.io/blog/book-review-perdidostreetstation) 
 
 [Book Review - The Quantum Thief](https://mundyreimer.github.io/blog/book-review-thequantumthief) 
