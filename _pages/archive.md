@@ -103,6 +103,8 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
+[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316)
+
 ---
 ## mathematics {#mathematics} 
 
