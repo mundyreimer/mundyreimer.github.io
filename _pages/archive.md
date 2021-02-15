@@ -81,6 +81,8 @@ Some of my posts categorized by topic...
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
+[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316) 
+
 ---
 ## history {#history} 
 
@@ -103,7 +105,7 @@ Some of my posts categorized by topic...
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
-[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316)
+[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316) 
 
 ---
 ## mathematics {#mathematics} 
@@ -128,7 +130,7 @@ Some of my posts categorized by topic...
 
 [Project: Pulse-Coupled Spiking Neural Network Model of Schizophrenia & Psychosis](https://mundyreimer.github.io/projects#computationalneuroscience) 
 
-[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316)
+[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316) 
 
 [Book Review - The Shape of Space: How to Visualize Surfaces and Three-Dimensional Manifolds](https://mundyreimer.github.io/blog/book-review-shape-of-space) 
 
@@ -179,7 +181,7 @@ Some of my posts categorized by topic...
 ---
 ## books reviews {#book-review}
 
-[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316)
+[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316) 
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
