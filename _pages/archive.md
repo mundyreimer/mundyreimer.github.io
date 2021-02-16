@@ -54,6 +54,8 @@ Some of my posts categorized by topic...
 
 [Book Review - The Algorithmic Beauty of Plants](https://mundyreimer.github.io/blog/book-review-algorithmic-beauty-of-plants) 
 
+[Book Review - An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://www.goodreads.com/review/show/3704839316) 
+
 ---
 ## computer science {#computer-science} 
 
