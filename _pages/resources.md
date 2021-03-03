@@ -28,6 +28,7 @@ My decks include:
 * [The Shape of Space: Visualizing Surfaces & Three-Dimensional Manifolds](https://www.brainscape.com/p/212G3-LH-9EJ5Y)
 * [The Four Pillars of Geometry](https://www.brainscape.com/p/212G3-LH-9EJ5Y)
 * [Set Theory](https://www.brainscape.com/l/dashboard/set-theory-16775219/decks)
+* [Beginner Arabic](https://www.brainscape.com/l/dashboard/arabic-17450559/decks)
 
 ...and various other niche topics I like to study or read about :)
 
