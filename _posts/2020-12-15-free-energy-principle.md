@@ -462,7 +462,7 @@ $$ \mathbb{E} \big\{ \ln \frac{q(T)} {P(T,S)} \big\} = \int_{}^{} q(T) \big\{ \l
 
 $$ D_{KL}( q(T), P(T \mid S)) ) = \int_{}^{} q(T) \big\{ \ln \frac{q(T)} {P(T \mid S)} \big\} \,dT $$
 
-Which gives us our KL divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two models.  The higher the KL value, the more they are different.[^15] 
+Which gives us our KL divergence equation.  And again to ground ourselves, we know that the lower the KL divergence value, the better match we have between our two models.  The higher the KL value, the more they are different.[^15]  Although you can think of the KL divergence as a type of "distance" or "measure" between two distributions, it should be noted that the KL divergence is *not a true distance* given that it is [not symmetric and it does not obey the triangle inequality](http://www.scholarpedia.org/article/Mutual_information#Properties)!  So just keep that in mind going forward.  
 
 To manipulate this into a form where we can begin to distill out some FEP concepts, we can rearrange this using the property of logarithms[^14],
 
