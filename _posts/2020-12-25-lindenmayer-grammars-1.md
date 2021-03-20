@@ -883,7 +883,7 @@ In summary, we've learned:
 
 In the next few articles in this sequence, I'm planning on exploring everything from Cellular Automata, Evolutionary Algorithms, and Neural Networks all from the perspective of Lindenmayer Systems.  
 
-Feel free to also check out [my book review](https://www.goodreads.com/review/show/3726733180) of *The Algorithmic Beauty of Plants* on [Goodreads](https://www.goodreads.com/user/show/82897656-mundy-reimer!
+Feel free to also check out [my book review](https://www.goodreads.com/review/show/3726733180) of *The Algorithmic Beauty of Plants* on [Goodreads](https://www.goodreads.com/user/show/82897656-mundy-reimer)!
 
 ---
 
