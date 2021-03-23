@@ -14,7 +14,7 @@ Just a playful compilation of my *seemingly* eclectic thoughts, interests, & wor
 Some of the things I enjoy thinking about:
 
 * [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) 
-* Self-Organizing Systems, [Biological Complexity Theory](https://mundyreimer.github.io/blog/organisms-as-information), and [Good Regulators](https://mundyreimer.github.io/blog/free-energy-principle)
+* [Self-Organizing Systems](https://mundyreimer.github.io/blog/free-energy-principle) and [Biological Complexity Theory](https://mundyreimer.github.io/blog/organisms-as-information)
 * Potential *Axiomatic* foundations for living systems, principles of organization, & laws of biophysics
 * Creating a "proof-checker" / "compiler" for an *Executable Biology* deductive-based logic paradigm of inquiry
 * Investigating the intersection of formal languages, theory of computation, and biophysics
