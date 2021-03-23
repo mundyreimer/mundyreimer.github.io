@@ -16,7 +16,7 @@ Some of the things I enjoy thinking about:
 * [Theories of Abiogenesis + the Origin(s) of Life](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) 
 * [Self-Organizing Systems](https://mundyreimer.github.io/blog/free-energy-principle) + [Biological Complexity Theory](https://mundyreimer.github.io/blog/organisms-as-information)
 * Potential *Axiomatic* foundations for living systems, principles of organization, & laws of biophysics
-* Creating a "proof-checker" / "compiler" for an *Executable Biology* deductive-based logic paradigm of inquiry
+* Creating a "proof-checker" / "compiler" for an *Executable Biology*, deductive-based logic paradigm of inquiry
 * Investigating the intersection of formal languages, theory of computation, and biophysics
 * Biological applications of [L-Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0) and other rewriting systems & automata
 * Data compression theories of [symmetry in biological systems](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
