@@ -40,6 +40,8 @@ Some of my posts categorized by topic...
 
 [On the Free Energy Principle](https://mundyreimer.github.io/blog/free-energy-principle) 
 
+[Math Notation as UI: Does it need an update?](https://mundyreimer.github.io/blog/graphical-math-argument) 
+
 [Organisms as a Special Kind of Information](https://mundyreimer.github.io/blog/organisms-as-information) 
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
@@ -64,6 +66,8 @@ Some of my posts categorized by topic...
 [Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
 
 [Introduction to Genomics Data Science Tutorial Series](https://mundyreimer.github.io/projects#bioinformatics) 
+
+[Math Notation as UI: Does it need an update?](https://mundyreimer.github.io/blog/graphical-math-argument) 
 
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
@@ -90,6 +94,8 @@ Some of my posts categorized by topic...
 
 [On the Free Energy Principle](https://mundyreimer.github.io/blog/free-energy-principle) 
 
+[Math Notation as UI: Does it need an update?](https://mundyreimer.github.io/blog/graphical-math-argument) 
+
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
 [Organisms as a Special Kind of Information](https://mundyreimer.github.io/blog/organisms-as-information) 
@@ -103,6 +109,8 @@ Some of my posts categorized by topic...
 ---
 ## linguistics {#linguistics} 
 
+[Math Notation as UI: Does it need an update?](https://mundyreimer.github.io/blog/graphical-math-argument) 
+
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
@@ -115,6 +123,8 @@ Some of my posts categorized by topic...
 [The Hyperbolic Geometry of Mental Space](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space) 
 
 [On the Free Energy Principle](https://mundyreimer.github.io/blog/free-energy-principle) 
+
+[Math Notation as UI: Does it need an update?](https://mundyreimer.github.io/blog/graphical-math-argument) 
 
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
@@ -154,6 +164,8 @@ Some of my posts categorized by topic...
 [Rewriting Systems Sequence, Part 0: An Introduction to Lindenmayer Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0)
 
 [Rewriting Systems Sequence, Part 1: Generating a Garden with Python](https://mundyreimer.github.io/blog/lindenmayer-grammars-1) 
+
+[Math Notation as UI: Does it need an update?](https://mundyreimer.github.io/blog/graphical-math-argument) 
 
 [Representation, Notation, and Thought](https://mundyreimer.github.io/blog/representation-notation-thought) 
 
