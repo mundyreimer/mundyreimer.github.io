@@ -1,7 +1,7 @@
 ---
 title: 'Math Notation as UI - Does it need an update?'
 date: 2019-06-29 00:00:00
-featured_image: '/images/post_pics/hyper_neat_argument/octonions.jpg'
+featured_image: '/images/post_pics/representation_notation/inupiaq.png'
 excerpt: Our written scripts and mathematical languages are tools.  Can we mindfully design our tools with the end user experience in mind?  
 ---
 *Created: 2019-06-29*    
