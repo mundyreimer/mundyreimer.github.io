@@ -21,6 +21,7 @@ Some of the things I enjoy thinking about:
 * Biological applications of [L-Grammars](https://mundyreimer.github.io/blog/lindenmayer-grammars-0) and other rewriting systems & automata
 * Data compression theories of [symmetry in biological systems](https://mundyreimer.github.io/blog/hyperbolic-geometry-mental-space)
 * [Biosemiotic](https://mundyreimer.github.io/blog/organisms-as-information) perspectives
+* [Computational complexity](https://www.genetics.org/content/212/1/245) [constraints](https://egtheory.wordpress.com/2019/06/01/algorithmic-biology/) on evolutionary [fitnesss landscapes](https://twitter.com/kaznatcheev/status/1102973539634892800)
 * Generative output of evolutionary algorithms across spatiotemporal levels
 * Learning & inference as higher-ordered homeostatic regulation
 * [Predictive processing theories](https://mundyreimer.github.io/blog/free-energy-principle) of brain function
