@@ -62,6 +62,19 @@ A Google Chrome extension that gives you keyboard shortcuts for navigating your 
 
 See the above link for a side-by-side comparison of the different citation managers available.  I personally chose to go with [Zotero](https://www.zotero.org/).  I use to just blindly save all the academic papers I read to my Google Drive (albeit in a highly organized topic-based folder system), but when it actually comes to the writing process you'd preferably like something that can scale such that it organizes and automates the citation process of every little tidbit of info that you've ever consumed or come across.  Plus, some of these citation managers have a built-in search in case you want to write about something where you don't remember where you originally read it from (which *will* happen, trust me!)
 
+[Connected Papers](https://www.connectedpapers.com/)
+
+Connected Papers allows you to quickly get a graphical overview of a new academic field by allowing you to enter a paper and then the site builds a graph of similar papers in the field.  Useful for understanding trends, popular works, influence networks, and exploring new researchers/labs that you otherwise would not have found by simple searching.
+
+[scite_](https://scite.ai/) 
+
+Smart Citations is a nice Chrome plugin which allows you to see how a scientific paper has been cited via an interactive graphical network, while also providing context and classification and whether the citation provides support or contrasting evidence.  This is especially handy if you are just starting to delve into a particular field or sub-field of interest and need to understand how the flow of information is circulating in the academic community, who the big influential players are, etc.  I also find it useful to find names of people / academic teams that I can reach out and potentially collaborate with.
+
+[Scholarcy](https://www.scholarcy.com/using-the-chrome-extension/)
+
+Scholarcy is another neat Chrome extension which processes a paper in your browser (whether publicly available or personally uploaded) and generates a summary of the paper for you, in addition to extracting select parts of that paper like diagrams, sections, tables, citations, statistics, contributions, etc.  Extremely handy for quickly getting a high-level summary understanding of a paper, repurposing select parts for blog posts, and especially for "meta-science" researchers looking to analyze select parts of papers in aggregate.
+
+
 [pic -> LaTeX converter](https://mathpix.com/)
 
 When I need to write a report or paper using LaTeX to get the correct math symbol type-setting, I often find myself forgetting the proper syntax for how to write certain algebraic manipulations or mathematical symbols.  Instead of always having to look the correct syntax up, I can take a quick screenshot of my digital textbook, wikipedia page, etc, that I'm currently looking at using this handy 'snipping' tool assigned to a hotkey, which then automatically converts the image to the corresponding LaTeX syntax.  Super useful!  
