@@ -74,6 +74,10 @@ Smart Citations is a nice Chrome plugin which allows you to see how a scientific
 
 Scholarcy is another neat Chrome extension which processes a paper in your browser (whether publicly available or personally uploaded) and generates a summary of the paper for you, in addition to extracting select parts of that paper like diagrams, sections, tables, citations, statistics, contributions, etc.  Extremely handy for quickly getting a high-level summary understanding of a paper, repurposing select parts for blog posts, and especially for "meta-science" researchers looking to analyze select parts of papers in aggregate.
 
+[ResearchRabbit](https://www.researchrabbit.ai/)
+
+ResearchRabbit bundles together many of the aforementioned functions such as a citation manager, literature search, alerts/notifications for new papers, graphical visualization of author networks, sharing & collaboration, etc.  It's free for life for institutional academics and as of 2021 is a relatively recent tool that's just being built with more features coming soon.  It also has a handy import tool that can take in papers from your Zotero manager, but the ease of the interface between the two is still lacking at the moment.  Looking forward to seeing more promising things from this team & similar projects.
+
 
 [pic -> LaTeX converter](https://mathpix.com/)
 
