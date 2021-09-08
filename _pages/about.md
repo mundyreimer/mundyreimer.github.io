@@ -25,7 +25,7 @@ Some of the things I enjoy thinking about:
 * Generative output of evolutionary algorithms across spatiotemporal levels
 * Learning & inference as higher-ordered homeostatic regulation
 * [Predictive processing theories](https://mundyreimer.github.io/blog/free-energy-principle) of brain function
-* [Data compression & thermodynamic theories]((https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)) of sleep 
+* [Data compression & thermodynamic theories](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems) of sleep 
 * Formal [theories of Consciousness](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
 * Biomathematical theories of [Klüver constants](https://en.wikipedia.org/wiki/Form_constant) + [psychedelic experiences](https://qualiacomputing.com/2020/07/23/self-locatingly-uncertain-psilocybin-trip-report-by-an-anonymous-reader/) ([1](https://www.math.uh.edu/~dynamics/reprints/papers/nc.pdf))([2](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/))([3](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/))
 * Underlying geometries of biological motivational systems, [taxis](https://en.wikipedia.org/wiki/Taxis), and organismal behavior
